@@ -6,13 +6,22 @@
     "name": "Hanover System Open 2018", 
     "players": [
       {
-        "mov": 274, 
-        "name": "Kurt Bieri", 
+        "mov": 275, 
+        "name": "Jacob Trier", 
         "rank": {
           "swiss": 0
         }, 
         "score": 1, 
-        "sos": "0.39"
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 257, 
+        "name": "Rick Porsius", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.30"
       }, 
       {
         "mov": 257, 
@@ -87,24 +96,6 @@
         "sos": "0.44"
       }, 
       {
-        "mov": 245, 
-        "name": "Felix Funke", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 1, 
-        "sos": "0.44"
-      }, 
-      {
-        "mov": 257, 
-        "name": "Rick Porsius", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 1, 
-        "sos": "0.30"
-      }, 
-      {
         "mov": 258, 
         "name": "Daniel Kipp", 
         "rank": {
@@ -123,6 +114,24 @@
         "sos": "0.28"
       }, 
       {
+        "mov": 264, 
+        "name": "Greg Decuypere", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.39"
+      }, 
+      {
+        "mov": 274, 
+        "name": "Kurt Bieri", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.39"
+      }, 
+      {
         "mov": 271, 
         "name": "Bartek Stroinski", 
         "rank": {
@@ -132,6 +141,49 @@
         "sos": "0.48"
       }, 
       {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "asajjventress", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "lattsrazzi"
+                ], 
+                "ept": [
+                  "attannimindlink"
+                ], 
+                "title": [
+                  "shadowcaster"
+                ]
+              }
+            }, 
+            {
+              "name": "manaroo", 
+              "ship": "jumpmaster5000", 
+              "upgrades": {
+                "crew": [
+                  "k4securitydroid"
+                ], 
+                "ept": [
+                  "attannimindlink"
+                ], 
+                "title": [
+                  "punishingone"
+                ]
+              }
+            }, 
+            {
+              "name": "sunnybounder", 
+              "ship": "m3ainterceptor"
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 271, 
         "name": "David 'DaveKing' Lauterbach", 
         "rank": {
@@ -252,13 +304,13 @@
         "sos": "0.42"
       }, 
       {
-        "mov": 264, 
-        "name": "Greg Decuypere", 
+        "mov": 245, 
+        "name": "Felix Funke", 
         "rank": {
           "swiss": 0
         }, 
         "score": 1, 
-        "sos": "0.39"
+        "sos": "0.44"
       }, 
       {
         "mov": 244, 
@@ -270,13 +322,13 @@
         "sos": "0.56"
       }, 
       {
-        "mov": 243, 
-        "name": "Lasse Brning", 
+        "mov": 227, 
+        "name": "Martin Vangsoe", 
         "rank": {
           "swiss": 0
         }, 
         "score": 1, 
-        "sos": "0.53"
+        "sos": "0.47"
       }, 
       {
         "mov": 226, 
@@ -333,17 +385,66 @@
         "sos": "0.70"
       }, 
       {
-        "mov": 224, 
-        "name": "ANON", 
-        "rank": {
-          "swiss": 0
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "tactician", 
+                  "rey"
+                ], 
+                "ept": [
+                  "drawtheirfire"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "herasyndulla"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "c3po"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
         }, 
-        "score": 1, 
-        "sos": "0.39"
-      }, 
-      {
         "mov": 223, 
-        "name": "ANON", 
+        "name": "Christian Schulze", 
         "rank": {
           "swiss": 0
         }, 
@@ -358,15 +459,6 @@
         }, 
         "score": 1, 
         "sos": "0.44"
-      }, 
-      {
-        "mov": 227, 
-        "name": "Martin Vangsoe", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 1, 
-        "sos": "0.47"
       }, 
       {
         "mov": 227, 
@@ -385,6 +477,24 @@
         }, 
         "score": 1, 
         "sos": "0.33"
+      }, 
+      {
+        "mov": 232, 
+        "name": "Lukas Davids", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.28"
+      }, 
+      {
+        "mov": 243, 
+        "name": "Lasse Brning", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.53"
       }, 
       {
         "list": {
@@ -514,15 +624,6 @@
         "sos": "0.56"
       }, 
       {
-        "mov": 232, 
-        "name": "Lukas Davids", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 1, 
-        "sos": "0.28"
-      }, 
-      {
         "mov": 221, 
         "name": "Markus Rothmann", 
         "rank": {
@@ -532,22 +633,31 @@
         "sos": "0.44"
       }, 
       {
-        "mov": 275, 
-        "name": "Jacob Trier", 
+        "mov": 276, 
+        "name": "Daniel Schirra", 
         "rank": {
           "swiss": 0
         }, 
         "score": 1, 
-        "sos": "0.56"
+        "sos": "0.33"
       }, 
       {
-        "mov": 270, 
-        "name": "Marcin Sielski", 
+        "mov": 293, 
+        "name": "Will Hudson", 
         "rank": {
           "swiss": 0
         }, 
         "score": 2, 
-        "sos": "0.57"
+        "sos": "0.40"
+      }, 
+      {
+        "mov": 314, 
+        "name": "Marco Haas", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.50"
       }, 
       {
         "mov": 313, 
@@ -690,24 +800,6 @@
         "sos": "0.28"
       }, 
       {
-        "mov": 296, 
-        "name": "Patrick Kropp", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 1, 
-        "sos": "0.50"
-      }, 
-      {
-        "mov": 314, 
-        "name": "Marco Haas", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 1, 
-        "sos": "0.50"
-      }, 
-      {
         "mov": 317, 
         "name": "Kevin Baron", 
         "rank": {
@@ -724,6 +816,24 @@
         }, 
         "score": 1, 
         "sos": "0.28"
+      }, 
+      {
+        "mov": 322, 
+        "name": "Pim van der Geer", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 270, 
+        "name": "Marcin Sielski", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.57"
       }, 
       {
         "mov": 386, 
@@ -846,13 +956,13 @@
         "sos": "0.48"
       }, 
       {
-        "mov": 322, 
-        "name": "Pim van der Geer", 
+        "mov": 296, 
+        "name": "Patrick Kropp", 
         "rank": {
           "swiss": 0
         }, 
         "score": 1, 
-        "sos": "0.44"
+        "sos": "0.50"
       }, 
       {
         "mov": 296, 
@@ -864,13 +974,13 @@
         "sos": "0.44"
       }, 
       {
-        "mov": 296, 
-        "name": "Lutz Manger", 
+        "mov": 281, 
+        "name": "Fabian Zikowsky", 
         "rank": {
           "swiss": 0
         }, 
         "score": 1, 
-        "sos": "0.33"
+        "sos": "0.42"
       }, 
       {
         "mov": 281, 
@@ -992,24 +1102,6 @@
         "sos": "0.28"
       }, 
       {
-        "mov": 276, 
-        "name": "Steve Baldrian", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 1, 
-        "sos": "0.48"
-      }, 
-      {
-        "mov": 281, 
-        "name": "Fabian Zikowsky", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 1, 
-        "sos": "0.42"
-      }, 
-      {
         "mov": 282, 
         "name": "Bartosz Burchardt", 
         "rank": {
@@ -1028,8 +1120,84 @@
         "sos": "0.42"
       }, 
       {
+        "mov": 284, 
+        "name": "Michael Hundehege", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 296, 
+        "name": "Lutz Manger", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.33"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "tactician", 
+                  "rey"
+                ], 
+                "ept": [
+                  "drawtheirfire"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "herasyndulla"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "c3po"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 295, 
-        "name": "ANON", 
+        "name": "Christian Schulze", 
         "rank": {
           "swiss": 0
         }, 
@@ -1212,22 +1380,13 @@
         "sos": "0.67"
       }, 
       {
-        "mov": 284, 
-        "name": "Michael Hundehege", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 1, 
-        "sos": "0.44"
-      }, 
-      {
         "mov": 276, 
-        "name": "Daniel Schirra", 
+        "name": "Steve Baldrian", 
         "rank": {
           "swiss": 0
         }, 
         "score": 1, 
-        "sos": "0.33"
+        "sos": "0.48"
       }, 
       {
         "mov": 220, 
@@ -1383,8 +1542,66 @@
         "sos": "0.44"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "tactician", 
+                  "rey"
+                ], 
+                "ept": [
+                  "drawtheirfire"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "herasyndulla"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "c3po"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 121, 
-        "name": "ANON", 
+        "name": "Christian Schulze", 
         "rank": {
           "swiss": 0
         }, 
@@ -1392,6 +1609,66 @@
         "sos": "0.33"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "kyloren", 
+              "ship": "tiesilencer", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "advancedsensors"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "firstordervanguard"
+                ]
+              }
+            }, 
+            {
+              "name": "rhosquadronveteran", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "ept": [
+                  "adaptability"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ]
+              }
+            }, 
+            {
+              "name": "rhosquadronveteran", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "ept": [
+                  "adaptability"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 119, 
         "name": "Wouter Ouwehand", 
         "rank": {
@@ -1495,8 +1772,66 @@
         "sos": "0.53"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "tactician", 
+                  "rey"
+                ], 
+                "ept": [
+                  "drawtheirfire"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "herasyndulla"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "c3po"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 73, 
-        "name": "ANON", 
+        "name": "Christian Schulze", 
         "rank": {
           "swiss": 0
         }, 
@@ -1711,8 +2046,66 @@
         "sos": "0.50"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "tactician", 
+                  "rey"
+                ], 
+                "ept": [
+                  "drawtheirfire"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "herasyndulla"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "c3po"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 69, 
-        "name": "ANON", 
+        "name": "Christian Schulze", 
         "rank": {
           "swiss": 0
         }, 
@@ -2099,8 +2492,66 @@
         "sos": "0.44"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "tactician", 
+                  "rey"
+                ], 
+                "ept": [
+                  "drawtheirfire"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "herasyndulla"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "c3po"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 126, 
-        "name": "ANON", 
+        "name": "Christian Schulze", 
         "rank": {
           "swiss": 0
         }, 
@@ -2234,8 +2685,66 @@
         "sos": "0.22"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "tactician", 
+                  "rey"
+                ], 
+                "ept": [
+                  "drawtheirfire"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "herasyndulla"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "c3po"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 173, 
-        "name": "ANON", 
+        "name": "Christian Schulze", 
         "rank": {
           "swiss": 0
         }, 
@@ -2288,106 +2797,13 @@
         "sos": "0.42"
       }, 
       {
-        "mov": 293, 
-        "name": "Will Hudson", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 2, 
-        "sos": "0.40"
-      }, 
-      {
-        "mov": 624, 
-        "name": "Arne Lichter", 
+        "mov": 548, 
+        "name": "Jack Mooney", 
         "rank": {
           "swiss": 0
         }, 
         "score": 3, 
-        "sos": "0.52"
-      }, 
-      {
-        "mov": 503, 
-        "name": "Mirco Genovese", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 3, 
-        "sos": "0.47"
-      }, 
-      {
-        "list": {
-          "faction": "imperial", 
-          "pilots": [
-            {
-              "name": "omicrongrouppilot", 
-              "ship": "lambdaclassshuttle", 
-              "upgrades": {
-                "crew": [
-                  "emperorpalpatine"
-                ], 
-                "system": [
-                  "collisiondetector"
-                ]
-              }
-            }, 
-            {
-              "name": "glaivesquadronpilot", 
-              "ship": "tiedefender", 
-              "upgrades": {
-                "ept": [
-                  "juke"
-                ], 
-                "title": [
-                  "tiex7"
-                ]
-              }
-            }, 
-            {
-              "name": "countessryad", 
-              "ship": "tiedefender", 
-              "upgrades": {
-                "ept": [
-                  "lonewolf"
-                ], 
-                "mod": [
-                  "stealthdevice"
-                ], 
-                "title": [
-                  "tiex7"
-                ]
-              }
-            }
-          ], 
-          "vendor": {
-            "listjuggler": {}
-          }, 
-          "version": "4.2.0"
-        }, 
-        "mov": 503, 
-        "name": "Bernd Mercya Napier (Bodden)", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 3, 
-        "sos": "0.43"
-      }, 
-      {
-        "mov": 501, 
-        "name": "Emanuel Lippold", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 3, 
-        "sos": "0.55"
-      }, 
-      {
-        "mov": 496, 
-        "name": "Steven Teuber", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 3, 
-        "sos": "0.55"
+        "sos": "0.60"
       }, 
       {
         "mov": 488, 
@@ -2480,6 +2896,24 @@
         "sos": "0.59"
       }, 
       {
+        "mov": 614, 
+        "name": "Mankit Liu", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 3, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 615, 
+        "name": "Dennis Woltinge", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 3, 
+        "sos": "0.43"
+      }, 
+      {
         "mov": 511, 
         "name": "Carsten Pfeifer", 
         "rank": {
@@ -2507,107 +2941,79 @@
         "sos": "0.54"
       }, 
       {
-        "list": {
-          "faction": "imperial", 
-          "pilots": [
-            {
-              "name": "quickdraw", 
-              "ship": "tiesffighter", 
-              "upgrades": {
-                "ept": [
-                  "veteraninstincts"
-                ], 
-                "mod": [
-                  "lightweightframe"
-                ], 
-                "system": [
-                  "firecontrolsystem"
-                ], 
-                "tech": [
-                  "advancedoptics"
-                ], 
-                "title": [
-                  "specialopstraining"
-                ]
-              }
-            }, 
-            {
-              "name": "kyloren", 
-              "ship": "tiesilencer", 
-              "upgrades": {
-                "ept": [
-                  "pushthelimit"
-                ], 
-                "mod": [
-                  "autothrusters"
-                ], 
-                "system": [
-                  "advancedsensors"
-                ], 
-                "tech": [
-                  "advancedoptics"
-                ], 
-                "title": [
-                  "firstordervanguard"
-                ]
-              }
-            }, 
-            {
-              "name": "epsilonace", 
-              "ship": "tiefofighter"
-            }
-          ], 
-          "vendor": {
-            "listjuggler": {}
-          }, 
-          "version": "4.2.0"
+        "mov": 491, 
+        "name": "Johannes Heitlinger", 
+        "rank": {
+          "swiss": 0
         }, 
-        "mov": 520, 
-        "name": "Sascha Lau", 
+        "score": 2, 
+        "sos": "0.42"
+      }, 
+      {
+        "mov": 624, 
+        "name": "Arne Lichter", 
         "rank": {
           "swiss": 0
         }, 
         "score": 3, 
-        "sos": "0.49"
+        "sos": "0.52"
       }, 
       {
         "list": {
           "faction": "rebel", 
           "pilots": [
             {
-              "name": "rey", 
-              "ship": "yt1300", 
+              "name": "rebeloperative", 
+              "ship": "hwk290", 
               "upgrades": {
                 "crew": [
-                  "kananjarrus", 
-                  "finn"
+                  "sabinewren"
                 ], 
-                "ept": [
-                  "expertise"
-                ], 
-                "mod": [
-                  "engineupgrade"
-                ], 
-                "title": [
-                  "millenniumfalcon-swx57"
+                "turret": [
+                  "twinlaserturret"
                 ]
               }
             }, 
             {
-              "name": "norrawexley", 
-              "ship": "arc170", 
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
               "upgrades": {
-                "amd": [
-                  "r2d2"
-                ], 
-                "crew": [
-                  "niennunb"
+                "bomb": [
+                  "bombletgenerator"
                 ], 
                 "ept": [
-                  "pushthelimit"
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
                 ], 
                 "title": [
-                  "allianceoverhaul"
+                  "havoc"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "crimsonspecialist", 
+              "ship": "bsf17bomber", 
+              "upgrades": {
+                "bomb": [
+                  "ordnancesilos", 
+                  "thermaldetonators"
+                ], 
+                "mod": [
+                  "deflectiveplating"
+                ], 
+                "system": [
+                  "trajectorysimulator"
                 ]
               }
             }
@@ -2617,13 +3023,176 @@
           }, 
           "version": "4.2.0"
         }, 
-        "mov": 525, 
-        "name": "Steffen toshi Zulley", 
+        "mov": 586, 
+        "name": "Kim Reynolds", 
         "rank": {
           "swiss": 0
         }, 
         "score": 3, 
-        "sos": "0.41"
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 496, 
+        "name": "Steven Teuber", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 3, 
+        "sos": "0.55"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "tactician", 
+                  "rey"
+                ], 
+                "ept": [
+                  "drawtheirfire"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "herasyndulla"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "c3po"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 555, 
+        "name": "Christian Schulze", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 3, 
+        "sos": "0.58"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "turret": [
+                  "autoblasterturret"
+                ]
+              }
+            }, 
+            {
+              "name": "genesisred", 
+              "ship": "m3ainterceptor", 
+              "upgrades": {
+                "cannon": [
+                  "manglercannon"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ]
+              }
+            }, 
+            {
+              "name": "toranikulda", 
+              "ship": "m12lkimogilafighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 563, 
+        "name": "Przemyslaw Czapik", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 3, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 540, 
+        "name": "Michael Frochaux", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 3, 
+        "sos": "0.61"
+      }, 
+      {
+        "mov": 531, 
+        "name": "Maciej Kloreic", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 3, 
+        "sos": "0.57"
       }, 
       {
         "list": {
@@ -2702,88 +3271,43 @@
         "sos": "0.48"
       }, 
       {
-        "mov": 153, 
-        "name": "Johanna Reichert", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 0, 
-        "sos": "0.33"
-      }, 
-      {
-        "mov": 615, 
-        "name": "Dennis Woltinge", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 3, 
-        "sos": "0.43"
-      }, 
-      {
-        "mov": 614, 
-        "name": "Mankit Liu", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 3, 
-        "sos": "0.67"
-      }, 
-      {
         "list": {
           "faction": "rebel", 
           "pilots": [
             {
-              "name": "rebeloperative", 
-              "ship": "hwk290", 
+              "name": "rey", 
+              "ship": "yt1300", 
               "upgrades": {
                 "crew": [
-                  "sabinewren"
-                ], 
-                "turret": [
-                  "twinlaserturret"
-                ]
-              }
-            }, 
-            {
-              "name": "captainnym", 
-              "ship": "scurrgh6bomber", 
-              "upgrades": {
-                "bomb": [
-                  "bombletgenerator"
+                  "kananjarrus", 
+                  "finn"
                 ], 
                 "ept": [
-                  "veteraninstincts"
+                  "expertise"
                 ], 
                 "mod": [
-                  "longrangescanners"
-                ], 
-                "samd": [
-                  "genius"
-                ], 
-                "system": [
-                  "trajectorysimulator"
+                  "engineupgrade"
                 ], 
                 "title": [
-                  "havoc"
-                ], 
-                "turret": [
-                  "twinlaserturret"
+                  "millenniumfalcon-swx57"
                 ]
               }
             }, 
             {
-              "name": "crimsonspecialist", 
-              "ship": "bsf17bomber", 
+              "name": "norrawexley", 
+              "ship": "arc170", 
               "upgrades": {
-                "bomb": [
-                  "ordnancesilos", 
-                  "thermaldetonators"
+                "amd": [
+                  "r2d2"
                 ], 
-                "mod": [
-                  "deflectiveplating"
+                "crew": [
+                  "niennunb"
                 ], 
-                "system": [
-                  "trajectorysimulator"
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "title": [
+                  "allianceoverhaul"
                 ]
               }
             }
@@ -2793,13 +3317,77 @@
           }, 
           "version": "4.2.0"
         }, 
-        "mov": 586, 
-        "name": "Kim Reynolds", 
+        "mov": 525, 
+        "name": "Steffen toshi Zulley", 
         "rank": {
           "swiss": 0
         }, 
         "score": 3, 
-        "sos": "0.50"
+        "sos": "0.41"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "kyloren", 
+              "ship": "tiesilencer", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "advancedsensors"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "firstordervanguard"
+                ]
+              }
+            }, 
+            {
+              "name": "epsilonace", 
+              "ship": "tiefofighter"
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 520, 
+        "name": "Sascha Lau", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 3, 
+        "sos": "0.49"
       }, 
       {
         "mov": 566, 
@@ -2809,6 +3397,81 @@
         }, 
         "score": 3, 
         "sos": "0.61"
+      }, 
+      {
+        "mov": 503, 
+        "name": "Mirco Genovese", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 3, 
+        "sos": "0.47"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "omicrongrouppilot", 
+              "ship": "lambdaclassshuttle", 
+              "upgrades": {
+                "crew": [
+                  "emperorpalpatine"
+                ], 
+                "system": [
+                  "collisiondetector"
+                ]
+              }
+            }, 
+            {
+              "name": "glaivesquadronpilot", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "juke"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }, 
+            {
+              "name": "countessryad", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "lonewolf"
+                ], 
+                "mod": [
+                  "stealthdevice"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 503, 
+        "name": "Bernd Mercya Napier (Bodden)", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 3, 
+        "sos": "0.43"
+      }, 
+      {
+        "mov": 501, 
+        "name": "Emanuel Lippold", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 3, 
+        "sos": "0.55"
       }, 
       {
         "list": {
@@ -2877,113 +3540,17 @@
         "sos": "0.59"
       }, 
       {
-        "list": {
-          "faction": "scum", 
-          "pilots": [
-            {
-              "name": "captainnym", 
-              "ship": "scurrgh6bomber", 
-              "upgrades": {
-                "bomb": [
-                  "bombletgenerator"
-                ], 
-                "ept": [
-                  "veteraninstincts"
-                ], 
-                "missile": [
-                  "harpoonmissiles"
-                ], 
-                "samd": [
-                  "genius"
-                ], 
-                "system": [
-                  "trajectorysimulator"
-                ], 
-                "title": [
-                  "havoc"
-                ], 
-                "turret": [
-                  "autoblasterturret"
-                ]
-              }
-            }, 
-            {
-              "name": "genesisred", 
-              "ship": "m3ainterceptor", 
-              "upgrades": {
-                "cannon": [
-                  "manglercannon"
-                ], 
-                "ept": [
-                  "veteraninstincts"
-                ]
-              }
-            }, 
-            {
-              "name": "toranikulda", 
-              "ship": "m12lkimogilafighter", 
-              "upgrades": {
-                "ept": [
-                  "veteraninstincts"
-                ], 
-                "missile": [
-                  "harpoonmissiles"
-                ]
-              }
-            }
-          ], 
-          "vendor": {
-            "listjuggler": {}
-          }, 
-          "version": "4.2.0"
-        }, 
-        "mov": 563, 
-        "name": "Przemyslaw Czapik", 
+        "mov": 316, 
+        "name": "Michael Huth", 
         "rank": {
           "swiss": 0
         }, 
-        "score": 3, 
-        "sos": "0.63"
+        "score": 2, 
+        "sos": "0.48"
       }, 
       {
-        "mov": 555, 
-        "name": "ANON", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 3, 
-        "sos": "0.58"
-      }, 
-      {
-        "mov": 548, 
-        "name": "Jack Mooney", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 3, 
-        "sos": "0.60"
-      }, 
-      {
-        "mov": 540, 
-        "name": "Michael Frochaux", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 3, 
-        "sos": "0.61"
-      }, 
-      {
-        "mov": 531, 
-        "name": "Maciej Kloreic", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 3, 
-        "sos": "0.57"
-      }, 
-      {
-        "mov": 491, 
-        "name": "Johannes Heitlinger", 
+        "mov": 401, 
+        "name": "Jonathan Geissbuhler", 
         "rank": {
           "swiss": 0
         }, 
@@ -2991,54 +3558,91 @@
         "sos": "0.42"
       }, 
       {
-        "mov": 428, 
-        "name": "Faan Langelaan", 
+        "mov": 400, 
+        "name": "Stjepan Pavuna", 
         "rank": {
           "swiss": 0
         }, 
         "score": 2, 
-        "sos": "0.54"
+        "sos": "0.58"
+      }, 
+      {
+        "mov": 395, 
+        "name": "Aaron Steinert", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.65"
+      }, 
+      {
+        "mov": 382, 
+        "name": "Mads Barkman Petersen", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 376, 
+        "name": "Mark Krannich", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.46"
       }, 
       {
         "list": {
-          "faction": "scum", 
+          "faction": "rebel", 
           "pilots": [
             {
-              "name": "asajjventress", 
-              "ship": "lancerclasspursuitcraft", 
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
               "upgrades": {
                 "crew": [
-                  "lattsrazzi"
+                  "tactician", 
+                  "rey"
                 ], 
                 "ept": [
-                  "pushthelimit"
-                ], 
-                "illicit": [
-                  "scavengercrane"
-                ], 
-                "mod": [
-                  "countermeasures"
+                  "drawtheirfire"
                 ]
               }
             }, 
             {
-              "name": "ketsuonyo", 
-              "ship": "lancerclasspursuitcraft", 
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
               "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
                 "crew": [
-                  "dengar"
+                  "herasyndulla"
                 ], 
                 "ept": [
-                  "expertise"
+                  "snapshot"
+                ]
+              }
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
                 ], 
-                "illicit": [
-                  "glitterstim"
+                "crew": [
+                  "c3po"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
                 ], 
                 "mod": [
-                  "countermeasures"
+                  "longrangescanners"
                 ], 
-                "title": [
-                  "shadowcaster"
+                "turret": [
+                  "twinlaserturret"
                 ]
               }
             }
@@ -3048,13 +3652,31 @@
           }, 
           "version": "4.2.0"
         }, 
-        "mov": 420, 
-        "name": "Jan Ullerup", 
+        "mov": 375, 
+        "name": "Christian Schulze", 
         "rank": {
           "swiss": 0
         }, 
         "score": 2, 
-        "sos": "0.40"
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 354, 
+        "name": "Michal Kolasinski", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 337, 
+        "name": "Robert Perrin", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.67"
       }, 
       {
         "mov": 331, 
@@ -3066,13 +3688,31 @@
         "sos": "0.50"
       }, 
       {
-        "mov": 419, 
-        "name": "ANON", 
+        "mov": 330, 
+        "name": "Michael Lenzen", 
         "rank": {
           "swiss": 0
         }, 
         "score": 2, 
-        "sos": "0.42"
+        "sos": "0.57"
+      }, 
+      {
+        "mov": 330, 
+        "name": "Sren Patzer", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 417, 
+        "name": "Kai Krupp", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.45"
       }, 
       {
         "list": {
@@ -3142,96 +3782,6 @@
         "sos": "0.53"
       }, 
       {
-        "mov": 417, 
-        "name": "Kai Krupp", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 2, 
-        "sos": "0.45"
-      }, 
-      {
-        "mov": 401, 
-        "name": "Jonathan Geissbuhler", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 2, 
-        "sos": "0.42"
-      }, 
-      {
-        "mov": 330, 
-        "name": "Michael Lenzen", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 2, 
-        "sos": "0.57"
-      }, 
-      {
-        "mov": 400, 
-        "name": "Stjepan Pavuna", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 2, 
-        "sos": "0.58"
-      }, 
-      {
-        "mov": 337, 
-        "name": "Robert Perrin", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 2, 
-        "sos": "0.67"
-      }, 
-      {
-        "mov": 354, 
-        "name": "Michal Kolasinski", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 2, 
-        "sos": "0.38"
-      }, 
-      {
-        "mov": 382, 
-        "name": "Mads Barkman Petersen", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 2, 
-        "sos": "0.67"
-      }, 
-      {
-        "mov": 375, 
-        "name": "ANON", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 2, 
-        "sos": "0.63"
-      }, 
-      {
-        "mov": 421, 
-        "name": "Martin Frisch", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 2, 
-        "sos": "0.49"
-      }, 
-      {
-        "mov": 421, 
-        "name": "Johan Malmstrm", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 2, 
-        "sos": "0.55"
-      }, 
-      {
         "mov": 457, 
         "name": "Sebastian Gepp", 
         "rank": {
@@ -3250,22 +3800,13 @@
         "sos": "0.38"
       }, 
       {
-        "mov": 316, 
-        "name": "Michael Huth", 
+        "mov": 153, 
+        "name": "Johanna Reichert", 
         "rank": {
           "swiss": 0
         }, 
-        "score": 2, 
-        "sos": "0.48"
-      }, 
-      {
-        "mov": 395, 
-        "name": "Aaron Steinert", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 2, 
-        "sos": "0.65"
+        "score": 0, 
+        "sos": "0.33"
       }, 
       {
         "mov": 441, 
@@ -3355,22 +3896,155 @@
         "sos": "0.63"
       }, 
       {
-        "mov": 330, 
-        "name": "Sren Patzer", 
+        "mov": 428, 
+        "name": "Faan Langelaan", 
         "rank": {
           "swiss": 0
         }, 
         "score": 2, 
-        "sos": "0.38"
+        "sos": "0.54"
       }, 
       {
-        "mov": 376, 
-        "name": "Mark Krannich", 
+        "mov": 421, 
+        "name": "Johan Malmstrm", 
         "rank": {
           "swiss": 0
         }, 
         "score": 2, 
-        "sos": "0.46"
+        "sos": "0.55"
+      }, 
+      {
+        "mov": 421, 
+        "name": "Martin Frisch", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.49"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "asajjventress", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "lattsrazzi"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "illicit": [
+                  "scavengercrane"
+                ], 
+                "mod": [
+                  "countermeasures"
+                ]
+              }
+            }, 
+            {
+              "name": "ketsuonyo", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "dengar"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "illicit": [
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "countermeasures"
+                ], 
+                "title": [
+                  "shadowcaster"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 420, 
+        "name": "Jan Ullerup", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.40"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "tactician", 
+                  "rey"
+                ], 
+                "ept": [
+                  "drawtheirfire"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "herasyndulla"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "c3po"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 419, 
+        "name": "Christian Schulze", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.42"
       }, 
       {
         "list": {
@@ -3884,6 +4558,64 @@
         "sos": "0.59"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "fennrau", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "crew": [
+                  "tactician"
+                ], 
+                "ept": [
+                  "adaptability"
+                ]
+              }
+            }, 
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "c3po", 
+                  "tactician"
+                ], 
+                "ept": [
+                  "predator"
+                ]
+              }
+            }, 
+            {
+              "name": "norrawexley", 
+              "ship": "arc170", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ], 
+                "crew": [
+                  "kylekatarn"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "vectoredthrusters"
+                ], 
+                "title": [
+                  "allianceoverhaul"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 909, 
         "name": "Gregor Kossakowski", 
         "rank": {
@@ -3893,6 +4625,64 @@
         "sos": "0.44"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "tactician", 
+                  "rey"
+                ], 
+                "ept": [
+                  "drawtheirfire"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "tactician"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }, 
+            {
+              "name": "poedameron-swx57", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "blackone"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 901, 
         "name": "Jakub Makowski", 
         "rank": {
@@ -3902,6 +4692,73 @@
         "sos": "0.59"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "thermaldetonators", 
+                  "protonbombs"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "sabinewren"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 898, 
         "name": "Julian Ansel", 
         "rank": {
@@ -4121,6 +4978,67 @@
         "sos": "0.39"
       }, 
       {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "contractedscout", 
+              "ship": "jumpmaster5000", 
+              "upgrades": {
+                "crew": [
+                  "intelligenceagent"
+                ], 
+                "ept": [
+                  "intimidation"
+                ], 
+                "illicit": [
+                  "inertialdampeners"
+                ], 
+                "mod": [
+                  "antipursuitlasers"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "protectoratestarfighter", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "concorddawnprotector"
+                ]
+              }
+            }, 
+            {
+              "name": "thweek", 
+              "ship": "starviper", 
+              "upgrades": {
+                "illicit": [
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "starvipermkii", 
+                  "virago"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 862, 
         "name": "Michel Melis", 
         "rank": {
@@ -4271,6 +5189,60 @@
         "sos": "0.46"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "theinquisitor", 
+              "ship": "tieadvprototype", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "tiev1"
+                ]
+              }
+            }, 
+            {
+              "name": "captainyorr", 
+              "ship": "lambdaclassshuttle", 
+              "upgrades": {
+                "crew": [
+                  "emperorpalpatine"
+                ], 
+                "system": [
+                  "collisiondetector"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 843, 
         "name": "Marcel Weiss", 
         "rank": {
@@ -4492,8 +5464,66 @@
         "sos": "0.54"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "tactician", 
+                  "rey"
+                ], 
+                "ept": [
+                  "drawtheirfire"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "herasyndulla"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "c3po"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 823, 
-        "name": "ANON", 
+        "name": "Christian Schulze", 
         "rank": {
           "swiss": 27
         }, 
@@ -4501,8 +5531,66 @@
         "sos": "0.61"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "tactician", 
+                  "rey"
+                ], 
+                "ept": [
+                  "drawtheirfire"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "herasyndulla"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "c3po"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 823, 
-        "name": "ANON", 
+        "name": "Christian Schulze", 
         "rank": {
           "swiss": 27
         }, 
@@ -4510,8 +5598,66 @@
         "sos": "0.61"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "tactician", 
+                  "rey"
+                ], 
+                "ept": [
+                  "drawtheirfire"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "herasyndulla"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "c3po"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 823, 
-        "name": "ANON", 
+        "name": "Christian Schulze", 
         "rank": {
           "swiss": 27
         }, 
@@ -4670,6 +5816,79 @@
         "sos": "0.56"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "sabinewren"
+                ], 
+                "ept": [
+                  "adaptability"
+                ]
+              }
+            }, 
+            {
+              "name": "crimsonspecialist", 
+              "ship": "bsf17bomber", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "mod": [
+                  "deflectiveplating"
+                ], 
+                "system": [
+                  "accuracycorrector"
+                ]
+              }
+            }, 
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "ionbombs", 
+                  "thermaldetonators"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "autoblasterturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 757, 
         "name": "Stefan Ondruch", 
         "rank": {
@@ -4819,8 +6038,66 @@
         "sos": "0.50"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "tactician", 
+                  "rey"
+                ], 
+                "ept": [
+                  "drawtheirfire"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "herasyndulla"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "c3po"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 718, 
-        "name": "ANON", 
+        "name": "Christian Schulze", 
         "rank": {
           "swiss": 39
         }, 
@@ -4828,8 +6105,66 @@
         "sos": "0.58"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "tactician", 
+                  "rey"
+                ], 
+                "ept": [
+                  "drawtheirfire"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "herasyndulla"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "c3po"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 718, 
-        "name": "ANON", 
+        "name": "Christian Schulze", 
         "rank": {
           "swiss": 39
         }, 
@@ -5315,8 +6650,133 @@
         "sos": "0.54"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "tactician", 
+                  "rey"
+                ], 
+                "ept": [
+                  "drawtheirfire"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "herasyndulla"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "c3po"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 806, 
-        "name": "ANON", 
+        "name": "Christian Schulze", 
+        "rank": {
+          "swiss": 52
+        }, 
+        "score": 4, 
+        "sos": "0.54"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "tactician", 
+                  "rey"
+                ], 
+                "ept": [
+                  "drawtheirfire"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "herasyndulla"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "c3po"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 806, 
+        "name": "Christian Schulze", 
         "rank": {
           "swiss": 52
         }, 
@@ -5818,8 +7278,66 @@
         "sos": "0.47"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "tactician", 
+                  "rey"
+                ], 
+                "ept": [
+                  "drawtheirfire"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "herasyndulla"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "c3po"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 717, 
-        "name": "ANON", 
+        "name": "Christian Schulze", 
         "rank": {
           "swiss": 78
         }, 
@@ -6115,6 +7633,52 @@
         "sos": "0.54"
       }, 
       {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "asajjventress", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "lattsrazzi"
+                ], 
+                "ept": [
+                  "lonewolf"
+                ], 
+                "illicit": [
+                  "glitterstim", 
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "stealthdevice"
+                ]
+              }
+            }, 
+            {
+              "name": "teltrevura", 
+              "ship": "jumpmaster5000", 
+              "upgrades": {
+                "crew": [
+                  "dengar"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "hullupgrade"
+                ], 
+                "title": [
+                  "punishingone"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 565, 
         "name": "Daniel Lippert", 
         "rank": {
@@ -6625,6 +8189,66 @@
         "sos": "0.58"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "c3po"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "crew": [
+                  "chopper"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ]
+              }
+            }, 
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "wookieecommandos"
+                ], 
+                "ept": [
+                  "drawtheirfire"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 588, 
         "name": "Florent Barbare", 
         "rank": {
@@ -7175,7 +8799,7 @@
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 100, 
             "player2": "Magnus Wendel", 
             "player2points": 26, 
@@ -7233,7 +8857,7 @@
           {
             "player1": "Mark-Philipp Korb", 
             "player1points": 32, 
-            "player2": "ANON", 
+            "player2": "Christian Schulze", 
             "player2points": 57, 
             "result": "win"
           }, 
@@ -7296,14 +8920,14 @@
           {
             "player1": "Wieger Prins", 
             "player1points": 100, 
-            "player2": "ANON", 
+            "player2": "Christian Schulze", 
             "player2points": 73, 
             "result": "win"
           }, 
           {
             "player1": "Harald Rdinger", 
             "player1points": 0, 
-            "player2": "ANON", 
+            "player2": "Christian Schulze", 
             "player2points": 100, 
             "result": "win"
           }, 
@@ -7315,14 +8939,14 @@
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 0, 
             "player2": "Stefan Oeffler", 
             "player2points": 100, 
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 40, 
             "player2": "Michal Koscielak", 
             "player2points": 100, 
@@ -7373,7 +8997,7 @@
           {
             "player1": "Christian Hyldager", 
             "player1points": 100, 
-            "player2": "ANON", 
+            "player2": "Christian Schulze", 
             "player2points": 0, 
             "result": "win"
           }, 
@@ -7387,7 +9011,7 @@
           {
             "player1": "Lukasz Poczesny", 
             "player1points": 100, 
-            "player2": "ANON", 
+            "player2": "Christian Schulze", 
             "player2points": 0, 
             "result": "win"
           }, 
@@ -7448,7 +9072,7 @@
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 52, 
             "player2": "Mankit Liu", 
             "player2points": 100, 
@@ -7490,7 +9114,7 @@
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 100, 
             "player2": "Florian Wimmer", 
             "player2points": 22, 
@@ -7665,7 +9289,7 @@
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 0, 
             "player2": "Torben Winter", 
             "player2points": 22, 
@@ -7709,7 +9333,7 @@
           {
             "player1": "Carsten Pfeifer", 
             "player1points": 100, 
-            "player2": "ANON", 
+            "player2": "Christian Schulze", 
             "player2points": 0, 
             "result": "win"
           }, 
@@ -7791,7 +9415,7 @@
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 26, 
             "player2": "Martin Mller", 
             "player2points": 54, 
@@ -7847,7 +9471,7 @@
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 0, 
             "player2": "Patrik Andersson", 
             "player2points": 100, 
@@ -8029,7 +9653,7 @@
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 100, 
             "player2": "Marcel Fabender", 
             "player2points": 0, 
@@ -8038,7 +9662,7 @@
           {
             "player1": "Dennis Haarmann", 
             "player1points": 100, 
-            "player2": "ANON", 
+            "player2": "Christian Schulze", 
             "player2points": 39, 
             "result": "win"
           }, 
@@ -8276,7 +9900,7 @@
           {
             "player1": "Marco Haas", 
             "player1points": 52, 
-            "player2": "ANON", 
+            "player2": "Christian Schulze", 
             "player2points": 64, 
             "result": "win"
           }, 
@@ -8295,7 +9919,7 @@
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 100, 
             "player2": "Archibald Zimonyi", 
             "player2points": 29, 
@@ -8574,7 +10198,7 @@
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 23, 
             "player2": "Gino Lambregts", 
             "player2points": 100, 
@@ -8611,7 +10235,7 @@
           {
             "player1": "Justin Herdt", 
             "player1points": 16, 
-            "player2": "ANON", 
+            "player2": "Christian Schulze", 
             "player2points": 100, 
             "result": "win"
           }, 
@@ -8623,7 +10247,7 @@
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 68, 
             "player2": "Christoph Mller", 
             "player2points": 56, 
@@ -8660,7 +10284,7 @@
           {
             "player1": "Francis Wedema", 
             "player1points": 100, 
-            "player2": "ANON", 
+            "player2": "Christian Schulze", 
             "player2points": 27, 
             "result": "win"
           }, 
@@ -8826,7 +10450,7 @@
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 24, 
             "player2": "Nick Verbiest", 
             "player2points": 100, 
@@ -8854,7 +10478,7 @@
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 16, 
             "player2": "Michal Paluch", 
             "player2points": 0, 
@@ -8994,7 +10618,7 @@
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 100, 
             "player2": "Paul Bracko", 
             "player2points": 28, 
@@ -9043,7 +10667,7 @@
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 100, 
             "player2": "Ralf Epke", 
             "player2points": 39, 
@@ -9057,7 +10681,7 @@
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 0, 
             "player2": "Sascha Bouzas Rmgens", 
             "player2points": 100, 
@@ -9101,7 +10725,7 @@
           {
             "player1": "Tobias Pangsy", 
             "player1points": 100, 
-            "player2": "ANON", 
+            "player2": "Christian Schulze", 
             "player2points": 0, 
             "result": "win"
           }, 
@@ -9134,7 +10758,7 @@
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 26, 
             "player2": "Snke Phl", 
             "player2points": 0, 
@@ -9192,7 +10816,7 @@
           {
             "player1": "Bjrn Lorenz", 
             "player1points": 0, 
-            "player2": "ANON", 
+            "player2": "Christian Schulze", 
             "player2points": 100, 
             "result": "win"
           }, 
@@ -9423,7 +11047,7 @@
           {
             "player1": "Florian Ebeling", 
             "player1points": 0, 
-            "player2": "ANON", 
+            "player2": "Christian Schulze", 
             "player2points": 100, 
             "result": "win"
           }, 
@@ -9507,7 +11131,7 @@
           {
             "player1": "Bernd Balk", 
             "player1points": 33, 
-            "player2": "ANON", 
+            "player2": "Christian Schulze", 
             "player2points": 100, 
             "result": "win"
           }, 
@@ -9528,7 +11152,7 @@
           {
             "player1": "Stephanie Stumpf", 
             "player1points": 38, 
-            "player2": "ANON", 
+            "player2": "Christian Schulze", 
             "player2points": 100, 
             "result": "win"
           }, 
@@ -9563,7 +11187,7 @@
           {
             "player1": "Thomas Wilczek", 
             "player1points": 100, 
-            "player2": "ANON", 
+            "player2": "Christian Schulze", 
             "player2points": 41, 
             "result": "win"
           }, 
@@ -9603,7 +11227,7 @@
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 100, 
             "player2": "Martin Hein", 
             "player2points": 0, 
@@ -9645,7 +11269,7 @@
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 49, 
             "player2": "Dan Bouckley", 
             "player2points": 100, 
@@ -9721,9 +11345,9 @@
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 100, 
-            "player2": "ANON", 
+            "player2": "Christian Schulze", 
             "player2points": 32, 
             "result": "win"
           }, 
@@ -9777,7 +11401,7 @@
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 23, 
             "player2": "Jakub Makowski", 
             "player2points": 29, 
@@ -9945,7 +11569,7 @@
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 0, 
             "player2": "Rick van Nes", 
             "player2points": 100, 
@@ -10260,7 +11884,7 @@
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 56, 
             "player2": "Mark Krannich", 
             "player2points": 70, 
@@ -10297,7 +11921,7 @@
           {
             "player1": "Lukasz Poczesny", 
             "player1points": 100, 
-            "player2": "ANON", 
+            "player2": "Christian Schulze", 
             "player2points": 0, 
             "result": "win"
           }, 
@@ -10353,12 +11977,12 @@
           {
             "player1": "Damian Polewka", 
             "player1points": 100, 
-            "player2": "ANON", 
+            "player2": "Christian Schulze", 
             "player2points": 17, 
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 100, 
             "player2": "Arndt Hohnholz", 
             "player2points": 38, 
@@ -10400,7 +12024,7 @@
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 100, 
             "player2": "Martin Mller", 
             "player2points": 33, 
@@ -10463,7 +12087,7 @@
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 0, 
             "player2": "Gustav Andersson", 
             "player2points": 100, 
@@ -10624,14 +12248,14 @@
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 0, 
             "player2": "Fabian Palm", 
             "player2points": 100, 
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 34, 
             "player2": "Timo Raabe", 
             "player2points": 100, 
@@ -10645,7 +12269,7 @@
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 100, 
             "player2": "Harry Last", 
             "player2points": 22, 
@@ -10661,7 +12285,7 @@
           {
             "player1": "Paul Bracko", 
             "player1points": 100, 
-            "player2": "ANON", 
+            "player2": "Christian Schulze", 
             "player2points": 57, 
             "result": "win"
           }, 
@@ -10752,14 +12376,14 @@
           {
             "player1": "Christian Linnig", 
             "player1points": 100, 
-            "player2": "ANON", 
+            "player2": "Christian Schulze", 
             "player2points": 28, 
             "result": "win"
           }, 
           {
             "player1": "Michael -Freed- Fabian", 
             "player1points": 27, 
-            "player2": "ANON", 
+            "player2": "Christian Schulze", 
             "player2points": 100, 
             "result": "win"
           }, 
@@ -10899,7 +12523,7 @@
           {
             "player1": "Daniel Kipp", 
             "player1points": 100, 
-            "player2": "ANON", 
+            "player2": "Christian Schulze", 
             "player2points": 0, 
             "result": "win"
           }, 
@@ -10975,7 +12599,7 @@
           {
             "player1": "Jonas Klein", 
             "player1points": 0, 
-            "player2": "ANON", 
+            "player2": "Christian Schulze", 
             "player2points": 100, 
             "result": "win"
           }, 
@@ -11171,7 +12795,7 @@
           {
             "player1": "Swen Heiber", 
             "player1points": 52, 
-            "player2": "ANON", 
+            "player2": "Christian Schulze", 
             "player2points": 53, 
             "result": "win"
           }, 
@@ -11267,7 +12891,7 @@
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 75, 
             "player2": "Jonathan Geissbuhler", 
             "player2points": 0, 
@@ -11290,7 +12914,7 @@
           {
             "player1": "Michel Melis", 
             "player1points": 100, 
-            "player2": "ANON", 
+            "player2": "Christian Schulze", 
             "player2points": 32, 
             "result": "win"
           }, 
@@ -11311,7 +12935,7 @@
           {
             "player1": "Thomas Laverze", 
             "player1points": 100, 
-            "player2": "ANON", 
+            "player2": "Christian Schulze", 
             "player2points": 45, 
             "result": "win"
           }, 
@@ -11351,7 +12975,7 @@
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 100, 
             "player2": "Thilo Zepp", 
             "player2points": 29, 
@@ -11646,7 +13270,7 @@
           {
             "player1": "Maciej Markiewicz", 
             "player1points": 54, 
-            "player2": "ANON", 
+            "player2": "Christian Schulze", 
             "player2points": 100, 
             "result": "win"
           }, 
@@ -11744,7 +13368,7 @@
           {
             "player1": "Renato Meisser", 
             "player1points": 100, 
-            "player2": "ANON", 
+            "player2": "Christian Schulze", 
             "player2points": 54, 
             "result": "win"
           }, 
@@ -11772,7 +13396,7 @@
           {
             "player1": "Michael Schndt", 
             "player1points": 29, 
-            "player2": "ANON", 
+            "player2": "Christian Schulze", 
             "player2points": 53, 
             "result": "win"
           }, 
@@ -11938,7 +13562,7 @@
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 69, 
             "player2": "Rune Printzlau", 
             "player2points": 71, 
@@ -12064,7 +13688,7 @@
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 0, 
             "player2": "Wouter Van den Bergh", 
             "player2points": 100, 
@@ -12141,7 +13765,7 @@
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 100, 
             "player2": "Michael Lenzen", 
             "player2points": 0, 
@@ -12245,7 +13869,7 @@
       {
         "matches": [
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 0, 
             "player2": "Oliver Pocknell", 
             "player2points": 100, 
@@ -12364,7 +13988,7 @@
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 53, 
             "player2": "Alexander Pohl", 
             "player2points": 52, 
@@ -12506,7 +14130,7 @@
           {
             "player1": "Christian Kraemer", 
             "player1points": 76, 
-            "player2": "ANON", 
+            "player2": "Christian Schulze", 
             "player2points": 100, 
             "result": "win"
           }, 
@@ -12574,7 +14198,7 @@
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 38, 
             "player2": "Florian Rufnak", 
             "player2points": 100, 
@@ -12644,7 +14268,7 @@
             "result": "win"
           }, 
           {
-            "player1": "ANON", 
+            "player1": "Christian Schulze", 
             "player1points": 100, 
             "player2": "Steen Jensen", 
             "player2points": 22, 
