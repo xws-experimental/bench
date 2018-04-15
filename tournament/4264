@@ -1,0 +1,2362 @@
+{
+  "tournament": {
+    "date": "2018-04-08", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4264, 
+    "name": "Regional Malaga 2018", 
+    "players": [
+      {
+        "mov": 426, 
+        "name": "Alvaro Martinez", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 972, 
+        "name": "Manu Calahorro", 
+        "rank": {
+          "elimination": 16, 
+          "swiss": 1
+        }, 
+        "score": 6, 
+        "sos": "0.78"
+      }, 
+      {
+        "mov": 873, 
+        "name": "Antonio Porras", 
+        "rank": {
+          "elimination": 16, 
+          "swiss": 2
+        }, 
+        "score": 5, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 812, 
+        "name": "Borja Ortuno", 
+        "rank": {
+          "elimination": 8, 
+          "swiss": 3
+        }, 
+        "score": 5, 
+        "sos": "0.64"
+      }, 
+      {
+        "mov": 802, 
+        "name": "Angel Hermana", 
+        "rank": {
+          "elimination": 16, 
+          "swiss": 4
+        }, 
+        "score": 5, 
+        "sos": "0.58"
+      }, 
+      {
+        "mov": 798, 
+        "name": "Javier Sanz de Galdeano", 
+        "rank": {
+          "elimination": 8, 
+          "swiss": 5
+        }, 
+        "score": 5, 
+        "sos": "0.51"
+      }, 
+      {
+        "mov": 792, 
+        "name": "Juan Gil Baena", 
+        "rank": {
+          "elimination": 16, 
+          "swiss": 6
+        }, 
+        "score": 5, 
+        "sos": "0.64"
+      }, 
+      {
+        "mov": 719, 
+        "name": "Pedro Rodrigues", 
+        "rank": {
+          "elimination": 1, 
+          "swiss": 7
+        }, 
+        "score": 5, 
+        "sos": "0.53"
+      }, 
+      {
+        "mov": 715, 
+        "name": "Victor Vaquero", 
+        "rank": {
+          "elimination": 8, 
+          "swiss": 8
+        }, 
+        "score": 5, 
+        "sos": "0.61"
+      }, 
+      {
+        "mov": 944, 
+        "name": "Antonio Melero", 
+        "rank": {
+          "elimination": 16, 
+          "swiss": 9
+        }, 
+        "score": 4, 
+        "sos": "0.58"
+      }, 
+      {
+        "mov": 880, 
+        "name": "Daniel Diaz", 
+        "rank": {
+          "elimination": 16, 
+          "swiss": 10
+        }, 
+        "score": 4, 
+        "sos": "0.42"
+      }, 
+      {
+        "mov": 847, 
+        "name": "Antonio Nino", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 11
+        }, 
+        "score": 4, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 783, 
+        "name": "Antonio Ruiz Lopez", 
+        "rank": {
+          "elimination": 16, 
+          "swiss": 12
+        }, 
+        "score": 4, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 778, 
+        "name": "Carlos Guerra", 
+        "rank": {
+          "elimination": 2, 
+          "swiss": 13
+        }, 
+        "score": 4, 
+        "sos": "0.60"
+      }, 
+      {
+        "mov": 777, 
+        "name": "Antonio Castellano", 
+        "rank": {
+          "elimination": 16, 
+          "swiss": 14
+        }, 
+        "score": 4, 
+        "sos": "0.61"
+      }, 
+      {
+        "mov": 764, 
+        "name": "Bernardo Jurado", 
+        "rank": {
+          "elimination": 8, 
+          "swiss": 15
+        }, 
+        "score": 4, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 751, 
+        "name": "Fran Ramos", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 16
+        }, 
+        "score": 4, 
+        "sos": "0.69"
+      }, 
+      {
+        "mov": 747, 
+        "name": "Juanma Carvajal", 
+        "rank": {
+          "swiss": 17
+        }, 
+        "score": 4, 
+        "sos": "0.60"
+      }, 
+      {
+        "mov": 747, 
+        "name": "Manuel Garrido", 
+        "rank": {
+          "swiss": 18
+        }, 
+        "score": 4, 
+        "sos": "0.53"
+      }, 
+      {
+        "mov": 746, 
+        "name": "Aaron Romero", 
+        "rank": {
+          "swiss": 19
+        }, 
+        "score": 4, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 722, 
+        "name": "Victor Ruiz", 
+        "rank": {
+          "swiss": 20
+        }, 
+        "score": 4, 
+        "sos": "0.58"
+      }, 
+      {
+        "mov": 701, 
+        "name": "Francisco Lara", 
+        "rank": {
+          "swiss": 21
+        }, 
+        "score": 4, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 687, 
+        "name": "Francisco Arenas", 
+        "rank": {
+          "swiss": 22
+        }, 
+        "score": 4, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 646, 
+        "name": "Fran Sanchez", 
+        "rank": {
+          "swiss": 23
+        }, 
+        "score": 4, 
+        "sos": "0.58"
+      }, 
+      {
+        "mov": 632, 
+        "name": "Alejandro de la Lastra", 
+        "rank": {
+          "swiss": 24
+        }, 
+        "score": 4, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 605, 
+        "name": "Manuel Lopez", 
+        "rank": {
+          "swiss": 25
+        }, 
+        "score": 4, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 569, 
+        "name": "Francisco Camacho", 
+        "rank": {
+          "swiss": 26
+        }, 
+        "score": 4, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 681, 
+        "name": "Pablo Fernandez", 
+        "rank": {
+          "swiss": 27
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 671, 
+        "name": "Jose Carlos Coria", 
+        "rank": {
+          "swiss": 28
+        }, 
+        "score": 3, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 653, 
+        "name": "Oscar Javier Sanchez", 
+        "rank": {
+          "swiss": 29
+        }, 
+        "score": 3, 
+        "sos": "0.64"
+      }, 
+      {
+        "mov": 652, 
+        "name": "Juan Manuel Diaz", 
+        "rank": {
+          "swiss": 30
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 648, 
+        "name": "Jorge Moya", 
+        "rank": {
+          "swiss": 31
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 634, 
+        "name": "Fede Martin", 
+        "rank": {
+          "swiss": 32
+        }, 
+        "score": 3, 
+        "sos": "0.51"
+      }, 
+      {
+        "mov": 633, 
+        "name": "Jose Antonio Gragera", 
+        "rank": {
+          "swiss": 33
+        }, 
+        "score": 3, 
+        "sos": "0.58"
+      }, 
+      {
+        "mov": 631, 
+        "name": "Dani Gomila", 
+        "rank": {
+          "swiss": 34
+        }, 
+        "score": 3, 
+        "sos": "0.57"
+      }, 
+      {
+        "mov": 620, 
+        "name": "Jaime Carvajal", 
+        "rank": {
+          "swiss": 35
+        }, 
+        "score": 3, 
+        "sos": "0.47"
+      }, 
+      {
+        "mov": 620, 
+        "name": "Alejandro Arrabal", 
+        "rank": {
+          "swiss": 36
+        }, 
+        "score": 3, 
+        "sos": "0.28"
+      }, 
+      {
+        "mov": 617, 
+        "name": "Carlos Villamandos", 
+        "rank": {
+          "swiss": 37
+        }, 
+        "score": 3, 
+        "sos": "0.47"
+      }, 
+      {
+        "mov": 602, 
+        "name": "Francisco Cosme", 
+        "rank": {
+          "swiss": 38
+        }, 
+        "score": 3, 
+        "sos": "0.53"
+      }, 
+      {
+        "mov": 600, 
+        "name": "Nicolas Enrique Parejo", 
+        "rank": {
+          "swiss": 39
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 595, 
+        "name": "Juan Pablo Sanchez", 
+        "rank": {
+          "swiss": 40
+        }, 
+        "score": 3, 
+        "sos": "0.61"
+      }, 
+      {
+        "mov": 583, 
+        "name": "Roberto Mora", 
+        "rank": {
+          "swiss": 41
+        }, 
+        "score": 3, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 561, 
+        "name": "Julio Mariscal", 
+        "rank": {
+          "swiss": 42
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 540, 
+        "name": "German Garcia", 
+        "rank": {
+          "swiss": 43
+        }, 
+        "score": 3, 
+        "sos": "0.53"
+      }, 
+      {
+        "mov": 536, 
+        "name": "Alejandro Burillo", 
+        "rank": {
+          "swiss": 44
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 525, 
+        "name": "Jose Extremera", 
+        "rank": {
+          "swiss": 45
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 514, 
+        "name": "Tomas Fidalgo", 
+        "rank": {
+          "swiss": 46
+        }, 
+        "score": 3, 
+        "sos": "0.43"
+      }, 
+      {
+        "mov": 478, 
+        "name": "Julio Garcia", 
+        "rank": {
+          "swiss": 47
+        }, 
+        "score": 3, 
+        "sos": "0.47"
+      }, 
+      {
+        "mov": 467, 
+        "name": "Javi Tan", 
+        "rank": {
+          "swiss": 48
+        }, 
+        "score": 3, 
+        "sos": "0.58"
+      }, 
+      {
+        "mov": 679, 
+        "name": "Apolo Rodriguez", 
+        "rank": {
+          "swiss": 49
+        }, 
+        "score": 2, 
+        "sos": "0.36"
+      }, 
+      {
+        "mov": 604, 
+        "name": "Lazaro Muoz", 
+        "rank": {
+          "swiss": 50
+        }, 
+        "score": 2, 
+        "sos": "0.47"
+      }, 
+      {
+        "mov": 586, 
+        "name": "Alejandro Exposito", 
+        "rank": {
+          "swiss": 51
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 566, 
+        "name": "Alejandro Lozano", 
+        "rank": {
+          "swiss": 52
+        }, 
+        "score": 2, 
+        "sos": "0.53"
+      }, 
+      {
+        "mov": 531, 
+        "name": "Jose Manuel Sequera", 
+        "rank": {
+          "swiss": 53
+        }, 
+        "score": 2, 
+        "sos": "0.42"
+      }, 
+      {
+        "mov": 496, 
+        "name": "Fran Lopez", 
+        "rank": {
+          "swiss": 54
+        }, 
+        "score": 2, 
+        "sos": "0.36"
+      }, 
+      {
+        "mov": 491, 
+        "name": "Javier Morena", 
+        "rank": {
+          "swiss": 55
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 491, 
+        "name": "Eduardo Jesus Garcia", 
+        "rank": {
+          "swiss": 56
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 491, 
+        "name": "Javier Madolell", 
+        "rank": {
+          "swiss": 57
+        }, 
+        "score": 2, 
+        "sos": "0.43"
+      }, 
+      {
+        "mov": 489, 
+        "name": "Vicente Ruiz", 
+        "rank": {
+          "swiss": 58
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 485, 
+        "name": "Javi Garcia", 
+        "rank": {
+          "swiss": 59
+        }, 
+        "score": 2, 
+        "sos": "0.61"
+      }, 
+      {
+        "mov": 479, 
+        "name": "Borja Jimenez", 
+        "rank": {
+          "swiss": 60
+        }, 
+        "score": 2, 
+        "sos": "0.53"
+      }, 
+      {
+        "mov": 473, 
+        "name": "Jose Manuel Agera", 
+        "rank": {
+          "swiss": 61
+        }, 
+        "score": 2, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 435, 
+        "name": "Leo Hoces", 
+        "rank": {
+          "swiss": 62
+        }, 
+        "score": 2, 
+        "sos": "0.53"
+      }, 
+      {
+        "mov": 417, 
+        "name": "David Aguilar", 
+        "rank": {
+          "swiss": 63
+        }, 
+        "score": 2, 
+        "sos": "0.47"
+      }, 
+      {
+        "mov": 334, 
+        "name": "Jose Maria Palacios", 
+        "rank": {
+          "swiss": 64
+        }, 
+        "score": 1, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 316, 
+        "name": "David Rubio", 
+        "rank": {
+          "swiss": 65
+        }, 
+        "score": 1, 
+        "sos": "0.54"
+      }, 
+      {
+        "mov": 291, 
+        "name": "Juan Garcia", 
+        "rank": {
+          "swiss": 66
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 263, 
+        "name": "Jesus Karum Cayuela", 
+        "rank": {
+          "swiss": 67
+        }, 
+        "score": 1, 
+        "sos": "0.42"
+      }, 
+      {
+        "mov": 231, 
+        "name": "Laura Ferrer", 
+        "rank": {
+          "swiss": 68
+        }, 
+        "score": 1, 
+        "sos": "0.43"
+      }, 
+      {
+        "mov": 216, 
+        "name": "Jose A. Collantes", 
+        "rank": {
+          "swiss": 69
+        }, 
+        "score": 1, 
+        "sos": "0.42"
+      }, 
+      {
+        "mov": 290, 
+        "name": "Oscar Ferrer", 
+        "rank": {
+          "swiss": 70
+        }, 
+        "score": 0, 
+        "sos": "0.36"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Carlos Villamandos", 
+            "player1points": 26, 
+            "player2": "Juan Gil Baena", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Apolo Rodriguez", 
+            "player1points": 59, 
+            "player2": "Victor Ruiz", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Aaron Romero", 
+            "player1points": 100, 
+            "player2": "Alejandro Burillo", 
+            "player2points": 26, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Victor Vaquero", 
+            "player1points": 40, 
+            "player2": "Alejandro Lozano", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Manu Calahorro", 
+            "player1points": 75, 
+            "player2": "Francisco Arenas", 
+            "player2points": 68, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Antonio Melero", 
+            "player1points": 100, 
+            "player2": "Jesus Karum Cayuela", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Dani Gomila", 
+            "player1points": 100, 
+            "player2": "Nicolas Enrique Parejo", 
+            "player2points": 38, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Javier Sanz de Galdeano", 
+            "player1points": 68, 
+            "player2": "Borja Jimenez", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Francisco Lara", 
+            "player1points": 100, 
+            "player2": "Jorge Moya", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Fran Sanchez", 
+            "player1points": 100, 
+            "player2": "Daniel Diaz", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Javier Madolell", 
+            "player1points": 15, 
+            "player2": "Javi Tan", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Roberto Mora", 
+            "player1points": 100, 
+            "player2": "Alejandro Arrabal", 
+            "player2points": 23, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Laura Ferrer", 
+            "player1points": 0, 
+            "player2": "Javier Morena", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "David Rubio", 
+            "player1points": 100, 
+            "player2": "Bernardo Jurado", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Juan Garcia", 
+            "player1points": 68, 
+            "player2": "Angel Hermana", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "David Aguilar", 
+            "player1points": 22, 
+            "player2": "Antonio Castellano", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Antonio Porras", 
+            "player1points": 100, 
+            "player2": "Jose A. Collantes", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alejandro Exposito", 
+            "player1points": 22, 
+            "player2": "Juan Manuel Diaz", 
+            "player2points": 38, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Francisco Cosme", 
+            "player1points": 100, 
+            "player2": "Oscar Ferrer", 
+            "player2points": 69, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Julio Garcia", 
+            "player1points": 26, 
+            "player2": "Borja Ortuno", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Antonio Ruiz Lopez", 
+            "player1points": 54, 
+            "player2": "Fran Ramos", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Leo Hoces", 
+            "player1points": 100, 
+            "player2": "Vicente Ruiz", 
+            "player2points": 77, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Manuel Lopez", 
+            "player1points": 67, 
+            "player2": "Pablo Fernandez", 
+            "player2points": 55, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jose Extremera", 
+            "player1points": 53, 
+            "player2": "Alejandro de la Lastra", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jose Antonio Gragera", 
+            "player1points": 26, 
+            "player2": "Jaime Carvajal", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Juan Pablo Sanchez", 
+            "player1points": 100, 
+            "player2": "Jose Manuel Agera", 
+            "player2points": 27, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Fran Lopez", 
+            "player1points": 31, 
+            "player2": "Fede Martin", 
+            "player2points": 54, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Francisco Camacho", 
+            "player1points": 100, 
+            "player2": "Lazaro Muoz", 
+            "player2points": 76, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Eduardo Jesus Garcia", 
+            "player1points": 100, 
+            "player2": "Jose Maria Palacios", 
+            "player2points": 53, 
+            "result": "win"
+          }, 
+          {
+            "player1": "German Garcia", 
+            "player1points": 52, 
+            "player2": "Manuel Garrido", 
+            "player2points": 76, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pedro Rodrigues", 
+            "player1points": 0, 
+            "player2": "Oscar Javier Sanchez", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Julio Mariscal", 
+            "player1points": 100, 
+            "player2": "Jose Manuel Sequera", 
+            "player2points": 62, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jose Carlos Coria", 
+            "player1points": 0, 
+            "player2": "Javi Garcia", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Antonio Nino", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }, 
+          {
+            "player1": "Carlos Guerra", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }, 
+          {
+            "player1": "Tomas Fidalgo", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }, 
+          {
+            "player1": "Alvaro Martinez", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }, 
+          {
+            "player1": "Juanma Carvajal", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Carlos Guerra", 
+            "player1points": 0, 
+            "player2": "Pedro Rodrigues", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "elimination"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Javier Morena", 
+            "player1points": 40, 
+            "player2": "Juanma Carvajal", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Oscar Javier Sanchez", 
+            "player1points": 47, 
+            "player2": "Francisco Lara", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Francisco Cosme", 
+            "player1points": 56, 
+            "player2": "Antonio Castellano", 
+            "player2points": 62, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Leo Hoces", 
+            "player1points": 53, 
+            "player2": "Aaron Romero", 
+            "player2points": 76, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Javi Garcia", 
+            "player1points": 100, 
+            "player2": "Julio Mariscal", 
+            "player2points": 28, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Antonio Melero", 
+            "player1points": 100, 
+            "player2": "Manuel Garrido", 
+            "player2points": 25, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Roberto Mora", 
+            "player1points": 100, 
+            "player2": "Eduardo Jesus Garcia", 
+            "player2points": 53, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Juan Manuel Diaz", 
+            "player1points": 38, 
+            "player2": "Angel Hermana", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Antonio Nino", 
+            "player1points": 100, 
+            "player2": "Tomas Fidalgo", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Fede Martin", 
+            "player1points": 100, 
+            "player2": "Alvaro Martinez", 
+            "player2points": 31, 
+            "result": "win"
+          }, 
+          {
+            "player1": "David Rubio", 
+            "player1points": 0, 
+            "player2": "Antonio Porras", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Francisco Camacho", 
+            "player1points": 28, 
+            "player2": "Fran Ramos", 
+            "player2points": 76, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Juan Pablo Sanchez", 
+            "player1points": 100, 
+            "player2": "Alejandro de la Lastra", 
+            "player2points": 27, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Victor Ruiz", 
+            "player1points": 48, 
+            "player2": "Juan Gil Baena", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Borja Ortuno", 
+            "player1points": 0, 
+            "player2": "Manu Calahorro", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Victor Vaquero", 
+            "player1points": 100, 
+            "player2": "Javi Tan", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Manuel Lopez", 
+            "player1points": 100, 
+            "player2": "Javier Sanz de Galdeano", 
+            "player2points": 55, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Dani Gomila", 
+            "player1points": 100, 
+            "player2": "Fran Sanchez", 
+            "player2points": 40, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Carlos Guerra", 
+            "player1points": 44, 
+            "player2": "Jose Antonio Gragera", 
+            "player2points": 26, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Francisco Arenas", 
+            "player1points": 29, 
+            "player2": "Apolo Rodriguez", 
+            "player2points": 22, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lazaro Muoz", 
+            "player1points": 100, 
+            "player2": "Juan Garcia", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alejandro Arrabal", 
+            "player1points": 28, 
+            "player2": "Alejandro Burillo", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alejandro Exposito", 
+            "player1points": 100, 
+            "player2": "Oscar Ferrer", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bernardo Jurado", 
+            "player1points": 100, 
+            "player2": "Vicente Ruiz", 
+            "player2points": 19, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jose Carlos Coria", 
+            "player1points": 100, 
+            "player2": "Laura Ferrer", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Fran Lopez", 
+            "player1points": 0, 
+            "player2": "Alejandro Lozano", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jose Maria Palacios", 
+            "player1points": 0, 
+            "player2": "Carlos Villamandos", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nicolas Enrique Parejo", 
+            "player1points": 58, 
+            "player2": "Javier Madolell", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jose Manuel Agera", 
+            "player1points": 17, 
+            "player2": "Jorge Moya", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "David Aguilar", 
+            "player1points": 59, 
+            "player2": "Jose Extremera", 
+            "player2points": 65, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Antonio Ruiz Lopez", 
+            "player1points": 100, 
+            "player2": "Julio Garcia", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Daniel Diaz", 
+            "player1points": 100, 
+            "player2": "Jose Manuel Sequera", 
+            "player2points": 28, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jose A. Collantes", 
+            "player1points": 53, 
+            "player2": "German Garcia", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Borja Jimenez", 
+            "player1points": 28, 
+            "player2": "Jaime Carvajal", 
+            "player2points": 60, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jesus Karum Cayuela", 
+            "player1points": 34, 
+            "player2": "Pablo Fernandez", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pedro Rodrigues", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Fran Ramos", 
+            "player1points": 53, 
+            "player2": "Aaron Romero", 
+            "player2points": 28, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Francisco Lara", 
+            "player1points": 100, 
+            "player2": "Manuel Lopez", 
+            "player2points": 53, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Roberto Mora", 
+            "player1points": 0, 
+            "player2": "Antonio Castellano", 
+            "player2points": 47, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Manu Calahorro", 
+            "player1points": 100, 
+            "player2": "Angel Hermana", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Juan Gil Baena", 
+            "player1points": 100, 
+            "player2": "Javi Garcia", 
+            "player2points": 48, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Victor Vaquero", 
+            "player1points": 100, 
+            "player2": "Juanma Carvajal", 
+            "player2points": 70, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Juan Pablo Sanchez", 
+            "player1points": 100, 
+            "player2": "Dani Gomila", 
+            "player2points": 55, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Carlos Guerra", 
+            "player1points": 100, 
+            "player2": "Fede Martin", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Antonio Melero", 
+            "player1points": 100, 
+            "player2": "Antonio Porras", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Antonio Nino", 
+            "player1points": 100, 
+            "player2": "Nicolas Enrique Parejo", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Oscar Javier Sanchez", 
+            "player1points": 100, 
+            "player2": "Jose Extremera", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Borja Ortuno", 
+            "player1points": 100, 
+            "player2": "Leo Hoces", 
+            "player2points": 54, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Francisco Arenas", 
+            "player1points": 61, 
+            "player2": "Victor Ruiz", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pablo Fernandez", 
+            "player1points": 55, 
+            "player2": "Pedro Rodrigues", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lazaro Muoz", 
+            "player1points": 28, 
+            "player2": "Fran Sanchez", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alvaro Martinez", 
+            "player1points": 49, 
+            "player2": "Javier Sanz de Galdeano", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alejandro Lozano", 
+            "player1points": 0, 
+            "player2": "Eduardo Jesus Garcia", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alejandro de la Lastra", 
+            "player1points": 100, 
+            "player2": "Alejandro Exposito", 
+            "player2points": 53, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tomas Fidalgo", 
+            "player1points": 28, 
+            "player2": "Alejandro Burillo", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Manuel Garrido", 
+            "player1points": 100, 
+            "player2": "Carlos Villamandos", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Javi Tan", 
+            "player1points": 56, 
+            "player2": "Jaime Carvajal", 
+            "player2points": 52, 
+            "result": "win"
+          }, 
+          {
+            "player1": "German Garcia", 
+            "player1points": 100, 
+            "player2": "Jorge Moya", 
+            "player2points": 77, 
+            "result": "win"
+          }, 
+          {
+            "player1": "David Rubio", 
+            "player1points": 27, 
+            "player2": "Jose Carlos Coria", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Juan Manuel Diaz", 
+            "player1points": 54, 
+            "player2": "Francisco Camacho", 
+            "player2points": 62, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Javier Morena", 
+            "player1points": 74, 
+            "player2": "Daniel Diaz", 
+            "player2points": 62, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Francisco Cosme", 
+            "player1points": 100, 
+            "player2": "Julio Mariscal", 
+            "player2points": 31, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bernardo Jurado", 
+            "player1points": 74, 
+            "player2": "Antonio Ruiz Lopez", 
+            "player2points": 51, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jose Antonio Gragera", 
+            "player1points": 100, 
+            "player2": "Javier Madolell", 
+            "player2points": 22, 
+            "result": "win"
+          }, 
+          {
+            "player1": "David Aguilar", 
+            "player1points": 100, 
+            "player2": "Julio Garcia", 
+            "player2points": 31, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jose Manuel Agera", 
+            "player1points": 50, 
+            "player2": "Vicente Ruiz", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jose Maria Palacios", 
+            "player1points": 49, 
+            "player2": "Jesus Karum Cayuela", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Juan Garcia", 
+            "player1points": 100, 
+            "player2": "Apolo Rodriguez", 
+            "player2points": 68, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Oscar Ferrer", 
+            "player1points": 50, 
+            "player2": "Jose A. Collantes", 
+            "player2points": 67, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Borja Jimenez", 
+            "player1points": 100, 
+            "player2": "Alejandro Arrabal", 
+            "player2points": 68, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Fran Lopez", 
+            "player1points": 27, 
+            "player2": "Jose Manuel Sequera", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Laura Ferrer", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Antonio Nino", 
+            "player1points": 32, 
+            "player2": "Manu Calahorro", 
+            "player2points": 61, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Juan Pablo Sanchez", 
+            "player1points": 40, 
+            "player2": "Victor Vaquero", 
+            "player2points": 55, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Fran Ramos", 
+            "player1points": 100, 
+            "player2": "Carlos Guerra", 
+            "player2points": 54, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Francisco Lara", 
+            "player1points": 50, 
+            "player2": "Antonio Melero", 
+            "player2points": 47, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Antonio Castellano", 
+            "player1points": 48, 
+            "player2": "Juan Gil Baena", 
+            "player2points": 56, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Oscar Javier Sanchez", 
+            "player1points": 28, 
+            "player2": "Antonio Porras", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Fran Sanchez", 
+            "player1points": 100, 
+            "player2": "Javi Tan", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Aaron Romero", 
+            "player1points": 0, 
+            "player2": "Angel Hermana", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Borja Ortuno", 
+            "player1points": 100, 
+            "player2": "Manuel Lopez", 
+            "player2points": 26, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Javier Sanz de Galdeano", 
+            "player1points": 100, 
+            "player2": "Alejandro Burillo", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Javier Morena", 
+            "player1points": 77, 
+            "player2": "German Garcia", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jose Antonio Gragera", 
+            "player1points": 49, 
+            "player2": "Roberto Mora", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alejandro de la Lastra", 
+            "player1points": 62, 
+            "player2": "Fede Martin", 
+            "player2points": 53, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Francisco Cosme", 
+            "player1points": 100, 
+            "player2": "Jose Carlos Coria", 
+            "player2points": 22, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Juanma Carvajal", 
+            "player1points": 74, 
+            "player2": "Bernardo Jurado", 
+            "player2points": 40, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Manuel Garrido", 
+            "player1points": 100, 
+            "player2": "Javi Garcia", 
+            "player2points": 46, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Francisco Camacho", 
+            "player1points": 100, 
+            "player2": "Dani Gomila", 
+            "player2points": 76, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Eduardo Jesus Garcia", 
+            "player1points": 0, 
+            "player2": "Victor Ruiz", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pedro Rodrigues", 
+            "player1points": 100, 
+            "player2": "Alejandro Exposito", 
+            "player2points": 27, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alvaro Martinez", 
+            "player1points": 100, 
+            "player2": "David Rubio", 
+            "player2points": 26, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alejandro Lozano", 
+            "player1points": 100, 
+            "player2": "Pablo Fernandez", 
+            "player2points": 22, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Carlos Villamandos", 
+            "player1points": 0, 
+            "player2": "Juan Manuel Diaz", 
+            "player2points": 68, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Borja Jimenez", 
+            "player1points": 17, 
+            "player2": "Antonio Ruiz Lopez", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Julio Mariscal", 
+            "player1points": 100, 
+            "player2": "Tomas Fidalgo", 
+            "player2points": 31, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jorge Moya", 
+            "player1points": 100, 
+            "player2": "Jose A. Collantes", 
+            "player2points": 17, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Laura Ferrer", 
+            "player1points": 0, 
+            "player2": "Nicolas Enrique Parejo", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jesus Karum Cayuela", 
+            "player1points": 50, 
+            "player2": "Leo Hoces", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lazaro Muoz", 
+            "player1points": 100, 
+            "player2": "David Aguilar", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Juan Garcia", 
+            "player1points": 59, 
+            "player2": "Jose Extremera", 
+            "player2points": 68, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Daniel Diaz", 
+            "player1points": 100, 
+            "player2": "Vicente Ruiz", 
+            "player2points": 26, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jose Manuel Sequera", 
+            "player1points": 0, 
+            "player2": "Jaime Carvajal", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Francisco Arenas", 
+            "player1points": 100, 
+            "player2": "Fran Lopez", 
+            "player2points": 74, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Apolo Rodriguez", 
+            "player1points": 62, 
+            "player2": "Julio Garcia", 
+            "player2points": 71, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Oscar Ferrer", 
+            "player1points": 72, 
+            "player2": "Alejandro Arrabal", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jose Manuel Agera", 
+            "player1points": 100, 
+            "player2": "Jose Maria Palacios", 
+            "player2points": 62, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Javier Madolell", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Fran Ramos", 
+            "player1points": 0, 
+            "player2": "Carlos Guerra", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Antonio Nino", 
+            "player1points": 0, 
+            "player2": "Pedro Rodrigues", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "elimination"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Francisco Lara", 
+            "player1points": 70, 
+            "player2": "Victor Vaquero", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Juan Gil Baena", 
+            "player1points": 32, 
+            "player2": "Manu Calahorro", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Fran Ramos", 
+            "player1points": 74, 
+            "player2": "Fran Sanchez", 
+            "player2points": 82, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alejandro de la Lastra", 
+            "player1points": 100, 
+            "player2": "Juanma Carvajal", 
+            "player2points": 53, 
+            "result": "win"
+          }, 
+          {
+            "player1": "German Garcia", 
+            "player1points": 71, 
+            "player2": "Antonio Porras", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Borja Ortuno", 
+            "player1points": 100, 
+            "player2": "Carlos Guerra", 
+            "player2points": 56, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Antonio Castellano", 
+            "player1points": 100, 
+            "player2": "Manuel Garrido", 
+            "player2points": 44, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jose Antonio Gragera", 
+            "player1points": 0, 
+            "player2": "Javier Sanz de Galdeano", 
+            "player2points": 22, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Francisco Camacho", 
+            "player1points": 100, 
+            "player2": "Antonio Melero", 
+            "player2points": 72, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Victor Ruiz", 
+            "player1points": 55, 
+            "player2": "Pedro Rodrigues", 
+            "player2points": 61, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Francisco Cosme", 
+            "player1points": 30, 
+            "player2": "Angel Hermana", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Antonio Nino", 
+            "player1points": 100, 
+            "player2": "Juan Pablo Sanchez", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Oscar Javier Sanchez", 
+            "player1points": 100, 
+            "player2": "Lazaro Muoz", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Aaron Romero", 
+            "player1points": 100, 
+            "player2": "Julio Mariscal", 
+            "player2points": 26, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Eduardo Jesus Garcia", 
+            "player1points": 26, 
+            "player2": "Nicolas Enrique Parejo", 
+            "player2points": 76, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Javi Garcia", 
+            "player1points": 19, 
+            "player2": "Bernardo Jurado", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jose Carlos Coria", 
+            "player1points": 76, 
+            "player2": "Roberto Mora", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Javi Tan", 
+            "player1points": 100, 
+            "player2": "Alejandro Burillo", 
+            "player2points": 22, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Leo Hoces", 
+            "player1points": 0, 
+            "player2": "Daniel Diaz", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Fede Martin", 
+            "player1points": 82, 
+            "player2": "Jaime Carvajal", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Dani Gomila", 
+            "player1points": 100, 
+            "player2": "Alvaro Martinez", 
+            "player2points": 22, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jose Extremera", 
+            "player1points": 33, 
+            "player2": "Manuel Lopez", 
+            "player2points": 35, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jorge Moya", 
+            "player1points": 22, 
+            "player2": "Francisco Arenas", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alejandro Lozano", 
+            "player1points": 60, 
+            "player2": "Antonio Ruiz Lopez", 
+            "player2points": 63, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Juan Manuel Diaz", 
+            "player1points": 38, 
+            "player2": "Javier Morena", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Carlos Villamandos", 
+            "player1points": 100, 
+            "player2": "Jose Manuel Agera", 
+            "player2points": 41, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alejandro Arrabal", 
+            "player1points": 100, 
+            "player2": "Laura Ferrer", 
+            "player2points": 27, 
+            "result": "win"
+          }, 
+          {
+            "player1": "David Rubio", 
+            "player1points": 64, 
+            "player2": "Tomas Fidalgo", 
+            "player2points": 69, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Julio Garcia", 
+            "player1points": 71, 
+            "player2": "Javier Madolell", 
+            "player2points": 62, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Borja Jimenez", 
+            "player1points": 50, 
+            "player2": "Pablo Fernandez", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jose A. Collantes", 
+            "player1points": 0, 
+            "player2": "Alejandro Exposito", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Vicente Ruiz", 
+            "player1points": 100, 
+            "player2": "Juan Garcia", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "David Aguilar", 
+            "player1points": 100, 
+            "player2": "Jose Manuel Sequera", 
+            "player2points": 68, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jesus Karum Cayuela", 
+            "player1points": 28, 
+            "player2": "Fran Lopez", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Apolo Rodriguez", 
+            "player1points": 68, 
+            "player2": "Oscar Ferrer", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jose Maria Palacios", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 5, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Victor Vaquero", 
+            "player1points": 0, 
+            "player2": "Manu Calahorro", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Juan Gil Baena", 
+            "player1points": 100, 
+            "player2": "Antonio Nino", 
+            "player2points": 26, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Fran Ramos", 
+            "player1points": 68, 
+            "player2": "Angel Hermana", 
+            "player2points": 74, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Fran Sanchez", 
+            "player1points": 26, 
+            "player2": "Borja Ortuno", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Javier Sanz de Galdeano", 
+            "player1points": 76, 
+            "player2": "Antonio Castellano", 
+            "player2points": 74, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pedro Rodrigues", 
+            "player1points": 100, 
+            "player2": "Alejandro de la Lastra", 
+            "player2points": 55, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Francisco Lara", 
+            "player1points": 28, 
+            "player2": "Antonio Porras", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Francisco Camacho", 
+            "player1points": 33, 
+            "player2": "Manuel Lopez", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Aaron Romero", 
+            "player1points": 100, 
+            "player2": "Jaime Carvajal", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Javi Tan", 
+            "player1points": 0, 
+            "player2": "Manuel Garrido", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jose Antonio Gragera", 
+            "player1points": 20, 
+            "player2": "Juanma Carvajal", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Francisco Arenas", 
+            "player1points": 100, 
+            "player2": "Oscar Javier Sanchez", 
+            "player2points": 78, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Juan Pablo Sanchez", 
+            "player1points": 19, 
+            "player2": "Bernardo Jurado", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Antonio Ruiz Lopez", 
+            "player1points": 100, 
+            "player2": "Dani Gomila", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Juan Manuel Diaz", 
+            "player1points": 0, 
+            "player2": "Victor Ruiz", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nicolas Enrique Parejo", 
+            "player1points": 54, 
+            "player2": "Daniel Diaz", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Antonio Melero", 
+            "player1points": 100, 
+            "player2": "Francisco Cosme", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "German Garcia", 
+            "player1points": 0, 
+            "player2": "Carlos Guerra", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Roberto Mora", 
+            "player1points": 31, 
+            "player2": "Fede Martin", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Carlos Villamandos", 
+            "player1points": 100, 
+            "player2": "Javi Garcia", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Vicente Ruiz", 
+            "player1points": 17, 
+            "player2": "Jorge Moya", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "David Aguilar", 
+            "player1points": 0, 
+            "player2": "Tomas Fidalgo", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alejandro Burillo", 
+            "player1points": 100, 
+            "player2": "Alejandro Exposito", 
+            "player2points": 56, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Julio Garcia", 
+            "player1points": 100, 
+            "player2": "Leo Hoces", 
+            "player2points": 31, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alejandro Lozano", 
+            "player1points": 31, 
+            "player2": "Julio Mariscal", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pablo Fernandez", 
+            "player1points": 100, 
+            "player2": "Javier Morena", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jose Carlos Coria", 
+            "player1points": 100, 
+            "player2": "Lazaro Muoz", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jose Extremera", 
+            "player1points": 100, 
+            "player2": "Eduardo Jesus Garcia", 
+            "player2points": 41, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alejandro Arrabal", 
+            "player1points": 100, 
+            "player2": "Jesus Karum Cayuela", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Fran Lopez", 
+            "player1points": 100, 
+            "player2": "Laura Ferrer", 
+            "player2points": 54, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Javier Madolell", 
+            "player1points": 100, 
+            "player2": "Jose A. Collantes", 
+            "player2points": 29, 
+            "result": "win"
+          }, 
+          {
+            "player1": "David Rubio", 
+            "player1points": 0, 
+            "player2": "Apolo Rodriguez", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Borja Jimenez", 
+            "player1points": 100, 
+            "player2": "Jose Maria Palacios", 
+            "player2points": 20, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jose Manuel Sequera", 
+            "player1points": 100, 
+            "player2": "Juan Garcia", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jose Manuel Agera", 
+            "player1points": 100, 
+            "player2": "Oscar Ferrer", 
+            "player2points": 0, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 6, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Fran Ramos", 
+            "player1points": 100, 
+            "player2": "Victor Vaquero", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Javier Sanz de Galdeano", 
+            "player1points": 0, 
+            "player2": "Carlos Guerra", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Borja Ortuno", 
+            "player1points": 0, 
+            "player2": "Antonio Nino", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pedro Rodrigues", 
+            "player1points": 100, 
+            "player2": "Bernardo Jurado", 
+            "player2points": 0, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 8, 
+        "round-type": "elimination"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Manu Calahorro", 
+            "player1points": 0, 
+            "player2": "Fran Ramos", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Victor Vaquero", 
+            "player1points": 100, 
+            "player2": "Antonio Melero", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Javier Sanz de Galdeano", 
+            "player1points": 100, 
+            "player2": "Antonio Ruiz Lopez", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Angel Hermana", 
+            "player1points": 0, 
+            "player2": "Carlos Guerra", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Borja Ortuno", 
+            "player1points": 100, 
+            "player2": "Antonio Castellano", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Juan Gil Baena", 
+            "player1points": 0, 
+            "player2": "Antonio Nino", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pedro Rodrigues", 
+            "player1points": 100, 
+            "player2": "Daniel Diaz", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Antonio Porras", 
+            "player1points": 0, 
+            "player2": "Bernardo Jurado", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 16, 
+        "round-type": "elimination"
+      }
+    ], 
+    "type": "Regional", 
+    "venue": {
+      "city": "Malaga", 
+      "country": "Spain", 
+      "lat": "36.721302800000", 
+      "lon": "-4.421636600000", 
+      "name": "CC Malaga Ocio", 
+      "state": "Andalucia"
+    }, 
+    "video_url": "https://www.youtube.com/channel/UCEYxEC5K9VO2Lrc-sJA-X4g"
+  }
+}

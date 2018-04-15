@@ -2275,6 +2275,55 @@
         "sos": "0.47"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "adaptability"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "primedthrusters"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "rearadmiralchiraneau", 
+              "ship": "vt49decimator", 
+              "upgrades": {
+                "crew": [
+                  "emperorpalpatine", 
+                  "kyloren"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 739, 
         "name": "Pablo Martinez", 
         "rank": {

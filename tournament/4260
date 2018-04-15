@@ -385,75 +385,17 @@
         "sos": "0.70"
       }, 
       {
-        "list": {
-          "faction": "rebel", 
-          "pilots": [
-            {
-              "name": "lowhhrick", 
-              "ship": "auzituckgunship", 
-              "upgrades": {
-                "crew": [
-                  "tactician", 
-                  "rey"
-                ], 
-                "ept": [
-                  "drawtheirfire"
-                ]
-              }
-            }, 
-            {
-              "name": "ezrabridger", 
-              "ship": "sheathipedeclassshuttle", 
-              "upgrades": {
-                "amd": [
-                  "r3a2"
-                ], 
-                "crew": [
-                  "herasyndulla"
-                ], 
-                "ept": [
-                  "snapshot"
-                ]
-              }
-            }, 
-            {
-              "name": "mirandadoni", 
-              "ship": "kwing", 
-              "upgrades": {
-                "bomb": [
-                  "bombletgenerator"
-                ], 
-                "crew": [
-                  "c3po"
-                ], 
-                "missile": [
-                  "harpoonmissiles"
-                ], 
-                "mod": [
-                  "longrangescanners"
-                ], 
-                "turret": [
-                  "twinlaserturret"
-                ]
-              }
-            }
-          ], 
-          "vendor": {
-            "listjuggler": {}
-          }, 
-          "version": "4.2.0"
-        }, 
-        "mov": 223, 
-        "name": "Christian Schulze", 
+        "mov": 222, 
+        "name": "Harry Last", 
         "rank": {
           "swiss": 0
         }, 
         "score": 1, 
-        "sos": "0.50"
+        "sos": "0.44"
       }, 
       {
-        "mov": 222, 
-        "name": "Harry Last", 
+        "mov": 221, 
+        "name": "Markus Rothmann", 
         "rank": {
           "swiss": 0
         }, 
@@ -624,13 +566,13 @@
         "sos": "0.56"
       }, 
       {
-        "mov": 221, 
-        "name": "Markus Rothmann", 
+        "mov": 220, 
+        "name": "Thomas Wilczek", 
         "rank": {
           "swiss": 0
         }, 
         "score": 1, 
-        "sos": "0.44"
+        "sos": "0.24"
       }, 
       {
         "mov": 276, 
@@ -642,13 +584,22 @@
         "sos": "0.33"
       }, 
       {
-        "mov": 293, 
-        "name": "Will Hudson", 
+        "mov": 316, 
+        "name": "Michael Huth", 
         "rank": {
           "swiss": 0
         }, 
         "score": 2, 
-        "sos": "0.40"
+        "sos": "0.48"
+      }, 
+      {
+        "mov": 317, 
+        "name": "Kevin Baron", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.33"
       }, 
       {
         "mov": 314, 
@@ -791,24 +742,6 @@
         "sos": "0.50"
       }, 
       {
-        "mov": 297, 
-        "name": "Marco Gonzalez Hernadez", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 1, 
-        "sos": "0.28"
-      }, 
-      {
-        "mov": 317, 
-        "name": "Kevin Baron", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 1, 
-        "sos": "0.33"
-      }, 
-      {
         "mov": 321, 
         "name": "Ralph Pfeufer", 
         "rank": {
@@ -825,6 +758,24 @@
         }, 
         "score": 1, 
         "sos": "0.44"
+      }, 
+      {
+        "mov": 330, 
+        "name": "Bernhard Grbner", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.48"
+      }, 
+      {
+        "mov": 293, 
+        "name": "Will Hudson", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.40"
       }, 
       {
         "mov": 270, 
@@ -947,13 +898,13 @@
         "sos": "0.72"
       }, 
       {
-        "mov": 330, 
-        "name": "Bernhard Grbner", 
+        "mov": 297, 
+        "name": "Marco Gonzalez Hernadez", 
         "rank": {
           "swiss": 0
         }, 
         "score": 1, 
-        "sos": "0.48"
+        "sos": "0.28"
       }, 
       {
         "mov": 296, 
@@ -963,15 +914,6 @@
         }, 
         "score": 1, 
         "sos": "0.50"
-      }, 
-      {
-        "mov": 296, 
-        "name": "Martin Espinal", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 1, 
-        "sos": "0.44"
       }, 
       {
         "mov": 281, 
@@ -1130,79 +1072,21 @@
       }, 
       {
         "mov": 296, 
+        "name": "Martin Espinal", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 296, 
         "name": "Lutz Manger", 
         "rank": {
           "swiss": 0
         }, 
         "score": 1, 
         "sos": "0.33"
-      }, 
-      {
-        "list": {
-          "faction": "rebel", 
-          "pilots": [
-            {
-              "name": "lowhhrick", 
-              "ship": "auzituckgunship", 
-              "upgrades": {
-                "crew": [
-                  "tactician", 
-                  "rey"
-                ], 
-                "ept": [
-                  "drawtheirfire"
-                ]
-              }
-            }, 
-            {
-              "name": "ezrabridger", 
-              "ship": "sheathipedeclassshuttle", 
-              "upgrades": {
-                "amd": [
-                  "r3a2"
-                ], 
-                "crew": [
-                  "herasyndulla"
-                ], 
-                "ept": [
-                  "snapshot"
-                ]
-              }
-            }, 
-            {
-              "name": "mirandadoni", 
-              "ship": "kwing", 
-              "upgrades": {
-                "bomb": [
-                  "bombletgenerator"
-                ], 
-                "crew": [
-                  "c3po"
-                ], 
-                "missile": [
-                  "harpoonmissiles"
-                ], 
-                "mod": [
-                  "longrangescanners"
-                ], 
-                "turret": [
-                  "twinlaserturret"
-                ]
-              }
-            }
-          ], 
-          "vendor": {
-            "listjuggler": {}
-          }, 
-          "version": "4.2.0"
-        }, 
-        "mov": 295, 
-        "name": "Christian Schulze", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 1, 
-        "sos": "0.61"
       }, 
       {
         "mov": 294, 
@@ -1387,15 +1271,6 @@
         }, 
         "score": 1, 
         "sos": "0.48"
-      }, 
-      {
-        "mov": 220, 
-        "name": "Thomas Wilczek", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 1, 
-        "sos": "0.24"
       }, 
       {
         "mov": 144, 
@@ -2860,15 +2735,6 @@
         "sos": "0.60"
       }, 
       {
-        "mov": 488, 
-        "name": "Marian Albl", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 3, 
-        "sos": "0.60"
-      }, 
-      {
         "list": {
           "faction": "rebel", 
           "pilots": [
@@ -2968,15 +2834,6 @@
         "sos": "0.43"
       }, 
       {
-        "mov": 511, 
-        "name": "Carsten Pfeifer", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 2, 
-        "sos": "0.47"
-      }, 
-      {
         "mov": 496, 
         "name": "Jari Knudsen", 
         "rank": {
@@ -3011,6 +2868,81 @@
         }, 
         "score": 3, 
         "sos": "0.52"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "captainyorr", 
+              "ship": "lambdaclassshuttle", 
+              "upgrades": {
+                "crew": [
+                  "emperorpalpatine"
+                ], 
+                "system": [
+                  "collisiondetector"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "sensorcluster"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "omegaleader", 
+              "ship": "tiefofighter", 
+              "upgrades": {
+                "ept": [
+                  "ascoretosettle"
+                ], 
+                "mod": [
+                  "hullupgrade"
+                ], 
+                "tech": [
+                  "commrelay"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 668, 
+        "name": "Heiko Scheibner", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 3, 
+        "sos": "0.59"
+      }, 
+      {
+        "mov": 488, 
+        "name": "Marian Albl", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 3, 
+        "sos": "0.60"
       }, 
       {
         "list": {
@@ -3229,15 +3161,6 @@
         }, 
         "score": 3, 
         "sos": "0.63"
-      }, 
-      {
-        "mov": 540, 
-        "name": "Michael Frochaux", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 3, 
-        "sos": "0.61"
       }, 
       {
         "mov": 531, 
@@ -3528,79 +3451,31 @@
         "sos": "0.55"
       }, 
       {
-        "list": {
-          "faction": "imperial", 
-          "pilots": [
-            {
-              "name": "captainyorr", 
-              "ship": "lambdaclassshuttle", 
-              "upgrades": {
-                "crew": [
-                  "emperorpalpatine"
-                ], 
-                "system": [
-                  "collisiondetector"
-                ]
-              }
-            }, 
-            {
-              "name": "quickdraw", 
-              "ship": "tiesffighter", 
-              "upgrades": {
-                "ept": [
-                  "expertise"
-                ], 
-                "mod": [
-                  "lightweightframe"
-                ], 
-                "system": [
-                  "firecontrolsystem"
-                ], 
-                "tech": [
-                  "sensorcluster"
-                ], 
-                "title": [
-                  "specialopstraining"
-                ]
-              }
-            }, 
-            {
-              "name": "omegaleader", 
-              "ship": "tiefofighter", 
-              "upgrades": {
-                "ept": [
-                  "ascoretosettle"
-                ], 
-                "mod": [
-                  "hullupgrade"
-                ], 
-                "tech": [
-                  "commrelay"
-                ]
-              }
-            }
-          ], 
-          "vendor": {
-            "listjuggler": {}
-          }, 
-          "version": "4.2.0"
-        }, 
-        "mov": 668, 
-        "name": "Heiko Scheibner", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 3, 
-        "sos": "0.59"
-      }, 
-      {
-        "mov": 316, 
-        "name": "Michael Huth", 
+        "mov": 511, 
+        "name": "Carsten Pfeifer", 
         "rank": {
           "swiss": 0
         }, 
         "score": 2, 
-        "sos": "0.48"
+        "sos": "0.47"
+      }, 
+      {
+        "mov": 540, 
+        "name": "Michael Frochaux", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 3, 
+        "sos": "0.61"
+      }, 
+      {
+        "mov": 417, 
+        "name": "Kai Krupp", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.45"
       }, 
       {
         "mov": 401, 
@@ -3751,24 +3626,6 @@
         "sos": "0.57"
       }, 
       {
-        "mov": 330, 
-        "name": "Sren Patzer", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 2, 
-        "sos": "0.38"
-      }, 
-      {
-        "mov": 417, 
-        "name": "Kai Krupp", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 2, 
-        "sos": "0.45"
-      }, 
-      {
         "list": {
           "faction": "imperial", 
           "pilots": [
@@ -3836,6 +3693,73 @@
         "sos": "0.53"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "tactician", 
+                  "rey"
+                ], 
+                "ept": [
+                  "drawtheirfire"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "herasyndulla"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "c3po"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 419, 
+        "name": "Christian Schulze", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.42"
+      }, 
+      {
         "mov": 457, 
         "name": "Sebastian Gepp", 
         "rank": {
@@ -3879,6 +3803,15 @@
         }, 
         "score": 2, 
         "sos": "0.47"
+      }, 
+      {
+        "mov": 330, 
+        "name": "Sren Patzer", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.38"
       }, 
       {
         "list": {
@@ -4035,73 +3968,6 @@
       }, 
       {
         "list": {
-          "faction": "rebel", 
-          "pilots": [
-            {
-              "name": "lowhhrick", 
-              "ship": "auzituckgunship", 
-              "upgrades": {
-                "crew": [
-                  "tactician", 
-                  "rey"
-                ], 
-                "ept": [
-                  "drawtheirfire"
-                ]
-              }
-            }, 
-            {
-              "name": "ezrabridger", 
-              "ship": "sheathipedeclassshuttle", 
-              "upgrades": {
-                "amd": [
-                  "r3a2"
-                ], 
-                "crew": [
-                  "herasyndulla"
-                ], 
-                "ept": [
-                  "snapshot"
-                ]
-              }
-            }, 
-            {
-              "name": "mirandadoni", 
-              "ship": "kwing", 
-              "upgrades": {
-                "bomb": [
-                  "bombletgenerator"
-                ], 
-                "crew": [
-                  "c3po"
-                ], 
-                "missile": [
-                  "harpoonmissiles"
-                ], 
-                "mod": [
-                  "longrangescanners"
-                ], 
-                "turret": [
-                  "twinlaserturret"
-                ]
-              }
-            }
-          ], 
-          "vendor": {
-            "listjuggler": {}
-          }, 
-          "version": "4.2.0"
-        }, 
-        "mov": 419, 
-        "name": "Christian Schulze", 
-        "rank": {
-          "swiss": 0
-        }, 
-        "score": 2, 
-        "sos": "0.42"
-      }, 
-      {
-        "list": {
           "faction": "imperial", 
           "pilots": [
             {
@@ -4153,6 +4019,7 @@
         "mov": 1088, 
         "name": "Oliver Pocknell", 
         "rank": {
+          "elimination": 32, 
           "swiss": 1
         }, 
         "score": 6, 
@@ -4226,6 +4093,7 @@
         "mov": 1038, 
         "name": "Damian Drzystek", 
         "rank": {
+          "elimination": 16, 
           "swiss": 2
         }, 
         "score": 6, 
@@ -4293,6 +4161,7 @@
         "mov": 984, 
         "name": "Sascha Wagner", 
         "rank": {
+          "elimination": 8, 
           "swiss": 3
         }, 
         "score": 6, 
@@ -4360,6 +4229,7 @@
         "mov": 935, 
         "name": "Krzysztof Piszcz", 
         "rank": {
+          "elimination": 16, 
           "swiss": 4
         }, 
         "score": 6, 
@@ -4369,6 +4239,7 @@
         "mov": 887, 
         "name": "Jakub Mieczyslaw Tepper", 
         "rank": {
+          "elimination": 16, 
           "swiss": 5
         }, 
         "score": 6, 
@@ -4378,6 +4249,7 @@
         "mov": 853, 
         "name": "Heiner Keler", 
         "rank": {
+          "elimination": 32, 
           "swiss": 6
         }, 
         "score": 6, 
@@ -4387,6 +4259,7 @@
         "mov": 970, 
         "name": "Jonathan Kok", 
         "rank": {
+          "elimination": 32, 
           "swiss": 7
         }, 
         "score": 5, 
@@ -4464,6 +4337,7 @@
         "mov": 967, 
         "name": "OJ Hemmings", 
         "rank": {
+          "elimination": 4, 
           "swiss": 8
         }, 
         "score": 5, 
@@ -4473,6 +4347,7 @@
         "mov": 954, 
         "name": "Michael Stepieu", 
         "rank": {
+          "elimination": 32, 
           "swiss": 9
         }, 
         "score": 5, 
@@ -4542,6 +4417,7 @@
         "mov": 943, 
         "name": "Simon Vogel", 
         "rank": {
+          "elimination": 32, 
           "swiss": 10
         }, 
         "score": 5, 
@@ -4606,6 +4482,7 @@
         "mov": 924, 
         "name": "Arkadiusz Cala", 
         "rank": {
+          "elimination": 1, 
           "swiss": 11
         }, 
         "score": 5, 
@@ -4673,6 +4550,7 @@
         "mov": 909, 
         "name": "Gregor Kossakowski", 
         "rank": {
+          "elimination": 8, 
           "swiss": 12
         }, 
         "score": 5, 
@@ -4740,6 +4618,7 @@
         "mov": 901, 
         "name": "Jakub Makowski", 
         "rank": {
+          "elimination": 32, 
           "swiss": 13
         }, 
         "score": 5, 
@@ -4816,6 +4695,7 @@
         "mov": 898, 
         "name": "Julian Ansel", 
         "rank": {
+          "elimination": 32, 
           "swiss": 14
         }, 
         "score": 5, 
@@ -4882,6 +4762,7 @@
         "mov": 880, 
         "name": "Cyril Bucher", 
         "rank": {
+          "elimination": 4, 
           "swiss": 15
         }, 
         "score": 5, 
@@ -4942,6 +4823,7 @@
         "mov": 864, 
         "name": "Tobias Mix", 
         "rank": {
+          "elimination": 8, 
           "swiss": 16
         }, 
         "score": 5, 
@@ -5026,6 +4908,7 @@
         "mov": 864, 
         "name": "Johannes Schwarz", 
         "rank": {
+          "elimination": 32, 
           "swiss": 17
         }, 
         "score": 5, 
@@ -5096,6 +4979,7 @@
         "mov": 862, 
         "name": "Michel Melis", 
         "rank": {
+          "elimination": 32, 
           "swiss": 18
         }, 
         "score": 5, 
@@ -5105,6 +4989,7 @@
         "mov": 860, 
         "name": "Patrick Henning", 
         "rank": {
+          "elimination": 16, 
           "swiss": 19
         }, 
         "score": 5, 
@@ -5181,6 +5066,7 @@
         "mov": 856, 
         "name": "Matthias Wagner", 
         "rank": {
+          "elimination": 2, 
           "swiss": 20
         }, 
         "score": 5, 
@@ -5363,6 +5249,7 @@
         "mov": 842, 
         "name": "Misha Mikheev", 
         "rank": {
+          "elimination": 8, 
           "swiss": 23
         }, 
         "score": 5, 
@@ -5372,6 +5259,7 @@
         "mov": 837, 
         "name": "Christian Hyldager", 
         "rank": {
+          "elimination": 16, 
           "swiss": 24
         }, 
         "score": 5, 
@@ -5516,6 +5404,141 @@
         }, 
         "score": 5, 
         "sos": "0.54"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "tactician", 
+                  "rey"
+                ], 
+                "ept": [
+                  "drawtheirfire"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "herasyndulla"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "c3po"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 823, 
+        "name": "Christian Schulze", 
+        "rank": {
+          "elimination": 64, 
+          "swiss": 27
+        }, 
+        "score": 5, 
+        "sos": "0.61"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "tactician", 
+                  "rey"
+                ], 
+                "ept": [
+                  "drawtheirfire"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "herasyndulla"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "c3po"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 823, 
+        "name": "Christian Schulze", 
+        "rank": {
+          "swiss": 27
+        }, 
+        "score": 5, 
+        "sos": "0.61"
       }, 
       {
         "list": {
@@ -5784,6 +5807,7 @@
         "mov": 802, 
         "name": "Christian Jensen", 
         "rank": {
+          "elimination": 64, 
           "swiss": 30
         }, 
         "score": 5, 
@@ -5793,6 +5817,7 @@
         "mov": 797, 
         "name": "Wieger Prins", 
         "rank": {
+          "elimination": 64, 
           "swiss": 31
         }, 
         "score": 5, 
@@ -5855,6 +5880,7 @@
         "mov": 767, 
         "name": "Roger Jeske", 
         "rank": {
+          "elimination": 16, 
           "swiss": 33
         }, 
         "score": 5, 
@@ -5864,6 +5890,7 @@
         "mov": 761, 
         "name": "Karol Pietrowicz", 
         "rank": {
+          "elimination": 32, 
           "swiss": 34
         }, 
         "score": 5, 
@@ -5946,6 +5973,7 @@
         "mov": 757, 
         "name": "Stefan Ondruch", 
         "rank": {
+          "elimination": 32, 
           "swiss": 35
         }, 
         "score": 5, 
@@ -6086,6 +6114,7 @@
         "mov": 730, 
         "name": "Renato Meisser", 
         "rank": {
+          "elimination": 16, 
           "swiss": 38
         }, 
         "score": 5, 
@@ -6286,6 +6315,7 @@
         "mov": 702, 
         "name": "Jonas Klein", 
         "rank": {
+          "elimination": 32, 
           "swiss": 40
         }, 
         "score": 5, 
