@@ -3143,6 +3143,60 @@
         "sos": "0.58"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "rebeloperative", 
+              "ship": "hwk290", 
+              "upgrades": {
+                "crew": [
+                  "hotshotcopilot"
+                ]
+              }
+            }, 
+            {
+              "name": "rebeloperative", 
+              "ship": "hwk290", 
+              "upgrades": {
+                "crew": [
+                  "hotshotcopilot"
+                ]
+              }
+            }, 
+            {
+              "name": "rebeloperative", 
+              "ship": "hwk290", 
+              "upgrades": {
+                "crew": [
+                  "hotshotcopilot"
+                ]
+              }
+            }, 
+            {
+              "name": "rebeloperative", 
+              "ship": "hwk290", 
+              "upgrades": {
+                "crew": [
+                  "hotshotcopilot"
+                ]
+              }
+            }, 
+            {
+              "name": "rebeloperative", 
+              "ship": "hwk290", 
+              "upgrades": {
+                "crew": [
+                  "hotshotcopilot"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 1034, 
         "name": "*Timo Raabe", 
         "rank": {
