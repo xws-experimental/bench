@@ -15,6 +15,54 @@
         "sos": "0.50"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "rearadmiralchiraneau", 
+              "ship": "vt49decimator", 
+              "upgrades": {
+                "crew": [
+                  "kyloren"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "title": [
+                  "dauntless"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 972, 
         "name": "Manu Calahorro", 
         "rank": {
@@ -25,6 +73,52 @@
         "sos": "0.78"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "poedameron-swx57", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "blackone"
+                ]
+              }
+            }, 
+            {
+              "name": "hansolo", 
+              "ship": "yt1300", 
+              "upgrades": {
+                "crew": [
+                  "c3po", 
+                  "kylekatarn"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "title": [
+                  "millenniumfalcon"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 873, 
         "name": "Antonio Porras", 
         "rank": {
@@ -35,6 +129,61 @@
         "sos": "0.44"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "chopper", 
+              "ship": "vcx100", 
+              "upgrades": {
+                "crew": [
+                  "ezrabridger", 
+                  "maul"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "reinforceddeflectors"
+                ], 
+                "title": [
+                  "ghost"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "zeborrelios", 
+              "ship": "attackshuttle", 
+              "upgrades": {
+                "title": [
+                  "phantom"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "crew": [
+                  "hotshotcopilot"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 812, 
         "name": "Borja Ortuno", 
         "rank": {
@@ -45,6 +194,76 @@
         "sos": "0.64"
       }, 
       {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "ept": [
+                  "adaptability"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ]
+              }
+            }, 
+            {
+              "name": "dalanoberos", 
+              "ship": "m12lkimogilafighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "r5tk"
+                ]
+              }
+            }, 
+            {
+              "name": "thweek", 
+              "ship": "starviper", 
+              "upgrades": {
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "virago", 
+                  "starvipermkii"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 802, 
         "name": "Angel Hermana", 
         "rank": {
@@ -65,6 +284,75 @@
         "sos": "0.51"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "wookieeliberator", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "wookieecommandos"
+                ], 
+                "ept": [
+                  "trickshot"
+                ]
+              }
+            }, 
+            {
+              "name": "goldsquadronpilot", 
+              "ship": "ywing", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "title": [
+                  "btla4ywing"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "goldsquadronpilot", 
+              "ship": "ywing", 
+              "upgrades": {
+                "amd": [
+                  "chopper-swx72"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "title": [
+                  "btla4ywing"
+                ], 
+                "torpedo": [
+                  "bombloadout"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "r2astromech"
+                ], 
+                "mod": [
+                  "integratedastromech"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 792, 
         "name": "Juan Gil Baena", 
         "rank": {
@@ -85,6 +373,58 @@
         "sos": "0.53"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "hansolo", 
+              "ship": "yt1300", 
+              "upgrades": {
+                "crew": [
+                  "kylekatarn", 
+                  "kananjarrus"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "title": [
+                  "millenniumfalcon"
+                ]
+              }
+            }, 
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "ept": [
+                  "adaptability"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 715, 
         "name": "Victor Vaquero", 
         "rank": {
@@ -95,6 +435,51 @@
         "sos": "0.61"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "kashyyykdefender", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "wookieecommandos"
+                ]
+              }
+            }, 
+            {
+              "name": "kashyyykdefender", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "wookieecommandos"
+                ]
+              }
+            }, 
+            {
+              "name": "kashyyykdefender", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "wookieecommandos"
+                ]
+              }
+            }, 
+            {
+              "name": "kashyyykdefender", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "wookieecommandos"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 944, 
         "name": "Antonio Melero", 
         "rank": {
@@ -105,6 +490,60 @@
         "sos": "0.58"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "chopper", 
+              "ship": "vcx100", 
+              "upgrades": {
+                "crew": [
+                  "ezrabridger"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "reinforceddeflectors"
+                ], 
+                "title": [
+                  "ghost"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "zeborrelios", 
+              "ship": "attackshuttle", 
+              "upgrades": {
+                "title": [
+                  "phantom"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "crew": [
+                  "hotshotcopilot"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 880, 
         "name": "Daniel Diaz", 
         "rank": {
@@ -125,6 +564,72 @@
         "sos": "0.67"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "wardensquadronpilot", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "clustermines"
+                ], 
+                "crew": [
+                  "rey"
+                ], 
+                "mod": [
+                  "experimentalinterface"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "crimsonspecialist", 
+              "ship": "bsf17bomber", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "mod": [
+                  "deflectiveplating"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "tech": [
+                  "patternanalyzer"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r2astromech"
+                ], 
+                "bomb": [
+                  "clustermines"
+                ], 
+                "crew": [
+                  "sabinewren"
+                ], 
+                "ept": [
+                  "experthandling"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 783, 
         "name": "Antonio Ruiz Lopez", 
         "rank": {
@@ -135,6 +640,64 @@
         "sos": "0.50"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "zeborrelios", 
+              "ship": "attackshuttle", 
+              "upgrades": {
+                "crew": [
+                  "chopper"
+                ], 
+                "title": [
+                  "phantom"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "crew": [
+                  "hotshotcopilot"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ]
+              }
+            }, 
+            {
+              "name": "lothalrebel", 
+              "ship": "vcx100", 
+              "upgrades": {
+                "crew": [
+                  "ezrabridger", 
+                  "maul"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "sensorjammer"
+                ], 
+                "title": [
+                  "ghost"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 778, 
         "name": "Carlos Guerra", 
         "rank": {
@@ -145,6 +708,69 @@
         "sos": "0.60"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "nusquadronpilot", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ]
+              }
+            }, 
+            {
+              "name": "nusquadronpilot", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ]
+              }
+            }, 
+            {
+              "name": "nusquadronpilot", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 777, 
         "name": "Antonio Castellano", 
         "rank": {
@@ -155,6 +781,69 @@
         "sos": "0.61"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ]
+              }
+            }, 
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "wookieecommandos"
+                ], 
+                "ept": [
+                  "selflessness"
+                ]
+              }
+            }, 
+            {
+              "name": "goldsquadronpilot", 
+              "ship": "ywing", 
+              "upgrades": {
+                "amd": [
+                  "chopper-swx72"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "title": [
+                  "btla4ywing"
+                ], 
+                "torpedo": [
+                  "bombloadout"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "jesspava", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "integratedastromech"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 764, 
         "name": "Bernardo Jurado", 
         "rank": {
@@ -175,6 +864,61 @@
         "sos": "0.69"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "chopper", 
+              "ship": "vcx100", 
+              "upgrades": {
+                "crew": [
+                  "ezrabridger", 
+                  "maul"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "reinforceddeflectors"
+                ], 
+                "title": [
+                  "ghost"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "zeborrelios", 
+              "ship": "attackshuttle", 
+              "upgrades": {
+                "title": [
+                  "phantom"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "crew": [
+                  "hotshotcopilot"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 747, 
         "name": "Juanma Carvajal", 
         "rank": {
@@ -184,6 +928,73 @@
         "sos": "0.60"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "sabinewren"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "protonbombs", 
+                  "thermaldetonators"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 747, 
         "name": "Manuel Garrido", 
         "rank": {
@@ -193,6 +1004,64 @@
         "sos": "0.53"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "fennrau", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "crew": [
+                  "hotshotcopilot"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ]
+              }
+            }, 
+            {
+              "name": "zeborrelios", 
+              "ship": "attackshuttle", 
+              "upgrades": {
+                "crew": [
+                  "chopper"
+                ], 
+                "title": [
+                  "phantom"
+                ]
+              }
+            }, 
+            {
+              "name": "lothalrebel", 
+              "ship": "vcx100", 
+              "upgrades": {
+                "crew": [
+                  "ezrabridger", 
+                  "maul"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "reinforceddeflectors"
+                ], 
+                "title": [
+                  "ghost"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 746, 
         "name": "Aaron Romero", 
         "rank": {
@@ -220,6 +1089,72 @@
         "sos": "0.67"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "dashrendar", 
+              "ship": "yt2400", 
+              "upgrades": {
+                "cannon": [
+                  "manglercannon"
+                ], 
+                "crew": [
+                  "rey"
+                ], 
+                "ept": [
+                  "lonewolf"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "title": [
+                  "outrider"
+                ]
+              }
+            }, 
+            {
+              "name": "goldsquadronpilot", 
+              "ship": "ywing", 
+              "upgrades": {
+                "amd": [
+                  "chopper-swx72"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "title": [
+                  "btla4ywing"
+                ], 
+                "torpedo": [
+                  "bombloadout"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "herasyndulla"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 687, 
         "name": "Francisco Arenas", 
         "rank": {
@@ -238,6 +1173,64 @@
         "sos": "0.58"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "zeborrelios", 
+              "ship": "attackshuttle", 
+              "upgrades": {
+                "crew": [
+                  "chopper"
+                ], 
+                "title": [
+                  "phantom"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "crew": [
+                  "hotshotcopilot"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ]
+              }
+            }, 
+            {
+              "name": "lothalrebel", 
+              "ship": "vcx100", 
+              "upgrades": {
+                "crew": [
+                  "ezrabridger", 
+                  "maul"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "sensorjammer"
+                ], 
+                "title": [
+                  "ghost"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 632, 
         "name": "Alejandro de la Lastra", 
         "rank": {
@@ -265,6 +1258,63 @@
         "sos": "0.56"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "daggersquadronpilot", 
+              "ship": "bwing", 
+              "upgrades": {
+                "cannon": [
+                  "heavylasercannon"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ]
+              }
+            }, 
+            {
+              "name": "daggersquadronpilot", 
+              "ship": "bwing", 
+              "upgrades": {
+                "cannon": [
+                  "heavylasercannon"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ]
+              }
+            }, 
+            {
+              "name": "talasquadronpilot", 
+              "ship": "z95headhunter", 
+              "upgrades": {
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ]
+              }
+            }, 
+            {
+              "name": "talasquadronpilot", 
+              "ship": "z95headhunter", 
+              "upgrades": {
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 681, 
         "name": "Pablo Fernandez", 
         "rank": {
@@ -274,6 +1324,55 @@
         "sos": "0.44"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "hansolo", 
+              "ship": "yt1300", 
+              "upgrades": {
+                "crew": [
+                  "rey", 
+                  "c3po"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "title": [
+                  "millenniumfalcon"
+                ]
+              }
+            }, 
+            {
+              "name": "poedameron-swx57", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "tech": [
+                  "sensorcluster"
+                ], 
+                "title": [
+                  "blackone"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 671, 
         "name": "Jose Carlos Coria", 
         "rank": {
@@ -283,6 +1382,73 @@
         "sos": "0.33"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "protonbombs", 
+                  "protonbombs"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "sabinewren"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 653, 
         "name": "Oscar Javier Sanchez", 
         "rank": {
@@ -292,6 +1458,72 @@
         "sos": "0.64"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "darthvader", 
+              "ship": "tieadvanced", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "system": [
+                  "advtargetingcomputer"
+                ], 
+                "title": [
+                  "tiex1"
+                ]
+              }
+            }, 
+            {
+              "name": "nusquadronpilot", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 652, 
         "name": "Juan Manuel Diaz", 
         "rank": {
@@ -301,6 +1533,82 @@
         "sos": "0.56"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "ahsokatano", 
+              "ship": "tiefighter", 
+              "upgrades": {
+                "bomb": [
+                  "seismiccharges"
+                ], 
+                "crew": [
+                  "sabinewren"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "illicit": [
+                  "scavengercrane"
+                ], 
+                "mod": [
+                  "capturedtie"
+                ], 
+                "title": [
+                  "sabinesmasterpiece"
+                ]
+              }
+            }, 
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "ept": [
+                  "adaptability"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "crimsonspecialist", 
+              "ship": "bsf17bomber", 
+              "upgrades": {
+                "bomb": [
+                  "thermaldetonators", 
+                  "ordnancesilos"
+                ], 
+                "mod": [
+                  "deflectiveplating"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 648, 
         "name": "Jorge Moya", 
         "rank": {
@@ -328,6 +1636,57 @@
         "sos": "0.58"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "nusquadronpilot", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ]
+              }
+            }, 
+            {
+              "name": "colonelvessery", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "cannon": [
+                  "ioncannon"
+                ], 
+                "ept": [
+                  "ascoretosettle"
+                ], 
+                "title": [
+                  "tied"
+                ]
+              }
+            }, 
+            {
+              "name": "countessryad", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "cannon": [
+                  "ioncannon"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "title": [
+                  "tied"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 631, 
         "name": "Dani Gomila", 
         "rank": {
@@ -346,6 +1705,57 @@
         "sos": "0.47"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "dashrendar", 
+              "ship": "yt2400", 
+              "upgrades": {
+                "cannon": [
+                  "heavylasercannon"
+                ], 
+                "crew": [
+                  "rey"
+                ], 
+                "ept": [
+                  "lonewolf"
+                ], 
+                "mod": [
+                  "countermeasures"
+                ], 
+                "title": [
+                  "outrider"
+                ]
+              }
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "c3po"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 620, 
         "name": "Alejandro Arrabal", 
         "rank": {
@@ -364,6 +1774,53 @@
         "sos": "0.47"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "marksmanship"
+                ], 
+                "mod": [
+                  "experimentalinterface"
+                ], 
+                "system": [
+                  "electronicbaffle"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "rearadmiralchiraneau", 
+              "ship": "vt49decimator", 
+              "upgrades": {
+                "crew": [
+                  "kyloren", 
+                  "darthvader", 
+                  "rebelcaptive"
+                ], 
+                "ept": [
+                  "predator"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 602, 
         "name": "Francisco Cosme", 
         "rank": {
@@ -373,6 +1830,64 @@
         "sos": "0.53"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "zeborrelios", 
+              "ship": "attackshuttle", 
+              "upgrades": {
+                "crew": [
+                  "chopper"
+                ], 
+                "title": [
+                  "phantom"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "crew": [
+                  "hotshotcopilot"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ]
+              }
+            }, 
+            {
+              "name": "lothalrebel", 
+              "ship": "vcx100", 
+              "upgrades": {
+                "crew": [
+                  "ezrabridger", 
+                  "maul"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "sensorjammer"
+                ], 
+                "title": [
+                  "ghost"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 600, 
         "name": "Nicolas Enrique Parejo", 
         "rank": {
@@ -382,6 +1897,60 @@
         "sos": "0.44"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "kyloren", 
+              "ship": "upsilonclassshuttle", 
+              "upgrades": {
+                "crew": [
+                  "emperorpalpatine"
+                ], 
+                "ept": [
+                  "experthandling"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "advancedsensors"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "kylorensshuttle"
+                ]
+              }
+            }, 
+            {
+              "name": "testpilotblackout", 
+              "ship": "tiesilencer", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "threattracker"
+                ], 
+                "title": [
+                  "firstordervanguard"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 595, 
         "name": "Juan Pablo Sanchez", 
         "rank": {
@@ -391,6 +1960,55 @@
         "sos": "0.61"
       }, 
       {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "ketsuonyo", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "dengar"
+                ], 
+                "ept": [
+                  "outmaneuver"
+                ], 
+                "illicit": [
+                  "glitterstim", 
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "gyroscopictargeting"
+                ], 
+                "title": [
+                  "shadowcaster"
+                ]
+              }
+            }, 
+            {
+              "name": "asajjventress", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "lattsrazzi"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "illicit": [
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "countermeasures"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 583, 
         "name": "Roberto Mora", 
         "rank": {
@@ -409,6 +2027,52 @@
         "sos": "0.44"
       }, 
       {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "ketsuonyo", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "dengar"
+                ], 
+                "ept": [
+                  "fearlessness"
+                ], 
+                "illicit": [
+                  "glitterstim", 
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "title": [
+                  "shadowcaster"
+                ]
+              }
+            }, 
+            {
+              "name": "asajjventress", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "k4securitydroid"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 540, 
         "name": "German Garcia", 
         "rank": {
@@ -418,6 +2082,64 @@
         "sos": "0.53"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "jakefarrell", 
+              "ship": "awing", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit", 
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "chardaanrefit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "awingtestpilot"
+                ]
+              }
+            }, 
+            {
+              "name": "poedameron-swx57", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ], 
+                "ept": [
+                  "daredevil"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ]
+              }
+            }, 
+            {
+              "name": "blueace", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "integratedastromech"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 536, 
         "name": "Alejandro Burillo", 
         "rank": {
@@ -427,6 +2149,66 @@
         "sos": "0.56"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "testpilotblackout", 
+              "ship": "tiesilencer", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "primedthrusters"
+                ], 
+                "title": [
+                  "firstordervanguard"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "sensorcluster"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "countdown", 
+              "ship": "tiestriker", 
+              "upgrades": {
+                "title": [
+                  "adaptiveailerons"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 525, 
         "name": "Jose Extremera", 
         "rank": {
@@ -436,6 +2218,75 @@
         "sos": "0.44"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "darthvader", 
+              "ship": "tieadvanced", 
+              "upgrades": {
+                "ept": [
+                  "crackshot"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "system": [
+                  "advtargetingcomputer"
+                ], 
+                "title": [
+                  "tiex1"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "crackshot"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "targetingsynchronizer"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "puresabacc", 
+              "ship": "tiestriker", 
+              "upgrades": {
+                "ept": [
+                  "crackshot"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "adaptiveailerons"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 514, 
         "name": "Tomas Fidalgo", 
         "rank": {
@@ -445,6 +2296,47 @@
         "sos": "0.43"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "rey", 
+              "ship": "yt1300", 
+              "upgrades": {
+                "crew": [
+                  "finn", 
+                  "kananjarrus"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "title": [
+                  "millenniumfalcon-swx57"
+                ]
+              }
+            }, 
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "tactician", 
+                  "c3po"
+                ], 
+                "ept": [
+                  "expertise"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 478, 
         "name": "Julio Garcia", 
         "rank": {
@@ -508,6 +2400,60 @@
         "sos": "0.42"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "chopper", 
+              "ship": "vcx100", 
+              "upgrades": {
+                "crew": [
+                  "ezrabridger"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "reinforceddeflectors"
+                ], 
+                "title": [
+                  "ghost"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "zeborrelios", 
+              "ship": "attackshuttle", 
+              "upgrades": {
+                "title": [
+                  "phantom"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "crew": [
+                  "hotshotcopilot"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 496, 
         "name": "Fran Lopez", 
         "rank": {
@@ -517,6 +2463,75 @@
         "sos": "0.36"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "backdraft", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "nusquadronpilot", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 491, 
         "name": "Javier Morena", 
         "rank": {
@@ -526,6 +2541,54 @@
         "sos": "0.50"
       }, 
       {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "ketsuonyo", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "dengar"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "illicit": [
+                  "scavengercrane"
+                ], 
+                "mod": [
+                  "countermeasures"
+                ], 
+                "title": [
+                  "shadowcaster"
+                ]
+              }
+            }, 
+            {
+              "name": "asajjventress", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "lattsrazzi"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "illicit": [
+                  "scavengercrane"
+                ], 
+                "mod": [
+                  "countermeasures"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 491, 
         "name": "Eduardo Jesus Garcia", 
         "rank": {
@@ -544,6 +2607,63 @@
         "sos": "0.43"
       }, 
       {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "ig88b", 
+              "ship": "aggressor", 
+              "upgrades": {
+                "cannon": [
+                  "heavylasercannon"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "illicit": [
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "ig2000"
+                ]
+              }
+            }, 
+            {
+              "name": "ig88c", 
+              "ship": "aggressor", 
+              "upgrades": {
+                "cannon": [
+                  "heavylasercannon"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "illicit": [
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "ig2000"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 489, 
         "name": "Vicente Ruiz", 
         "rank": {
@@ -562,6 +2682,61 @@
         "sos": "0.61"
       }, 
       {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "contractedscout", 
+              "ship": "jumpmaster5000", 
+              "upgrades": {
+                "crew": [
+                  "intelligenceagent"
+                ], 
+                "ept": [
+                  "attannimindlink"
+                ], 
+                "illicit": [
+                  "riggedcargochute"
+                ]
+              }
+            }, 
+            {
+              "name": "asajjventress", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "lattsrazzi"
+                ], 
+                "ept": [
+                  "attannimindlink"
+                ]
+              }
+            }, 
+            {
+              "name": "thweek", 
+              "ship": "starviper", 
+              "upgrades": {
+                "illicit": [
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "virago", 
+                  "starvipermkii"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 479, 
         "name": "Borja Jimenez", 
         "rank": {
@@ -571,6 +2746,47 @@
         "sos": "0.53"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "rey", 
+              "ship": "yt1300", 
+              "upgrades": {
+                "crew": [
+                  "finn", 
+                  "kananjarrus"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "title": [
+                  "millenniumfalcon-swx57"
+                ]
+              }
+            }, 
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "tactician", 
+                  "c3po"
+                ], 
+                "ept": [
+                  "expertise"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 473, 
         "name": "Jose Manuel Agera", 
         "rank": {
@@ -598,6 +2814,70 @@
         "sos": "0.47"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "lieutenantkarsabi", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "cannon": [
+                  "jammingbeam", 
+                  "manglercannon"
+                ], 
+                "ept": [
+                  "wired"
+                ], 
+                "mod": [
+                  "advancedslam"
+                ], 
+                "title": [
+                  "xg1assaultconfiguration"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "puresabacc", 
+              "ship": "tiestriker", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "adaptiveailerons"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 334, 
         "name": "Jose Maria Palacios", 
         "rank": {
@@ -616,6 +2896,47 @@
         "sos": "0.54"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "tactician", 
+                  "c3po"
+                ], 
+                "ept": [
+                  "expertise"
+                ]
+              }
+            }, 
+            {
+              "name": "rey", 
+              "ship": "yt1300", 
+              "upgrades": {
+                "crew": [
+                  "kananjarrus", 
+                  "finn"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "title": [
+                  "millenniumfalcon-swx57"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 291, 
         "name": "Juan Garcia", 
         "rank": {
@@ -634,6 +2955,66 @@
         "sos": "0.42"
       }, 
       {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "syndicatethug", 
+              "ship": "ywing", 
+              "upgrades": {
+                "mod": [
+                  "vectoredthrusters"
+                ], 
+                "samd": [
+                  "unhingedastromech"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "kavil", 
+              "ship": "ywing", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "vectoredthrusters"
+                ], 
+                "samd": [
+                  "unhingedastromech"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "gonk"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "turret": [
+                  "autoblasterturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 231, 
         "name": "Laura Ferrer", 
         "rank": {
@@ -643,6 +3024,54 @@
         "sos": "0.43"
       }, 
       {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "bobafett", 
+              "ship": "firespray31", 
+              "upgrades": {
+                "crew": [
+                  "hotshotcopilot"
+                ], 
+                "ept": [
+                  "fearlessness"
+                ], 
+                "illicit": [
+                  "glitterstim"
+                ], 
+                "missile": [
+                  "clustermissiles"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ]
+              }
+            }, 
+            {
+              "name": "asajjventress", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "lattsrazzi"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "illicit": [
+                  "contrabandcybernetics"
+                ], 
+                "mod": [
+                  "countermeasures"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 216, 
         "name": "Jose A. Collantes", 
         "rank": {
@@ -652,6 +3081,69 @@
         "sos": "0.42"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "sensorcluster"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "theinquisitor", 
+              "ship": "tieadvprototype", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "tiev1"
+                ]
+              }
+            }, 
+            {
+              "name": "maarekstele", 
+              "ship": "tieadvanced", 
+              "upgrades": {
+                "ept": [
+                  "adaptability"
+                ], 
+                "mod": [
+                  "shieldupgrade"
+                ], 
+                "system": [
+                  "advtargetingcomputer"
+                ], 
+                "title": [
+                  "tiex1"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 290, 
         "name": "Oscar Ferrer", 
         "rank": {
