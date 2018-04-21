@@ -6,99 +6,277 @@
     "name": "Angel Squad Members Tournament", 
     "players": [
       {
-        "mov": 0, 
-        "name": "Duncan", 
-        "rank": {
-          "swiss": 1
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "rey", 
+              "ship": "yt1300", 
+              "upgrades": {
+                "crew": [
+                  "finn"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "title": [
+                  "millenniumfalcon-swx57"
+                ]
+              }
+            }, 
+            {
+              "name": "goldsquadronpilot", 
+              "ship": "ywing", 
+              "upgrades": {
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "goldsquadronpilot", 
+              "ship": "ywing", 
+              "upgrades": {
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
         }, 
-        "score": 0, 
-        "sos": "0.00"
-      }, 
-      {
-        "mov": 0, 
-        "name": "Mr. F", 
-        "rank": {
-          "swiss": 2
-        }, 
-        "score": 0, 
-        "sos": "0.00"
-      }, 
-      {
-        "mov": 0, 
-        "name": "Gerrit", 
-        "rank": {
-          "swiss": 3
-        }, 
-        "score": 0, 
-        "sos": "0.00"
-      }, 
-      {
-        "mov": 0, 
-        "name": "John", 
-        "rank": {
-          "swiss": 4
-        }, 
-        "score": 0, 
-        "sos": "0.00"
-      }, 
-      {
-        "mov": 0, 
+        "mov": 466, 
         "name": "Jurrie", 
         "rank": {
-          "swiss": 5
+          "elimination": 1, 
+          "swiss": 1
         }, 
-        "score": 0, 
-        "sos": "0.00"
+        "score": 3, 
+        "sos": "0.55"
       }, 
       {
-        "mov": 0, 
-        "name": "Leen", 
-        "rank": {
-          "swiss": 6
-        }, 
-        "score": 0, 
-        "sos": "0.00"
-      }, 
-      {
-        "mov": 0, 
-        "name": "Maarten", 
-        "rank": {
-          "swiss": 7
-        }, 
-        "score": 0, 
-        "sos": "0.00"
-      }, 
-      {
-        "mov": 0, 
-        "name": "Michiel", 
-        "rank": {
-          "swiss": 8
-        }, 
-        "score": 0, 
-        "sos": "0.00"
-      }, 
-      {
-        "mov": 0, 
+        "mov": 436, 
         "name": "Rob", 
         "rank": {
-          "swiss": 9
+          "elimination": 2, 
+          "swiss": 2
         }, 
-        "score": 0, 
-        "sos": "0.00"
+        "score": 2, 
+        "sos": "0.22"
       }, 
       {
-        "mov": 0, 
+        "mov": 417, 
+        "name": "John", 
+        "rank": {
+          "elimination": 3, 
+          "swiss": 3
+        }, 
+        "score": 2, 
+        "sos": "0.55"
+      }, 
+      {
+        "mov": 351, 
+        "name": "Gerrit", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 4
+        }, 
+        "score": 2, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 348, 
         "name": "Tjeerd", 
         "rank": {
+          "elimination": 5, 
+          "swiss": 5
+        }, 
+        "score": 2, 
+        "sos": "0.66"
+      }, 
+      {
+        "mov": 306, 
+        "name": "Fred", 
+        "rank": {
+          "elimination": 6, 
+          "swiss": 6
+        }, 
+        "score": 1, 
+        "sos": "0.55"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "omegaleader", 
+              "ship": "tiefofighter", 
+              "upgrades": {
+                "ept": [
+                  "juke"
+                ], 
+                "tech": [
+                  "commrelay"
+                ]
+              }
+            }, 
+            {
+              "name": "kyloren", 
+              "ship": "tiesilencer", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "advancedsensors"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ]
+              }
+            }, 
+            {
+              "name": "theinquisitor", 
+              "ship": "tieadvprototype", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "tiev1"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 297, 
+        "name": "Michiel", 
+        "rank": {
+          "elimination": 7, 
+          "swiss": 7
+        }, 
+        "score": 1, 
+        "sos": "0.22"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "nusquadronpilot", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "title": [
+                  "os1arsenalloadout"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "backdraft", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "trickshot"
+                ], 
+                "missile": [
+                  "cruisemissiles"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 225, 
+        "name": "Duncan", 
+        "rank": {
+          "elimination": 8, 
+          "swiss": 8
+        }, 
+        "score": 1, 
+        "sos": "0.77"
+      }, 
+      {
+        "mov": 128, 
+        "name": "Leen", 
+        "rank": {
+          "elimination": 9, 
+          "swiss": 9
+        }, 
+        "score": 1, 
+        "sos": "0.55"
+      }, 
+      {
+        "mov": 26, 
+        "name": "Maarten", 
+        "rank": {
+          "elimination": 10, 
           "swiss": 10
         }, 
         "score": 0, 
-        "sos": "0.00"
+        "sos": "0.55"
       }
     ], 
     "round_length": 60, 
     "rounds": [], 
-    "type": "Regional", 
+    "type": "Other", 
     "venue": {
       "city": "Amersfoort", 
       "country": "Netherlands", 
