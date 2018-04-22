@@ -60,6 +60,74 @@
         "sos": "0.58"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "gunner"
+                ], 
+                "ept": [
+                  "snapshot"
+                ], 
+                "mod": [
+                  "pulsedrayshield"
+                ]
+              }
+            }, 
+            {
+              "name": "ahsokatano", 
+              "ship": "tiefighter", 
+              "upgrades": {
+                "crew": [
+                  "operationsspecialist"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "illicit": [
+                  "blackmarketslicertools"
+                ], 
+                "mod": [
+                  "capturedtie"
+                ], 
+                "title": [
+                  "sabinesmasterpiece"
+                ]
+              }
+            }, 
+            {
+              "name": "sabinewren", 
+              "ship": "tiefighter", 
+              "upgrades": {
+                "ept": [
+                  "intensity"
+                ], 
+                "mod": [
+                  "stealthdevice"
+                ]
+              }
+            }, 
+            {
+              "name": "captainrex", 
+              "ship": "tiefighter"
+            }, 
+            {
+              "name": "zeborrelios", 
+              "ship": "tiefighter"
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 559, 
         "name": "Chudy", 
         "rank": {
