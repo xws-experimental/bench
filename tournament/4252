@@ -61,12 +61,12 @@
         "sos": "0.63"
       }, 
       {
-        "mov": 150, 
-        "name": "Taira", 
+        "mov": 0, 
+        "name": "deleted", 
         "rank": {
           "swiss": 0
         }, 
-        "score": 1, 
+        "score": 0, 
         "sos": "0.00"
       }, 
       {
@@ -811,7 +811,7 @@
             "result": "win"
           }, 
           {
-            "player1": "Taira", 
+            "player1": "deleted", 
             "player1points": null, 
             "player2": "", 
             "player2points": null, 
