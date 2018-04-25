@@ -6,6 +6,66 @@
     "name": "April Season One Kit", 
     "players": [
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "sienarjaemusanalyst", 
+              "ship": "tiesilencer", 
+              "upgrades": {
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ]
+              }
+            }, 
+            {
+              "name": "sienarjaemusanalyst", 
+              "ship": "tiesilencer", 
+              "upgrades": {
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 644, 
         "name": "Calum Brown", 
         "rank": {
@@ -24,6 +84,67 @@
         "sos": "0.75"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "nusquadronpilot", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ]
+              }
+            }, 
+            {
+              "name": "nusquadronpilot", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ]
+              }
+            }, 
+            {
+              "name": "nusquadronpilot", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ]
+              }
+            }, 
+            {
+              "name": "nusquadronpilot", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ]
+              }
+            }, 
+            {
+              "name": "academypilot", 
+              "ship": "tiefighter"
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 549, 
         "name": "Martin Wilks", 
         "rank": {
@@ -42,6 +163,60 @@
         "sos": "0.44"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "captainyorr", 
+              "ship": "lambdaclassshuttle", 
+              "upgrades": {
+                "crew": [
+                  "emperorpalpatine"
+                ], 
+                "system": [
+                  "collisiondetector"
+                ]
+              }
+            }, 
+            {
+              "name": "theinquisitor", 
+              "ship": "tieadvprototype", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "tiev1"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 515, 
         "name": "Alex Birt", 
         "rank": {
@@ -87,6 +262,85 @@
         "sos": "0.50"
       }, 
       {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "toranikulda", 
+              "ship": "m12lkimogilafighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "r5tk"
+                ]
+              }
+            }, 
+            {
+              "name": "captainjostero", 
+              "ship": "kihraxzfighter", 
+              "upgrades": {
+                "ept": [
+                  "deadeye"
+                ], 
+                "illicit": [
+                  "contrabandcybernetics"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips", 
+                  "munitionsfailsafe"
+                ], 
+                "title": [
+                  "vaksai"
+                ]
+              }
+            }, 
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "thermaldetonators"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 421, 
         "name": "Jimmy Khan", 
         "rank": {
@@ -168,6 +422,60 @@
         "sos": "0.50"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "sienarjaemusanalyst", 
+              "ship": "tiesilencer", 
+              "upgrades": {
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ]
+              }
+            }, 
+            {
+              "name": "sienarjaemusanalyst", 
+              "ship": "tiesilencer", 
+              "upgrades": {
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ]
+              }
+            }, 
+            {
+              "name": "majorstridan", 
+              "ship": "upsilonclassshuttle", 
+              "upgrades": {
+                "crew": [
+                  "intelligenceagent"
+                ], 
+                "system": [
+                  "electronicbaffle"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 347, 
         "name": "David Montgomery", 
         "rank": {

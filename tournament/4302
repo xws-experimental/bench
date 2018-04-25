@@ -74,23 +74,14 @@
           "faction": "imperial", 
           "pilots": [
             {
-              "name": "quickdraw", 
-              "ship": "tiesffighter", 
+              "name": "omicrongrouppilot", 
+              "ship": "lambdaclassshuttle", 
               "upgrades": {
-                "ept": [
-                  "veteraninstincts"
-                ], 
-                "missile": [
-                  "harpoonmissiles"
-                ], 
-                "mod": [
-                  "guidancechips"
+                "crew": [
+                  "emperorpalpatine"
                 ], 
                 "system": [
-                  "firecontrolsystem"
-                ], 
-                "title": [
-                  "specialopstraining"
+                  "collisiondetector"
                 ]
               }
             }, 
@@ -116,14 +107,23 @@
               }
             }, 
             {
-              "name": "omicrongrouppilot", 
-              "ship": "lambdaclassshuttle", 
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
               "upgrades": {
-                "crew": [
-                  "emperorpalpatine"
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
                 ], 
                 "system": [
-                  "collisiondetector"
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "specialopstraining"
                 ]
               }
             }

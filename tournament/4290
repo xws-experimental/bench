@@ -374,6 +374,54 @@
         "sos": "0.63"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "deltasquadronpilot", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }, 
+            {
+              "name": "colonelvessery", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "juke"
+                ], 
+                "mod": [
+                  "twinionenginemkii"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }, 
+            {
+              "name": "countessryad", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "twinionenginemkii"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 481, 
         "name": "Matthias Celis", 
         "rank": {
