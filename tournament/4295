@@ -673,6 +673,50 @@
         "sos": "0.58"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "janors", 
+                  "jynerso"
+                ], 
+                "ept": [
+                  "predator"
+                ], 
+                "mod": [
+                  "experimentalinterface"
+                ]
+              }
+            }, 
+            {
+              "name": "rey", 
+              "ship": "yt1300", 
+              "upgrades": {
+                "crew": [
+                  "finn", 
+                  "c3po"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "title": [
+                  "millenniumfalcon"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 839, 
         "name": "Thilo \"Thilol\"", 
         "rank": {
