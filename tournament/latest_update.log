@@ -3,39 +3,15 @@ From github.com:baranidlo/bench
 Already up-to-date.
 Moving old 'tournaments' to 'tournaments.old'...
 Downloading new 'tournaments' file...
---2018-05-02 07:03:32--  http://lists.starwarsclubhouse.com/api/v1/tournaments
+--2018-05-03 07:03:34--  http://lists.starwarsclubhouse.com/api/v1/tournaments
 Resolving lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)... 34.206.101.184
 Connecting to lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)|34.206.101.184|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 40450 (40K) [application/json]
 Saving to: ‘tournaments’
 
-     0K .......... .......... .......... .........            100%  497K=0.08s
+     0K .......... .......... .......... .........            100%  390K=0.1s
 
-2018-05-02 07:03:32 (497 KB/s) - ‘tournaments’ saved [40450/40450]
+2018-05-03 07:03:34 (390 KB/s) - ‘tournaments’ saved [40450/40450]
 
 Downloading new tournament list data...
---2018-05-02 07:03:32--  http://lists.starwarsclubhouse.com/api/v1/tournament/4325
-Resolving lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)... 34.206.101.184
-Connecting to lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)|34.206.101.184|:80... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 38182 (37K) [application/json]
-Saving to: ‘4325’
-
-     0K .......... .......... .......... .......              100%  510K=0.07s
-
-2018-05-02 07:03:34 (510 KB/s) - ‘4325’ saved [38182/38182]
-
---2018-05-02 07:03:34--  http://lists.starwarsclubhouse.com/api/v1/tournament/4326
-Resolving lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)... 34.206.101.184
-Connecting to lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)|34.206.101.184|:80... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 9915 (9.7K) [application/json]
-Saving to: ‘4326’
-
-     0K .........                                             100%  199M=0s
-
-2018-05-02 07:03:34 (199 MB/s) - ‘4326’ saved [9915/9915]
-
-To git@github.com:baranidlo/bench.git
-   c694082..0ec7e6c  gh-pages -> gh-pages
