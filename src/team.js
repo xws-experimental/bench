@@ -261,6 +261,7 @@ Team.prototype = {
 	
         /* This section is required to ensure that init functions that rely on
          * other members of the list (e.g. docking Nashta Pup, Phantom, etc.)
+         * or update count for other cards (Extra Munitions, Jabba, etc.)
          * works correctly.  I am very sad that this is necessary. */
         for (i in squadron) {
 	    u=squadron[i];
@@ -275,6 +276,9 @@ Team.prototype = {
 		    if (typeof upg.dockable!=="undefined" 
                             && upg.dockable 
                             && typeof upg.init=="function") {
+                        upg.init(u);
+                    }
+                    if (typeof upg.addOrdnance!=="undefined" && upg.addOrdnance){
                         upg.init(u);
                     }
 		}
