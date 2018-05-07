@@ -3373,6 +3373,7 @@ var UPGRADES=window.UPGRADES= [
     {
         name: "Extra Munitions",
         type: Unit.TORPEDO,
+        addOrdnance: true,
         limited: true,
 	firesnd:"missile",
 	isWeapon: function() { return false; },
@@ -6696,6 +6697,7 @@ var UPGRADES=window.UPGRADES= [
      done:true,
      takesdouble:true,
      type:Unit.CREW,
+     addOrdnance: true,
      faction:Unit.SCUM,
      points:5,
      init: function(sh) {
@@ -6863,7 +6865,7 @@ var UPGRADES=window.UPGRADES= [
                         } else bomb.desactivate();
                         //var dm=this.getpathmatrix(this.m.clone().rotate(0,0,0).translate(0,GW/2+i*dropped.size*2),"F0");
                         dropped.m=sh.m.clone().rotate(270,0,0);
-                        dropped.display(GW/3+(i*10*dropped.size),0); //offset position
+                        dropped.display(GW/4+(i*2*dropped.size),0); //offset position
                         sh.bombdropped(dropped);
                         dropped.setdefaultclickhandler();
                         dropped.addDrag();
@@ -7181,6 +7183,7 @@ var UPGRADES=window.UPGRADES= [
 		done:true,
 		points:2,
 		ship: "B/SF-17 Bomber",
+                addOrdnance: true,
 		isBomb: function() { return false; },
 		isWeapon: function() { return false; },
 		init: function(sh) {
