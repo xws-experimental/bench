@@ -1,0 +1,85 @@
+{
+  "tournament": {
+    "date": "2018-05-06", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4336, 
+    "name": "BStrat Casual Tournament", 
+    "players": [
+      {
+        "mov": 446, 
+        "name": "John DiMaggio", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 391, 
+        "name": "Kent Camargo", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 310, 
+        "name": "Kin Lee", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 370, 
+        "name": "Jorge Gonzalez", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 1, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 259, 
+        "name": "Matthew Kreiner", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 1, 
+        "sos": "0.83"
+      }, 
+      {
+        "mov": 150, 
+        "name": "Brando Medina", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Ben Fullon", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 0, 
+        "sos": "0.78"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [], 
+    "type": "Other", 
+    "venue": {
+      "city": "Brooklyn", 
+      "country": "United States of America", 
+      "lat": "42.433117800000", 
+      "lon": "-78.748362900000", 
+      "name": "", 
+      "state": "New York"
+    }, 
+    "video_url": "http://"
+  }
+}
