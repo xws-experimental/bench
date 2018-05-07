@@ -6863,7 +6863,7 @@ var UPGRADES=window.UPGRADES= [
                         } else bomb.desactivate();
                         //var dm=this.getpathmatrix(this.m.clone().rotate(0,0,0).translate(0,GW/2+i*dropped.size*2),"F0");
                         dropped.m=sh.m.clone().rotate(270,0,0);
-                        dropped.display(GW/3+(i*10*dropped.size),0); //offset position
+                        dropped.display(GW/4+(i*2*dropped.size),0); //offset position
                         sh.bombdropped(dropped);
                         dropped.setdefaultclickhandler();
                         dropped.addDrag();
