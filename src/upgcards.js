@@ -3373,6 +3373,7 @@ var UPGRADES=window.UPGRADES= [
     {
         name: "Extra Munitions",
         type: Unit.TORPEDO,
+        addOrdnance: true,
         limited: true,
 	firesnd:"missile",
 	isWeapon: function() { return false; },
@@ -6696,6 +6697,7 @@ var UPGRADES=window.UPGRADES= [
      done:true,
      takesdouble:true,
      type:Unit.CREW,
+     addOrdnance: true,
      faction:Unit.SCUM,
      points:5,
      init: function(sh) {
@@ -7181,6 +7183,7 @@ var UPGRADES=window.UPGRADES= [
 		done:true,
 		points:2,
 		ship: "B/SF-17 Bomber",
+                addOrdnance: true,
 		isBomb: function() { return false; },
 		isWeapon: function() { return false; },
 		init: function(sh) {
