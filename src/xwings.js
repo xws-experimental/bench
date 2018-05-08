@@ -374,7 +374,10 @@ function nextunit(cando, changeturn,changephase,activenext) {
 }
 function endphase() {
     var i;
-    for (i in squadron) squadron[i].endphase();
+    for (i in squadron){
+        squadron[i].endphase();
+        squadron[i].checkdead();
+    }
     for (i in OBSTACLES) if (typeof OBSTACLES[i].endphase!="undefined") OBSTACLES[i].endphase();
 }
 function nextcombat() {
