@@ -3516,6 +3516,7 @@ var UPGRADES=window.UPGRADES= [
 			{org:self,name:self.name,type:"ILLICIT",action:function(n) {
 			    this.addstress();
 			    sh.glitter=self.glitter=round;
+                            sh.log("+1 %STRESS%, change %FOCUS% to %HIT% or %EVADE% for 1 round [%0]",self.name);
 			    this.endnoaction(n,"ILLICIT");
 			}.bind(this)}],"",true);
 		}
