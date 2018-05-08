@@ -275,7 +275,9 @@ function addunit(n,faction,u) {
 	u=new Unit(currentteam.team,n);
 	u.faction=faction;
     }
-    for (var i in metaUnit.prototype) u[i]=metaUnit.prototype[i];
+    for(var j in Unit.prototype){
+        u[j]=Unit.prototype[j];
+    }
     for (var j in PILOTS[u.pilotid]) {
         var p=PILOTS[u.pilotid];
         if (typeof p[j]=="function") u[j]=p[j];
@@ -285,6 +287,9 @@ function addunit(n,faction,u) {
 	u.init();
     }
     if (currentteam.team==3) { 
+        // Probably only need metaUnit functions for the create page
+        for (var i in metaUnit.prototype) u[i]=metaUnit.prototype[i];
+        
 	$("#listunits").append("<li id='unit"+u.id+"'></li>");
 	u.show();
 	$("li#unit"+u.id).hover(function() { $(".highlighted").removeClass("highlighted"); 
