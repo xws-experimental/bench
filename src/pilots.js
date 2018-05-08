@@ -52,9 +52,11 @@ var maarek_fct = function() {
     var unit=this;
     var newdeal=function(c,f,p) {
 	var pp=$.Deferred();
+        var attacker=attackunit; // need to store values *at the time* for closure
+        var target=targetunit;
 	p.then(function(cf) {
 	    var crit=cf.crit;
-	    if (cf.face==Critical.FACEUP&&attackunit==unit&&targetunit==this) {
+	    if (cf.face==Critical.FACEUP&&attacker==unit&&target==this) {
 		var s1=this.selectdamage();
 		Critical.CRITICAL_DECK[s1].count--;
 		var s2=this.selectdamage();
