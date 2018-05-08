@@ -88,6 +88,78 @@
         "sos": "0.60"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "darthvader", 
+              "ship": "tieadvanced", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "cruisemissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "system": [
+                  "advtargetingcomputer"
+                ], 
+                "title": [
+                  "tiex1"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "rhosquadronveteran", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "ept": [
+                  "deadeye"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 730, 
         "name": "Denny The Sicillian", 
         "rank": {
@@ -208,6 +280,63 @@
         "sos": "0.53"
       }, 
       {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "bobafett", 
+              "ship": "firespray31", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "cannon": [
+                  "ioncannon"
+                ], 
+                "crew": [
+                  "dengar"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "illicit": [
+                  "glitterstim"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "title": [
+                  "andrasta"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "protectoratestarfighter", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "concorddawnprotector"
+                ], 
+                "torpedo": [
+                  "protontorpedoes"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 514, 
         "name": "Ian Kafka", 
         "rank": {
@@ -312,6 +441,63 @@
         "sos": "0.37"
       }, 
       {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "syndicatethug", 
+              "ship": "ywing", 
+              "upgrades": {
+                "samd": [
+                  "unhingedastromech"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "syndicatethug", 
+              "ship": "ywing", 
+              "upgrades": {
+                "samd": [
+                  "unhingedastromech"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "syndicatethug", 
+              "ship": "ywing", 
+              "upgrades": {
+                "samd": [
+                  "unhingedastromech"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "syndicatethug", 
+              "ship": "ywing", 
+              "upgrades": {
+                "samd": [
+                  "unhingedastromech"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 481, 
         "name": "Charles Shepherd", 
         "rank": {
@@ -330,8 +516,85 @@
         "sos": "0.60"
       }, 
       {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "dalanoberos", 
+              "ship": "m12lkimogilafighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "illicit": [
+                  "contrabandcybernetics"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "unhingedastromech"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ]
+              }
+            }, 
+            {
+              "name": "viktorhel", 
+              "ship": "kihraxzfighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "illicit": [
+                  "scavengercrane"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips", 
+                  "vectoredthrusters", 
+                  "stealthdevice"
+                ], 
+                "title": [
+                  "vaksai"
+                ]
+              }
+            }, 
+            {
+              "name": "zuckuss", 
+              "ship": "g1astarfighter", 
+              "upgrades": {
+                "cannon": [
+                  "tractorbeam"
+                ], 
+                "crew": [
+                  "bobafett"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "misthunter"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 427, 
-        "name": "Alexander Lis", 
+        "name": "Aleksander Lis", 
         "rank": {
           "swiss": 15
         }, 
@@ -348,6 +611,64 @@
         "sos": "0.46"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "c3po"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "herasyndulla"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }, 
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "rey", 
+                  "tactician"
+                ], 
+                "ept": [
+                  "selflessness"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 339, 
         "name": "David Linott", 
         "rank": {
@@ -357,6 +678,63 @@
         "sos": "0.53"
       }, 
       {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "fennrau", 
+              "ship": "protectoratestarfighter", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "concorddawnprotector"
+                ], 
+                "torpedo": [
+                  "protontorpedoes"
+                ]
+              }
+            }, 
+            {
+              "name": "bobafett", 
+              "ship": "firespray31", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "cannon": [
+                  "ioncannon"
+                ], 
+                "crew": [
+                  "dengar"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "illicit": [
+                  "glitterstim"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "title": [
+                  "andrasta"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 337, 
         "name": "Phil GC", 
         "rank": {
@@ -366,12 +744,57 @@
         "sos": "0.52"
       }, 
       {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "kathscarlet", 
+              "ship": "firespray31", 
+              "upgrades": {
+                "cannon": [
+                  "heavylasercannon"
+                ], 
+                "crew": [
+                  "dengar"
+                ], 
+                "ept": [
+                  "expertise"
+                ]
+              }
+            }, 
+            {
+              "name": "bobafett", 
+              "ship": "firespray31", 
+              "upgrades": {
+                "crew": [
+                  "k4securitydroid"
+                ], 
+                "ept": [
+                  "trickshot"
+                ], 
+                "illicit": [
+                  "glitterstim"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 321, 
         "name": "Peter Burmis", 
         "rank": {
           "swiss": 19
         }, 
-        "score": 10, 
+        "score": 1, 
         "sos": "0.50"
       }, 
       {
@@ -410,7 +833,7 @@
       "country": "United Kingdom", 
       "lat": "51.402804600000", 
       "lon": "0.014814200000", 
-      "name": "", 
+      "name": "Warboar Games", 
       "state": "Bromley"
     }, 
     "video_url": "http://"
