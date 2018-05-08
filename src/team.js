@@ -207,9 +207,6 @@ Team.prototype = {
 	for(i in shiplist){
             var ship=shiplist[i];
             var u=addunit(ship.pilotID,this.teamlist.listFaction);
-            for(var j in Unit.prototype){
-                u[j]=Unit.prototype[j];
-            }
             u.tosquadron(s);
             u.tlIndex=i;    // Hack to let ships know index of their SimpleUnit
             u.team=this.team;
