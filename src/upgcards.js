@@ -3075,13 +3075,14 @@ var UPGRADES=window.UPGRADES= [
 	done:true,
 	init: function(sh) {
 	    var self=this;
+            var tenteki=/The Inquisitor/;
 	    sh.wrap_after("modifydefenseroll",this,function(attacker,m,n,ch) {
-		if (attacker.getsector(this)>2&&Unit.FE_blank(ch,n)>0) ch= ch+Unit.FE_EVADE;
+		if (!attacker.name.match(tenteki) && attacker.getsector(this)>2&&Unit.FE_blank(ch,n)>0) ch= ch+Unit.FE_EVADE;
 		return ch;
 	    });
 	    sh.adddicemodifier(Unit.DEFENSE_M,Unit.MOD_M,Unit.DEFENSE_M,this,{
 		req:function(m,n) {
-		    if (activeunit.getsector(this)>2) return self.isactive;
+		    if (!activeunit.name.match(tenteki) && activeunit.getsector(this)>2) return self.isactive;
 		    return false;
 		}.bind(sh),
 		f:function(m,n) {
