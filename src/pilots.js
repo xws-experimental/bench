@@ -3908,7 +3908,7 @@ window.PILOTS = [
 	init:function() {
 	    this.qdattack=-1;
 	    this.addattack(function(c,h) { 
-		return this.qdattack<round;
+		return (!this.dead) && (this.qdattack<round);
 	    }, this,[this.weapons[0]],function() {
 		this.qdattack=round;
 	    },function() {
