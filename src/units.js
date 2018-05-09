@@ -1595,7 +1595,14 @@ Unit.prototype = {
 	    u.doselection(function(n) {
 		u.resolveactionmove.call(
 		    this,p,
-		    function (t,k) { t.ocollision=t.getocollisions(oldm,p[k]); t.endnoaction(n,"BOOST"); },true,true);
+		    function (t,k) { 
+                        t.ocollision=t.getocollisions(oldm,p[k]);
+                        if(t.ocollision.overlap!==-1){
+                            t.resolveocollision(t.ocollision.overlap,t.ocollision.template);
+                        }
+                        t.endnoaction(n,"BOOST"); 
+                    },
+                    true,true);
 	    }.bind(this));
 	}
     },
