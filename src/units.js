@@ -3986,12 +3986,13 @@ Unit.prototype = {
     resolvehit: function(n) {
 	var s=0;
 	if (n==0) return 0;
-	if (this.shield>n) this.removeshield(n);
+	if (this.shield>=n) this.removeshield(n);
 	else {
 	    s=n-this.shield;
 	    if (this.shield>0) this.removeshield(this.shield);
 	    if (s>0) this.applydamage(s);
-	}	    
+	}
+        this.showoverflow(); // To force critical display
 	this.show();
 	return s;
     },
@@ -4000,11 +4001,12 @@ Unit.prototype = {
 	if (n==0) return 0;
 	if (this.shield>n) this.removeshield(n);
 	else {
-	    var s=n-this.shield;
+	    s=n-this.shield;
 	    if (this.shield>0) this.removeshield(this.shield);
 	    if (s>0) this.applycritical(s);
 	}
-	this.show();
+	this.showoverflow(); // To force critical display
+        this.show();
 	return s;
     },
     removehull: function(n) {
@@ -4109,6 +4111,7 @@ Unit.prototype = {
 		    this.checkdead(); 
 		    break;
 		case Critical.DISCARD: this.criticals.slice(this.criticals.indexOf(cr),1);
+                    break;
 		}
 		this.show();
 	    }.bind(this));
@@ -4123,8 +4126,11 @@ Unit.prototype = {
 	    this.deal(cr,Critical.FACEUP).done(function(c) {
 		switch(c.face) {
 		case Critical.FACEUP: c.crit.faceup(); this.movelog("c-"+s);
-		case Critical.FACEDOWN: this.removehull(1); break;
+		case Critical.FACEDOWN: this.removehull(1); 
+                    this.checkdead();
+                    break;
 		case Critical.DISCARD: this.criticals.slice(this.criticals.indexOf(cr),1);
+                    break;
 		}
 		this.show();
 	    }.bind(this));
