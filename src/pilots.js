@@ -3710,23 +3710,41 @@ window.PILOTS = [
       init: function() {
 	  var self=this;
 	  self.flip=-1;
-	  for (var i=0; i<this.upgrades.length; i++) {
-	      var upg=this.upgrades[i];
-	      if (upg.type==Unit.ELITE) (function(upg) {
+          $(document).on("upgradeinstalled",function(e,ship,upg){
+              if(ship===self){
+                  if (upg.type==Unit.ELITE) (function(upg) {
 		  upg.wrap_after("desactivate",this,function() {
 		      if (self.flip<round) { 
-			  self.donoaction([{org:self,name:self.name,type:"Unit.ELITE",
-					    action:function(n) {
-						upg.isactive=true;
-						self.log("name reactivated:"+upg.name);
-						//if (typeof upg.init=="function") upg.init(self);
-						self.flip=round;
-						self.endnoaction(n,"Unit.ELITE");
-					    }}],"Choose to reactivate an elite upgrade (or not)",true);
+			  self.donoaction([{org:self,name:self.name,type:"ELITE",
+                            action:function(n) {
+                                upg.isactive=true;
+                                self.log("name reactivated:"+upg.name);
+                                //if (typeof upg.init=="function") upg.init(self);
+                                self.flip=round;
+                                self.endnoaction(n,Unit.ELITE);
+                            }.bind(self)}],"Choose to reactivate an elite upgrade (or not)",true);
 		      }
 		  });
-	      })(upg);
-	  }
+                })(upg);
+              }
+          });
+//	  for (var i=0; i<this.upgrades.length; i++) {
+//	      var upg=this.upgrades[i];
+//	      if (upg.type==Unit.ELITE) (function(upg) {
+//		  upg.wrap_after("desactivate",this,function() {
+//		      if (self.flip<round) { 
+//			  self.donoaction([{org:self,name:self.name,type:"Unit.ELITE",
+//                            action:function(n) {
+//                                upg.isactive=true;
+//                                self.log("name reactivated:"+upg.name);
+//                                //if (typeof upg.init=="function") upg.init(self);
+//                                self.flip=round;
+//                                self.endnoaction(n,"Unit.ELITE");
+//                            }}],"Choose to reactivate an elite upgrade (or not)",true);
+//		      }
+//		  });
+//	      })(upg);
+//	  }
       },
     },
     { name:"Lothal Rebel",

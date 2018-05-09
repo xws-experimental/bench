@@ -3925,7 +3925,7 @@ var UPGRADES=window.UPGRADES= [
 	init: function(sh) {
 	    var self=this;
             sh.adddicemodifier(Unit.DEFENDCOMPARE_M,Unit.ADD_M,Unit.DEFENSE_M,this,{
-                req:function() { return (self.isactive); },
+                req:function() { return (self.isactive && attackunit===sh); },
                 f:function(m,n) {
                     if( targetunit != self.unit){
                         if(activeunit.ia){
@@ -6025,9 +6025,13 @@ var UPGRADES=window.UPGRADES= [
      action: function(n) {
 	 var self=this.unit;
 	 var p=self.selectnearbyenemy(3);
-	 this.resolveactionselection(p,function(k) {
-	     new Condition(p[k],self,"I'll Show You The Dark Side");
-	 }.bind(this));
+         if (p.length>0) {
+            self.resolveactionselection(p,function(k) {
+                new Condition(p[k],self,"I'll Show You The Dark Side");
+                this.endnoaction(n,"KR");
+            }.bind(self));
+        }
+        else self.endaction(n,"KR");
      }
      
     },

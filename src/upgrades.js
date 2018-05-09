@@ -597,6 +597,7 @@ Upgrade.prototype={
             }
 	    sh.showupgradeadd();
 	}
+        $(document).trigger("upgradeinstalled",[sh,this]); // Better handling of e.g. Tomax Bren
     },
     uninstall(sh) {
 	var i;
