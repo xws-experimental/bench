@@ -3754,8 +3754,10 @@ var UPGRADES=window.UPGRADES= [
 	consumes:true,
 	done:true,
 	posthit: function(t,c,h) {
-	    if (t.shield>0) t.log("-1 %SHIELD% [%0]",this.name);
-	    t.removeshield(1);
+	    if (t.shield>0){ 
+                t.log("-1 %SHIELD% [%0]",this.name);
+                t.removeshield(1);
+            }
 	},
 	init: function(sh) {
 	    var self=this;
