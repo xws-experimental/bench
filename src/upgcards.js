@@ -4766,7 +4766,7 @@ var UPGRADES=window.UPGRADES= [
 			    var p=[];
 			    for (var i in t.upgrades) {
 				var upg=t.upgrades[i];
-				if (upg.type.match(/Missile|Torpedo|Crew|Bomb|Cannon|Turret|Astromech|System|Illicit|Salvaged|Tech|Elite|Title|Mod/)) {
+				if (upg.isactive&&upg.type.match(/Missile|Torpedo|Crew|Bomb|Cannon|Turret|Astromech|System|Illicit|Salvaged|Tech|Elite|Title|Mod/)) {
 				    p.push(upg);
 				}
 			    }
