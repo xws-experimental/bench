@@ -52,7 +52,7 @@ var maarek_fct = function() {
     var unit=this;
     var newdeal=function(c,f,p) {
 	var pp=$.Deferred();
-        var attacker=attackunit; // need to store values *at the time* for closure
+        var attacker=attackunit; // need to store values *at the time* for clojure
         var target=targetunit;
 	p.then(function(cf) {
 	    var crit=cf.crit;

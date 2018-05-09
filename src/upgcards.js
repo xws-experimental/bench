@@ -6556,10 +6556,13 @@ var UPGRADES=window.UPGRADES= [
     lostupgrades:[Unit.MOD],
     done:true,
     init: function(sh) {
-	this.deal=function(crit,face) {
-	    var dd=$.Deferred();
-	    return dd.resolve({crit:crit,face:Critical.FACEUP});
-	};
+        var self=this;
+	sh.wrap_after("deal",self,function(crit,face,p){
+            sh.log("All damage cards dealt faceup [%0]",self.name);
+            dd=$.Deferred();
+            return dd.resolve({crit:crit,face:Critical.FACEUP}).promise();
+            }
+        );
 	var save=[];
 	sh.installed=true;
 	sh.wrap_after("getdial",this,function(gd) {
