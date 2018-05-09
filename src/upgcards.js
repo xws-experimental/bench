@@ -4995,16 +4995,19 @@ var UPGRADES=window.UPGRADES= [
 	done:true,
         points: 2,
 	init: function(sh) {
-	    var upg=this;
-	    sh.wrap_before("collidedby",this,function(t) {
-		if (upg.isactive&&t.isenemy(this)) {
-		    var roll=this.rollattackdie(1,upg,"hit")[0];
+	    var self=this;
+            $(document).on("endmaneuver"+sh.team,function(e,ship){
+                if(self.isactive&&ship.isenemy(sh)&&ship.touching.indexOf(sh)!==-1){
+                    var roll=sh.rollattackdie(1,self,"hit")[0];
 		    if (roll=="hit"||roll=="critical") {
-			t.log("+%1 %ION% [%0]",upg.name,1) 
-			t.addiontoken();
+                        ship.log("+%1 %ION% [%0]",self.name,1) 
+			ship.addiontoken();
 		    }
-		} else t.log("no effect [%0]",upg.name);
-	    });
+                    else{ 
+                        ship.log("no effect [%0]",self.name);
+                    }
+                }
+            });
 	}
     },
     {
