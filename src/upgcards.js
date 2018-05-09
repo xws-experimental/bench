@@ -2201,16 +2201,37 @@ var UPGRADES=window.UPGRADES= [
 	done:true,
 	rating:1,
         init: function(sh) {
-	    var unit=this.unit;
 	    var self=this;
-	    Unit.prototype.wrap_after("getagility",this,function(a) {
-		if (!unit.dead&&this.isenemy(unit)&&a>0&&(typeof this.touching!="undefined")) 
-		    if (this.touching.indexOf(unit)>-1) {
-			this.log("-1 agility [%0]",self.name);
-			return a-1;
-		    }
-		return a;
-	    });
+            self.affectedShips=[];
+            $(document).on("collision"+sh.team,function(e,collider,ship){
+                if(phase!==PLANNING_PHASE&&!sh.dead && self.isactive){
+                    // Case 1: this ship collides with an enemy not previously collided with.  
+                    if(collider===sh&&!sh.isally(ship)&&self.affectedShips.indexOf(ship)===-1){
+                        self.affectedShips.push(ship); // register collision
+                        ship.log("-1 Evasion while touching %0 [%1]",sh.name,self.name);
+                        ship.wrap_after("getagility",self,function(a) { 
+                            if(ship.touching.indexOf(sh)>=0){
+                                return a-1; 
+                            }
+                            return a;
+                        }).unwrapper("endcombatphase");
+                    }
+                    // Case 2: an enemy ship not previously collided with collides with this ship
+                    else if(collider!==sh&&!sh.isally(collider)&&self.affectedShips.indexOf(collider)===-1){
+                        self.affectedShips.push(collider); // register collision
+                        collider.log("-1 Evasion while touching %0 [%1]",sh.name,self.name);
+                        collider.wrap_after("getagility",self,function(a) { 
+                            if(collider.touching.indexOf(sh)>=0){
+                                return a-1; 
+                            }
+                            return a;
+                        }).unwrapper("endcombatphase");
+                    }
+                }
+            });
+            sh.wrap_after("endcombatphase",self,function(){
+                self.affectedShips=[];
+            });
 	},
         type: Unit.ELITE,
         points: 2

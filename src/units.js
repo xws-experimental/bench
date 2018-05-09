@@ -1374,8 +1374,13 @@ Unit.prototype = {
 	var c=[];
 	for (i in squadron) {
 	    var sh=squadron[i];
-	    if (sh!=this)
-		if (this.iscollidingunit(m,sh)) c.push(sh);
+	    if (sh!=this){
+		if (this.iscollidingunit(m,sh)) {
+                    c.push(sh);
+                    $(document).trigger("collision"+"1",[this,sh]);
+                    $(document).trigger("collision"+"2",[this,sh]);
+                }
+            }
 	};
 	return c;
     },

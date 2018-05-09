@@ -4193,7 +4193,7 @@ window.PILOTS = [
 			    return true;
 			}
 			return r;
-		    }.bind(ship)).unwrap("cleanupattack");
+		    }.bind(ship)).unwrapper("cleanupattack");
                 }
             });
             $(document).on("declareattack"+this.team, function(e,ship,args){
@@ -4204,7 +4204,7 @@ window.PILOTS = [
 			    &&self.targeting.indexOf(t)>-1) {
 			    self.removetarget(t);
 			}
-		    }.bind(ship)).unwrap("cleanupattack");
+		    }.bind(ship)).unwrapper("cleanupattack");
 		}
 	    });
             Unit.prototype.wrap_before("begincombatphase",self,function(){
