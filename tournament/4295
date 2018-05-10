@@ -4146,6 +4146,57 @@
         "sos": "0.58"
       }, 
       {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "dengar", 
+              "ship": "jumpmaster5000", 
+              "upgrades": {
+                "crew": [
+                  "k4securitydroid"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "illicit": [
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "tacticaljammer"
+                ], 
+                "title": [
+                  "punishingone"
+                ]
+              }
+            }, 
+            {
+              "name": "bobafett", 
+              "ship": "firespray31", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "k4securitydroid"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "illicit": [
+                  "glitterstim"
+                ], 
+                "title": [
+                  "andrasta"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 398, 
         "name": "Henning \"Brutus\"", 
         "rank": {

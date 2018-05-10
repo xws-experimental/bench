@@ -7,45 +7,26 @@ Aborting
 ERROR: git pull failed!  State may be bad!  Check git status!
 Moving old 'tournaments' to 'tournaments.old'...
 Downloading new 'tournaments' file...
---2018-05-09 07:03:34--  http://lists.starwarsclubhouse.com/api/v1/tournaments
+--2018-05-10 07:03:29--  http://lists.starwarsclubhouse.com/api/v1/tournaments
 Resolving lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)... 34.206.101.184
 Connecting to lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)|34.206.101.184|:80... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 40571 (40K) [application/json]
+Length: 40582 (40K) [application/json]
 Saving to: ‘tournaments’
 
-     0K .......... .......... .......... .........            100%  449K=0.09s
+     0K .......... .......... .......... .........            100%  485K=0.08s
 
-2018-05-09 07:03:35 (449 KB/s) - ‘tournaments’ saved [40571/40571]
+2018-05-10 07:03:30 (485 KB/s) - ‘tournaments’ saved [40582/40582]
 
 Downloading new tournament list data...
---2018-05-09 07:03:35--  http://lists.starwarsclubhouse.com/api/v1/tournament/4337
+--2018-05-10 07:03:30--  http://lists.starwarsclubhouse.com/api/v1/tournament/4339
 Resolving lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)... 34.206.101.184
 Connecting to lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)|34.206.101.184|:80... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 15399 (15K) [application/json]
-Saving to: ‘4337’
+Length: 8354 (8.2K) [application/json]
+Saving to: ‘4339’
 
-     0K .......... .....                                      100%  193K=0.08s
+     0K ........                                              100%  185M=0s
 
-2018-05-09 07:03:36 (193 KB/s) - ‘4337’ saved [15399/15399]
+2018-05-10 07:03:30 (185 MB/s) - ‘4339’ saved [8354/8354]
 
---2018-05-09 07:03:36--  http://lists.starwarsclubhouse.com/api/v1/tournament/4338
-Resolving lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)... 34.206.101.184
-Connecting to lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)|34.206.101.184|:80... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 7997 (7.8K) [application/json]
-Saving to: ‘4338’
-
-     0K .......                                               100%  762M=0s
-
-2018-05-09 07:03:36 (762 MB/s) - ‘4338’ saved [7997/7997]
-
-To git@github.com:baranidlo/bench.git
- ! [rejected]        gh-pages -> gh-pages (non-fast-forward)
-error: failed to push some refs to 'git@github.com:baranidlo/bench.git'
-hint: Updates were rejected because the tip of your current branch is behind
-hint: its remote counterpart. Integrate the remote changes (e.g.
-hint: 'git pull ...') before pushing again.
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-ERROR: git push failed!  Check git status!
