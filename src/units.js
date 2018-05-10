@@ -3231,6 +3231,26 @@ Unit.prototype = {
 	}
 	this.actionbarrier();
     },
+    getBombVictims: function(searchRange){
+        // New function to choose possible bombing targets based on a few simple rules
+        // This function mainly exists to be overridden by specific upgrade cards
+        // (Trajectory Simulator, for one).
+        var defRange=1;     // Default to range 1 (very conservative)
+        var victims = [];
+        var ship;
+        // How far out to check for enemies
+        searchRange=(typeof searchRange==="undefined")?defRange:searchRange;
+        for(var i in squadron){
+            ship=squadron[i];
+            if(this.isenemy(ship)
+                    &&((this.getrange(ship)<=searchRange && !this.isinprimaryfiringarc(ship))
+                    ||this.getrange(ship)<=1) // For Deathrain
+                    ){
+                victims.push(ship);
+            }
+        }
+        return victims;
+    },
     getbomblocation: function(bomb) {
 	return ["F1"];
     },

@@ -6264,12 +6264,13 @@ var UPGRADES=window.UPGRADES= [
 	  if (!this.isactive) return false;
 	  var i;
 	  var p=this.unit.selectnearbyunits(1,function(a,b) { return a!=b; });
+          p.push(this.unit);
 	  for (i in p) {
 	      p[i].addiontoken();
 	      p[i].addiontoken();
 	      p[i].log("+2 %ION% [%0]",this.name);
 	  }
-	  this.isactive=false;
+	  this.desactivate();
 	  this.unit.cancelattack();
 	  return false;
       },
@@ -6948,6 +6949,21 @@ var UPGRADES=window.UPGRADES= [
 	points: 1,
 	done:true,
 	init:function(sh) {
+            // Add a check for enemies directly in the trajectory path that are not
+            // yet counted as victims.
+            sh.wrap_after("getBombVictims",this,function(searchRange, vics){
+                var ship;
+                for (var i in squadron){
+                    ship=squadron[i];
+                    if(sh.isenemy(ship)
+                            && sh.getrange(ship)<=3
+                            && sh.isinprimaryfiringarc(ship)
+                            && vics.indexOf(ship)===-1){
+                        vics.push(ship);
+                    }
+                }
+                return vics;
+            });
 	    sh.wrap_after("getbomblocation",this,function(bomb,d) {
                 var be=bomb.explode.toString();
                 var minebe="function () {}";
