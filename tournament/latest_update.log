@@ -7,34 +7,37 @@ Aborting
 ERROR: git pull failed!  State may be bad!  Check git status!
 Moving old 'tournaments' to 'tournaments.old'...
 Downloading new 'tournaments' file...
---2018-05-10 07:03:29--  http://lists.starwarsclubhouse.com/api/v1/tournaments
+--2018-05-11 07:03:32--  http://lists.starwarsclubhouse.com/api/v1/tournaments
 Resolving lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)... 34.206.101.184
 Connecting to lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)|34.206.101.184|:80... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 40582 (40K) [application/json]
+Length: 40604 (40K) [application/json]
 Saving to: ‘tournaments’
 
-     0K .......... .......... .......... .........            100%  485K=0.08s
+     0K .......... .......... .......... .........            100%  492K=0.08s
 
-2018-05-10 07:03:30 (485 KB/s) - ‘tournaments’ saved [40582/40582]
+2018-05-11 07:03:33 (492 KB/s) - ‘tournaments’ saved [40604/40604]
 
 Downloading new tournament list data...
---2018-05-10 07:03:30--  http://lists.starwarsclubhouse.com/api/v1/tournament/4339
+--2018-05-11 07:03:33--  http://lists.starwarsclubhouse.com/api/v1/tournament/4340
 Resolving lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)... 34.206.101.184
 Connecting to lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)|34.206.101.184|:80... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 8354 (8.2K) [application/json]
-Saving to: ‘4339’
+Length: 11641 (11K) [application/json]
+Saving to: ‘4340’
 
-     0K ........                                              100%  185M=0s
+     0K .......... .                                          100%  225M=0s
 
-2018-05-10 07:03:30 (185 MB/s) - ‘4339’ saved [8354/8354]
+2018-05-11 07:03:33 (225 MB/s) - ‘4340’ saved [11641/11641]
 
-To git@github.com:baranidlo/bench.git
- ! [rejected]        gh-pages -> gh-pages (non-fast-forward)
-error: failed to push some refs to 'git@github.com:baranidlo/bench.git'
-hint: Updates were rejected because the tip of your current branch is behind
-hint: its remote counterpart. Integrate the remote changes (e.g.
-hint: 'git pull ...') before pushing again.
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-ERROR: git push failed!  Check git status!
+--2018-05-11 07:03:33--  http://lists.starwarsclubhouse.com/api/v1/tournament/4341
+Resolving lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)... 34.206.101.184
+Connecting to lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)|34.206.101.184|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6056 (5.9K) [application/json]
+Saving to: ‘4341’
+
+     0K .....                                                 100%  600M=0s
+
+2018-05-11 07:03:34 (600 MB/s) - ‘4341’ saved [6056/6056]
+
