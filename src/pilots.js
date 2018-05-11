@@ -1568,14 +1568,22 @@ window.PILOTS = [
 	pilotid:79,
 	init: function() {
             var self=this;
-            var number;
             $(document).on("endcombatphase"+this.team, function(e){
-//                var latedeferred=self.deferred;
-                self.select();
-                self.log("+1 attack at end of Combat phase");
-                self.maxfired++;
-                var allenemies=squadron.filter(ship => ship.team!==self.team);
-                self.doattack(self.weapons,allenemies); 
+                if(self.noattack<round){ // No extra attack if weapons disabled
+                    self.select();
+                    self.log("+1 attack at end of Combat phase");
+                    self.maxfired++;
+                    var allenemies=squadron.filter(ship => ship.team!==self.team);
+                    self.wrap_after("doattackroll",self,function(){
+                        // Should only activate if CH shot is used.
+                        self.addweapondisabledtoken();
+                        self.wrap_before("beginplanningphase",self,function(){
+                            self.log("No attacks this round")
+                            self.addweapondisabledtoken();
+                        }).unwrapper("endplanningphase");
+                    }).unwrapper("endplanningphase");
+                    self.doattack(self.weapons,allenemies); 
+                }
             });
 	},
         unique: true,
