@@ -41,3 +41,11 @@ Saving to: ‘4341’
 
 2018-05-11 07:03:34 (600 MB/s) - ‘4341’ saved [6056/6056]
 
+To git@github.com:baranidlo/bench.git
+ ! [rejected]        gh-pages -> gh-pages (non-fast-forward)
+error: failed to push some refs to 'git@github.com:baranidlo/bench.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+ERROR: git push failed!  Check git status!
