@@ -6697,6 +6697,15 @@ var UPGRADES=window.UPGRADES= [
 		    }
 		    return m;
 		}.bind(this),str:"focus"});
+         sh.wrap_after("getdicemodifiers",this,function(mods){
+             // Make target lock tokens only re-roll blanks
+             for(var m in mods){
+                 if(mods[m].str==="target"){
+                     mods[m].dice=["blank"];
+                 }
+             }
+             return mods;
+         });
      }
      },
     {name:"BoShek",
