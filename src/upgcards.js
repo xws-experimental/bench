@@ -6699,11 +6699,13 @@ var UPGRADES=window.UPGRADES= [
 		}.bind(this),str:"focus"});
          sh.wrap_after("getdicemodifiers",this,function(mods){
              // Make target lock tokens only re-roll blanks
-             for(var m in mods){
-                 if(mods[m].str==="target"){
-                     mods[m].dice=["blank"];
-                 }
-             }
+             if(sh.stress<=0){ // but only if unstressed
+                for(var m in mods){
+                    if(mods[m].str==="target"){
+                        mods[m].dice=["blank"];
+                    }
+                }
+            }
              return mods;
          });
      }
