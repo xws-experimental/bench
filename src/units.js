@@ -4184,7 +4184,11 @@ Unit.prototype = {
 	return range;
     },
     getrange: function(sh) {
-        if(typeof sh.isdocked!=="undefined" && sh.isdocked){return 0;} // Can't get a range to a docked ship, period
+        if(typeof sh.isdocked!=="undefined"){
+            if(sh.isdocked){
+                return 0; // Can't get a range to a docked ship, period
+            }
+        }
 	return this.getoutlinerange(this.m,sh).d;
     },
     getdist:function(mm,sh) {
