@@ -6256,11 +6256,15 @@ var UPGRADES=window.UPGRADES= [
       isTurret:function() { return true; },
       issecondary:false,
       firesnd:"missile",
+      init: function(sh) {
+	  this.toString=Upgrade.prototype.toString;
+      },
       isWeapon:function() { return true; },
       getenemiesinrange: function() {
 	  return [this.unit];
       },
       declareattack: function(target) {
+          var self=this;
 	  if (!this.isactive) return false;
 	  var i;
 	  var p=this.unit.selectnearbyunits(1,function(a,b) { return a!=b; });
@@ -6271,12 +6275,12 @@ var UPGRADES=window.UPGRADES= [
 	      p[i].log("+2 %ION% [%0]",this.name);
 	  }
 	  this.desactivate();
+          this.unit.wrap_after("endcombatphase",this,function(){
+              this.weapons.splice(this.weapons.indexOf(self),1);
+          }).unwrapper("beginplanningphase");
 	  this.unit.cancelattack();
 	  return false;
-      },
-      init: function(sh) {
-	  this.toString=Upgrade.prototype.toString;
-      },
+      }
     },
     { name:"Captured TIE",
       unique:true,
