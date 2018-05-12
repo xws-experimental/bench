@@ -2818,7 +2818,13 @@ Unit.prototype = {
 		c=this.getcollidingunits(m);
 	    }
 	}
-	this.drawpathmove(m0,path,lenC);
+        try{
+            this.drawpathmove(m0,path,lenC);
+        }
+        catch (e){
+            console.log("Exception in drawpathmove: " + this.name + "using path" + path.toString());
+            console.error(e);
+        }
 	
 	// Handle collision: removes old collisions
 	for (i=0; i<this.touching.length; i++) {
