@@ -6722,6 +6722,13 @@ var UPGRADES=window.UPGRADES= [
      type:Unit.MOD,
      faction:"REBEL|SCUM",
      points:2,
+     aiactivate: function(){
+         var use=false;
+         if(this.unit.shield<1){
+             use=true;
+         }
+         return use;
+     },
      init: function(sh) {
 	 var self=this;
 	 sh.wrap_before("endphase",this,function() {
