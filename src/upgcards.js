@@ -6246,7 +6246,7 @@ var UPGRADES=window.UPGRADES= [
 	  var self=this;
 	  sh.wrap_after("hashit",this,function(t,b) {
 	      if (!b) {
-		  this.log("+1 stress, +1 %FOCUS% [%0]",self.name);
+		  this.log("Missed attack on %0; +1 %FOCUS% [%1]",t.name,self.name);
 		  this.addfocustoken();
 	      }
 	      return b;
