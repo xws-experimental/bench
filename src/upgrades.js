@@ -52,7 +52,6 @@ Bomb.prototype = {
     isBomb() { return true; },
     showOrdnance() { return this+1; },
     aiactivate() {
-        var victims = [], ship;
         var bRange = 0;
         if(this.canbedropped()){  // Probably dropping early
             // Fill in with maneuver-drop bomb logic
@@ -62,14 +61,7 @@ Bomb.prototype = {
             // Fill in with action-drop bomb logic
             bRange=2;
         }
-        for(var i in squadron){
-            ship=squadron[i];
-            if(this.unit.isenemy(ship)
-                    &&((this.unit.getrange(ship)<=bRange && !this.unit.isinprimaryfiringarc(ship))
-                    ||this.unit.getrange(ship)<=1) // For Deathrain
-                    )
-                victims.push(ship);
-        }
+        var victims=this.unit.getBombVictims(bRange);
         return victims.length>0;
     },
     canbedropped() { return this.isactive&&!this.unit.hasmoved&&this.unit.lastdrop!=round; },
@@ -230,7 +222,9 @@ Bomb.prototype = {
     },
     getOutlineString(m) {
 	var w=15;
-	if (typeof m=="undefined") m=this.m;
+	if (typeof m=="undefined") {
+            m=this.m;
+        }
 	var p1=transformPoint(m,{x:-w-1,y:-w});
 	var p2=transformPoint(m,{x:w+1,y:-w});
 	var p3=transformPoint(m,{x:w+1,y:w});
@@ -597,6 +591,7 @@ Upgrade.prototype={
             }
 	    sh.showupgradeadd();
 	}
+        $(document).trigger("upgradeinstalled",[sh,this]); // Better handling of e.g. Tomax Bren
     },
     uninstall(sh) {
 	var i;

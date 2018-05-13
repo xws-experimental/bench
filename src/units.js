@@ -755,7 +755,7 @@ Unit.prototype = {
 	return s;	
     },
     setpriority:function(action) {
-	var PRIORITIES={"FOCUS":3,"EVADE":1,"REINFORCE":7,"CLOAK":4,"TARGET":2,"CRITICAL":100,"BOMB":5,"ILLICIT":6};
+	var PRIORITIES={"FOCUS":3,"EVADE":1,"REINFORCE":7,"CLOAK":4,"TARGET":2,"CRITICAL":100,"BOMB":5,"ILLICIT":6,"CREW":6};
 	var p=PRIORITIES[action.type];
 	if (typeof p=="undefined") p=0;
 	action.priority=p;
@@ -1235,10 +1235,13 @@ Unit.prototype = {
 	return { x:m.x(0,0),y:m.y(0,0),diam:(this.islarge?56:28) };
     },
     /* TODO: remove from unit? */
-    guessevades: function(roll,lock) {
+    guessevades: function(roll,lock,org) {
+        if(typeof org==="undefined"){
+            org=this;
+        }
 	var resolve=function(k) {
 	    if (k==Unit.FE_evade(roll.roll)) {
-		this.log("guessed correctly ! +1 %EVADE% [%0]",self.name);
+		this.log("guessed correctly ! +1 %EVADE% [%0]",org.name);
 		roll.roll+=Unit.FE_EVADE;
 		roll.dice+=1;
 	    }
@@ -1374,8 +1377,13 @@ Unit.prototype = {
 	var c=[];
 	for (i in squadron) {
 	    var sh=squadron[i];
-	    if (sh!=this)
-		if (this.iscollidingunit(m,sh)) c.push(sh);
+	    if (sh!=this){
+		if (this.iscollidingunit(m,sh)) {
+                    c.push(sh);
+                    $(document).trigger("collision"+"1",[this,sh]);
+                    $(document).trigger("collision"+"2",[this,sh]);
+                }
+            }
 	};
 	return c;
     },
@@ -1590,7 +1598,14 @@ Unit.prototype = {
 	    u.doselection(function(n) {
 		u.resolveactionmove.call(
 		    this,p,
-		    function (t,k) { t.ocollision=t.getocollisions(oldm,p[k]); t.endnoaction(n,"BOOST"); },true,true);
+		    function (t,k) { 
+                        t.ocollision=t.getocollisions(oldm,p[k]);
+                        if(t.ocollision.overlap!==-1){
+                            t.resolveocollision(t.ocollision.overlap,t.ocollision.template);
+                        }
+                        t.endnoaction(n,"BOOST"); 
+                    },
+                    true,true);
 	    }.bind(this));
 	}
     },
@@ -2806,7 +2821,13 @@ Unit.prototype = {
 		c=this.getcollidingunits(m);
 	    }
 	}
-	this.drawpathmove(m0,path,lenC);
+        try{
+            this.drawpathmove(m0,path,lenC);
+        }
+        catch (e){
+            console.log("Exception in drawpathmove: " + this.name + "using path" + path.toString());
+            console.error(e);
+        }
 	
 	// Handle collision: removes old collisions
 	for (i=0; i<this.touching.length; i++) {
@@ -3219,6 +3240,26 @@ Unit.prototype = {
 	}
 	this.actionbarrier();
     },
+    getBombVictims: function(searchRange){
+        // New function to choose possible bombing targets based on a few simple rules
+        // This function mainly exists to be overridden by specific upgrade cards
+        // (Trajectory Simulator, for one).
+        var defRange=1;     // Default to range 1 (very conservative)
+        var victims = [];
+        var ship;
+        // How far out to check for enemies
+        searchRange=(typeof searchRange==="undefined")?defRange:searchRange;
+        for(var i in squadron){
+            ship=squadron[i];
+            if(this.isenemy(ship)
+                    &&((this.getrange(ship)<=searchRange && !this.isinprimaryfiringarc(ship))
+                    ||this.getrange(ship)<=1) // For Deathrain
+                    ){
+                victims.push(ship);
+            }
+        }
+        return victims;
+    },
     getbomblocation: function(bomb) {
 	return ["F1"];
     },
@@ -3304,15 +3345,18 @@ Unit.prototype = {
 	str=formatstring(str);
 	log("<div><span style='color:red;font-weight:bold;'>**ERROR** ["+this.name+"]</span> "+str+"</div>");	
     },
-    log: function(str,a,b,c) {
+    log: function(str) {
 	if (NOLOG) return;
 	if (typeof UI_translation[str]!="undefined") str=UI_translation[str];
-	if (typeof a=="string") a=translate(a);
-	str=str.replace(/%0/g,a)
-	if (typeof b=="string") b=translate(b);
-	str=str.replace(/%1/g,b)
-	if (typeof c=="string") c=translate(c);
-	str=str.replace(/%2/g,c)
+	var args = Array.prototype.slice.call(arguments,1); // only grab args after str
+        var regexp;
+        for(var i=0; i<args.length; ++i){
+            if(typeof args[i]==="string"){
+                args[i]=translate(args[i]);
+            }
+            regexp=new RegExp("%"+i,"g");
+            str=str.replace(regexp,args[i]);
+        }
 	str=formatstring(str);
 	log("<div><span style='color:"+this.color+"'>["+this.name+"]</span> "+str+"</div>");
     },
@@ -3981,12 +4025,13 @@ Unit.prototype = {
     resolvehit: function(n) {
 	var s=0;
 	if (n==0) return 0;
-	if (this.shield>n) this.removeshield(n);
+	if (this.shield>=n) this.removeshield(n);
 	else {
 	    s=n-this.shield;
 	    if (this.shield>0) this.removeshield(this.shield);
 	    if (s>0) this.applydamage(s);
-	}	    
+	}
+        this.showoverflow(); // To force critical display
 	this.show();
 	return s;
     },
@@ -3995,11 +4040,12 @@ Unit.prototype = {
 	if (n==0) return 0;
 	if (this.shield>n) this.removeshield(n);
 	else {
-	    var s=n-this.shield;
+	    s=n-this.shield;
 	    if (this.shield>0) this.removeshield(this.shield);
 	    if (s>0) this.applycritical(s);
 	}
-	this.show();
+	this.showoverflow(); // To force critical display
+        this.show();
 	return s;
     },
     removehull: function(n) {
@@ -4104,6 +4150,7 @@ Unit.prototype = {
 		    this.checkdead(); 
 		    break;
 		case Critical.DISCARD: this.criticals.slice(this.criticals.indexOf(cr),1);
+                    break;
 		}
 		this.show();
 	    }.bind(this));
@@ -4118,8 +4165,11 @@ Unit.prototype = {
 	    this.deal(cr,Critical.FACEUP).done(function(c) {
 		switch(c.face) {
 		case Critical.FACEUP: c.crit.faceup(); this.movelog("c-"+s);
-		case Critical.FACEDOWN: this.removehull(1); break;
+		case Critical.FACEDOWN: this.removehull(1); 
+                    this.checkdead();
+                    break;
 		case Critical.DISCARD: this.criticals.slice(this.criticals.indexOf(cr),1);
+                    break;
 		}
 		this.show();
 	    }.bind(this));
@@ -4146,7 +4196,11 @@ Unit.prototype = {
 	return range;
     },
     getrange: function(sh) {
-        if(sh.isdocked){return 0;} // Can't get a range to a docked ship, period
+        if(typeof sh.isdocked!=="undefined"){
+            if(sh.isdocked){
+                return 0; // Can't get a range to a docked ship, period
+            }
+        }
 	return this.getoutlinerange(this.m,sh).d;
     },
     getdist:function(mm,sh) {

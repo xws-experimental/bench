@@ -1652,13 +1652,14 @@ var UPGRADES=window.UPGRADES= [
         points: 3,
 	done:true,
 	init:function(sh) {
+            var self=this;
 	    var c3po=-1;
 	    sh.wrap_after("defenseroll",this,function(r,promise) {
 		if (c3po==round) return promise;
 		var lock=$.Deferred();
 		c3po=round;
 		promise.done(function(roll) {
-		    this.guessevades(roll,lock);
+		    this.guessevades(roll,lock,self);
 		}.bind(this));
 		return lock.promise();
 	    });
@@ -2201,16 +2202,37 @@ var UPGRADES=window.UPGRADES= [
 	done:true,
 	rating:1,
         init: function(sh) {
-	    var unit=this.unit;
 	    var self=this;
-	    Unit.prototype.wrap_after("getagility",this,function(a) {
-		if (!unit.dead&&this.isenemy(unit)&&a>0&&(typeof this.touching!="undefined")) 
-		    if (this.touching.indexOf(unit)>-1) {
-			this.log("-1 agility [%0]",self.name);
-			return a-1;
-		    }
-		return a;
-	    });
+            self.affectedShips=[];
+            $(document).on("collision"+sh.team,function(e,collider,ship){
+                if(phase!==PLANNING_PHASE&&!sh.dead && self.isactive){
+                    // Case 1: this ship collides with an enemy not previously collided with.  
+                    if(collider===sh&&!sh.isally(ship)&&self.affectedShips.indexOf(ship)===-1){
+                        self.affectedShips.push(ship); // register collision
+                        ship.log("-1 Evasion while touching %0 [%1]",sh.name,self.name);
+                        ship.wrap_after("getagility",self,function(a) { 
+                            if(ship.touching.indexOf(sh)>=0){
+                                return a-1; 
+                            }
+                            return a;
+                        }).unwrapper("endcombatphase");
+                    }
+                    // Case 2: an enemy ship not previously collided with collides with this ship
+                    else if(collider!==sh&&!sh.isally(collider)&&self.affectedShips.indexOf(collider)===-1){
+                        self.affectedShips.push(collider); // register collision
+                        collider.log("-1 Evasion while touching %0 [%1]",sh.name,self.name);
+                        collider.wrap_after("getagility",self,function(a) { 
+                            if(collider.touching.indexOf(sh)>=0){
+                                return a-1; 
+                            }
+                            return a;
+                        }).unwrapper("endcombatphase");
+                    }
+                }
+            });
+            sh.wrap_after("endcombatphase",self,function(){
+                self.affectedShips=[];
+            });
 	},
         type: Unit.ELITE,
         points: 2
@@ -3054,13 +3076,14 @@ var UPGRADES=window.UPGRADES= [
 	done:true,
 	init: function(sh) {
 	    var self=this;
+            var tenteki=/The Inquisitor/;
 	    sh.wrap_after("modifydefenseroll",this,function(attacker,m,n,ch) {
-		if (attacker.getsector(this)>2&&Unit.FE_blank(ch,n)>0) ch= ch+Unit.FE_EVADE;
+		if (!attacker.name.match(tenteki) && attacker.getsector(this)>2&&Unit.FE_blank(ch,n)>0) ch= ch+Unit.FE_EVADE;
 		return ch;
 	    });
 	    sh.adddicemodifier(Unit.DEFENSE_M,Unit.MOD_M,Unit.DEFENSE_M,this,{
 		req:function(m,n) {
-		    if (activeunit.getsector(this)>2) return self.isactive;
+		    if (!activeunit.name.match(tenteki) && activeunit.getsector(this)>2) return self.isactive;
 		    return false;
 		}.bind(sh),
 		f:function(m,n) {
@@ -3516,6 +3539,7 @@ var UPGRADES=window.UPGRADES= [
 			{org:self,name:self.name,type:"ILLICIT",action:function(n) {
 			    this.addstress();
 			    sh.glitter=self.glitter=round;
+                            sh.log("+1 %STRESS%, change %FOCUS% to %HIT% or %EVADE% for 1 round [%0]",self.name);
 			    this.endnoaction(n,"ILLICIT");
 			}.bind(this)}],"",true);
 		}
@@ -3731,8 +3755,10 @@ var UPGRADES=window.UPGRADES= [
 	consumes:true,
 	done:true,
 	posthit: function(t,c,h) {
-	    if (t.shield>0) t.log("-1 %SHIELD% [%0]",this.name);
-	    t.removeshield(1);
+	    if (t.shield>0){ 
+                t.log("-1 %SHIELD% [%0]",this.name);
+                t.removeshield(1);
+            }
 	},
 	init: function(sh) {
 	    var self=this;
@@ -3900,7 +3926,7 @@ var UPGRADES=window.UPGRADES= [
 	init: function(sh) {
 	    var self=this;
             sh.adddicemodifier(Unit.DEFENDCOMPARE_M,Unit.ADD_M,Unit.DEFENSE_M,this,{
-                req:function() { return (self.isactive); },
+                req:function() { return (self.isactive && attackunit===sh); },
                 f:function(m,n) {
                     if( targetunit != self.unit){
                         if(activeunit.ia){
@@ -4187,13 +4213,19 @@ var UPGRADES=window.UPGRADES= [
       points:0,
       done:true,
       init: function(sh) {
+          var self=this;
 	  /* TODO: check that it works */
 	  sh.wrap_after("hasnostresseffect",this,function(b) {
 	      return true;
 	  });
+          sh.wrap_after("getactionlist",self,function(iem,list){
+             if(sh.ia && list.length>0 && sh.stress>0 && (sh.shield+sh.hull)<=1){
+                 list=[]; // Don't allow Chopper-equipped AI ship to kill itself with Chopper
+             }
+          });
 	  sh.wrap_before("endaction",this,function(n,type) {
 	      if (type!==null&&this.stress>0) {
-		  this.log("%STRESS% -> +1 %HIT% [%0]",this.name);
+		  this.log("%STRESS% -> +1 %HIT% [%0]",self.name);
 		  this.resolvehit(1);
 		  this.checkdead();
 	      }
@@ -4741,7 +4773,7 @@ var UPGRADES=window.UPGRADES= [
 			    var p=[];
 			    for (var i in t.upgrades) {
 				var upg=t.upgrades[i];
-				if (upg.type.match(/Missile|Torpedo|Crew|Bomb|Cannon|Turret|Astromech|System|Illicit|Salvaged|Tech|Elite|Title|Mod/)) {
+				if (upg.isactive&&upg.type.match(/Missile|Torpedo|Crew|Bomb|Cannon|Turret|Astromech|System|Illicit|Salvaged|Tech|Elite|Title|Mod/)) {
 				    p.push(upg);
 				}
 			    }
@@ -4970,16 +5002,19 @@ var UPGRADES=window.UPGRADES= [
 	done:true,
         points: 2,
 	init: function(sh) {
-	    var upg=this;
-	    sh.wrap_before("collidedby",this,function(t) {
-		if (upg.isactive&&t.isenemy(this)) {
-		    var roll=this.rollattackdie(1,upg,"hit")[0];
+	    var self=this;
+            $(document).on("endmaneuver"+sh.team,function(e,ship){
+                if(self.isactive&&ship.isenemy(sh)&&ship.touching.indexOf(sh)!==-1){
+                    var roll=sh.rollattackdie(1,self,"hit")[0];
 		    if (roll=="hit"||roll=="critical") {
-			t.log("+%1 %ION% [%0]",upg.name,1) 
-			t.addiontoken();
+                        ship.log("+%1 %ION% [%0]",self.name,1) 
+			ship.addiontoken();
 		    }
-		} else t.log("no effect [%0]",upg.name);
-	    });
+                    else{ 
+                        ship.log("no effect [%0]",self.name);
+                    }
+                }
+            });
 	}
     },
     {
@@ -5993,13 +6028,53 @@ var UPGRADES=window.UPGRADES= [
      points:3,
      unique:true,
      done:true,
-     candoaction: function() { return this.unit.selectnearbyenemy(3).length>0; },
+     candoaction: function() { 
+         return this.unit.selectnearbyenemy(3).length>0; 
+     },
+     aiactivate: function(){
+        var use;
+        var ship,sh=this.unit;
+        if(round===1){ // Always use ISYTDS (if candoaction===true) in turn 1
+            use=true;
+        }
+        else{
+            var allenemies = sh.selectnearbyenemy(3);
+            use=true;
+            for (var i in allenemies){
+                ship=allenemies[i];
+                if(sh.getrange(ship)<3 && ship.isinprimaryfiringarc(sh)){
+                    use=false;
+                    break;
+                }
+            }
+        }
+        return use;
+     },
+     init: function(sh) {
+         sh.wrap_before("selectcritical",this,function(crits,func) {
+            var curcrit;
+            for (var i=0; i<crits.length; i++) {
+                curcrit=CRITICAL_DECK[crits[i]];
+                if (curcrit.name==="Blinded Pilot"){
+                    crits=[crits[i]];
+                }
+                else if (curcrit.name="Damaged Cockpit") {
+                    crits=[crits[i]];
+                }
+            }
+            return [crits,func];
+        });
+     },
      action: function(n) {
 	 var self=this.unit;
 	 var p=self.selectnearbyenemy(3);
-	 this.resolveactionselection(p,function(k) {
-	     new Condition(p[k],self,"I'll Show You The Dark Side");
-	 }.bind(this));
+         if (p.length>0) {
+            self.resolveactionselection(p,function(k) {
+                new Condition(p[k],self,"I'll Show You The Dark Side");
+                this.endnoaction(n,"KR");
+            }.bind(self));
+        }
+        else self.endaction(n,"KR");
      }
      
     },
@@ -6207,7 +6282,7 @@ var UPGRADES=window.UPGRADES= [
 	  var self=this;
 	  sh.wrap_after("hashit",this,function(t,b) {
 	      if (!b) {
-		  this.log("+1 stress, +1 %FOCUS% [%0]",self.name);
+		  this.log("Missed attack on %0; +1 %FOCUS% [%1]",t.name,self.name);
 		  this.addfocustoken();
 	      }
 	      return b;
@@ -6224,26 +6299,31 @@ var UPGRADES=window.UPGRADES= [
       isTurret:function() { return true; },
       issecondary:false,
       firesnd:"missile",
+      init: function(sh) {
+	  this.toString=Upgrade.prototype.toString;
+      },
       isWeapon:function() { return true; },
       getenemiesinrange: function() {
 	  return [this.unit];
       },
       declareattack: function(target) {
+          var self=this;
 	  if (!this.isactive) return false;
 	  var i;
 	  var p=this.unit.selectnearbyunits(1,function(a,b) { return a!=b; });
+          p.push(this.unit);
 	  for (i in p) {
 	      p[i].addiontoken();
 	      p[i].addiontoken();
 	      p[i].log("+2 %ION% [%0]",this.name);
 	  }
-	  this.isactive=false;
+	  this.desactivate();
+          this.unit.wrap_after("endcombatphase",this,function(){
+              this.weapons.splice(this.weapons.indexOf(self),1);
+          }).unwrapper("beginplanningphase");
 	  this.unit.cancelattack();
 	  return false;
-      },
-      init: function(sh) {
-	  this.toString=Upgrade.prototype.toString;
-      },
+      }
     },
     { name:"Captured TIE",
       unique:true,
@@ -6555,10 +6635,13 @@ var UPGRADES=window.UPGRADES= [
     lostupgrades:[Unit.MOD],
     done:true,
     init: function(sh) {
-	this.deal=function(crit,face) {
-	    var dd=$.Deferred();
-	    return dd.resolve({crit:crit,face:Critical.FACEUP});
-	};
+        var self=this;
+	sh.wrap_after("deal",self,function(crit,face,p){
+            sh.log("All damage cards dealt faceup [%0]",self.name);
+            dd=$.Deferred();
+            return dd.resolve({crit:crit,face:Critical.FACEUP}).promise();
+            }
+        );
 	var save=[];
 	sh.installed=true;
 	sh.wrap_after("getdial",this,function(gd) {
@@ -6661,6 +6744,17 @@ var UPGRADES=window.UPGRADES= [
 		    }
 		    return m;
 		}.bind(this),str:"focus"});
+         sh.wrap_after("getdicemodifiers",this,function(mods){
+             // Make target lock tokens only re-roll blanks
+             if(sh.stress<=0){ // but only if unstressed
+                for(var m in mods){
+                    if(mods[m].str==="target"){
+                        mods[m].dice=["blank"];
+                    }
+                }
+            }
+             return mods;
+         });
      }
      },
     {name:"BoShek",
@@ -6671,6 +6765,13 @@ var UPGRADES=window.UPGRADES= [
      type:Unit.MOD,
      faction:"REBEL|SCUM",
      points:2,
+     aiactivate: function(){
+         var use=false;
+         if(this.unit.shield<1){
+             use=true;
+         }
+         return use;
+     },
      init: function(sh) {
 	 var self=this;
 	 sh.wrap_before("endphase",this,function() {
@@ -6913,6 +7014,21 @@ var UPGRADES=window.UPGRADES= [
 	points: 1,
 	done:true,
 	init:function(sh) {
+            // Add a check for enemies directly in the trajectory path that are not
+            // yet counted as victims.
+            sh.wrap_after("getBombVictims",this,function(searchRange, vics){
+                var ship;
+                for (var i in squadron){
+                    ship=squadron[i];
+                    if(sh.isenemy(ship)
+                            && sh.getrange(ship)<=3
+                            && sh.isinprimaryfiringarc(ship)
+                            && vics.indexOf(ship)===-1){
+                        vics.push(ship);
+                    }
+                }
+                return vics;
+            });
 	    sh.wrap_after("getbomblocation",this,function(bomb,d) {
                 var be=bomb.explode.toString();
                 var minebe="function () {}";

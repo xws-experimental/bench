@@ -52,9 +52,11 @@ var maarek_fct = function() {
     var unit=this;
     var newdeal=function(c,f,p) {
 	var pp=$.Deferred();
+        var attacker=attackunit; // need to store values *at the time* for clojure
+        var target=targetunit;
 	p.then(function(cf) {
 	    var crit=cf.crit;
-	    if (cf.face==Critical.FACEUP&&attackunit==unit&&targetunit==this) {
+	    if (cf.face==Critical.FACEUP&&attacker==unit&&target==this) {
 		var s1=this.selectdamage();
 		Critical.CRITICAL_DECK[s1].count--;
 		var s2=this.selectdamage();
@@ -1566,14 +1568,26 @@ window.PILOTS = [
 	pilotid:79,
 	init: function() {
             var self=this;
-            var number;
             $(document).on("endcombatphase"+this.team, function(e){
-//                var latedeferred=self.deferred;
-                self.select();
-                self.log("+1 attack at end of Combat phase");
-                self.maxfired++;
-                var allenemies=squadron.filter(ship => ship.team!==self.team);
-                self.doattack(self.weapons,allenemies); 
+                if(self.noattack<round){ // No extra attack if weapons disabled
+                    self.select();
+                    self.log("+1 attack at end of Combat phase");
+                    self.maxfired++;
+                    var allenemies=squadron.filter(ship => ship.team!==self.team);
+                    self.wrap_after("doattackroll",self,function(){
+                        // Should only activate if CH shot is used.
+                        self.addweapondisabledtoken();
+                        self.wrap_before("beginplanningphase",self,function(){
+                            self.log("No attacks this round")
+                            self.addweapondisabledtoken();
+                        }).unwrapper("endplanningphase");
+                    }).unwrapper("endplanningphase");
+                    self.doattack(self.weapons,allenemies); 
+                }
+            });
+            // Turn off event handling after death
+            self.wrap_after("dies",self,function(){
+                $(document).off("endcombatphase"+self.team);
             });
 	},
         unique: true,
@@ -3708,23 +3722,41 @@ window.PILOTS = [
       init: function() {
 	  var self=this;
 	  self.flip=-1;
-	  for (var i=0; i<this.upgrades.length; i++) {
-	      var upg=this.upgrades[i];
-	      if (upg.type==Unit.ELITE) (function(upg) {
+          $(document).on("upgradeinstalled",function(e,ship,upg){
+              if(ship===self){
+                  if (upg.type==Unit.ELITE) (function(upg) {
 		  upg.wrap_after("desactivate",this,function() {
 		      if (self.flip<round) { 
-			  self.donoaction([{org:self,name:self.name,type:"Unit.ELITE",
-					    action:function(n) {
-						upg.isactive=true;
-						self.log("name reactivated:"+upg.name);
-						//if (typeof upg.init=="function") upg.init(self);
-						self.flip=round;
-						self.endnoaction(n,"Unit.ELITE");
-					    }}],"Choose to reactivate an elite upgrade (or not)",true);
+			  self.donoaction([{org:self,name:self.name,type:"ELITE",
+                            action:function(n) {
+                                upg.isactive=true;
+                                self.log("name reactivated:"+upg.name);
+                                //if (typeof upg.init=="function") upg.init(self);
+                                self.flip=round;
+                                self.endnoaction(n,Unit.ELITE);
+                            }.bind(self)}],"Choose to reactivate an elite upgrade (or not)",true);
 		      }
 		  });
-	      })(upg);
-	  }
+                })(upg);
+              }
+          });
+//	  for (var i=0; i<this.upgrades.length; i++) {
+//	      var upg=this.upgrades[i];
+//	      if (upg.type==Unit.ELITE) (function(upg) {
+//		  upg.wrap_after("desactivate",this,function() {
+//		      if (self.flip<round) { 
+//			  self.donoaction([{org:self,name:self.name,type:"Unit.ELITE",
+//                            action:function(n) {
+//                                upg.isactive=true;
+//                                self.log("name reactivated:"+upg.name);
+//                                //if (typeof upg.init=="function") upg.init(self);
+//                                self.flip=round;
+//                                self.endnoaction(n,"Unit.ELITE");
+//                            }}],"Choose to reactivate an elite upgrade (or not)",true);
+//		      }
+//		  });
+//	      })(upg);
+//	  }
       },
     },
     { name:"Lothal Rebel",
@@ -3906,7 +3938,7 @@ window.PILOTS = [
 	init:function() {
 	    this.qdattack=-1;
 	    this.addattack(function(c,h) { 
-		return this.qdattack<round;
+		return (!this.dead) && (this.qdattack<round);
 	    }, this,[this.weapons[0]],function() {
 		this.qdattack=round;
 	    },function() {
@@ -4191,7 +4223,7 @@ window.PILOTS = [
 			    return true;
 			}
 			return r;
-		    }.bind(ship)).unwrap("cleanupattack");
+		    }.bind(ship)).unwrapper("cleanupattack");
                 }
             });
             $(document).on("declareattack"+this.team, function(e,ship,args){
@@ -4202,7 +4234,7 @@ window.PILOTS = [
 			    &&self.targeting.indexOf(t)>-1) {
 			    self.removetarget(t);
 			}
-		    }.bind(ship)).unwrap("cleanupattack");
+		    }.bind(ship)).unwrapper("cleanupattack");
 		}
 	    });
             Unit.prototype.wrap_before("begincombatphase",self,function(){

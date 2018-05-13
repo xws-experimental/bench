@@ -374,7 +374,9 @@ function nextunit(cando, changeturn,changephase,activenext) {
 }
 function endphase() {
     var i;
-    for (i in squadron) squadron[i].endphase();
+    for (i in squadron){
+        squadron[i].endphase();
+    }
     for (i in OBSTACLES) if (typeof OBSTACLES[i].endphase!="undefined") OBSTACLES[i].endphase();
 }
 function nextcombat() {
@@ -1561,6 +1563,7 @@ function setphase(cannotreplay) {
 	filltabskill();
 	$("#savebtn").show();
 	for (i in squadron) {
+            if(squadron[i].checkdead()) continue; // Catch unkilled "dead" ships
 	    squadron[i].newm=squadron[i].m;
 	    squadron[i].beginplanningphase().progress(nextplanning);
 	}
@@ -1570,7 +1573,10 @@ function setphase(cannotreplay) {
 	log("<div>["+UI_translation["turn #"]+round+"]"+UI_translation["phase"+phase]+"</div>");
 	$(".nextphase").addClass("disabled");
 	$("#activationdial").show();
-	for (i in squadron) squadron[i].beginactivationphase().done(nextdecloak);
+	for (i in squadron) {
+            if(squadron[i].checkdead()) continue; // Catch unkilled "dead" ships
+            squadron[i].beginactivationphase().done(nextdecloak);
+        }
 	
 	filltabskill();
 	subphase=DECLOAK_PHASE;
@@ -1583,7 +1589,10 @@ function setphase(cannotreplay) {
 	skillturn=12;
 	$(".nextphase").addClass("disabled");
 
-	for (i in squadron) squadron[i].begincombatphase().done(nextcombat);
+	for (i in squadron) {
+            if(squadron[i].checkdead()) continue; // Catch unkilled "dead" ships
+            squadron[i].begincombatphase().done(nextcombat);
+        }
 	barrier(nextcombat);
 	break;
     }

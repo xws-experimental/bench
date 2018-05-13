@@ -396,7 +396,7 @@
 	"firesnd":"tie_fire",
 	"flysnd":"tie_fly",
 	"scale":0.9,
-	"img":["tie","tie-sabine"],
+	"img":["tie-sabine","tie"],
 	"faction":["EMPIRE","REBEL"],
 	"weapon_type":"Laser",
 	"fire": 2,
