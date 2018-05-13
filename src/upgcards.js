@@ -4212,13 +4212,19 @@ var UPGRADES=window.UPGRADES= [
       points:0,
       done:true,
       init: function(sh) {
+          var self=this;
 	  /* TODO: check that it works */
 	  sh.wrap_after("hasnostresseffect",this,function(b) {
 	      return true;
 	  });
+          sh.wrap_after("getactionlist",self,function(iem,list){
+             if(sh.ia && list.length>0 && sh.stress>0 && (sh.shield+sh.hull)<=1){
+                 list=[]; // Don't allow Chopper-equipped AI ship to kill itself with Chopper
+             }
+          });
 	  sh.wrap_before("endaction",this,function(n,type) {
 	      if (type!==null&&this.stress>0) {
-		  this.log("%STRESS% -> +1 %HIT% [%0]",this.name);
+		  this.log("%STRESS% -> +1 %HIT% [%0]",self.name);
 		  this.resolvehit(1);
 		  this.checkdead();
 	      }
