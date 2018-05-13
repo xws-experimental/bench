@@ -1585,6 +1585,10 @@ window.PILOTS = [
                     self.doattack(self.weapons,allenemies); 
                 }
             });
+            // Turn off event handling after death
+            self.wrap_after("dies",self,function(){
+                $(document).off("endcombatphase"+self.team);
+            });
 	},
         unique: true,
         unit: "E-Wing",
