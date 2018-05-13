@@ -551,41 +551,43 @@ Upgrade.prototype={
 	}
 	// Emperor, Bomblet Generator, Jabba
 	if (typeof this.takesdouble!="undefined") {
-            var typeslots = [];
-            var installedtype = 0;
-            //var typeslots = 0,installedtype = 0;
-            // Possibly track slots and ID numbers of all same-type upgrades
-            for (var k=0; k<sh.upgradetype.length; k++){ // Count all avail same-type slots
-                if(sh.upgradetype[k]==this.type) typeslots.push({index: k});
-            }
-            for (k=0; k<sh.upgrades.length; k++){
-                if(sh.upgrades[k].type===this.type){ // upgrades' order is dependent on install order
-                    if(typeof sh.upgrades[k].takesdouble==="undefined"||sh.upgrades[k].takesdouble===false){
-                        installedtype++;
-                    }
-                    else{
-                        installedtype+=2; // also counts current double card
+            if(phase===SELECT_PHASE){
+                var typeslots = [];
+                var installedtype = 0;
+                //var typeslots = 0,installedtype = 0;
+                // Possibly track slots and ID numbers of all same-type upgrades
+                for (var k=0; k<sh.upgradetype.length; k++){ // Count all avail same-type slots
+                    if(sh.upgradetype[k]==this.type) typeslots.push({index: k});
+                }
+                for (k=0; k<sh.upgrades.length; k++){
+                    if(sh.upgrades[k].type===this.type){ // upgrades' order is dependent on install order
+                        if(typeof sh.upgrades[k].takesdouble==="undefined"||sh.upgrades[k].takesdouble===false){
+                            installedtype++;
+                        }
+                        else{
+                            installedtype+=2; // also counts current double card
+                        }
                     }
                 }
-            }
-            if(installedtype > typeslots.length){ // Check if there are enough slots for all upgrades of this.type
-                // If not, just uninstall this and NOTHING ELSE!
-                removeupgrade(sh,typeslots[typeslots.length-2].index,this.id);                
-//                for (j=0; j<sh.upgradetype.length; j++){
-//                    if (sh.upgradetype[j]==this.type&&(sh.upg[j]<0||UPGRADES[sh.upg[j]].name!=this.name)) {
-//                        break;
-//                    }
-//                }
-//                if (j<sh.upgradetype.length) {
-//                    if (sh.upg[j]>-1) removeupgrade(sh,j,sh.upg[j]);
-//                    sh.upg[j]=-2;
-//                }
-            }
-            else { // Remove one upgrade slot
-                for(var u in typeslots){
-                    if (sh.upg[typeslots[u].index]==-1){
-                        sh.upg[typeslots[u].index] = -2;
-                        break;
+                if(installedtype > typeslots.length){ // Check if there are enough slots for all upgrades of this.type
+                    // If not, just uninstall this and NOTHING ELSE!
+                    removeupgrade(sh,typeslots[typeslots.length-2].index,this.id);                
+    //                for (j=0; j<sh.upgradetype.length; j++){
+    //                    if (sh.upgradetype[j]==this.type&&(sh.upg[j]<0||UPGRADES[sh.upg[j]].name!=this.name)) {
+    //                        break;
+    //                    }
+    //                }
+    //                if (j<sh.upgradetype.length) {
+    //                    if (sh.upg[j]>-1) removeupgrade(sh,j,sh.upg[j]);
+    //                    sh.upg[j]=-2;
+    //                }
+                }
+                else { // Remove one upgrade slot
+                    for(var u in typeslots){
+                        if (sh.upg[typeslots[u].index]==-1){
+                            sh.upg[typeslots[u].index] = -2;
+                            break;
+                        }
                     }
                 }
             }
