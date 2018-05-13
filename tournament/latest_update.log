@@ -7,23 +7,48 @@ Aborting
 ERROR: git pull failed!  State may be bad!  Check git status!
 Moving old 'tournaments' to 'tournaments.old'...
 Downloading new 'tournaments' file...
---2018-05-12 07:03:34--  http://lists.starwarsclubhouse.com/api/v1/tournaments
+--2018-05-13 07:03:30--  http://lists.starwarsclubhouse.com/api/v1/tournaments
 Resolving lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)... 34.206.101.184
 Connecting to lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)|34.206.101.184|:80... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 40604 (40K) [application/json]
+Length: 40637 (40K) [application/json]
 Saving to: ‘tournaments’
 
-     0K .......... .......... .......... .........            100%  489K=0.08s
+     0K .......... .......... .......... .........            100%  495K=0.08s
 
-2018-05-12 07:03:34 (489 KB/s) - ‘tournaments’ saved [40604/40604]
+2018-05-13 07:03:30 (495 KB/s) - ‘tournaments’ saved [40637/40637]
 
 Downloading new tournament list data...
-To git@github.com:baranidlo/bench.git
- ! [rejected]        gh-pages -> gh-pages (non-fast-forward)
-error: failed to push some refs to 'git@github.com:baranidlo/bench.git'
-hint: Updates were rejected because the tip of your current branch is behind
-hint: its remote counterpart. Integrate the remote changes (e.g.
-hint: 'git pull ...') before pushing again.
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-ERROR: git push failed!  Check git status!
+--2018-05-13 07:03:30--  http://lists.starwarsclubhouse.com/api/v1/tournament/4344
+Resolving lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)... 34.206.101.184
+Connecting to lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)|34.206.101.184|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 12168 (12K) [application/json]
+Saving to: ‘4344’
+
+     0K .......... .                                          100%  230M=0s
+
+2018-05-13 07:03:31 (230 MB/s) - ‘4344’ saved [12168/12168]
+
+--2018-05-13 07:03:31--  http://lists.starwarsclubhouse.com/api/v1/tournament/4342
+Resolving lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)... 34.206.101.184
+Connecting to lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)|34.206.101.184|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 10485 (10K) [application/json]
+Saving to: ‘4342’
+
+     0K ..........                                            100% 14.1M=0.001s
+
+2018-05-13 07:03:31 (14.1 MB/s) - ‘4342’ saved [10485/10485]
+
+--2018-05-13 07:03:31--  http://lists.starwarsclubhouse.com/api/v1/tournament/4343
+Resolving lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)... 34.206.101.184
+Connecting to lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)|34.206.101.184|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9535 (9.3K) [application/json]
+Saving to: ‘4343’
+
+     0K .........                                             100%  195M=0s
+
+2018-05-13 07:03:31 (195 MB/s) - ‘4343’ saved [9535/9535]
+

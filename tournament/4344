@@ -1,0 +1,498 @@
+{
+  "tournament": {
+    "date": "2018-05-12", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4344, 
+    "name": "GMI Games: Dogfight", 
+    "players": [
+      {
+        "mov": 747, 
+        "name": "Mitchel Raab", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 4, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 584, 
+        "name": "Mitchel Hurst", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 555, 
+        "name": "Alex Rico", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 553, 
+        "name": "Michael Ramirez", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 478, 
+        "name": "Sam Kirk", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 456, 
+        "name": "Marc Locoro", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 3, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 515, 
+        "name": "Jerome Kentz", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 417, 
+        "name": "Fabian Espinoza", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 2, 
+        "sos": "0.31"
+      }, 
+      {
+        "mov": 389, 
+        "name": "Trevor Betts", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 367, 
+        "name": "Troy Fong", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 2, 
+        "sos": "0.58"
+      }, 
+      {
+        "mov": 363, 
+        "name": "Bruce Enos", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 2, 
+        "sos": "0.75"
+      }, 
+      {
+        "mov": 362, 
+        "name": "Josh Youngblood", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 358, 
+        "name": "Brent Scott", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 2, 
+        "sos": "0.69"
+      }, 
+      {
+        "mov": 346, 
+        "name": "Chad Smith", 
+        "rank": {
+          "swiss": 14
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 344, 
+        "name": "Corbin Youngblood", 
+        "rank": {
+          "swiss": 15
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 341, 
+        "name": "Matthew Terrain", 
+        "rank": {
+          "swiss": 16
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 256, 
+        "name": "Matt Plumb", 
+        "rank": {
+          "swiss": 17
+        }, 
+        "score": 1, 
+        "sos": "0.58"
+      }, 
+      {
+        "mov": 217, 
+        "name": "Robb Tolson", 
+        "rank": {
+          "swiss": 18
+        }, 
+        "score": 1, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 152, 
+        "name": "Tom Burns", 
+        "rank": {
+          "swiss": 19
+        }, 
+        "score": 0, 
+        "sos": "0.44"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Michael Ramirez", 
+            "player1points": 50, 
+            "player2": "Brent Scott", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alex Rico", 
+            "player1points": 100, 
+            "player2": "Matt Plumb", 
+            "player2points": 39, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mitchel Hurst", 
+            "player1points": 100, 
+            "player2": "Troy Fong", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Fabian Espinoza", 
+            "player1points": 67, 
+            "player2": "Chad Smith", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Josh Youngblood", 
+            "player1points": 100, 
+            "player2": "Tom Burns", 
+            "player2points": 39, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sam Kirk", 
+            "player1points": 100, 
+            "player2": "Corbin Youngblood", 
+            "player2points": 24, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mitchel Raab", 
+            "player1points": 100, 
+            "player2": "Trevor Betts", 
+            "player2points": 53, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Matthew Terrain", 
+            "player1points": 100, 
+            "player2": "Robb Tolson", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jerome Kentz", 
+            "player1points": 74, 
+            "player2": "Bruce Enos", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marc Locoro", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Bruce Enos", 
+            "player1points": 100, 
+            "player2": "Sam Kirk", 
+            "player2points": 26, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marc Locoro", 
+            "player1points": 100, 
+            "player2": "Matthew Terrain", 
+            "player2points": 47, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Josh Youngblood", 
+            "player1points": 0, 
+            "player2": "Mitchel Hurst", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alex Rico", 
+            "player1points": 100, 
+            "player2": "Chad Smith", 
+            "player2points": 21, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Brent Scott", 
+            "player1points": 0, 
+            "player2": "Mitchel Raab", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tom Burns", 
+            "player1points": 58, 
+            "player2": "Robb Tolson", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Fabian Espinoza", 
+            "player1points": 0, 
+            "player2": "Jerome Kentz", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Michael Ramirez", 
+            "player1points": 100, 
+            "player2": "Corbin Youngblood", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Matt Plumb", 
+            "player1points": 28, 
+            "player2": "Trevor Betts", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Troy Fong", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Bruce Enos", 
+            "player1points": 0, 
+            "player2": "Mitchel Raab", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marc Locoro", 
+            "player1points": 100, 
+            "player2": "Mitchel Hurst", 
+            "player2points": 47, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alex Rico", 
+            "player1points": 55, 
+            "player2": "Michael Ramirez", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Troy Fong", 
+            "player1points": 100, 
+            "player2": "Matthew Terrain", 
+            "player2points": 25, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jerome Kentz", 
+            "player1points": 100, 
+            "player2": "Brent Scott", 
+            "player2points": 33, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Trevor Betts", 
+            "player1points": 33, 
+            "player2": "Chad Smith", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Robb Tolson", 
+            "player1points": 50, 
+            "player2": "Sam Kirk", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Josh Youngblood", 
+            "player1points": 100, 
+            "player2": "Matt Plumb", 
+            "player2points": 39, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tom Burns", 
+            "player1points": 25, 
+            "player2": "Fabian Espinoza", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Corbin Youngblood", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Marc Locoro", 
+            "player1points": 0, 
+            "player2": "Mitchel Raab", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Josh Youngblood", 
+            "player1points": 40, 
+            "player2": "Alex Rico", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Troy Fong", 
+            "player1points": 42, 
+            "player2": "Michael Ramirez", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bruce Enos", 
+            "player1points": 63, 
+            "player2": "Mitchel Hurst", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sam Kirk", 
+            "player1points": 100, 
+            "player2": "Jerome Kentz", 
+            "player2points": 74, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chad Smith", 
+            "player1points": 25, 
+            "player2": "Brent Scott", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Trevor Betts", 
+            "player1points": 59, 
+            "player2": "Matthew Terrain", 
+            "player2points": 28, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Fabian Espinoza", 
+            "player1points": 100, 
+            "player2": "Robb Tolson", 
+            "player2points": 25, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Corbin Youngblood", 
+            "player1points": 100, 
+            "player2": "Tom Burns", 
+            "player2points": 30, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Matt Plumb", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Other", 
+    "venue": {
+      "city": "Riverside", 
+      "country": "United States of America", 
+      "lat": "33.953354600000", 
+      "lon": "-117.396162300000", 
+      "name": "GMI Games", 
+      "state": "California"
+    }, 
+    "video_url": "http://twitch.tv/warlock_squadron/"
+  }
+}
