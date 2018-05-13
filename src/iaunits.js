@@ -98,12 +98,20 @@ IAUnit.prototype = {
         return [positions[index]];  // Return a length 1 array for easy handling
         
     },
-    guessevades(roll,promise) {
-	if (this.rand(roll.dice+1)==Unit.FE_evade(roll.roll)) {
-	    this.log("guessed correctly the number of evades ! +1 %EVADE% [%0]",self.name);
+    guessevades(roll,promise,org) {
+        if(typeof org==="undefined"){
+            org=this;
+        }
+        var guess=this.rand(roll.dice+1);
+        var result=Unit.FE_evade(roll.roll);
+	if (guess==result) {
+	    this.log("guessed correctly the number of evades ! +1 %EVADE% [%0]",org.name);
 	    roll.roll+=Unit.FE_EVADE;
 	    roll.dice+=1;
 	}
+        else{
+            this.log("guessed incorrectly! %0 guessed but %1 rolled [%2]",guess,result,org.name);
+        }
 	promise.resolve(roll);
     },
     findpositions(gd) {

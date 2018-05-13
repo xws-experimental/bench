@@ -1652,13 +1652,14 @@ var UPGRADES=window.UPGRADES= [
         points: 3,
 	done:true,
 	init:function(sh) {
+            var self=this;
 	    var c3po=-1;
 	    sh.wrap_after("defenseroll",this,function(r,promise) {
 		if (c3po==round) return promise;
 		var lock=$.Deferred();
 		c3po=round;
 		promise.done(function(roll) {
-		    this.guessevades(roll,lock);
+		    this.guessevades(roll,lock,self);
 		}.bind(this));
 		return lock.promise();
 	    });

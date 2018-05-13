@@ -1235,10 +1235,13 @@ Unit.prototype = {
 	return { x:m.x(0,0),y:m.y(0,0),diam:(this.islarge?56:28) };
     },
     /* TODO: remove from unit? */
-    guessevades: function(roll,lock) {
+    guessevades: function(roll,lock,org) {
+        if(typeof org==="undefined"){
+            org=this;
+        }
 	var resolve=function(k) {
 	    if (k==Unit.FE_evade(roll.roll)) {
-		this.log("guessed correctly ! +1 %EVADE% [%0]",self.name);
+		this.log("guessed correctly ! +1 %EVADE% [%0]",org.name);
 		roll.roll+=Unit.FE_EVADE;
 		roll.dice+=1;
 	    }
@@ -3342,15 +3345,18 @@ Unit.prototype = {
 	str=formatstring(str);
 	log("<div><span style='color:red;font-weight:bold;'>**ERROR** ["+this.name+"]</span> "+str+"</div>");	
     },
-    log: function(str,a,b,c) {
+    log: function(str) {
 	if (NOLOG) return;
 	if (typeof UI_translation[str]!="undefined") str=UI_translation[str];
-	if (typeof a=="string") a=translate(a);
-	str=str.replace(/%0/g,a)
-	if (typeof b=="string") b=translate(b);
-	str=str.replace(/%1/g,b)
-	if (typeof c=="string") c=translate(c);
-	str=str.replace(/%2/g,c)
+	var args = Array.prototype.slice.call(arguments,1); // only grab args after str
+        var regexp;
+        for(var i=0; i<args.length; ++i){
+            if(typeof args[i]==="string"){
+                args[i]=translate(args[i]);
+            }
+            regexp=new RegExp("%"+i,"g");
+            str=str.replace(regexp,args[i]);
+        }
 	str=formatstring(str);
 	log("<div><span style='color:"+this.color+"'>["+this.name+"]</span> "+str+"</div>");
     },
