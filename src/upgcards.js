@@ -6028,7 +6028,43 @@ var UPGRADES=window.UPGRADES= [
      points:3,
      unique:true,
      done:true,
-     candoaction: function() { return this.unit.selectnearbyenemy(3).length>0; },
+     candoaction: function() { 
+         return this.unit.selectnearbyenemy(3).length>0; 
+     },
+     aiactivate: function(){
+        var use;
+        var ship,sh=this.unit;
+        if(round===1){ // Always use ISYTDS (if candoaction===true) in turn 1
+            use=true;
+        }
+        else{
+            var allenemies = sh.selectnearbyenemy(3);
+            use=true;
+            for (var i in allenemies){
+                ship=allenemies[i];
+                if(sh.getrange(ship)<3 && ship.isinprimaryfiringarc(sh)){
+                    use=false;
+                    break;
+                }
+            }
+        }
+        return use;
+     },
+     init: function(sh) {
+         sh.wrap_before("selectcritical",this,function(crits,func) {
+            var curcrit;
+            for (var i=0; i<crits.length; i++) {
+                curcrit=CRITICAL_DECK[crits[i]];
+                if (curcrit.name==="Blinded Pilot"){
+                    crits=[crits[i]];
+                }
+                else if (curcrit.name="Damaged Cockpit") {
+                    crits=[crits[i]];
+                }
+            }
+            return [crits,func];
+        });
+     },
      action: function(n) {
 	 var self=this.unit;
 	 var p=self.selectnearbyenemy(3);

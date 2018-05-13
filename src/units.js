@@ -755,7 +755,7 @@ Unit.prototype = {
 	return s;	
     },
     setpriority:function(action) {
-	var PRIORITIES={"FOCUS":3,"EVADE":1,"REINFORCE":7,"CLOAK":4,"TARGET":2,"CRITICAL":100,"BOMB":5,"ILLICIT":6};
+	var PRIORITIES={"FOCUS":3,"EVADE":1,"REINFORCE":7,"CLOAK":4,"TARGET":2,"CRITICAL":100,"BOMB":5,"ILLICIT":6,"CREW":6};
 	var p=PRIORITIES[action.type];
 	if (typeof p=="undefined") p=0;
 	action.priority=p;
