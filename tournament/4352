@@ -1,0 +1,549 @@
+{
+  "tournament": {
+    "date": "2018-05-15", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4352, 
+    "name": "All American May Micro", 
+    "players": [
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "sabinewren"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "sharabey", 
+              "ship": "arc170", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "bazemalbus"
+                ], 
+                "ept": [
+                  "adaptability"
+                ], 
+                "title": [
+                  "allianceoverhaul"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r2astromech"
+                ], 
+                "crew": [
+                  "jynerso"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 443, 
+        "name": "Brian Ludwick", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "talonbanecobra", 
+              "ship": "kihraxzfighter", 
+              "upgrades": {
+                "ept": [
+                  "deadeye"
+                ], 
+                "illicit": [
+                  "iondischargers"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "vectoredthrusters", 
+                  "guidancechips", 
+                  "pulsedrayshield"
+                ], 
+                "title": [
+                  "vaksai"
+                ]
+              }
+            }, 
+            {
+              "name": "captainjostero", 
+              "ship": "kihraxzfighter", 
+              "upgrades": {
+                "ept": [
+                  "deadeye"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "vectoredthrusters", 
+                  "guidancechips", 
+                  "pulsedrayshield"
+                ], 
+                "title": [
+                  "vaksai"
+                ]
+              }
+            }, 
+            {
+              "name": "dalanoberos", 
+              "ship": "m12lkimogilafighter", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "illicit": [
+                  "contrabandcybernetics"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "unhingedastromech"
+                ], 
+                "title": [
+                  "enforcer"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 362, 
+        "name": "John Hazen", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 2, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 358, 
+        "name": "Mike Jefferis", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 2, 
+        "sos": "0.33"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "countdown", 
+              "ship": "tiestriker", 
+              "upgrades": {
+                "mod": [
+                  "hullupgrade"
+                ], 
+                "title": [
+                  "adaptiveailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "countessryad", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "cannon": [
+                  "tractorbeam"
+                ], 
+                "ept": [
+                  "ruthlessness"
+                ], 
+                "title": [
+                  "tied"
+                ]
+              }
+            }, 
+            {
+              "name": "maarekstele", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "cannon": [
+                  "tractorbeam"
+                ], 
+                "ept": [
+                  "ruthlessness"
+                ], 
+                "title": [
+                  "tied"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 351, 
+        "name": "Chris Parillo", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 2, 
+        "sos": "0.67"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "crimsonsquadronpilot", 
+              "ship": "bsf17bomber", 
+              "upgrades": {
+                "bomb": [
+                  "ordnancesilos", 
+                  "seismiccharges"
+                ], 
+                "mod": [
+                  "deflectiveplating"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ]
+              }
+            }, 
+            {
+              "name": "crimsonsquadronpilot", 
+              "ship": "bsf17bomber", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ]
+              }
+            }, 
+            {
+              "name": "resistancesympathizer", 
+              "ship": "yt1300", 
+              "upgrades": {
+                "crew": [
+                  "sabinewren"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 336, 
+        "name": "Frank Palocyi", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "jakefarrell", 
+              "ship": "awing", 
+              "upgrades": {
+                "ept": [
+                  "intensity", 
+                  "pushthelimit"
+                ], 
+                "missile": [
+                  "protonrockets"
+                ], 
+                "mod": [
+                  "hullupgrade"
+                ], 
+                "title": [
+                  "awingtestpilot"
+                ]
+              }
+            }, 
+            {
+              "name": "janors", 
+              "ship": "hwk290", 
+              "upgrades": {
+                "crew": [
+                  "kylekatarn"
+                ], 
+                "ept": [
+                  "trickshot"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "title": [
+                  "moldycrow"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "lieutenantblount", 
+              "ship": "z95headhunter", 
+              "upgrades": {
+                "ept": [
+                  "trickshot"
+                ], 
+                "missile": [
+                  "ionpulsemissiles"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 226, 
+        "name": "Charles Mason", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "asajjventress", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "lattsrazzi"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "title": [
+                  "shadowcaster"
+                ]
+              }
+            }, 
+            {
+              "name": "quinnjast", 
+              "ship": "m3ainterceptor", 
+              "upgrades": {
+                "ept": [
+                  "deadeye"
+                ], 
+                "missile": [
+                  "cruisemissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "title": [
+                  "heavyscykinterceptor"
+                ]
+              }
+            }, 
+            {
+              "name": "thweek", 
+              "ship": "starviper", 
+              "upgrades": {
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "advancedsensors"
+                ], 
+                "title": [
+                  "virago", 
+                  "starvipermkii"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 174, 
+        "name": "Jim Seals", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 1, 
+        "sos": "0.78"
+      }
+    ], 
+    "round_length": 60, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Charles Mason", 
+            "player1points": 0, 
+            "player2": "Chris Parillo", 
+            "player2points": 59, 
+            "result": "win"
+          }, 
+          {
+            "player1": "John Hazen", 
+            "player1points": 25, 
+            "player2": "Jim Seals", 
+            "player2points": 29, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Frank Palocyi", 
+            "player1points": 56, 
+            "player2": "Brian Ludwick", 
+            "player2points": 69, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mike Jefferis", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Brian Ludwick", 
+            "player1points": 53, 
+            "player2": "Jim Seals", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chris Parillo", 
+            "player1points": 69, 
+            "player2": "Mike Jefferis", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Frank Palocyi", 
+            "player1points": 66, 
+            "player2": "John Hazen", 
+            "player2points": 67, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Charles Mason", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Chris Parillo", 
+            "player1points": 23, 
+            "player2": "Brian Ludwick", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Charles Mason", 
+            "player1points": 0, 
+            "player2": "John Hazen", 
+            "player2points": 65, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mike Jefferis", 
+            "player1points": 77, 
+            "player2": "Jim Seals", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Frank Palocyi", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Other", 
+    "venue": {
+      "city": "Boardman", 
+      "country": "United States of America", 
+      "lat": "41.025042650000", 
+      "lon": "-80.664962915708", 
+      "name": "ALL AMERICAN CARDS AND COMICS", 
+      "state": "Ohio"
+    }, 
+    "video_url": "http://"
+  }
+}

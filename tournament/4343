@@ -237,6 +237,63 @@
         "sos": "0.63"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "puresabacc", 
+              "ship": "tiestriker", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "adaptiveailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "duchess", 
+              "ship": "tiestriker", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "adaptiveailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "rexlerbrath", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "cannon": [
+                  "tractorbeam"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "stealthdevice"
+                ], 
+                "title": [
+                  "tied"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 398, 
         "name": "Doug Smith", 
         "rank": {
