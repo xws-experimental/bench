@@ -1,0 +1,158 @@
+{
+  "tournament": {
+    "date": "2018-05-03", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4358, 
+    "name": "Micro 5/3", 
+    "players": [
+      {
+        "mov": 497, 
+        "name": "Glen \"Weazel\" Gearhart Jr", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 311, 
+        "name": "Chris Parillo", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 310, 
+        "name": "John Hazen (Evil)", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 302, 
+        "name": "Jim Seals", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 219, 
+        "name": "Mathew Spalla", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 161, 
+        "name": "Jim Athya", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 0, 
+        "sos": "0.44"
+      }
+    ], 
+    "round_length": 60, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Mathew Spalla", 
+            "player1points": 56, 
+            "player2": "John Hazen (Evil)", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Glen \"Weazel\" Gearhart Jr", 
+            "player1points": 22, 
+            "player2": "Jim Seals", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jim Athya", 
+            "player1points": 24, 
+            "player2": "Chris Parillo", 
+            "player2points": 74, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Chris Parillo", 
+            "player1points": 100, 
+            "player2": "John Hazen (Evil)", 
+            "player2points": 64, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Glen \"Weazel\" Gearhart Jr", 
+            "player1points": 100, 
+            "player2": "Mathew Spalla", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jim Athya", 
+            "player1points": 22, 
+            "player2": "Jim Seals", 
+            "player2points": 48, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Chris Parillo", 
+            "player1points": 25, 
+            "player2": "Glen \"Weazel\" Gearhart Jr", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jim Seals", 
+            "player1points": 56, 
+            "player2": "John Hazen (Evil)", 
+            "player2points": 58, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jim Athya", 
+            "player1points": 37, 
+            "player2": "Mathew Spalla", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Vassal play", 
+    "venue": {
+      "city": "Niles", 
+      "country": "United States of America", 
+      "lat": "41.182835300000", 
+      "lon": "-80.765357900000", 
+      "name": "Crystal Dragon", 
+      "state": "Ohio"
+    }, 
+    "video_url": "http://"
+  }
+}
