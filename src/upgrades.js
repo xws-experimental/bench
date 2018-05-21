@@ -52,7 +52,6 @@ Bomb.prototype = {
     isBomb() { return true; },
     showOrdnance() { return this+1; },
     aiactivate() {
-        var victims = [], ship;
         var bRange = 0;
         if(this.canbedropped()){  // Probably dropping early
             // Fill in with maneuver-drop bomb logic
@@ -62,14 +61,7 @@ Bomb.prototype = {
             // Fill in with action-drop bomb logic
             bRange=2;
         }
-        for(var i in squadron){
-            ship=squadron[i];
-            if(this.unit.isenemy(ship)
-                    &&((this.unit.getrange(ship)<=bRange && !this.unit.isinprimaryfiringarc(ship))
-                    ||this.unit.getrange(ship)<=1) // For Deathrain
-                    )
-                victims.push(ship);
-        }
+        var victims=this.unit.getBombVictims(bRange);
         return victims.length>0;
     },
     canbedropped() { return this.isactive&&!this.unit.hasmoved&&this.unit.lastdrop!=round; },
@@ -230,7 +222,9 @@ Bomb.prototype = {
     },
     getOutlineString(m) {
 	var w=15;
-	if (typeof m=="undefined") m=this.m;
+	if (typeof m=="undefined") {
+            m=this.m;
+        }
 	var p1=transformPoint(m,{x:-w-1,y:-w});
 	var p2=transformPoint(m,{x:w+1,y:-w});
 	var p3=transformPoint(m,{x:w+1,y:w});
@@ -557,46 +551,49 @@ Upgrade.prototype={
 	}
 	// Emperor, Bomblet Generator, Jabba
 	if (typeof this.takesdouble!="undefined") {
-            var typeslots = [];
-            var installedtype = 0;
-            //var typeslots = 0,installedtype = 0;
-            // Possibly track slots and ID numbers of all same-type upgrades
-            for (var k=0; k<sh.upgradetype.length; k++){ // Count all avail same-type slots
-                if(sh.upgradetype[k]==this.type) typeslots.push({index: k});
-            }
-            for (k=0; k<sh.upgrades.length; k++){
-                if(sh.upgrades[k].type===this.type){ // upgrades' order is dependent on install order
-                    if(typeof sh.upgrades[k].takesdouble==="undefined"||sh.upgrades[k].takesdouble===false){
-                        installedtype++;
-                    }
-                    else{
-                        installedtype+=2; // also counts current double card
+            if(phase===SELECT_PHASE){
+                var typeslots = [];
+                var installedtype = 0;
+                //var typeslots = 0,installedtype = 0;
+                // Possibly track slots and ID numbers of all same-type upgrades
+                for (var k=0; k<sh.upgradetype.length; k++){ // Count all avail same-type slots
+                    if(sh.upgradetype[k]==this.type) typeslots.push({index: k});
+                }
+                for (k=0; k<sh.upgrades.length; k++){
+                    if(sh.upgrades[k].type===this.type){ // upgrades' order is dependent on install order
+                        if(typeof sh.upgrades[k].takesdouble==="undefined"||sh.upgrades[k].takesdouble===false){
+                            installedtype++;
+                        }
+                        else{
+                            installedtype+=2; // also counts current double card
+                        }
                     }
                 }
-            }
-            if(installedtype > typeslots.length){ // Check if there are enough slots for all upgrades of this.type
-                // If not, just uninstall this and NOTHING ELSE!
-                removeupgrade(sh,typeslots[typeslots.length-2].index,this.id);                
-//                for (j=0; j<sh.upgradetype.length; j++){
-//                    if (sh.upgradetype[j]==this.type&&(sh.upg[j]<0||UPGRADES[sh.upg[j]].name!=this.name)) {
-//                        break;
-//                    }
-//                }
-//                if (j<sh.upgradetype.length) {
-//                    if (sh.upg[j]>-1) removeupgrade(sh,j,sh.upg[j]);
-//                    sh.upg[j]=-2;
-//                }
-            }
-            else { // Remove one upgrade slot
-                for(var u in typeslots){
-                    if (sh.upg[typeslots[u].index]==-1){
-                        sh.upg[typeslots[u].index] = -2;
-                        break;
+                if(installedtype > typeslots.length){ // Check if there are enough slots for all upgrades of this.type
+                    // If not, just uninstall this and NOTHING ELSE!
+                    removeupgrade(sh,typeslots[typeslots.length-2].index,this.id);                
+    //                for (j=0; j<sh.upgradetype.length; j++){
+    //                    if (sh.upgradetype[j]==this.type&&(sh.upg[j]<0||UPGRADES[sh.upg[j]].name!=this.name)) {
+    //                        break;
+    //                    }
+    //                }
+    //                if (j<sh.upgradetype.length) {
+    //                    if (sh.upg[j]>-1) removeupgrade(sh,j,sh.upg[j]);
+    //                    sh.upg[j]=-2;
+    //                }
+                }
+                else { // Remove one upgrade slot
+                    for(var u in typeslots){
+                        if (sh.upg[typeslots[u].index]==-1){
+                            sh.upg[typeslots[u].index] = -2;
+                            break;
+                        }
                     }
                 }
             }
 	    sh.showupgradeadd();
 	}
+        $(document).trigger("upgradeinstalled",[sh,this]); // Better handling of e.g. Tomax Bren
     },
     uninstall(sh) {
 	var i;

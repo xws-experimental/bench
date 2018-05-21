@@ -281,34 +281,6 @@ Team.prototype = {
 		}
             }            
 	}
-        
-        /* However, the following section does not seem to be necessary any longer
-         * as we are not instantiating each ship multiple times
-         */
-//	for (i in squadron) {
-//	    u=squadron[i];
-//	    if (u.team==this.team) {
-//		for (var j=0; j<u.upgrades.length; j++) {
-//		    var upg=u.upgrades[j];
-//		    //if (upg.id>=0) log("removing "+upg.name+"?"+u.installed+" "+(typeof upg.uninstall));
-//		    // Need to unwrap generic upgrades, installed when creating the squad
-//		    if (upg.id>=0&&typeof UPGRADES[upg.id].uninstall=="function")
-//			UPGRADES[upg.id].uninstall(u);
-//		    // Now install the upgrades added during the tosquadron call
-//		    if (typeof upg.install=="function" && upg.install !== Upgrade.prototype.install) upg.install(u);
-//		    Upgrade.prototype.install.call(upg,u);
-//		}
-//	    }
-//	}
-//	for (i in squadron) {
-//	    u=squadron[i];
-//	    if (u.team==this.team) {
-//		for (var j=0; j<u.upgrades.length; j++) {
-//		    var upg=u.upgrades[j];
-//		    if (typeof upg.init=="function"&&!u.isdocked) upg.init(u);
-//		}
-//	    }
-//	}
 
 	this.units.sort(function(a,b) {return b.getskill()-a.getskill();});
 	this.history={title: {text: UI_translation["Damage taken per turn"]},

@@ -70,11 +70,11 @@ IAUnit.prototype = {
         // Get all enemies within 2 of this ship; farther ships don't really matter
         for(i in squadron){
             ship=squadron[i];
-            if(this.isenemy(ship) && this.getrange(ship)<=2) 
+            if(this.isenemy(ship) && this.getrange(ship)<=3) 
                 victims.push(ship.m);
         }
         // Find the average center point amongst all victims (or just the .m if 1 victim)
-        if(victims.length===1) centroid=victims[0];
+        if(victims.length===1) centroid=new Snap.Matrix(1,0,0,1,victims[0].e,victims[0].f);
         else{
             var x=0,y=0;
             for (v in victims){
@@ -98,12 +98,20 @@ IAUnit.prototype = {
         return [positions[index]];  // Return a length 1 array for easy handling
         
     },
-    guessevades(roll,promise) {
-	if (this.rand(roll.dice+1)==Unit.FE_evade(roll.roll)) {
-	    this.log("guessed correctly the number of evades ! +1 %EVADE% [%0]",self.name);
+    guessevades(roll,promise,org) {
+        if(typeof org==="undefined"){
+            org=this;
+        }
+        var guess=this.rand(roll.dice+1);
+        var result=Unit.FE_evade(roll.roll);
+	if (guess==result) {
+	    this.log("guessed correctly the number of evades ! +1 %EVADE% [%0]",org.name);
 	    roll.roll+=Unit.FE_EVADE;
 	    roll.dice+=1;
 	}
+        else{
+            this.log("guessed incorrectly! %0 guessed but %1 rolled [%2]",guess,result,org.name);
+        }
 	promise.resolve(roll);
     },
     findpositions(gd) {
