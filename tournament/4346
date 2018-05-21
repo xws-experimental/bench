@@ -1,0 +1,2978 @@
+{
+  "tournament": {
+    "date": "2018-05-12", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4346, 
+    "name": "Onyx Squadron World Cup 6", 
+    "players": [
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "rebeloperative", 
+              "ship": "hwk290"
+            }, 
+            {
+              "name": "rebeloperative", 
+              "ship": "hwk290"
+            }, 
+            {
+              "name": "rebeloperative", 
+              "ship": "hwk290"
+            }, 
+            {
+              "name": "rebeloperative", 
+              "ship": "hwk290"
+            }, 
+            {
+              "name": "rebeloperative", 
+              "ship": "hwk290"
+            }, 
+            {
+              "name": "rebeloperative", 
+              "ship": "hwk290"
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 952, 
+        "name": "Craig Walker", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 5, 
+        "sos": "0.64"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "contractedscout", 
+              "ship": "jumpmaster5000", 
+              "upgrades": {
+                "crew": [
+                  "courierdroid"
+                ], 
+                "ept": [
+                  "adaptability"
+                ], 
+                "illicit": [
+                  "riggedcargochute"
+                ], 
+                "mod": [
+                  "ionprojector"
+                ]
+              }
+            }, 
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "crew": [
+                  "bobafett"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "autoblasterturret"
+                ]
+              }
+            }, 
+            {
+              "name": "toranikulda", 
+              "ship": "m12lkimogilafighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "r5tk"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 923, 
+        "name": "Julian Hood", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 5, 
+        "sos": "0.67"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "tactician", 
+                  "c3po"
+                ], 
+                "ept": [
+                  "expertise"
+                ]
+              }
+            }, 
+            {
+              "name": "rey", 
+              "ship": "yt1300", 
+              "upgrades": {
+                "crew": [
+                  "finn", 
+                  "kananjarrus"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "title": [
+                  "millenniumfalcon-swx57"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 903, 
+        "name": "Akhter Khan", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 5, 
+        "sos": "0.53"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "poedameron-swx57", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "blackone"
+                ]
+              }
+            }, 
+            {
+              "name": "dashrendar", 
+              "ship": "yt2400", 
+              "upgrades": {
+                "cannon": [
+                  "heavylasercannon"
+                ], 
+                "crew": [
+                  "rey"
+                ], 
+                "ept": [
+                  "lonewolf"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "title": [
+                  "outrider"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 879, 
+        "name": "Matt Heal", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 5, 
+        "sos": "0.50"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "c3po"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "wookieecommandos"
+                ], 
+                "ept": [
+                  "drawtheirfire"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "herasyndulla"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 753, 
+        "name": "Markus Thielsch", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 5, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "poedameron-swx57", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "blackone"
+                ]
+              }
+            }, 
+            {
+              "name": "dashrendar", 
+              "ship": "yt2400", 
+              "upgrades": {
+                "cannon": [
+                  "heavylasercannon"
+                ], 
+                "crew": [
+                  "rey"
+                ], 
+                "ept": [
+                  "lonewolf"
+                ], 
+                "illicit": [
+                  "burnoutslam"
+                ], 
+                "mod": [
+                  "smugglingcompartment", 
+                  "countermeasures"
+                ], 
+                "title": [
+                  "outrider"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 920, 
+        "name": "Anthony Shakoush", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 4, 
+        "sos": "0.61"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "captainjostero", 
+              "ship": "kihraxzfighter", 
+              "upgrades": {
+                "ept": [
+                  "deadeye"
+                ], 
+                "illicit": [
+                  "contrabandcybernetics"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "munitionsfailsafe", 
+                  "guidancechips"
+                ], 
+                "title": [
+                  "vaksai"
+                ]
+              }
+            }, 
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ]
+              }
+            }, 
+            {
+              "name": "toranikulda", 
+              "ship": "m12lkimogilafighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "r5tk"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 785, 
+        "name": "Dave Sovesky", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 4, 
+        "sos": "0.48"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "crimsonspecialist", 
+              "ship": "bsf17bomber", 
+              "upgrades": {
+                "bomb": [
+                  "protonbombs", 
+                  "ordnancesilos"
+                ], 
+                "mod": [
+                  "deflectiveplating"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "sabinewren"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }, 
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "turret": [
+                  "ioncannonturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 733, 
+        "name": "Grant O'Dwyer", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 4, 
+        "sos": "0.58"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "kyloren", 
+              "ship": "tiesilencer", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "advancedsensors"
+                ], 
+                "tech": [
+                  "primedthrusters"
+                ], 
+                "title": [
+                  "firstordervanguard"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "rage"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "electronicbaffle"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "countdown", 
+              "ship": "tiestriker", 
+              "upgrades": {
+                "title": [
+                  "adaptiveailerons"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 723, 
+        "name": "Vernon Lorenzo", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 4, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 704, 
+        "name": "3 Hard Eddie", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 4, 
+        "sos": "0.54"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "corranhorn", 
+              "ship": "ewing", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ]
+              }
+            }, 
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "rey", 
+                  "courierdroid"
+                ], 
+                "ept": [
+                  "adaptability"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "crew": [
+                  "chopper"
+                ], 
+                "ept": [
+                  "adaptability"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 682, 
+        "name": "Tim Horsburgh", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 4, 
+        "sos": "0.46"
+      }, 
+      {
+        "mov": 665, 
+        "name": "Benjamin Roffey", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 4, 
+        "sos": "0.62"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "guri", 
+              "ship": "starviper", 
+              "upgrades": {
+                "ept": [
+                  "predator"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "starvipermkii"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "protectoratestarfighter", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "concorddawnprotector"
+                ]
+              }
+            }, 
+            {
+              "name": "thweek", 
+              "ship": "starviper", 
+              "upgrades": {
+                "illicit": [
+                  "contrabandcybernetics"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "starvipermkii", 
+                  "virago"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 723, 
+        "name": "Michael Turner", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 709, 
+        "name": "Dean Warren", 
+        "rank": {
+          "swiss": 14
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "ketsuonyo", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "dengar"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "illicit": [
+                  "glitterstim", 
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "title": [
+                  "shadowcaster"
+                ]
+              }
+            }, 
+            {
+              "name": "bossk", 
+              "ship": "yv666", 
+              "upgrades": {
+                "cannon": [
+                  "manglercannon"
+                ], 
+                "crew": [
+                  "k4securitydroid", 
+                  "4lom", 
+                  "bobafett"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 683, 
+        "name": "Joshua Lane", 
+        "rank": {
+          "swiss": 15
+        }, 
+        "score": 3, 
+        "sos": "0.37"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "jesspava", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "integratedastromech"
+                ], 
+                "tech": [
+                  "patternanalyzer"
+                ]
+              }
+            }, 
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "integratedastromech"
+                ]
+              }
+            }, 
+            {
+              "name": "goldsquadronpilot", 
+              "ship": "ywing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "title": [
+                  "btla4ywing"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "goldsquadronpilot", 
+              "ship": "ywing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "title": [
+                  "btla4ywing"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 628, 
+        "name": "Michael O'Connor", 
+        "rank": {
+          "swiss": 16
+        }, 
+        "score": 3, 
+        "sos": "0.50"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "rearadmiralchiraneau", 
+              "ship": "vt49decimator", 
+              "upgrades": {
+                "crew": [
+                  "kyloren", 
+                  "darthvader", 
+                  "rebelcaptive"
+                ], 
+                "ept": [
+                  "adaptability"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ]
+              }
+            }, 
+            {
+              "name": "whisper", 
+              "ship": "tiephantom", 
+              "upgrades": {
+                "crew": [
+                  "agentkallus"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "advancedcloakingdevice"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 624, 
+        "name": "John Haines", 
+        "rank": {
+          "swiss": 17
+        }, 
+        "score": 3, 
+        "sos": "0.48"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "dalanoberos", 
+              "ship": "m12lkimogilafighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "illicit": [
+                  "contrabandcybernetics"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "unhingedastromech"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ]
+              }
+            }, 
+            {
+              "name": "thweek", 
+              "ship": "starviper", 
+              "upgrades": {
+                "illicit": [
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "starvipermkii", 
+                  "virago"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "protectoratestarfighter", 
+              "upgrades": {
+                "ept": [
+                  "fearlessness"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "concorddawnprotector"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 607, 
+        "name": "Cameron Dunn", 
+        "rank": {
+          "swiss": 18
+        }, 
+        "score": 3, 
+        "sos": "0.61"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "kananjarrus", 
+              "ship": "vcx100", 
+              "upgrades": {
+                "crew": [
+                  "rey", 
+                  "finn"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "ghost"
+                ], 
+                "turret": [
+                  "syncedturret"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "crew": [
+                  "chewbacca"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ]
+              }
+            }, 
+            {
+              "name": "zeborrelios", 
+              "ship": "attackshuttle", 
+              "upgrades": {
+                "crew": [
+                  "chopper"
+                ], 
+                "title": [
+                  "phantom"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 538, 
+        "name": "BenjaminCapovilla ", 
+        "rank": {
+          "swiss": 19
+        }, 
+        "score": 3, 
+        "sos": "0.53"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "sabinewren"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }, 
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "crimsonspecialist", 
+              "ship": "bsf17bomber", 
+              "upgrades": {
+                "bomb": [
+                  "ordnancesilos", 
+                  "protonbombs"
+                ], 
+                "mod": [
+                  "deflectiveplating"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 531, 
+        "name": "Jackson Cunningham", 
+        "rank": {
+          "swiss": 20
+        }, 
+        "score": 3, 
+        "sos": "0.50"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "cartelspacer", 
+              "ship": "m3ainterceptor", 
+              "upgrades": {
+                "cannon": [
+                  "manglercannon"
+                ], 
+                "title": [
+                  "heavyscykinterceptor"
+                ]
+              }
+            }, 
+            {
+              "name": "cartelspacer", 
+              "ship": "m3ainterceptor", 
+              "upgrades": {
+                "cannon": [
+                  "manglercannon"
+                ], 
+                "title": [
+                  "heavyscykinterceptor"
+                ]
+              }
+            }, 
+            {
+              "name": "cartelspacer", 
+              "ship": "m3ainterceptor", 
+              "upgrades": {
+                "cannon": [
+                  "manglercannon"
+                ], 
+                "title": [
+                  "heavyscykinterceptor"
+                ]
+              }
+            }, 
+            {
+              "name": "cartelspacer", 
+              "ship": "m3ainterceptor", 
+              "upgrades": {
+                "cannon": [
+                  "manglercannon"
+                ], 
+                "title": [
+                  "heavyscykinterceptor"
+                ]
+              }
+            }, 
+            {
+              "name": "cartelspacer", 
+              "ship": "m3ainterceptor", 
+              "upgrades": {
+                "cannon": [
+                  "manglercannon"
+                ], 
+                "title": [
+                  "heavyscykinterceptor"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 500, 
+        "name": "Peter Constable", 
+        "rank": {
+          "swiss": 21
+        }, 
+        "score": 3, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 485, 
+        "name": "Mitchell Gall", 
+        "rank": {
+          "swiss": 22
+        }, 
+        "score": 3, 
+        "sos": "0.50"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "majorrhymer", 
+              "ship": "tiebomber", 
+              "upgrades": {
+                "crew": [
+                  "tactician"
+                ], 
+                "ept": [
+                  "snapshot"
+                ], 
+                "title": [
+                  "tieshuttle"
+                ]
+              }
+            }, 
+            {
+              "name": "majorstridan", 
+              "ship": "upsilonclassshuttle", 
+              "upgrades": {
+                "crew": [
+                  "systemsofficer", 
+                  "courierdroid"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ]
+              }
+            }, 
+            {
+              "name": "majorvynder", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "ept": [
+                  "trickshot"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "advancedslam"
+                ], 
+                "title": [
+                  "os1arsenalloadout"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 567, 
+        "name": "James Williams", 
+        "rank": {
+          "swiss": 23
+        }, 
+        "score": 2, 
+        "sos": "0.36"
+      }, 
+      {
+        "mov": 508, 
+        "name": "Dan Jones", 
+        "rank": {
+          "swiss": 24
+        }, 
+        "score": 2, 
+        "sos": "0.43"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "rey", 
+              "ship": "yt1300", 
+              "upgrades": {
+                "crew": [
+                  "finn", 
+                  "kananjarrus"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "illicit": [
+                  "inertialdampeners"
+                ], 
+                "mod": [
+                  "smugglingcompartment"
+                ], 
+                "title": [
+                  "millenniumfalcon-swx57"
+                ]
+              }
+            }, 
+            {
+              "name": "norrawexley", 
+              "ship": "arc170", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ], 
+                "crew": [
+                  "kylekatarn"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "vectoredthrusters"
+                ], 
+                "title": [
+                  "allianceoverhaul"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 488, 
+        "name": "James Hook", 
+        "rank": {
+          "swiss": 25
+        }, 
+        "score": 2, 
+        "sos": "0.45"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "dengar", 
+              "ship": "jumpmaster5000", 
+              "upgrades": {
+                "crew": [
+                  "reconspecialist"
+                ], 
+                "ept": [
+                  "predator"
+                ], 
+                "title": [
+                  "punishingone"
+                ]
+              }
+            }, 
+            {
+              "name": "asajjventress", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "lattsrazzi"
+                ], 
+                "ept": [
+                  "lonewolf"
+                ], 
+                "illicit": [
+                  "glitterstim", 
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "countermeasures"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 479, 
+        "name": "Al Long", 
+        "rank": {
+          "swiss": 26
+        }, 
+        "score": 2, 
+        "sos": "0.47"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "onyxsquadronpilot", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "mod": [
+                  "stealthdevice"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }, 
+            {
+              "name": "onyxsquadronpilot", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "mod": [
+                  "stealthdevice"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }, 
+            {
+              "name": "onyxsquadronpilot", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "mod": [
+                  "stealthdevice"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 450, 
+        "name": "Peter McKenzie", 
+        "rank": {
+          "swiss": 27
+        }, 
+        "score": 2, 
+        "sos": "0.47"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "lieutenantblount", 
+              "ship": "z95headhunter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ]
+              }
+            }, 
+            {
+              "name": "airencracken", 
+              "ship": "z95headhunter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ]
+              }
+            }, 
+            {
+              "name": "chewbacca-swx57", 
+              "ship": "yt1300", 
+              "upgrades": {
+                "crew": [
+                  "c3po", 
+                  "rey"
+                ], 
+                "ept": [
+                  "predator"
+                ], 
+                "illicit": [
+                  "contrabandcybernetics"
+                ], 
+                "missile": [
+                  "scramblermissiles"
+                ], 
+                "mod": [
+                  "smugglingcompartment", 
+                  "guidancechips"
+                ], 
+                "title": [
+                  "millenniumfalcon"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 431, 
+        "name": "Guppy Jones", 
+        "rank": {
+          "swiss": 28
+        }, 
+        "score": 2, 
+        "sos": "0.53"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "rey", 
+              "ship": "yt1300", 
+              "upgrades": {
+                "crew": [
+                  "kananjarrus", 
+                  "finn"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "title": [
+                  "millenniumfalcon-swx57"
+                ]
+              }
+            }, 
+            {
+              "name": "wullffwarro", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "breachspecialist", 
+                  "c3po"
+                ], 
+                "ept": [
+                  "expertise"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 414, 
+        "name": "Will Anderson ", 
+        "rank": {
+          "swiss": 29
+        }, 
+        "score": 2, 
+        "sos": "0.53"
+      }, 
+      {
+        "mov": 353, 
+        "name": "Todd Wilson", 
+        "rank": {
+          "swiss": 30
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "kyloren", 
+              "ship": "tiesilencer", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "advancedsensors"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "firstordervanguard"
+                ]
+              }
+            }, 
+            {
+              "name": "epsilonace", 
+              "ship": "tiefofighter"
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 327, 
+        "name": "Hugo Norton", 
+        "rank": {
+          "swiss": 31
+        }, 
+        "score": 2, 
+        "sos": "0.53"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "fennrau", 
+              "ship": "protectoratestarfighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "concorddawnprotector"
+                ]
+              }
+            }, 
+            {
+              "name": "thweek", 
+              "ship": "starviper", 
+              "upgrades": {
+                "illicit": [
+                  "blackmarketslicertools"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "starvipermkii", 
+                  "virago"
+                ]
+              }
+            }, 
+            {
+              "name": "kavil", 
+              "ship": "ywing", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "vectoredthrusters"
+                ], 
+                "samd": [
+                  "r4agromech"
+                ], 
+                "turret": [
+                  "ioncannonturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 318, 
+        "name": "Jai Pearce", 
+        "rank": {
+          "swiss": 32
+        }, 
+        "score": 1, 
+        "sos": "0.47"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "zeborrelios", 
+              "ship": "attackshuttle", 
+              "upgrades": {
+                "title": [
+                  "phantom"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "hotshotcopilot"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ]
+              }
+            }, 
+            {
+              "name": "chopper", 
+              "ship": "vcx100", 
+              "upgrades": {
+                "crew": [
+                  "ezrabridger", 
+                  "maul"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "ghost"
+                ], 
+                "turret": [
+                  "syncedturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 252, 
+        "name": "Damian Robinson", 
+        "rank": {
+          "swiss": 33
+        }, 
+        "score": 1, 
+        "sos": "0.30"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "majorstridan", 
+              "ship": "upsilonclassshuttle", 
+              "upgrades": {
+                "crew": [
+                  "courierdroid", 
+                  "systemsofficer"
+                ], 
+                "system": [
+                  "advancedsensors"
+                ]
+              }
+            }, 
+            {
+              "name": "rearadmiralchiraneau", 
+              "ship": "vt49decimator", 
+              "upgrades": {
+                "crew": [
+                  "kyloren", 
+                  "intelligenceagent", 
+                  "rebelcaptive"
+                ], 
+                "ept": [
+                  "expose"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "title": [
+                  "dauntless"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 245, 
+        "name": "Christopher Dunn", 
+        "rank": {
+          "swiss": 34
+        }, 
+        "score": 1, 
+        "sos": "0.47"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "countessryad", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "lonewolf"
+                ], 
+                "mod": [
+                  "stealthdevice"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "omegaleader", 
+              "ship": "tiefofighter", 
+              "upgrades": {
+                "ept": [
+                  "juke"
+                ], 
+                "tech": [
+                  "commrelay"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 215, 
+        "name": "Martin Eshman", 
+        "rank": {
+          "swiss": 35
+        }, 
+        "score": 1, 
+        "sos": "0.72"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "guri", 
+              "ship": "starviper", 
+              "upgrades": {
+                "ept": [
+                  "attannimindlink"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "starvipermkii"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "protectoratestarfighter", 
+              "upgrades": {
+                "ept": [
+                  "attannimindlink"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "concorddawnprotector"
+                ]
+              }
+            }, 
+            {
+              "name": "thweek", 
+              "ship": "starviper", 
+              "upgrades": {
+                "illicit": [
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "starvipermkii", 
+                  "virago"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 186, 
+        "name": "Shaun white ", 
+        "rank": {
+          "swiss": 36
+        }, 
+        "score": 1, 
+        "sos": "0.33"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "ionbombs", 
+                  "protonbombs"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "ioncannonturret"
+                ]
+              }
+            }, 
+            {
+              "name": "solsixxa", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "clustermines", 
+                  "connernet"
+                ], 
+                "crew": [
+                  "bobafett"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "ioncannonturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 67, 
+        "name": "Chris Robinson", 
+        "rank": {
+          "swiss": 37
+        }, 
+        "score": 0, 
+        "sos": "0.33"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "Dean Warren", 
+            "player1points": 31, 
+            "player2": "Akhter Khan", 
+            "player2points": 65, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "John Haines", 
+            "player1points": 53, 
+            "player2": "Benjamin Roffey", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Martin Eshman", 
+            "player1points": 100, 
+            "player2": "Joshua Lane", 
+            "player2points": 63, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Dave Sovesky", 
+            "player1points": 100, 
+            "player2": "Guppy Jones", 
+            "player2points": 41, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Mitchell Gall", 
+            "player1points": 0, 
+            "player2": "Craig Walker", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Grant O'Dwyer", 
+            "player1points": 56, 
+            "player2": "Anthony Shakoush", 
+            "player2points": 36, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Peter Constable", 
+            "player1points": 100, 
+            "player2": "Christopher Dunn", 
+            "player2points": 60, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Vernon Lorenzo", 
+            "player1points": 100, 
+            "player2": "Dan Jones", 
+            "player2points": 53, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Shaun white ", 
+            "player1points": 36, 
+            "player2": "Hugo Norton", 
+            "player2points": 63, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Tim Horsburgh", 
+            "player1points": 62, 
+            "player2": "Will Anderson ", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Al Long", 
+            "player1points": 36, 
+            "player2": "Jackson Cunningham", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Jai Pearce", 
+            "player1points": 100, 
+            "player2": "Damian Robinson", 
+            "player2points": 53, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Matt Heal", 
+            "player1points": 100, 
+            "player2": "James Hook", 
+            "player2points": 71, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Chris Robinson", 
+            "player1points": 0, 
+            "player2": "Peter McKenzie", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Cameron Dunn", 
+            "player1points": 100, 
+            "player2": "Michael Turner", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Michael O'Connor", 
+            "player1points": 50, 
+            "player2": "Todd Wilson", 
+            "player2points": 72, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "James Williams", 
+            "player1points": 53, 
+            "player2": "BenjaminCapovilla ", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Julian Hood", 
+            "player1points": 100, 
+            "player2": "Markus Thielsch", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "3 Hard Eddie", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "Vernon Lorenzo", 
+            "player1points": 100, 
+            "player2": "Julian Hood", 
+            "player2points": 79, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Benjamin Roffey", 
+            "player1points": 100, 
+            "player2": "Jai Pearce", 
+            "player2points": 26, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Jackson Cunningham", 
+            "player1points": 40, 
+            "player2": "Peter Constable", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Akhter Khan", 
+            "player1points": 100, 
+            "player2": "Martin Eshman", 
+            "player2points": 31, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Will Anderson ", 
+            "player1points": 26, 
+            "player2": "Craig Walker", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Cameron Dunn", 
+            "player1points": 100, 
+            "player2": "Matt Heal", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "BenjaminCapovilla ", 
+            "player1points": 100, 
+            "player2": "Hugo Norton", 
+            "player2points": 53, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "3 Hard Eddie", 
+            "player1points": 100, 
+            "player2": "Dave Sovesky", 
+            "player2points": 66, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Grant O'Dwyer", 
+            "player1points": 100, 
+            "player2": "Todd Wilson", 
+            "player2points": 17, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Peter McKenzie", 
+            "player1points": 0, 
+            "player2": "John Haines", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "James Williams", 
+            "player1points": 100, 
+            "player2": "Chris Robinson", 
+            "player2points": 18, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Tim Horsburgh", 
+            "player1points": 100, 
+            "player2": "Dan Jones", 
+            "player2points": 51, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Michael Turner", 
+            "player1points": 100, 
+            "player2": "Michael O'Connor", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Anthony Shakoush", 
+            "player1points": 100, 
+            "player2": "Mitchell Gall", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Markus Thielsch", 
+            "player1points": 100, 
+            "player2": "Dean Warren", 
+            "player2points": 22, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Al Long", 
+            "player1points": 62, 
+            "player2": "Shaun white ", 
+            "player2points": 75, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "James Hook", 
+            "player1points": 46, 
+            "player2": "Guppy Jones", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Joshua Lane", 
+            "player1points": 68, 
+            "player2": "Christopher Dunn", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Damian Robinson", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "Grant O'Dwyer", 
+            "player1points": 100, 
+            "player2": "Cameron Dunn", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Vernon Lorenzo", 
+            "player1points": 27, 
+            "player2": "Benjamin Roffey", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Akhter Khan", 
+            "player1points": 0, 
+            "player2": "Craig Walker", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "3 Hard Eddie", 
+            "player1points": 100, 
+            "player2": "Peter Constable", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "BenjaminCapovilla ", 
+            "player1points": 100, 
+            "player2": "Christopher Dunn", 
+            "player2points": 53, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Jai Pearce", 
+            "player1points": 29, 
+            "player2": "John Haines", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Matt Heal", 
+            "player1points": 100, 
+            "player2": "Todd Wilson", 
+            "player2points": 28, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Guppy Jones", 
+            "player1points": 100, 
+            "player2": "Damian Robinson", 
+            "player2points": 49, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Julian Hood", 
+            "player1points": 100, 
+            "player2": "Michael Turner", 
+            "player2points": 54, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Jackson Cunningham", 
+            "player1points": 0, 
+            "player2": "Anthony Shakoush", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Tim Horsburgh", 
+            "player1points": 66, 
+            "player2": "Peter McKenzie", 
+            "player2points": 51, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Hugo Norton", 
+            "player1points": 100, 
+            "player2": "Will Anderson ", 
+            "player2points": 53, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "James Williams", 
+            "player1points": 0, 
+            "player2": "Dave Sovesky", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Markus Thielsch", 
+            "player1points": 100, 
+            "player2": "Martin Eshman", 
+            "player2points": 47, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Michael O'Connor", 
+            "player1points": 100, 
+            "player2": "Mitchell Gall", 
+            "player2points": 25, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "James Hook", 
+            "player1points": 26, 
+            "player2": "Joshua Lane", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Dean Warren", 
+            "player1points": 100, 
+            "player2": "Al Long", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Dan Jones", 
+            "player1points": 100, 
+            "player2": "Chris Robinson", 
+            "player2points": 49, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "Craig Walker", 
+            "player1points": 100, 
+            "player2": "3 Hard Eddie", 
+            "player2points": 26, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Grant O'Dwyer", 
+            "player1points": 53, 
+            "player2": "Benjamin Roffey", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "BenjaminCapovilla ", 
+            "player1points": 28, 
+            "player2": "Julian Hood", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Cameron Dunn", 
+            "player1points": 30, 
+            "player2": "Markus Thielsch", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Guppy Jones", 
+            "player1points": 51, 
+            "player2": "Tim Horsburgh", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Peter Constable", 
+            "player1points": 0, 
+            "player2": "Dave Sovesky", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Akhter Khan", 
+            "player1points": 100, 
+            "player2": "Hugo Norton", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Matt Heal", 
+            "player1points": 100, 
+            "player2": "John Haines", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Anthony Shakoush", 
+            "player1points": 100, 
+            "player2": "Vernon Lorenzo", 
+            "player2points": 28, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Will Anderson ", 
+            "player1points": 25, 
+            "player2": "Michael O'Connor", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Jackson Cunningham", 
+            "player1points": 100, 
+            "player2": "Dan Jones", 
+            "player2points": 41, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Michael Turner", 
+            "player1points": 0, 
+            "player2": "Peter McKenzie", 
+            "player2points": 65, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "James Williams", 
+            "player1points": 50, 
+            "player2": "Todd Wilson", 
+            "player2points": 52, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Joshua Lane", 
+            "player1points": 100, 
+            "player2": "Jai Pearce", 
+            "player2points": 45, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Dean Warren", 
+            "player1points": 100, 
+            "player2": "Christopher Dunn", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Al Long", 
+            "player1points": 72, 
+            "player2": "Mitchell Gall", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "James Hook", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "Craig Walker", 
+            "player1points": 100, 
+            "player2": "Benjamin Roffey", 
+            "player2points": 24, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Akhter Khan", 
+            "player1points": 100, 
+            "player2": "BenjaminCapovilla ", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Markus Thielsch", 
+            "player1points": 56, 
+            "player2": "Anthony Shakoush", 
+            "player2points": 52, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Matt Heal", 
+            "player1points": 100, 
+            "player2": "Tim Horsburgh", 
+            "player2points": 28, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Grant O'Dwyer", 
+            "player1points": 46, 
+            "player2": "Julian Hood", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Dave Sovesky", 
+            "player1points": 28, 
+            "player2": "Michael O'Connor", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "3 Hard Eddie", 
+            "player1points": 100, 
+            "player2": "Guppy Jones", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Hugo Norton", 
+            "player1points": 0, 
+            "player2": "Peter Constable", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Cameron Dunn", 
+            "player1points": 45, 
+            "player2": "Joshua Lane", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Todd Wilson", 
+            "player1points": 84, 
+            "player2": "Jackson Cunningham", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "John Haines", 
+            "player1points": 0, 
+            "player2": "Dean Warren", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Peter McKenzie", 
+            "player1points": 0, 
+            "player2": "Vernon Lorenzo", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Mitchell Gall", 
+            "player1points": 100, 
+            "player2": "James Williams", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Michael Turner", 
+            "player1points": 100, 
+            "player2": "Christopher Dunn", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "James Hook", 
+            "player1points": 100, 
+            "player2": "Jai Pearce", 
+            "player2points": 71, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Will Anderson ", 
+            "player1points": 100, 
+            "player2": "Dan Jones", 
+            "player2points": 62, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Al Long", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 5, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "Craig Walker", 
+            "player1points": 28, 
+            "player2": "Julian Hood", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Benjamin Roffey", 
+            "player1points": 0, 
+            "player2": "Akhter Khan", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "3 Hard Eddie", 
+            "player1points": 28, 
+            "player2": "Matt Heal", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Markus Thielsch", 
+            "player1points": 100, 
+            "player2": "Jackson Cunningham", 
+            "player2points": 52, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Michael O'Connor", 
+            "player1points": 28, 
+            "player2": "Anthony Shakoush", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Dave Sovesky", 
+            "player1points": 100, 
+            "player2": "Joshua Lane", 
+            "player2points": 68, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Grant O'Dwyer", 
+            "player1points": 100, 
+            "player2": "BenjaminCapovilla ", 
+            "player2points": 69, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Vernon Lorenzo", 
+            "player1points": 100, 
+            "player2": "Peter Constable", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Dean Warren", 
+            "player1points": 21, 
+            "player2": "Tim Horsburgh", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "John Haines", 
+            "player1points": 100, 
+            "player2": "Hugo Norton", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Peter McKenzie", 
+            "player1points": 0, 
+            "player2": "Cameron Dunn", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Mitchell Gall", 
+            "player1points": 100, 
+            "player2": "Will Anderson ", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Michael Turner", 
+            "player1points": 100, 
+            "player2": "Todd Wilson", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "James Hook", 
+            "player1points": 25, 
+            "player2": "Al Long", 
+            "player2points": 59, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Christopher Dunn", 
+            "player1points": 0, 
+            "player2": "James Williams", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Dan Jones", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 6, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "World Championship", 
+    "venue": {
+      "city": "Campbelltown", 
+      "country": "Australia", 
+      "lat": "-34.063691300000", 
+      "lon": "150.820615900000", 
+      "name": "Hall of Heroes", 
+      "state": "New South Wales"
+    }
+  }
+}

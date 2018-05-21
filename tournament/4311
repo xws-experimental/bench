@@ -15,8 +15,54 @@
         "sos": "0.45"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "rearadmiralchiraneau", 
+              "ship": "vt49decimator", 
+              "upgrades": {
+                "crew": [
+                  "emperorpalpatine", 
+                  "kyloren"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "title": [
+                  "dauntless"
+                ]
+              }
+            }, 
+            {
+              "name": "theinquisitor", 
+              "ship": "tieadvprototype", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "missile": [
+                  "protonrockets"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "tiev1"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 722, 
-        "name": "Black 9", 
+        "name": "Black 9 - Gergo Esze", 
         "rank": {
           "elimination": 8, 
           "swiss": 1
@@ -25,8 +71,75 @@
         "sos": "0.65"
       }, 
       {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "bobafett"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "solsixxa", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "clustermines", 
+                  "clustermines"
+                ], 
+                "ept": [
+                  "debrisgambit"
+                ], 
+                "mod": [
+                  "experimentalinterface"
+                ], 
+                "samd": [
+                  "r4e1"
+                ], 
+                "system": [
+                  "accuracycorrector"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 819, 
-        "name": "Black 1", 
+        "name": "Black 1 - Makfalvi Marton A.", 
         "rank": {
           "elimination": 8, 
           "swiss": 2
@@ -35,8 +148,62 @@
         "sos": "0.64"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "omegaleader", 
+              "ship": "tiefofighter", 
+              "upgrades": {
+                "ept": [
+                  "juke"
+                ], 
+                "tech": [
+                  "commrelay"
+                ]
+              }
+            }, 
+            {
+              "name": "countessryad", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "twinionenginemkii"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 771, 
-        "name": "Black 8", 
+        "name": "Black 8 - Varga Marcell", 
         "rank": {
           "elimination": 8, 
           "swiss": 3
@@ -55,8 +222,74 @@
         "sos": "0.48"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "backdraft", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "rhosquadronveteran", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "ept": [
+                  "deadeye"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 675, 
-        "name": "Black 5", 
+        "name": "Black 5 Toth Adam", 
         "rank": {
           "elimination": 1, 
           "swiss": 5
@@ -65,8 +298,60 @@
         "sos": "0.76"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "kyloren", 
+              "ship": "tiesilencer", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "advancedsensors"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "firstordervanguard"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "epsilonsquadronpilot", 
+              "ship": "tiefofighter"
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 595, 
-        "name": "Black 32", 
+        "name": "Black 32 - Kovacs Imre", 
         "rank": {
           "elimination": 4, 
           "swiss": 6
@@ -75,8 +360,66 @@
         "sos": "0.56"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "tactician", 
+                  "rey"
+                ], 
+                "ept": [
+                  "selflessness"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "herasyndulla"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }, 
+            {
+              "name": "poedameron-swx57", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "blackone"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 674, 
-        "name": "Black 46", 
+        "name": "Black 46 Rafay Jnos", 
         "rank": {
           "elimination": 2, 
           "swiss": 7
@@ -85,8 +428,75 @@
         "sos": "0.40"
       }, 
       {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "thweek", 
+              "ship": "starviper", 
+              "upgrades": {
+                "illicit": [
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "virago", 
+                  "starvipermkii"
+                ]
+              }
+            }, 
+            {
+              "name": "lokrevenant", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "crew": [
+                  "bobafett"
+                ], 
+                "ept": [
+                  "deadeye"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "turret": [
+                  "autoblasterturret"
+                ]
+              }
+            }, 
+            {
+              "name": "lokrevenant", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "ept": [
+                  "deadeye"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "turret": [
+                  "autoblasterturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 669, 
-        "name": "Black 11", 
+        "name": "Black 11 Havasi Aron", 
         "rank": {
           "elimination": 4, 
           "swiss": 8
@@ -95,8 +505,56 @@
         "sos": "0.52"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "dashrendar", 
+              "ship": "yt2400", 
+              "upgrades": {
+                "cannon": [
+                  "heavylasercannon"
+                ], 
+                "crew": [
+                  "rey"
+                ], 
+                "ept": [
+                  "lonewolf"
+                ], 
+                "mod": [
+                  "countermeasures"
+                ], 
+                "title": [
+                  "outrider"
+                ]
+              }
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "c3po"
+                ], 
+                "mod": [
+                  "advancedslam"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 604, 
-        "name": "Black 14", 
+        "name": "Black 14 - Bir Zoli", 
         "rank": {
           "swiss": 9
         }, 
@@ -113,8 +571,55 @@
         "sos": "0.68"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "wookieeliberator", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "tactician", 
+                  "courierdroid"
+                ], 
+                "ept": [
+                  "expertise"
+                ]
+              }
+            }, 
+            {
+              "name": "wookieeliberator", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "tactician", 
+                  "courierdroid"
+                ], 
+                "ept": [
+                  "expertise"
+                ]
+              }
+            }, 
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "c3po"
+                ], 
+                "ept": [
+                  "expertise"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 562, 
-        "name": "Black 19", 
+        "name": "Black 19 - Deak Zsofia", 
         "rank": {
           "swiss": 11
         }, 
@@ -131,6 +636,63 @@
         "sos": "0.44"
       }, 
       {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "ig88c", 
+              "ship": "aggressor", 
+              "upgrades": {
+                "cannon": [
+                  "heavylasercannon"
+                ], 
+                "ept": [
+                  "attannimindlink"
+                ], 
+                "illicit": [
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "ig2000"
+                ]
+              }
+            }, 
+            {
+              "name": "ig88b", 
+              "ship": "aggressor", 
+              "upgrades": {
+                "cannon": [
+                  "heavylasercannon"
+                ], 
+                "ept": [
+                  "attannimindlink"
+                ], 
+                "illicit": [
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "ig2000"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 543, 
         "name": "Black 26", 
         "rank": {
@@ -140,8 +702,57 @@
         "sos": "0.44"
       }, 
       {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "ketsuonyo", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "dengar"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "illicit": [
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "title": [
+                  "shadowcaster"
+                ]
+              }
+            }, 
+            {
+              "name": "asajjventress", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "lattsrazzi"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "illicit": [
+                  "riggedcargochute", 
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "gyroscopictargeting"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 526, 
-        "name": "Black 23", 
+        "name": "Black 23 - Sai", 
         "rank": {
           "swiss": 14
         }, 
@@ -158,6 +769,57 @@
         "sos": "0.52"
       }, 
       {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "contractedscout", 
+              "ship": "jumpmaster5000", 
+              "upgrades": {
+                "crew": [
+                  "dengar"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "illicit": [
+                  "riggedcargochute"
+                ], 
+                "mod": [
+                  "antipursuitlasers"
+                ], 
+                "title": [
+                  "punishingone"
+                ]
+              }
+            }, 
+            {
+              "name": "asajjventress", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "lattsrazzi"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "illicit": [
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "title": [
+                  "shadowcaster"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 477, 
         "name": "Black 27", 
         "rank": {
@@ -167,6 +829,61 @@
         "sos": "0.70"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "hotshotcopilot", 
+                  "rey"
+                ], 
+                "ept": [
+                  "selflessness"
+                ]
+              }
+            }, 
+            {
+              "name": "jesspava", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "torpedo": [
+                  "plasmatorpedoes"
+                ]
+              }
+            }, 
+            {
+              "name": "tarnmison", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "m9g8"
+                ], 
+                "mod": [
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "plasmatorpedoes"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 474, 
         "name": "Black 22", 
         "rank": {
@@ -176,6 +893,75 @@
         "sos": "0.48"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "rhosquadronveteran", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "ept": [
+                  "deadeye"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "missile": [
+                  "clustermissiles"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "rhosquadronveteran", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "ept": [
+                  "deadeye"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 442, 
         "name": "Black 12", 
         "rank": {
@@ -194,6 +980,64 @@
         "sos": "0.72"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "poedameron-swx57", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "blackone"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "herasyndulla"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }, 
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "rey", 
+                  "tactician"
+                ], 
+                "ept": [
+                  "selflessness"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 421, 
         "name": "Black 17", 
         "rank": {
@@ -239,8 +1083,74 @@
         "sos": "0.44"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "darthvader", 
+              "ship": "tieadvanced", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "cruisemissiles"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "advtargetingcomputer"
+                ], 
+                "title": [
+                  "tiex1"
+                ]
+              }
+            }, 
+            {
+              "name": "nusquadronpilot", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 353, 
-        "name": "Black 20", 
+        "name": "Black 20 - Szabo Gergo", 
         "rank": {
           "swiss": 25
         }, 
@@ -248,6 +1158,69 @@
         "sos": "0.35"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "adaptability"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "omegaleader", 
+              "ship": "tiefofighter", 
+              "upgrades": {
+                "ept": [
+                  "juke"
+                ], 
+                "mod": [
+                  "twinionenginemkii"
+                ], 
+                "tech": [
+                  "commrelay"
+                ]
+              }
+            }, 
+            {
+              "name": "colonelvessery", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "cannon": [
+                  "tractorbeam"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "twinionenginemkii"
+                ], 
+                "title": [
+                  "tied"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 337, 
         "name": "Black 24", 
         "rank": {
@@ -291,12 +1264,12 @@
           {
             "player1": "Black 16", 
             "player1points": 0, 
-            "player2": "Black 8", 
+            "player2": "Black 8 - Varga Marcell", 
             "player2points": 100, 
             "result": "win"
           }, 
           {
-            "player1": "Black 46", 
+            "player1": "Black 46 Rafay Jnos", 
             "player1points": 100, 
             "player2": "Black 24", 
             "player2points": 0, 
@@ -310,7 +1283,7 @@
             "result": "win"
           }, 
           {
-            "player1": "Black 5", 
+            "player1": "Black 5 Toth Adam", 
             "player1points": 100, 
             "player2": "Black 15", 
             "player2points": 34, 
@@ -319,7 +1292,7 @@
           {
             "player1": "Black 6", 
             "player1points": 0, 
-            "player2": "Black 23", 
+            "player2": "Black 23 - Sai", 
             "player2points": 27, 
             "result": "win"
           }, 
@@ -331,9 +1304,9 @@
             "result": "win"
           }, 
           {
-            "player1": "Black 19", 
+            "player1": "Black 19 - Deak Zsofia", 
             "player1points": 22, 
-            "player2": "Black 20", 
+            "player2": "Black 20 - Szabo Gergo", 
             "player2points": 0, 
             "result": "win"
           }, 
@@ -354,12 +1327,12 @@
           {
             "player1": "Black 17", 
             "player1points": 0, 
-            "player2": "Black 1", 
+            "player2": "Black 1 - Makfalvi Marton A.", 
             "player2points": 100, 
             "result": "win"
           }, 
           {
-            "player1": "Black 11", 
+            "player1": "Black 11 Havasi Aron", 
             "player1points": 74, 
             "player2": "Black 34", 
             "player2points": 100, 
@@ -368,7 +1341,7 @@
           {
             "player1": "Black 18", 
             "player1points": 27, 
-            "player2": "Black 14", 
+            "player2": "Black 14 - Bir Zoli", 
             "player2points": 100, 
             "result": "win"
           }, 
@@ -382,7 +1355,7 @@
           {
             "player1": "Black 12", 
             "player1points": 15, 
-            "player2": "Black 32", 
+            "player2": "Black 32 - Kovacs Imre", 
             "player2points": 71, 
             "result": "win"
           }, 
@@ -394,7 +1367,7 @@
             "result": "win"
           }, 
           {
-            "player1": "Black 9", 
+            "player1": "Black 9 - Gergo Esze", 
             "player1points": null, 
             "player2": "", 
             "player2points": null, 
@@ -407,7 +1380,7 @@
       {
         "matches": [
           {
-            "player1": "Black 9", 
+            "player1": "Black 9 - Gergo Esze", 
             "player1points": 66, 
             "player2": "Black 21", 
             "player2points": 32, 
@@ -416,21 +1389,21 @@
           {
             "player1": "Black 31", 
             "player1points": 100, 
-            "player2": "Black 23", 
+            "player2": "Black 23 - Sai", 
             "player2points": 31, 
             "result": "win"
           }, 
           {
             "player1": "Black 27", 
             "player1points": 100, 
-            "player2": "Black 32", 
+            "player2": "Black 32 - Kovacs Imre", 
             "player2points": 26, 
             "result": "win"
           }, 
           {
-            "player1": "Black 46", 
+            "player1": "Black 46 Rafay Jnos", 
             "player1points": 26, 
-            "player2": "Black 8", 
+            "player2": "Black 8 - Varga Marcell", 
             "player2points": 100, 
             "result": "win"
           }, 
@@ -442,9 +1415,9 @@
             "result": "win"
           }, 
           {
-            "player1": "Black 19", 
+            "player1": "Black 19 - Deak Zsofia", 
             "player1points": 0, 
-            "player2": "Black 1", 
+            "player2": "Black 1 - Makfalvi Marton A.", 
             "player2points": 100, 
             "result": "win"
           }, 
@@ -456,9 +1429,9 @@
             "result": "win"
           }, 
           {
-            "player1": "Black 5", 
+            "player1": "Black 5 Toth Adam", 
             "player1points": 100, 
-            "player2": "Black 14", 
+            "player2": "Black 14 - Bir Zoli", 
             "player2points": 26, 
             "result": "win"
           }, 
@@ -484,7 +1457,7 @@
             "result": "win"
           }, 
           {
-            "player1": "Black 20", 
+            "player1": "Black 20 - Szabo Gergo", 
             "player1points": 0, 
             "player2": "Black 7", 
             "player2points": 100, 
@@ -498,7 +1471,7 @@
             "result": "win"
           }, 
           {
-            "player1": "Black 11", 
+            "player1": "Black 11 Havasi Aron", 
             "player1points": 100, 
             "player2": "Black 16", 
             "player2points": 34, 
@@ -518,9 +1491,9 @@
       {
         "matches": [
           {
-            "player1": "Black 5", 
+            "player1": "Black 5 Toth Adam", 
             "player1points": 100, 
-            "player2": "Black 46", 
+            "player2": "Black 46 Rafay Jnos", 
             "player2points": 0, 
             "result": "win"
           }
@@ -531,23 +1504,23 @@
       {
         "matches": [
           {
-            "player1": "Black 5", 
+            "player1": "Black 5 Toth Adam", 
             "player1points": 37, 
-            "player2": "Black 8", 
+            "player2": "Black 8 - Varga Marcell", 
             "player2points": 34, 
             "result": "win"
           }, 
           {
             "player1": "Black 4", 
             "player1points": 47, 
-            "player2": "Black 1", 
+            "player2": "Black 1 - Makfalvi Marton A.", 
             "player2points": 100, 
             "result": "win"
           }, 
           {
             "player1": "Black 31", 
             "player1points": 64, 
-            "player2": "Black 9", 
+            "player2": "Black 9 - Gergo Esze", 
             "player2points": 100, 
             "result": "win"
           }, 
@@ -559,9 +1532,9 @@
             "result": "win"
           }, 
           {
-            "player1": "Black 32", 
+            "player1": "Black 32 - Kovacs Imre", 
             "player1points": 55, 
-            "player2": "Black 14", 
+            "player2": "Black 14 - Bir Zoli", 
             "player2points": 15, 
             "result": "win"
           }, 
@@ -589,19 +1562,19 @@
           {
             "player1": "Black 10", 
             "player1points": 34, 
-            "player2": "Black 11", 
+            "player2": "Black 11 Havasi Aron", 
             "player2points": 100, 
             "result": "win"
           }, 
           {
-            "player1": "Black 23", 
+            "player1": "Black 23 - Sai", 
             "player1points": 100, 
-            "player2": "Black 46", 
+            "player2": "Black 46 Rafay Jnos", 
             "player2points": 48, 
             "result": "win"
           }, 
           {
-            "player1": "Black 19", 
+            "player1": "Black 19 - Deak Zsofia", 
             "player1points": 0, 
             "player2": "Black 21", 
             "player2points": 28, 
@@ -617,7 +1590,7 @@
           {
             "player1": "Black 18", 
             "player1points": 62, 
-            "player2": "Black 20", 
+            "player2": "Black 20 - Szabo Gergo", 
             "player2points": 52, 
             "result": "win"
           }, 
@@ -642,16 +1615,16 @@
       {
         "matches": [
           {
-            "player1": "Black 1", 
+            "player1": "Black 1 - Makfalvi Marton A.", 
             "player1points": 66, 
-            "player2": "Black 9", 
+            "player2": "Black 9 - Gergo Esze", 
             "player2points": 100, 
             "result": "win"
           }, 
           {
             "player1": "Black 27", 
             "player1points": 0, 
-            "player2": "Black 5", 
+            "player2": "Black 5 Toth Adam", 
             "player2points": 100, 
             "result": "win"
           }, 
@@ -665,12 +1638,12 @@
           {
             "player1": "Black 21", 
             "player1points": 0, 
-            "player2": "Black 32", 
+            "player2": "Black 32 - Kovacs Imre", 
             "player2points": 72, 
             "result": "win"
           }, 
           {
-            "player1": "Black 11", 
+            "player1": "Black 11 Havasi Aron", 
             "player1points": 100, 
             "player2": "Black 4", 
             "player2points": 0, 
@@ -679,14 +1652,14 @@
           {
             "player1": "Black 12", 
             "player1points": 37, 
-            "player2": "Black 8", 
+            "player2": "Black 8 - Varga Marcell", 
             "player2points": 100, 
             "result": "win"
           }, 
           {
             "player1": "Black 13", 
             "player1points": 23, 
-            "player2": "Black 23", 
+            "player2": "Black 23 - Sai", 
             "player2points": 100, 
             "result": "win"
           }, 
@@ -707,7 +1680,7 @@
           {
             "player1": "Black 10", 
             "player1points": 0, 
-            "player2": "Black 19", 
+            "player2": "Black 19 - Deak Zsofia", 
             "player2points": 100, 
             "result": "win"
           }, 
@@ -719,14 +1692,14 @@
             "result": "win"
           }, 
           {
-            "player1": "Black 46", 
+            "player1": "Black 46 Rafay Jnos", 
             "player1points": 100, 
             "player2": "Black 18", 
             "player2points": 0, 
             "result": "win"
           }, 
           {
-            "player1": "Black 14", 
+            "player1": "Black 14 - Bir Zoli", 
             "player1points": 100, 
             "player2": "Black 17", 
             "player2points": 27, 
@@ -735,7 +1708,7 @@
           {
             "player1": "Black 22", 
             "player1points": 100, 
-            "player2": "Black 20", 
+            "player2": "Black 20 - Szabo Gergo", 
             "player2points": 35, 
             "result": "win"
           }, 
@@ -753,16 +1726,16 @@
       {
         "matches": [
           {
-            "player1": "Black 11", 
+            "player1": "Black 11 Havasi Aron", 
             "player1points": 0, 
-            "player2": "Black 5", 
+            "player2": "Black 5 Toth Adam", 
             "player2points": 100, 
             "result": "win"
           }, 
           {
-            "player1": "Black 32", 
+            "player1": "Black 32 - Kovacs Imre", 
             "player1points": 33, 
-            "player2": "Black 46", 
+            "player2": "Black 46 Rafay Jnos", 
             "player2points": 37, 
             "result": "win"
           }
@@ -773,14 +1746,14 @@
       {
         "matches": [
           {
-            "player1": "Black 5", 
+            "player1": "Black 5 Toth Adam", 
             "player1points": 32, 
-            "player2": "Black 9", 
+            "player2": "Black 9 - Gergo Esze", 
             "player2points": 100, 
             "result": "win"
           }, 
           {
-            "player1": "Black 32", 
+            "player1": "Black 32 - Kovacs Imre", 
             "player1points": 53, 
             "player2": "Black 33", 
             "player2points": 52, 
@@ -789,21 +1762,21 @@
           {
             "player1": "Black 27", 
             "player1points": 0, 
-            "player2": "Black 1", 
+            "player2": "Black 1 - Makfalvi Marton A.", 
             "player2points": 100, 
             "result": "win"
           }, 
           {
-            "player1": "Black 8", 
+            "player1": "Black 8 - Varga Marcell", 
             "player1points": 100, 
-            "player2": "Black 11", 
+            "player2": "Black 11 Havasi Aron", 
             "player2points": 63, 
             "result": "win"
           }, 
           {
             "player1": "Black 15", 
             "player1points": 76, 
-            "player2": "Black 23", 
+            "player2": "Black 23 - Sai", 
             "player2points": 15, 
             "result": "win"
           }, 
@@ -822,14 +1795,14 @@
             "result": "win"
           }, 
           {
-            "player1": "Black 19", 
+            "player1": "Black 19 - Deak Zsofia", 
             "player1points": 100, 
             "player2": "Black 12", 
             "player2points": 32, 
             "result": "win"
           }, 
           {
-            "player1": "Black 14", 
+            "player1": "Black 14 - Bir Zoli", 
             "player1points": 72, 
             "player2": "Black 16", 
             "player2points": 0, 
@@ -843,7 +1816,7 @@
             "result": "win"
           }, 
           {
-            "player1": "Black 46", 
+            "player1": "Black 46 Rafay Jnos", 
             "player1points": 100, 
             "player2": "Black 29", 
             "player2points": 0, 
@@ -871,7 +1844,7 @@
             "result": "win"
           }, 
           {
-            "player1": "Black 20", 
+            "player1": "Black 20 - Szabo Gergo", 
             "player1points": null, 
             "player2": "", 
             "player2points": null, 
@@ -884,30 +1857,30 @@
       {
         "matches": [
           {
-            "player1": "Black 9", 
+            "player1": "Black 9 - Gergo Esze", 
             "player1points": 0, 
-            "player2": "Black 11", 
+            "player2": "Black 11 Havasi Aron", 
             "player2points": 100, 
             "result": "win"
           }, 
           {
             "player1": "Black 15", 
             "player1points": 0, 
-            "player2": "Black 5", 
+            "player2": "Black 5 Toth Adam", 
             "player2points": 100, 
             "result": "win"
           }, 
           {
-            "player1": "Black 8", 
+            "player1": "Black 8 - Varga Marcell", 
             "player1points": 52, 
-            "player2": "Black 32", 
+            "player2": "Black 32 - Kovacs Imre", 
             "player2points": 73, 
             "result": "win"
           }, 
           {
-            "player1": "Black 1", 
+            "player1": "Black 1 - Makfalvi Marton A.", 
             "player1points": 22, 
-            "player2": "Black 46", 
+            "player2": "Black 46 Rafay Jnos", 
             "player2points": 100, 
             "result": "win"
           }
