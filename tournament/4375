@@ -42,6 +42,64 @@
         "sos": "0.67"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "omicrongrouppilot", 
+              "ship": "lambdaclassshuttle", 
+              "upgrades": {
+                "crew": [
+                  "emperorpalpatine"
+                ], 
+                "mod": [
+                  "antipursuitlasers"
+                ], 
+                "system": [
+                  "collisiondetector"
+                ]
+              }
+            }, 
+            {
+              "name": "theinquisitor", 
+              "ship": "tieadvprototype", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "missile": [
+                  "protonrockets"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "tiev1"
+                ]
+              }
+            }, 
+            {
+              "name": "soontirfel", 
+              "ship": "tieinterceptor", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters", 
+                  "stealthdevice"
+                ], 
+                "title": [
+                  "royalguardtie"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 120, 
         "name": "Luciano Kalabric", 
         "rank": {
