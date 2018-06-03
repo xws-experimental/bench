@@ -1,0 +1,478 @@
+{
+  "tournament": {
+    "date": "2018-06-02", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4392, 
+    "name": "Mythic Games June 2018", 
+    "players": [
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "janors", 
+              "ship": "hwk290", 
+              "upgrades": {
+                "crew": [
+                  "chewbacca"
+                ], 
+                "ept": [
+                  "trickshot"
+                ], 
+                "mod": [
+                  "vectoredthrusters"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "rey", 
+              "ship": "yt1300", 
+              "upgrades": {
+                "crew": [
+                  "finn", 
+                  "kananjarrus"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "illicit": [
+                  "scavengercrane"
+                ], 
+                "mod": [
+                  "countermeasures", 
+                  "smugglingcompartment"
+                ], 
+                "title": [
+                  "millenniumfalcon-swx57"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 499, 
+        "name": "Myron Rumsey", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "colonelvessery", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "cannon": [
+                  "ioncannon"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "twinionenginemkii"
+                ], 
+                "title": [
+                  "tied"
+                ]
+              }
+            }, 
+            {
+              "name": "youngster", 
+              "ship": "tiefighter", 
+              "upgrades": {
+                "ept": [
+                  "debrisgambit"
+                ], 
+                "mod": [
+                  "targetingcomputer"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "patternanalyzer"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 450, 
+        "name": "Jeremy Newcomber", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "colonelvessery", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "cannon": [
+                  "tractorbeam"
+                ], 
+                "ept": [
+                  "trickshot"
+                ], 
+                "title": [
+                  "tied"
+                ]
+              }
+            }, 
+            {
+              "name": "deltasquadronpilot", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "cannon": [
+                  "flechettecannon"
+                ], 
+                "title": [
+                  "tied"
+                ]
+              }
+            }, 
+            {
+              "name": "deltasquadronpilot", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "cannon": [
+                  "flechettecannon"
+                ], 
+                "title": [
+                  "tied"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 432, 
+        "name": "Zess Williams", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "etahnabaht", 
+              "ship": "ewing", 
+              "upgrades": {
+                "amd": [
+                  "r2f2"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "torpedo": [
+                  "plasmatorpedoes"
+                ]
+              }
+            }, 
+            {
+              "name": "dashrendar", 
+              "ship": "yt2400", 
+              "upgrades": {
+                "cannon": [
+                  "manglercannon"
+                ], 
+                "crew": [
+                  "niennunb"
+                ], 
+                "ept": [
+                  "marksmanship"
+                ], 
+                "missile": [
+                  "cruisemissiles"
+                ], 
+                "mod": [
+                  "experimentalinterface"
+                ], 
+                "title": [
+                  "outrider"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 164, 
+        "name": "Derek Jaskula", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "cassianandor", 
+              "ship": "uwing", 
+              "upgrades": {
+                "crew": [
+                  "rey", 
+                  "c3po"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "hullupgrade"
+                ], 
+                "system": [
+                  "accuracycorrector"
+                ], 
+                "title": [
+                  "pivotwing"
+                ], 
+                "torpedo": [
+                  "iontorpedoes"
+                ]
+              }
+            }, 
+            {
+              "name": "hansolo-swx57", 
+              "ship": "yt1300", 
+              "upgrades": {
+                "crew": [
+                  "landocalrissian", 
+                  "herasyndulla"
+                ], 
+                "ept": [
+                  "trickshot"
+                ], 
+                "illicit": [
+                  "scavengercrane"
+                ], 
+                "missile": [
+                  "ionpulsemissiles"
+                ], 
+                "mod": [
+                  "guidancechips", 
+                  "smugglingcompartment"
+                ], 
+                "title": [
+                  "millenniumfalcon-swx57"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 121, 
+        "name": "Charles Mathews", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "countessryad", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "cannon": [
+                  "linkedbattery"
+                ], 
+                "ept": [
+                  "outmaneuver"
+                ], 
+                "missile": [
+                  "assaultmissiles"
+                ], 
+                "mod": [
+                  "twinionenginemkii"
+                ], 
+                "title": [
+                  "tied"
+                ]
+              }
+            }, 
+            {
+              "name": "rexlerbrath", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "cannon": [
+                  "ioncannon"
+                ], 
+                "ept": [
+                  "experthandling"
+                ], 
+                "missile": [
+                  "assaultmissiles"
+                ], 
+                "mod": [
+                  "twinionenginemkii"
+                ], 
+                "title": [
+                  "tied"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 134, 
+        "name": "Mike", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 0, 
+        "sos": "0.56"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Jeremy Newcomber", 
+            "player1points": 100, 
+            "player2": "Charles Mathews", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mike", 
+            "player1points": 55, 
+            "player2": "Derek Jaskula", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Zess Williams", 
+            "player1points": 32, 
+            "player2": "Myron Rumsey", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Derek Jaskula", 
+            "player1points": 19, 
+            "player2": "Jeremy Newcomber", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Myron Rumsey", 
+            "player1points": 100, 
+            "player2": "Mike", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Zess Williams", 
+            "player1points": 100, 
+            "player2": "Charles Mathews", 
+            "player2points": 0, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Myron Rumsey", 
+            "player1points": 100, 
+            "player2": "Jeremy Newcomber", 
+            "player2points": 69, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Zess Williams", 
+            "player1points": 100, 
+            "player2": "Derek Jaskula", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mike", 
+            "player1points": 28, 
+            "player2": "Charles Mathews", 
+            "player2points": 49, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Other", 
+    "venue": {
+      "city": "Elmira Heights", 
+      "country": "United States of America", 
+      "lat": "42.167019000000", 
+      "lon": "-76.820511900000", 
+      "name": "Mythic Games", 
+      "state": "New York"
+    }, 
+    "video_url": "http://"
+  }
+}
