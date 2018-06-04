@@ -126,7 +126,7 @@
           "version": "4.2.0"
         }, 
         "mov": 450, 
-        "name": "Jeremy Newcomber", 
+        "name": "Jeremy Newcomer", 
         "rank": {
           "swiss": 2
         }, 
@@ -385,7 +385,7 @@
       {
         "matches": [
           {
-            "player1": "Jeremy Newcomber", 
+            "player1": "Jeremy Newcomer", 
             "player1points": 100, 
             "player2": "Charles Mathews", 
             "player2points": 0, 
@@ -414,7 +414,7 @@
           {
             "player1": "Derek Jaskula", 
             "player1points": 19, 
-            "player2": "Jeremy Newcomber", 
+            "player2": "Jeremy Newcomer", 
             "player2points": 100, 
             "result": "win"
           }, 
@@ -441,7 +441,7 @@
           {
             "player1": "Myron Rumsey", 
             "player1points": 100, 
-            "player2": "Jeremy Newcomber", 
+            "player2": "Jeremy Newcomer", 
             "player2points": 69, 
             "result": "win"
           }, 

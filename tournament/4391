@@ -450,6 +450,50 @@
         "sos": "0.44"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "rey", 
+              "ship": "yt1300", 
+              "upgrades": {
+                "crew": [
+                  "finn", 
+                  "kananjarrus"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "tacticaljammer"
+                ], 
+                "title": [
+                  "millenniumfalcon-swx57"
+                ]
+              }
+            }, 
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "tactician", 
+                  "chewbacca"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "hullupgrade"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 425, 
         "name": "Christian Labbe", 
         "rank": {
@@ -468,6 +512,78 @@
         "sos": "0.31"
       }, 
       {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "bobafett", 
+              "ship": "firespray31", 
+              "upgrades": {
+                "bomb": [
+                  "seismiccharges"
+                ], 
+                "crew": [
+                  "dengar"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "illicit": [
+                  "glitterstim"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "title": [
+                  "slavei"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 400, 
         "name": "Jean-Francois Oligny", 
         "rank": {
@@ -547,6 +663,69 @@
         "sos": "0.56"
       }, 
       {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "cadbane"
+                ], 
+                "ept": [
+                  "adaptability"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "kathscarlet", 
+              "ship": "firespray31", 
+              "upgrades": {
+                "bomb": [
+                  "proximitymines"
+                ], 
+                "cannon": [
+                  "ioncannon"
+                ], 
+                "crew": [
+                  "dengar"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "experimentalinterface"
+                ], 
+                "title": [
+                  "slavei"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 344, 
         "name": "Maxime Tanguay", 
         "rank": {
@@ -640,6 +819,61 @@
         "sos": "0.44"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "dashrendar", 
+              "ship": "yt2400", 
+              "upgrades": {
+                "cannon": [
+                  "heavylasercannon"
+                ], 
+                "crew": [
+                  "rey"
+                ], 
+                "ept": [
+                  "lonewolf"
+                ], 
+                "illicit": [
+                  "burnoutslam"
+                ], 
+                "mod": [
+                  "countermeasures", 
+                  "smugglingcompartment"
+                ], 
+                "title": [
+                  "outrider"
+                ]
+              }
+            }, 
+            {
+              "name": "poedameron-swx57", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "blackone"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 337, 
         "name": "Simon Arcand", 
         "rank": {
@@ -729,6 +963,67 @@
         "sos": "0.50"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "captainrex", 
+              "ship": "tiefighter", 
+              "upgrades": {
+                "crew": [
+                  "landocalrissian"
+                ], 
+                "mod": [
+                  "experimentalinterface"
+                ], 
+                "title": [
+                  "sabinesmasterpiece"
+                ]
+              }
+            }, 
+            {
+              "name": "sharabey", 
+              "ship": "arc170", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ], 
+                "crew": [
+                  "rey"
+                ], 
+                "ept": [
+                  "predator"
+                ], 
+                "mod": [
+                  "vectoredthrusters"
+                ], 
+                "title": [
+                  "allianceoverhaul"
+                ]
+              }
+            }, 
+            {
+              "name": "wullffwarro", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "tactician", 
+                  "gunner"
+                ], 
+                "ept": [
+                  "trickshot"
+                ], 
+                "mod": [
+                  "hullupgrade"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 252, 
         "name": "Francis Arcand", 
         "rank": {

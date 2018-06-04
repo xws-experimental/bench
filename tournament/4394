@@ -1,0 +1,1004 @@
+{
+  "tournament": {
+    "date": "2018-06-03", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4394, 
+    "name": "Tournoi NRS - juin 2018", 
+    "players": [
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "dalanoberos", 
+              "ship": "m12lkimogilafighter", 
+              "upgrades": {
+                "ept": [
+                  "deadeye"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ]
+              }
+            }, 
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "ept": [
+                  "deadeye"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "autoblasterturret"
+                ]
+              }
+            }, 
+            {
+              "name": "captainjostero", 
+              "ship": "kihraxzfighter", 
+              "upgrades": {
+                "ept": [
+                  "deadeye"
+                ], 
+                "illicit": [
+                  "contrabandcybernetics"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "munitionsfailsafe", 
+                  "guidancechips"
+                ], 
+                "title": [
+                  "vaksai"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 590, 
+        "name": "Julien Droissart", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 4, 
+        "sos": "0.63"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "dashrendar", 
+              "ship": "yt2400", 
+              "upgrades": {
+                "cannon": [
+                  "heavylasercannon"
+                ], 
+                "crew": [
+                  "rey"
+                ], 
+                "ept": [
+                  "lonewolf"
+                ], 
+                "mod": [
+                  "countermeasures"
+                ], 
+                "title": [
+                  "outrider"
+                ]
+              }
+            }, 
+            {
+              "name": "poedameron-swx57", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "blackone"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 670, 
+        "name": "Gautier Vanhasbrouck", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.63"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "protonbombs", 
+                  "thermaldetonators"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "sabinewren"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 618, 
+        "name": "Matthieu Carbon", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.63"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "herasyndulla"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }, 
+            {
+              "name": "poedameron-swx57", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "blackone"
+                ]
+              }
+            }, 
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "rey", 
+                  "tactician"
+                ], 
+                "ept": [
+                  "outmaneuver"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 608, 
+        "name": "Gautier Clarysse", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 3, 
+        "sos": "0.38"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "palobgodalhi", 
+              "ship": "hwk290", 
+              "upgrades": {
+                "crew": [
+                  "cikatrovizago"
+                ], 
+                "ept": [
+                  "attannimindlink"
+                ], 
+                "illicit": [
+                  "cloakingdevice"
+                ]
+              }
+            }, 
+            {
+              "name": "asajjventress", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "lattsrazzi"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "gyroscopictargeting"
+                ]
+              }
+            }, 
+            {
+              "name": "blacksunassassin", 
+              "ship": "starviper", 
+              "upgrades": {
+                "ept": [
+                  "attannimindlink"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "sensorjammer"
+                ], 
+                "title": [
+                  "virago", 
+                  "starvipermkii"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 445, 
+        "name": "Emmanuel Broto", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "kananjarrus", 
+              "ship": "vcx100", 
+              "upgrades": {
+                "crew": [
+                  "reconspecialist", 
+                  "janors"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "sensorjammer"
+                ], 
+                "title": [
+                  "ghost"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "m9g8"
+                ], 
+                "crew": [
+                  "captainrex"
+                ], 
+                "ept": [
+                  "adaptability"
+                ]
+              }
+            }, 
+            {
+              "name": "zeborrelios", 
+              "ship": "attackshuttle", 
+              "upgrades": {
+                "crew": [
+                  "chopper"
+                ], 
+                "title": [
+                  "phantom"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 378, 
+        "name": "Nicolas Droissart", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "c3po"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "wookieecommandos"
+                ], 
+                "ept": [
+                  "drawtheirfire"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "herasyndulla"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 373, 
+        "name": "Niek Bergans", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "snapwexley", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "bb8"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "integratedastromech"
+                ], 
+                "tech": [
+                  "primedthrusters"
+                ], 
+                "title": [
+                  "blackone"
+                ]
+              }
+            }, 
+            {
+              "name": "niennunb", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "r4d6"
+                ], 
+                "ept": [
+                  "rage"
+                ], 
+                "mod": [
+                  "experimentalinterface"
+                ], 
+                "tech": [
+                  "patternanalyzer"
+                ]
+              }
+            }, 
+            {
+              "name": "wesjanson", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "integratedastromech"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 286, 
+        "name": "Freddy Machon", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "dashrendar", 
+              "ship": "yt2400", 
+              "upgrades": {
+                "cannon": [
+                  "heavylasercannon"
+                ], 
+                "crew": [
+                  "rey"
+                ], 
+                "ept": [
+                  "lonewolf"
+                ], 
+                "mod": [
+                  "countermeasures"
+                ], 
+                "title": [
+                  "outrider"
+                ]
+              }
+            }, 
+            {
+              "name": "poedameron-swx57", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "blackone"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 347, 
+        "name": "Franois Castro", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "starkillerbasepilot", 
+              "ship": "upsilonclassshuttle", 
+              "upgrades": {
+                "crew": [
+                  "tactician", 
+                  "courierdroid"
+                ], 
+                "system": [
+                  "reinforceddeflectors"
+                ]
+              }
+            }, 
+            {
+              "name": "valenrudor", 
+              "ship": "tieadvprototype", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ]
+              }
+            }, 
+            {
+              "name": "whisper", 
+              "ship": "tiephantom", 
+              "upgrades": {
+                "ept": [
+                  "marksmanship"
+                ], 
+                "mod": [
+                  "advancedcloakingdevice"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 165, 
+        "name": "Dominique Sarot", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "darkcurse", 
+              "ship": "tiefighter", 
+              "upgrades": {
+                "mod": [
+                  "stealthdevice"
+                ]
+              }
+            }, 
+            {
+              "name": "academypilot", 
+              "ship": "tiefighter", 
+              "upgrades": {
+                "mod": [
+                  "stealthdevice"
+                ]
+              }
+            }, 
+            {
+              "name": "colonelvessery", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "predator"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }, 
+            {
+              "name": "valenrudor", 
+              "ship": "tieadvprototype", 
+              "upgrades": {
+                "ept": [
+                  "wired"
+                ], 
+                "mod": [
+                  "stealthdevice"
+                ], 
+                "title": [
+                  "tiev1"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 165, 
+        "name": "Thierry Vermeiren", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 1, 
+        "sos": "0.31"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "wildspacefringer", 
+              "ship": "yt2400", 
+              "upgrades": {
+                "crew": [
+                  "bazemalbus"
+                ], 
+                "missile": [
+                  "clustermissiles"
+                ]
+              }
+            }, 
+            {
+              "name": "etahnabaht", 
+              "ship": "ewing", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ]
+              }
+            }, 
+            {
+              "name": "bluesquadronpilot", 
+              "ship": "bwing", 
+              "upgrades": {
+                "cannon": [
+                  "autoblaster"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 155, 
+        "name": "Hugo Sarot", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 0, 
+        "sos": "0.44"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Gautier Vanhasbrouck", 
+            "player1points": 100, 
+            "player2": "Freddy Machon", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nicolas Droissart", 
+            "player1points": 78, 
+            "player2": "Thierry Vermeiren", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Julien Droissart", 
+            "player1points": 100, 
+            "player2": "Emmanuel Broto", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Franois Castro", 
+            "player1points": 52, 
+            "player2": "Niek Bergans", 
+            "player2points": 55, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Matthieu Carbon", 
+            "player1points": 100, 
+            "player2": "Dominique Sarot", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Gautier Clarysse", 
+            "player1points": 100, 
+            "player2": "Hugo Sarot", 
+            "player2points": 0, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Niek Bergans", 
+            "player1points": 70, 
+            "player2": "Julien Droissart", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Gautier Vanhasbrouck", 
+            "player1points": 100, 
+            "player2": "Nicolas Droissart", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Matthieu Carbon", 
+            "player1points": 100, 
+            "player2": "Gautier Clarysse", 
+            "player2points": 52, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Thierry Vermeiren", 
+            "player1points": 35, 
+            "player2": "Dominique Sarot", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Freddy Machon", 
+            "player1points": 100, 
+            "player2": "Hugo Sarot", 
+            "player2points": 36, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Franois Castro", 
+            "player1points": 55, 
+            "player2": "Emmanuel Broto", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Julien Droissart", 
+            "player1points": 100, 
+            "player2": "Matthieu Carbon", 
+            "player2points": 70, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Gautier Vanhasbrouck", 
+            "player1points": 100, 
+            "player2": "Niek Bergans", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Dominique Sarot", 
+            "player1points": 0, 
+            "player2": "Nicolas Droissart", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Freddy Machon", 
+            "player1points": 67, 
+            "player2": "Emmanuel Broto", 
+            "player2points": 67, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Gautier Clarysse", 
+            "player1points": 100, 
+            "player2": "Franois Castro", 
+            "player2points": 22, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Thierry Vermeiren", 
+            "player1points": 27, 
+            "player2": "Hugo Sarot", 
+            "player2points": 19, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Gautier Vanhasbrouck", 
+            "player1points": 70, 
+            "player2": "Julien Droissart", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nicolas Droissart", 
+            "player1points": 0, 
+            "player2": "Matthieu Carbon", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Gautier Clarysse", 
+            "player1points": 100, 
+            "player2": "Freddy Machon", 
+            "player2points": 22, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Dominique Sarot", 
+            "player1points": 0, 
+            "player2": "Niek Bergans", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Thierry Vermeiren", 
+            "player1points": 0, 
+            "player2": "Emmanuel Broto", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Hugo Sarot", 
+            "player1points": 27, 
+            "player2": "Franois Castro", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "LILLE", 
+      "country": "France", 
+      "lat": "50.318350900000", 
+      "lon": "2.849857500000", 
+      "name": "", 
+      "state": "Nord-Pas-de-Calais"
+    }, 
+    "video_url": "http://"
+  }
+}
