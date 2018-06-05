@@ -1,0 +1,200 @@
+{
+  "tournament": {
+    "date": "2018-06-02", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4397, 
+    "name": "GD X-Wing 2018 - Torneo de iniciacin", 
+    "players": [
+      {
+        "mov": 365, 
+        "name": "Roberto Herrera", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 2, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 331, 
+        "name": "Carlos Salazar", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 2, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 331, 
+        "name": "Diego Rodriguez", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 2, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 298, 
+        "name": "Eduardo Oscata", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 2, 
+        "sos": "0.33"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "dashrendar", 
+              "ship": "yt2400", 
+              "upgrades": {
+                "cannon": [
+                  "manglercannon"
+                ], 
+                "crew": [
+                  "kananjarrus"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "title": [
+                  "outrider"
+                ]
+              }
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "c3po"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 325, 
+        "name": "Yoshiaki Murakami", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 1, 
+        "sos": "0.67"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Diego Rodriguez", 
+            "player1points": 27, 
+            "player2": "Yoshiaki Murakami", 
+            "player2points": 71, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Eduardo Oscata", 
+            "player1points": 0, 
+            "player2": "Roberto Herrera", 
+            "player2points": 53, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Carlos Salazar", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Yoshiaki Murakami", 
+            "player1points": 37, 
+            "player2": "Carlos Salazar", 
+            "player2points": 55, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Roberto Herrera", 
+            "player1points": 36, 
+            "player2": "Diego Rodriguez", 
+            "player2points": 61, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Eduardo Oscata", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Carlos Salazar", 
+            "player1points": 0, 
+            "player2": "Roberto Herrera", 
+            "player2points": 37, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Eduardo Oscata", 
+            "player1points": 27, 
+            "player2": "Yoshiaki Murakami", 
+            "player2points": 26, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Diego Rodriguez", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "Lima", 
+      "country": "Peru", 
+      "lat": "-12.062106400000", 
+      "lon": "-77.036525500000", 
+      "name": "GD Games", 
+      "state": "Lima"
+    }, 
+    "video_url": "http://"
+  }
+}

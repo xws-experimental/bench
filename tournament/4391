@@ -1098,6 +1098,63 @@
         "sos": "0.44"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "ap5", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "m9g8"
+                ], 
+                "crew": [
+                  "weaponsengineer"
+                ], 
+                "mod": [
+                  "vectoredthrusters"
+                ]
+              }
+            }, 
+            {
+              "name": "wullffwarro", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "wookieecommandos"
+                ], 
+                "ept": [
+                  "predator"
+                ], 
+                "mod": [
+                  "vectoredthrusters"
+                ]
+              }
+            }, 
+            {
+              "name": "etahnabaht", 
+              "ship": "ewing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "intensity"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "torpedo": [
+                  "protontorpedoes"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 171, 
         "name": "Marc-Andre Beaudoin", 
         "rank": {
