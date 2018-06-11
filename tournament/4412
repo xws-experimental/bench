@@ -1,0 +1,446 @@
+{
+  "tournament": {
+    "date": "2018-05-30", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4412, 
+    "name": "Corpus Crits", 
+    "players": [
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator", 
+                  "clustermines"
+                ], 
+                "crew": [
+                  "sabinewren"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "thermaldetonators", 
+                  "thermaldetonators"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 450, 
+        "name": "Filipe 'Nym' Freitas", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 425, 
+        "name": "Pedro 'Inquisitor' Raia", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "zeborrelios", 
+              "ship": "attackshuttle", 
+              "upgrades": {
+                "crew": [
+                  "chopper"
+                ], 
+                "title": [
+                  "phantom"
+                ]
+              }
+            }, 
+            {
+              "name": "lothalrebel", 
+              "ship": "vcx100", 
+              "upgrades": {
+                "crew": [
+                  "maul", 
+                  "ezrabridger"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "sensorjammer"
+                ], 
+                "title": [
+                  "ghost"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "crew": [
+                  "hotshotcopilot"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 374, 
+        "name": "Quaresma 'Maul' Da Massa", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 2, 
+        "sos": "0.83"
+      }, 
+      {
+        "mov": 321, 
+        "name": "Paulo 'Colonel' Ayres", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "epsilonace", 
+              "ship": "tiefofighter"
+            }, 
+            {
+              "name": "kyloren", 
+              "ship": "tiesilencer", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "advancedsensors"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "firstordervanguard"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 258, 
+        "name": "Henrique 'He-Man'", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "wullffwarro", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "breachspecialist", 
+                  "gunner"
+                ], 
+                "ept": [
+                  "trickshot"
+                ]
+              }
+            }, 
+            {
+              "name": "hansolo", 
+              "ship": "yt1300", 
+              "upgrades": {
+                "crew": [
+                  "gunner", 
+                  "dashrendar"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "title": [
+                  "millenniumfalcon"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 296, 
+        "name": "Paulo 'Solo' Brescia", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 279, 
+        "name": "Romulo 'Dameron' Santos", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 1, 
+        "sos": "0.83"
+      }, 
+      {
+        "mov": 246, 
+        "name": "Marcelo 'PalpaDantas'", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 201, 
+        "name": "Leonardo 'Wookie' Maxson", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Pedro 'Inquisitor' Raia", 
+            "player1points": 53, 
+            "player2": "Henrique 'He-Man'", 
+            "player2points": 64, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Filipe 'Nym' Freitas", 
+            "player1points": 100, 
+            "player2": "Romulo 'Dameron' Santos", 
+            "player2points": 50, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Paulo 'Colonel' Ayres", 
+            "player1points": 100, 
+            "player2": "Paulo 'Solo' Brescia", 
+            "player2points": 72, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marcelo 'PalpaDantas'", 
+            "player1points": 62, 
+            "player2": "Leonardo 'Wookie' Maxson", 
+            "player2points": 74, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Quaresma 'Maul' Da Massa", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Filipe 'Nym' Freitas", 
+            "player1points": 100, 
+            "player2": "Paulo 'Colonel' Ayres", 
+            "player2points": 50, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Henrique 'He-Man'", 
+            "player1points": 26, 
+            "player2": "Quaresma 'Maul' Da Massa", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Leonardo 'Wookie' Maxson", 
+            "player1points": 32, 
+            "player2": "Pedro 'Inquisitor' Raia", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marcelo 'PalpaDantas'", 
+            "player1points": 100, 
+            "player2": "Paulo 'Solo' Brescia", 
+            "player2points": 74, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Romulo 'Dameron' Santos", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Filipe 'Nym' Freitas", 
+            "player1points": 100, 
+            "player2": "Quaresma 'Maul' Da Massa", 
+            "player2points": 50, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Henrique 'He-Man'", 
+            "player1points": 57, 
+            "player2": "Romulo 'Dameron' Santos", 
+            "player2points": 36, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pedro 'Inquisitor' Raia", 
+            "player1points": 100, 
+            "player2": "Marcelo 'PalpaDantas'", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Leonardo 'Wookie' Maxson", 
+            "player1points": 57, 
+            "player2": "Paulo 'Colonel' Ayres", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Paulo 'Solo' Brescia", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "BELO HORIZONTE", 
+      "country": "Brazil", 
+      "lat": "-19.922731700000", 
+      "lon": "-43.945094700000", 
+      "name": "Clube Nerd", 
+      "state": "Minas Gerais"
+    }, 
+    "video_url": "http://"
+  }
+}
