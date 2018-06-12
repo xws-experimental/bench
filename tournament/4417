@@ -1,0 +1,409 @@
+{
+  "tournament": {
+    "date": "2018-06-09", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4417, 
+    "name": "X-Wing Tournament Charity Event", 
+    "players": [
+      {
+        "mov": 927, 
+        "name": "Calum Brown", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 5, 
+        "sos": "0.64"
+      }, 
+      {
+        "mov": 887, 
+        "name": "Jesper Hills", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 5, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 817, 
+        "name": "Paul Schaller", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 4, 
+        "sos": "0.57"
+      }, 
+      {
+        "mov": 789, 
+        "name": "Alex Watkins", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 4, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 758, 
+        "name": "Matthew Fisher", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 4, 
+        "sos": "0.60"
+      }, 
+      {
+        "mov": 696, 
+        "name": "Olly Astbury", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 4, 
+        "sos": "0.60"
+      }, 
+      {
+        "mov": 591, 
+        "name": "Dan Buckley", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 4, 
+        "sos": "0.64"
+      }, 
+      {
+        "mov": 527, 
+        "name": "Mark Wingrove", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 4, 
+        "sos": "0.60"
+      }, 
+      {
+        "mov": 706, 
+        "name": "Dave Thorley", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 3, 
+        "sos": "0.48"
+      }, 
+      {
+        "mov": 659, 
+        "name": "Ben Barber", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 3, 
+        "sos": "0.48"
+      }, 
+      {
+        "mov": 649, 
+        "name": "Paul Owen", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 3, 
+        "sos": "0.48"
+      }, 
+      {
+        "mov": 625, 
+        "name": "Tom Catchesides", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 3, 
+        "sos": "0.45"
+      }, 
+      {
+        "mov": 609, 
+        "name": "James Finlayson", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 596, 
+        "name": "Johhny Cameron", 
+        "rank": {
+          "swiss": 14
+        }, 
+        "score": 3, 
+        "sos": "0.49"
+      }, 
+      {
+        "mov": 586, 
+        "name": "Janus Avivson", 
+        "rank": {
+          "swiss": 15
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 532, 
+        "name": "Katie Fisher", 
+        "rank": {
+          "swiss": 16
+        }, 
+        "score": 3, 
+        "sos": "0.48"
+      }, 
+      {
+        "mov": 523, 
+        "name": "Ben Hawkins", 
+        "rank": {
+          "swiss": 17
+        }, 
+        "score": 3, 
+        "sos": "0.53"
+      }, 
+      {
+        "mov": 520, 
+        "name": "Kyle Hill", 
+        "rank": {
+          "swiss": 18
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 518, 
+        "name": "Fred Bettsworth", 
+        "rank": {
+          "swiss": 19
+        }, 
+        "score": 3, 
+        "sos": "0.36"
+      }, 
+      {
+        "mov": 467, 
+        "name": "Matt Bromage", 
+        "rank": {
+          "swiss": 20
+        }, 
+        "score": 3, 
+        "sos": "0.51"
+      }, 
+      {
+        "mov": 466, 
+        "name": "Laurence Moore", 
+        "rank": {
+          "swiss": 21
+        }, 
+        "score": 3, 
+        "sos": "0.64"
+      }, 
+      {
+        "mov": 557, 
+        "name": "Bernardo Hourmat", 
+        "rank": {
+          "swiss": 22
+        }, 
+        "score": 2, 
+        "sos": "0.40"
+      }, 
+      {
+        "mov": 526, 
+        "name": "Simon Tournay", 
+        "rank": {
+          "swiss": 23
+        }, 
+        "score": 2, 
+        "sos": "0.60"
+      }, 
+      {
+        "mov": 477, 
+        "name": "George Tomkins", 
+        "rank": {
+          "swiss": 24
+        }, 
+        "score": 2, 
+        "sos": "0.40"
+      }, 
+      {
+        "mov": 477, 
+        "name": "Richard Smith", 
+        "rank": {
+          "swiss": 25
+        }, 
+        "score": 2, 
+        "sos": "0.32"
+      }, 
+      {
+        "mov": 465, 
+        "name": "Andy Lyle", 
+        "rank": {
+          "swiss": 26
+        }, 
+        "score": 2, 
+        "sos": "0.48"
+      }, 
+      {
+        "mov": 446, 
+        "name": "Christian Hooper", 
+        "rank": {
+          "swiss": 27
+        }, 
+        "score": 2, 
+        "sos": "0.60"
+      }, 
+      {
+        "mov": 396, 
+        "name": "Simran Pone", 
+        "rank": {
+          "swiss": 28
+        }, 
+        "score": 2, 
+        "sos": "0.60"
+      }, 
+      {
+        "mov": 359, 
+        "name": "Andy Lewis", 
+        "rank": {
+          "swiss": 29
+        }, 
+        "score": 2, 
+        "sos": "0.40"
+      }, 
+      {
+        "mov": 340, 
+        "name": "Rob Pearce", 
+        "rank": {
+          "swiss": 30
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 328, 
+        "name": "Matthew Chinn", 
+        "rank": {
+          "swiss": 31
+        }, 
+        "score": 2, 
+        "sos": "0.64"
+      }, 
+      {
+        "mov": 326, 
+        "name": "Pete Wood", 
+        "rank": {
+          "swiss": 32
+        }, 
+        "score": 2, 
+        "sos": "0.55"
+      }, 
+      {
+        "mov": 316, 
+        "name": "John Tsianis", 
+        "rank": {
+          "swiss": 33
+        }, 
+        "score": 2, 
+        "sos": "0.48"
+      }, 
+      {
+        "mov": 300, 
+        "name": "Phil GC", 
+        "rank": {
+          "swiss": 34
+        }, 
+        "score": 2, 
+        "sos": "0.51"
+      }, 
+      {
+        "mov": 364, 
+        "name": "Neil Lofts", 
+        "rank": {
+          "swiss": 35
+        }, 
+        "score": 1, 
+        "sos": "0.36"
+      }, 
+      {
+        "mov": 319, 
+        "name": "John Hills", 
+        "rank": {
+          "swiss": 36
+        }, 
+        "score": 1, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 292, 
+        "name": "Martin Laidlaw", 
+        "rank": {
+          "swiss": 37
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 265, 
+        "name": "Justin Hove", 
+        "rank": {
+          "swiss": 38
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 245, 
+        "name": "Ashley Dangerfield", 
+        "rank": {
+          "swiss": 39
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 239, 
+        "name": "Peter Burmis", 
+        "rank": {
+          "swiss": 40
+        }, 
+        "score": 1, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 231, 
+        "name": "Ashok Photay", 
+        "rank": {
+          "swiss": 41
+        }, 
+        "score": 1, 
+        "sos": "0.62"
+      }, 
+      {
+        "mov": 197, 
+        "name": "Doug Waters", 
+        "rank": {
+          "swiss": 42
+        }, 
+        "score": 0, 
+        "sos": "0.31"
+      }, 
+      {
+        "mov": 87, 
+        "name": "Malc Fell", 
+        "rank": {
+          "swiss": 43
+        }, 
+        "score": 0, 
+        "sos": "0.67"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [], 
+    "type": "Other", 
+    "venue": {
+      "city": "London", 
+      "country": "United Kingdom", 
+      "lat": "51.402804600000", 
+      "lon": "0.014814200000", 
+      "name": "Warboar Games", 
+      "state": "Bromley"
+    }, 
+    "video_url": "http://"
+  }
+}
