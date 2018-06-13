@@ -1,0 +1,864 @@
+{
+  "tournament": {
+    "date": "2018-06-10", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4418, 
+    "name": "Torneio Junino no Metropoly", 
+    "players": [
+      {
+        "mov": 400, 
+        "name": "caio", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 290, 
+        "name": "vinicius", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.13"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "rhosquadronveteran", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "cannon": [
+                  "tractorbeam"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "title": [
+                  "xg1assaultconfiguration"
+                ]
+              }
+            }, 
+            {
+              "name": "rhosquadronveteran", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "cannon": [
+                  "tractorbeam"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "title": [
+                  "xg1assaultconfiguration"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 679, 
+        "name": "aluisio", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 4, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "theinquisitor", 
+              "ship": "tieadvprototype", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "tiev1"
+                ]
+              }
+            }, 
+            {
+              "name": "sienartestpilot", 
+              "ship": "tieadvprototype", 
+              "upgrades": {
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "title": [
+                  "tiev1"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 527, 
+        "name": "schuck", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 523, 
+        "name": "tortehletta", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "asajjventress", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "lattsrazzi"
+                ], 
+                "ept": [
+                  "lonewolf"
+                ], 
+                "illicit": [
+                  "glitterstim", 
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "countermeasures"
+                ], 
+                "title": [
+                  "shadowcaster"
+                ]
+              }
+            }, 
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 447, 
+        "name": "Debodet", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 3, 
+        "sos": "0.69"
+      }, 
+      {
+        "mov": 443, 
+        "name": "daniel kantor", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 3, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 526, 
+        "name": "sabino", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 2, 
+        "sos": "0.25"
+      }, 
+      {
+        "mov": 510, 
+        "name": "rodrigo", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 2, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 487, 
+        "name": "wagner", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 2, 
+        "sos": "0.60"
+      }, 
+      {
+        "mov": 452, 
+        "name": "oigres", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "dalanoberos", 
+              "ship": "starviper", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "starvipermkii"
+                ]
+              }
+            }, 
+            {
+              "name": "guri", 
+              "ship": "starviper", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "starvipermkii"
+                ]
+              }
+            }, 
+            {
+              "name": "thweek", 
+              "ship": "starviper", 
+              "upgrades": {
+                "illicit": [
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "virago", 
+                  "starvipermkii"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 409, 
+        "name": "denicol", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "protonbombs"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "autoblasterturret"
+                ]
+              }
+            }, 
+            {
+              "name": "dengar", 
+              "ship": "jumpmaster5000", 
+              "upgrades": {
+                "crew": [
+                  "k4securitydroid"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "title": [
+                  "punishingone"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 393, 
+        "name": "ikeda", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 294, 
+        "name": "padawan", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 2, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 276, 
+        "name": "Hugo", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 1, 
+        "sos": "0.58"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "kadsolus", 
+              "ship": "protectoratestarfighter", 
+              "upgrades": {
+                "ept": [
+                  "attannimindlink"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "concorddawnprotector"
+                ], 
+                "torpedo": [
+                  "plasmatorpedoes"
+                ]
+              }
+            }, 
+            {
+              "name": "oldteroch", 
+              "ship": "protectoratestarfighter", 
+              "upgrades": {
+                "ept": [
+                  "attannimindlink"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "concorddawnprotector"
+                ], 
+                "torpedo": [
+                  "plasmatorpedoes"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "protectoratestarfighter", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "concorddawnprotector"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 255, 
+        "name": "felipe galeno", 
+        "rank": {
+          "swiss": 14
+        }, 
+        "score": 1, 
+        "sos": "0.64"
+      }, 
+      {
+        "mov": 187, 
+        "name": "Ide", 
+        "rank": {
+          "swiss": 15
+        }, 
+        "score": 1, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 175, 
+        "name": "israel", 
+        "rank": {
+          "swiss": 16
+        }, 
+        "score": 1, 
+        "sos": "0.72"
+      }, 
+      {
+        "mov": 177, 
+        "name": "bruna", 
+        "rank": {
+          "swiss": 17
+        }, 
+        "score": 0, 
+        "sos": "0.69"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "aluisio", 
+            "player1points": 78, 
+            "player2": "rodrigo", 
+            "player2points": 43, 
+            "result": "win"
+          }, 
+          {
+            "player1": "padawan", 
+            "player1points": 19, 
+            "player2": "Debodet", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "caio", 
+            "player1points": 0, 
+            "player2": "wagner", 
+            "player2points": 63, 
+            "result": "win"
+          }, 
+          {
+            "player1": "bruna", 
+            "player1points": 55, 
+            "player2": "vinicius", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ide", 
+            "player1points": 68, 
+            "player2": "sabino", 
+            "player2points": 68, 
+            "result": "win"
+          }, 
+          {
+            "player1": "oigres", 
+            "player1points": 100, 
+            "player2": "daniel kantor", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "felipe galeno", 
+            "player1points": 0, 
+            "player2": "schuck", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "tortehletta", 
+            "player1points": 100, 
+            "player2": "Hugo", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "denicol", 
+            "player1points": 100, 
+            "player2": "ikeda", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "israel", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "schuck", 
+            "player1points": 100, 
+            "player2": "denicol", 
+            "player2points": 43, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ide", 
+            "player1points": 55, 
+            "player2": "vinicius", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "tortehletta", 
+            "player1points": 100, 
+            "player2": "oigres", 
+            "player2points": 22, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Debodet", 
+            "player1points": 100, 
+            "player2": "wagner", 
+            "player2points": 81, 
+            "result": "win"
+          }, 
+          {
+            "player1": "aluisio", 
+            "player1points": 100, 
+            "player2": "israel", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "bruna", 
+            "player1points": 29, 
+            "player2": "daniel kantor", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "sabino", 
+            "player1points": 26, 
+            "player2": "ikeda", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "rodrigo", 
+            "player1points": 100, 
+            "player2": "padawan", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "caio", 
+            "player1points": 100, 
+            "player2": "felipe galeno", 
+            "player2points": 37, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Hugo", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "tortehletta", 
+            "player1points": 28, 
+            "player2": "aluisio", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Debodet", 
+            "player1points": 100, 
+            "player2": "schuck", 
+            "player2points": 81, 
+            "result": "win"
+          }, 
+          {
+            "player1": "ikeda", 
+            "player1points": 100, 
+            "player2": "oigres", 
+            "player2points": 71, 
+            "result": "win"
+          }, 
+          {
+            "player1": "wagner", 
+            "player1points": 100, 
+            "player2": "Ide", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "caio", 
+            "player1points": 100, 
+            "player2": "israel", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Hugo", 
+            "player1points": 36, 
+            "player2": "denicol", 
+            "player2points": 51, 
+            "result": "win"
+          }, 
+          {
+            "player1": "daniel kantor", 
+            "player1points": 100, 
+            "player2": "rodrigo", 
+            "player2points": 70, 
+            "result": "win"
+          }, 
+          {
+            "player1": "padawan", 
+            "player1points": 69, 
+            "player2": "bruna", 
+            "player2points": 62, 
+            "result": "win"
+          }, 
+          {
+            "player1": "felipe galeno", 
+            "player1points": 0, 
+            "player2": "sabino", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "aluisio", 
+            "player1points": 100, 
+            "player2": "Debodet", 
+            "player2points": 28, 
+            "result": "win"
+          }, 
+          {
+            "player1": "ikeda", 
+            "player1points": 58, 
+            "player2": "daniel kantor", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "denicol", 
+            "player1points": 47, 
+            "player2": "tortehletta", 
+            "player2points": 64, 
+            "result": "win"
+          }, 
+          {
+            "player1": "wagner", 
+            "player1points": 43, 
+            "player2": "schuck", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "padawan", 
+            "player1points": 68, 
+            "player2": "Ide", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "rodrigo", 
+            "player1points": 100, 
+            "player2": "israel", 
+            "player2points": 25, 
+            "result": "win"
+          }, 
+          {
+            "player1": "oigres", 
+            "player1points": 100, 
+            "player2": "Hugo", 
+            "player2points": 41, 
+            "result": "win"
+          }, 
+          {
+            "player1": "sabino", 
+            "player1points": 100, 
+            "player2": "bruna", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "felipe galeno", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Other", 
+    "venue": {
+      "city": "Campinas", 
+      "country": "Brazil", 
+      "lat": "-22.905560000000", 
+      "lon": "-47.060830000000", 
+      "name": "", 
+      "state": "Sao Paulo"
+    }, 
+    "video_url": "http://"
+  }
+}

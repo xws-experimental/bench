@@ -1,0 +1,434 @@
+{
+  "tournament": {
+    "date": "2018-06-12", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4420, 
+    "name": "Tuesday 6/12", 
+    "players": [
+      {
+        "mov": 40, 
+        "name": "Johnathan Proctor", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 0, 
+        "sos": "0.83"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "dashrendar", 
+              "ship": "yt2400", 
+              "upgrades": {
+                "cannon": [
+                  "heavylasercannon"
+                ], 
+                "crew": [
+                  "rey"
+                ], 
+                "ept": [
+                  "lonewolf"
+                ], 
+                "mod": [
+                  "countermeasures"
+                ], 
+                "title": [
+                  "outrider"
+                ]
+              }
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "c3po"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 555, 
+        "name": "Phil Karash", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 464, 
+        "name": "Josh Taylor", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.33"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "scimitarsquadronpilot", 
+              "ship": "tiebomber", 
+              "upgrades": {
+                "missile": [
+                  "unguidedrockets"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ]
+              }
+            }, 
+            {
+              "name": "scimitarsquadronpilot", 
+              "ship": "tiebomber", 
+              "upgrades": {
+                "missile": [
+                  "unguidedrockets"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ]
+              }
+            }, 
+            {
+              "name": "scimitarsquadronpilot", 
+              "ship": "tiebomber", 
+              "upgrades": {
+                "missile": [
+                  "unguidedrockets"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ]
+              }
+            }, 
+            {
+              "name": "scimitarsquadronpilot", 
+              "ship": "tiebomber", 
+              "upgrades": {
+                "missile": [
+                  "unguidedrockets"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ]
+              }
+            }, 
+            {
+              "name": "scimitarsquadronpilot", 
+              "ship": "tiebomber", 
+              "upgrades": {
+                "missile": [
+                  "unguidedrockets"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 406, 
+        "name": "Billy Evans", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 2, 
+        "sos": "0.22"
+      }, 
+      {
+        "mov": 399, 
+        "name": "Clayton Webb", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 2, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 379, 
+        "name": "Steve Dodd", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 356, 
+        "name": "Derek Tokaz", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 327, 
+        "name": "Ned Ash", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 274, 
+        "name": "Jesse Van Wick", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 2, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 306, 
+        "name": "Travis Upton", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 201, 
+        "name": "Alan Scherer", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 174, 
+        "name": "Craig Ferguson", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 178, 
+        "name": "Grant Bennett", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 0, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 91, 
+        "name": "Robert Hoover", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 0, 
+        "sos": "0.78"
+      }
+    ], 
+    "round_length": 65, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Josh Taylor", 
+            "player1points": 24, 
+            "player2": "Steve Dodd", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jesse Van Wick", 
+            "player1points": 100, 
+            "player2": "Derek Tokaz", 
+            "player2points": 31, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Robert Hoover", 
+            "player1points": 31, 
+            "player2": "Clayton Webb", 
+            "player2points": 80, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Travis Upton", 
+            "player1points": 100, 
+            "player2": "Grant Bennett", 
+            "player2points": 49, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Billy Evans", 
+            "player1points": 66, 
+            "player2": "Ned Ash", 
+            "player2points": 80, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Craig Ferguson", 
+            "player1points": 100, 
+            "player2": "Alan Scherer", 
+            "player2points": 26, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Phil Karash", 
+            "player1points": 100, 
+            "player2": "Johnathan Proctor", 
+            "player2points": 0, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Ned Ash", 
+            "player1points": 45, 
+            "player2": "Phil Karash", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Craig Ferguson", 
+            "player1points": 0, 
+            "player2": "Clayton Webb", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Travis Upton", 
+            "player1points": 32, 
+            "player2": "Jesse Van Wick", 
+            "player2points": 37, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Josh Taylor", 
+            "player1points": 100, 
+            "player2": "Robert Hoover", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Derek Tokaz", 
+            "player1points": 100, 
+            "player2": "Alan Scherer", 
+            "player2points": 25, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Grant Bennett", 
+            "player1points": 50, 
+            "player2": "Steve Dodd", 
+            "player2points": 53, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Johnathan Proctor", 
+            "player1points": 40, 
+            "player2": "Billy Evans", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Phil Karash", 
+            "player1points": 100, 
+            "player2": "Jesse Van Wick", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Clayton Webb", 
+            "player1points": 50, 
+            "player2": "Derek Tokaz", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Robert Hoover", 
+            "player1points": 40, 
+            "player2": "Billy Evans", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Josh Taylor", 
+            "player1points": 100, 
+            "player2": "Travis Upton", 
+            "player2points": 60, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Steve Dodd", 
+            "player1points": 100, 
+            "player2": "Craig Ferguson", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ned Ash", 
+            "player1points": 100, 
+            "player2": "Grant Bennett", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alan Scherer", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Other", 
+    "venue": {
+      "city": "Springfield", 
+      "country": "United States of America", 
+      "lat": "38.789052200000", 
+      "lon": "-77.187036800000", 
+      "name": "Curio Cavern", 
+      "state": "Virginia"
+    }, 
+    "video_url": "http://"
+  }
+}

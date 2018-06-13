@@ -1,0 +1,675 @@
+{
+  "tournament": {
+    "date": "2018-06-11", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4419, 
+    "name": "Bosco's June", 
+    "players": [
+      {
+        "mov": 150, 
+        "name": "Brian Lindamood", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.00"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "guri", 
+              "ship": "starviper", 
+              "upgrades": {
+                "ept": [
+                  "attannimindlink"
+                ], 
+                "illicit": [
+                  "inertialdampeners"
+                ], 
+                "mod": [
+                  "stealthdevice"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "starvipermkii", 
+                  "virago"
+                ]
+              }
+            }, 
+            {
+              "name": "serissu", 
+              "ship": "m3ainterceptor", 
+              "upgrades": {
+                "cannon": [
+                  "heavylasercannon"
+                ], 
+                "ept": [
+                  "attannimindlink"
+                ]
+              }
+            }, 
+            {
+              "name": "manaroo", 
+              "ship": "jumpmaster5000", 
+              "upgrades": {
+                "crew": [
+                  "reconspecialist"
+                ], 
+                "ept": [
+                  "bodyguard"
+                ], 
+                "illicit": [
+                  "glitterstim"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 459, 
+        "name": "William Lucas", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "dashrendar", 
+              "ship": "yt2400", 
+              "upgrades": {
+                "cannon": [
+                  "heavylasercannon"
+                ], 
+                "crew": [
+                  "rey"
+                ], 
+                "ept": [
+                  "lonewolf"
+                ], 
+                "mod": [
+                  "countermeasures"
+                ], 
+                "title": [
+                  "outrider"
+                ]
+              }
+            }, 
+            {
+              "name": "lothalrebel", 
+              "ship": "vcx100", 
+              "upgrades": {
+                "crew": [
+                  "herasyndulla", 
+                  "ezrabridger"
+                ], 
+                "mod": [
+                  "antipursuitlasers"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "turret": [
+                  "autoblasterturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 425, 
+        "name": "Tim Risi", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "oldteroch", 
+              "ship": "protectoratestarfighter", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "concorddawnprotector"
+                ], 
+                "torpedo": [
+                  "advprotontorpedoes"
+                ]
+              }
+            }, 
+            {
+              "name": "kadsolus", 
+              "ship": "protectoratestarfighter", 
+              "upgrades": {
+                "ept": [
+                  "attannimindlink"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "concorddawnprotector"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "protectoratestarfighter", 
+              "upgrades": {
+                "ept": [
+                  "attannimindlink"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "concorddawnprotector"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 325, 
+        "name": "Christopher Castaneda", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 2, 
+        "sos": "0.22"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "airencracken", 
+              "ship": "z95headhunter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ]
+              }
+            }, 
+            {
+              "name": "wedgeantilles", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "adaptability"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "torpedo": [
+                  "plasmatorpedoes"
+                ]
+              }
+            }, 
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "autoblasterturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 304, 
+        "name": "Danial Leon", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "ketsuonyo", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "k4securitydroid"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "illicit": [
+                  "glitterstim"
+                ], 
+                "title": [
+                  "shadowcaster"
+                ]
+              }
+            }, 
+            {
+              "name": "dengar", 
+              "ship": "jumpmaster5000", 
+              "upgrades": {
+                "crew": [
+                  "k4securitydroid"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "illicit": [
+                  "glitterstim"
+                ], 
+                "title": [
+                  "punishingone"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 327, 
+        "name": "Cody Kalt", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "countessryad", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "cannon": [
+                  "tractorbeam"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "stealthdevice"
+                ], 
+                "title": [
+                  "tied"
+                ]
+              }
+            }, 
+            {
+              "name": "puresabacc", 
+              "ship": "tiestriker", 
+              "upgrades": {
+                "ept": [
+                  "crackshot"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "adaptiveailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "junoeclipse", 
+              "ship": "tieadvanced", 
+              "upgrades": {
+                "ept": [
+                  "adaptability"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "accuracycorrector"
+                ], 
+                "title": [
+                  "tiex1"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 273, 
+        "name": "Brent Chivers", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "asajjventress", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "dengar"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "illicit": [
+                  "riggedcargochute", 
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "gyroscopictargeting"
+                ], 
+                "title": [
+                  "shadowcaster"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 214, 
+        "name": "Brett Addington", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 1, 
+        "sos": "0.78"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "testpilotblackout", 
+              "ship": "tiesilencer", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "primedthrusters"
+                ], 
+                "title": [
+                  "firstordervanguard"
+                ]
+              }
+            }, 
+            {
+              "name": "doubleedge", 
+              "ship": "tieaggressor", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "onyxsquadronescort", 
+              "ship": "tieaggressor", 
+              "upgrades": {
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 73, 
+        "name": "Benjamin Nichols", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 0, 
+        "sos": "0.44"
+      }
+    ], 
+    "round_length": 60, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Brent Chivers", 
+            "player1points": 100, 
+            "player2": "Benjamin Nichols", 
+            "player2points": 18, 
+            "result": "win"
+          }, 
+          {
+            "player1": "William Lucas", 
+            "player1points": 73, 
+            "player2": "Tim Risi", 
+            "player2points": 65, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Danial Leon", 
+            "player1points": 73, 
+            "player2": "Cody Kalt", 
+            "player2points": 55, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Christopher Castaneda", 
+            "player1points": 25, 
+            "player2": "Brett Addington", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Brian Lindamood", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "William Lucas", 
+            "player1points": 100, 
+            "player2": "Brett Addington", 
+            "player2points": 17, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Brent Chivers", 
+            "player1points": 46, 
+            "player2": "Danial Leon", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Benjamin Nichols", 
+            "player1points": 55, 
+            "player2": "Christopher Castaneda", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Cody Kalt", 
+            "player1points": 45, 
+            "player2": "Tim Risi", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Danial Leon", 
+            "player1points": 32, 
+            "player2": "William Lucas", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Christopher Castaneda", 
+            "player1points": 100, 
+            "player2": "Brent Chivers", 
+            "player2points": 45, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Brett Addington", 
+            "player1points": 22, 
+            "player2": "Tim Risi", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Benjamin Nichols", 
+            "player1points": 0, 
+            "player2": "Cody Kalt", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Other", 
+    "venue": {
+      "city": "Anchorage", 
+      "country": "United States of America", 
+      "lat": "61.216312900000", 
+      "lon": "-149.894852300000", 
+      "name": "Bosco's", 
+      "state": "Alaska"
+    }, 
+    "video_url": "http://"
+  }
+}
