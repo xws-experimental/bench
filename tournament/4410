@@ -1,0 +1,103 @@
+{
+  "tournament": {
+    "date": "2018-05-30", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4410, 
+    "name": "Corpus Crits", 
+    "players": [
+      {
+        "mov": 0, 
+        "name": "Pedro 'Inquisitor' Raia", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Henrique 'He-Man'", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Filipe 'Nym' Freitas", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Romulo 'Dameron' Santos", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Paulo 'Colonel' Ayres", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Paulo 'Solo' Brescia", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Marcelo 'PalpaDantas'", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Leonardo 'Wookie' Maxson", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Quaresma 'Maul' Da Massa", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "BELO HORIZONTE", 
+      "country": "Brazil", 
+      "lat": "-19.922731700000", 
+      "lon": "-43.945094700000", 
+      "name": "Clube Nerd", 
+      "state": "Minas Gerais"
+    }, 
+    "video_url": "http://"
+  }
+}

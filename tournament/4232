@@ -185,12 +185,12 @@
     ], 
     "type": "Store championship", 
     "venue": {
-      "city": "ad", 
-      "country": "Benin", 
+      "city": "Porto Alegre", 
+      "country": "Brazil", 
       "lat": "-29.594642800000", 
       "lon": "-51.825998800000", 
-      "name": "dasd", 
-      "state": "Alibori"
+      "name": "Nerdz", 
+      "state": "Rio Grande do Sul"
     }, 
     "video_url": "http://"
   }

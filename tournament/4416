@@ -1,0 +1,188 @@
+{
+  "tournament": {
+    "date": "2018-06-09", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4416, 
+    "name": "Torneio Mensal d20 Game Center - Junho 2018", 
+    "players": [
+      {
+        "mov": 490, 
+        "name": "Marco Manzano", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 3, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 375, 
+        "name": "Pedro Augusto", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 349, 
+        "name": "Lucas Mazucato", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 254, 
+        "name": "Bruno Moreto", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 2, 
+        "sos": "0.78"
+      }, 
+      {
+        "mov": 338, 
+        "name": "Rodrigo Fernandes", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 234, 
+        "name": "Rodrigo Sampaio", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 210, 
+        "name": "Joo Pedro Alvim", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 1, 
+        "sos": "0.67"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Pedro Augusto", 
+            "player1points": 41, 
+            "player2": "Rodrigo Sampaio", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lucas Mazucato", 
+            "player1points": 24, 
+            "player2": "Bruno Moreto", 
+            "player2points": 75, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Rodrigo Fernandes", 
+            "player1points": 75, 
+            "player2": "Joo Pedro Alvim", 
+            "player2points": 75, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marco Manzano", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Bruno Moreto", 
+            "player1points": 52, 
+            "player2": "Pedro Augusto", 
+            "player2points": 49, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Joo Pedro Alvim", 
+            "player1points": 60, 
+            "player2": "Marco Manzano", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Rodrigo Fernandes", 
+            "player1points": 100, 
+            "player2": "Rodrigo Sampaio", 
+            "player2points": 25, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lucas Mazucato", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Bruno Moreto", 
+            "player1points": 0, 
+            "player2": "Marco Manzano", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Rodrigo Fernandes", 
+            "player1points": 63, 
+            "player2": "Pedro Augusto", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Joo Pedro Alvim", 
+            "player1points": 50, 
+            "player2": "Lucas Mazucato", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Rodrigo Sampaio", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Other", 
+    "venue": {
+      "city": "Ribeiro Preto", 
+      "country": "Brazil", 
+      "lat": "-20.613500000000", 
+      "lon": "-48.918837719298", 
+      "name": "d20 Game Center", 
+      "state": "Sao Paulo"
+    }, 
+    "video_url": "https://www.facebook.com/events/2119267818358016/"
+  }
+}

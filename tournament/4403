@@ -1,0 +1,470 @@
+{
+  "tournament": {
+    "date": "2018-06-09", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4403, 
+    "name": "GMI Games Dogfight", 
+    "players": [
+      {
+        "mov": 132, 
+        "name": "Brian Carrasquillo", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 0, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 249, 
+        "name": "Matt Plumb", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 264, 
+        "name": "Fabian Espinoza", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.58"
+      }, 
+      {
+        "mov": 310, 
+        "name": "Bryan Clark", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.58"
+      }, 
+      {
+        "mov": 305, 
+        "name": "Trevor Betts", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.58"
+      }, 
+      {
+        "mov": 350, 
+        "name": "Chad Smith", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 631, 
+        "name": "Michael Deegan", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 4, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 621, 
+        "name": "David Wright", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.58"
+      }, 
+      {
+        "mov": 599, 
+        "name": "Mitchel Hurst", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 531, 
+        "name": "Jerome Kentz", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 3, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 492, 
+        "name": "Troy Fong", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 3, 
+        "sos": "0.65"
+      }, 
+      {
+        "mov": 401, 
+        "name": "Tyler Navarro", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 2, 
+        "sos": "0.27"
+      }, 
+      {
+        "mov": 396, 
+        "name": "Josh Youngblood", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 386, 
+        "name": "Robert Delatorre", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 2, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 367, 
+        "name": "Ivan Amargo", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 2, 
+        "sos": "0.58"
+      }, 
+      {
+        "mov": 292, 
+        "name": "Nathan Carey", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 2, 
+        "sos": "0.46"
+      }, 
+      {
+        "mov": 256, 
+        "name": "Sam Kirk", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 1, 
+        "sos": "0.58"
+      }, 
+      {
+        "mov": 242, 
+        "name": "Corbin Youngblood", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 1, 
+        "sos": "0.54"
+      }, 
+      {
+        "mov": 226, 
+        "name": "Tom Burns", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 1, 
+        "sos": "0.33"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Tom Burns", 
+            "player1points": 0, 
+            "player2": "Fabian Espinoza", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sam Kirk", 
+            "player1points": 31, 
+            "player2": "Michael Deegan", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Matt Plumb", 
+            "player1points": 40, 
+            "player2": "Jerome Kentz", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Brian Carrasquillo", 
+            "player1points": 32, 
+            "player2": "Josh Youngblood", 
+            "player2points": 33, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Trevor Betts", 
+            "player1points": 100, 
+            "player2": "Chad Smith", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Robert Delatorre", 
+            "player1points": 100, 
+            "player2": "Tyler Navarro", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nathan Carey", 
+            "player1points": 0, 
+            "player2": "David Wright", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mitchel Hurst", 
+            "player1points": 100, 
+            "player2": "Corbin Youngblood", 
+            "player2points": 48, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Troy Fong", 
+            "player1points": 100, 
+            "player2": "Bryan Clark", 
+            "player2points": 47, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ivan Amargo", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Troy Fong", 
+            "player1points": 100, 
+            "player2": "Ivan Amargo", 
+            "player2points": 52, 
+            "result": "win"
+          }, 
+          {
+            "player1": "David Wright", 
+            "player1points": 100, 
+            "player2": "Fabian Espinoza", 
+            "player2points": 24, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Josh Youngblood", 
+            "player1points": 63, 
+            "player2": "Trevor Betts", 
+            "player2points": 68, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mitchel Hurst", 
+            "player1points": 100, 
+            "player2": "Robert Delatorre", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Michael Deegan", 
+            "player1points": 100, 
+            "player2": "Jerome Kentz", 
+            "player2points": 31, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nathan Carey", 
+            "player1points": 100, 
+            "player2": "Bryan Clark", 
+            "player2points": 63, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tom Burns", 
+            "player1points": 0, 
+            "player2": "Corbin Youngblood", 
+            "player2points": 49, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sam Kirk", 
+            "player1points": 75, 
+            "player2": "Matt Plumb", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Brian Carrasquillo", 
+            "player1points": 33, 
+            "player2": "Tyler Navarro", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chad Smith", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "David Wright", 
+            "player1points": 69, 
+            "player2": "Michael Deegan", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mitchel Hurst", 
+            "player1points": 47, 
+            "player2": "Troy Fong", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Robert Delatorre", 
+            "player1points": 100, 
+            "player2": "Nathan Carey", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tom Burns", 
+            "player1points": 0, 
+            "player2": "Josh Youngblood", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Corbin Youngblood", 
+            "player1points": 0, 
+            "player2": "Chad Smith", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Matt Plumb", 
+            "player1points": 59, 
+            "player2": "Ivan Amargo", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jerome Kentz", 
+            "player1points": 100, 
+            "player2": "Fabian Espinoza", 
+            "player2points": 40, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tyler Navarro", 
+            "player1points": 0, 
+            "player2": "Bryan Clark", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sam Kirk", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Michael Deegan", 
+            "player1points": 100, 
+            "player2": "Troy Fong", 
+            "player2points": 38, 
+            "result": "win"
+          }, 
+          {
+            "player1": "David Wright", 
+            "player1points": 100, 
+            "player2": "Ivan Amargo", 
+            "player2points": 24, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Robert Delatorre", 
+            "player1points": 20, 
+            "player2": "Jerome Kentz", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mitchel Hurst", 
+            "player1points": 100, 
+            "player2": "Josh Youngblood", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Corbin Youngblood", 
+            "player1points": 15, 
+            "player2": "Nathan Carey", 
+            "player2points": 70, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sam Kirk", 
+            "player1points": 0, 
+            "player2": "Tyler Navarro", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Matt Plumb", 
+            "player1points": 25, 
+            "player2": "Tom Burns", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Other", 
+    "venue": {
+      "city": "Riverside", 
+      "country": "United States of America", 
+      "lat": "33.953354600000", 
+      "lon": "-117.396162300000", 
+      "name": "GMI Games", 
+      "state": "California"
+    }, 
+    "video_url": "https://www.twitch.tv/warlock_squadron/"
+  }
+}

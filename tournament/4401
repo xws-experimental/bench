@@ -1,0 +1,829 @@
+{
+  "tournament": {
+    "date": "2018-06-05", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4401, 
+    "name": "This...Is...Sparta! (Lincoln)", 
+    "players": [
+      {
+        "mov": 179, 
+        "name": "Elliot Campbell", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 130, 
+        "name": "Jim Blakley", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 436, 
+        "name": "Leighton Eash", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 433, 
+        "name": "Traynor Wolfe", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 416, 
+        "name": "Dustin Poskochil", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 458, 
+        "name": "Eli May", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 2, 
+        "sos": "0.72"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "dalanoberos", 
+              "ship": "m12lkimogilafighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "samd": [
+                  "r4b11"
+                ]
+              }
+            }, 
+            {
+              "name": "thweek", 
+              "ship": "starviper", 
+              "upgrades": {
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "starvipermkii", 
+                  "virago"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "protectoratestarfighter", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "concorddawnprotector"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 430, 
+        "name": "Alex Martin", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 2, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 361, 
+        "name": "Speedy", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "banditsquadronpilot", 
+              "ship": "z95headhunter"
+            }, 
+            {
+              "name": "talasquadronpilot", 
+              "ship": "z95headhunter"
+            }, 
+            {
+              "name": "goldsquadronpilot", 
+              "ship": "ywing", 
+              "upgrades": {
+                "amd": [
+                  "r2astromech"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "goldsquadronpilot", 
+              "ship": "ywing", 
+              "upgrades": {
+                "amd": [
+                  "r2astromech"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "goldsquadronpilot", 
+              "ship": "ywing", 
+              "upgrades": {
+                "amd": [
+                  "r2astromech"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 300, 
+        "name": "John Stanley", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 285, 
+        "name": "James Bitz", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 280, 
+        "name": "Quinn Coveney", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 2, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 275, 
+        "name": "Matt Lehecka", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 2, 
+        "sos": "0.33"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "puresabacc", 
+              "ship": "tiestriker", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "adaptiveailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "darthvader", 
+              "ship": "tieadvanced", 
+              "upgrades": {
+                "ept": [
+                  "predator"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "advtargetingcomputer"
+                ], 
+                "title": [
+                  "tiex1"
+                ]
+              }
+            }, 
+            {
+              "name": "theinquisitor", 
+              "ship": "tieadvprototype", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "missile": [
+                  "concussionmissiles"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "tiev1"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 235, 
+        "name": "Casey Beran", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 321, 
+        "name": "Ryan Heun", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 1, 
+        "sos": "0.39"
+      }, 
+      {
+        "mov": 303, 
+        "name": "Neil Gilsdorf", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "wedgeantilles", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "predator"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "norrawexley", 
+              "ship": "arc170", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "ezrabridger"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "title": [
+                  "allianceoverhaul"
+                ]
+              }
+            }, 
+            {
+              "name": "janors", 
+              "ship": "hwk290", 
+              "upgrades": {
+                "crew": [
+                  "maul"
+                ], 
+                "ept": [
+                  "adaptability"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 302, 
+        "name": "Lance Schendt", 
+        "rank": {
+          "swiss": 14
+        }, 
+        "score": 1, 
+        "sos": "0.67"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "kyloren", 
+              "ship": "tiesilencer", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "advancedsensors"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "firstordervanguard"
+                ]
+              }
+            }, 
+            {
+              "name": "countessryad", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "lonewolf"
+                ], 
+                "mod": [
+                  "stealthdevice"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }, 
+            {
+              "name": "academypilot", 
+              "ship": "tiefighter"
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 297, 
+        "name": "Patrick McDonald", 
+        "rank": {
+          "swiss": 15
+        }, 
+        "score": 1, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 271, 
+        "name": "Derek Pohlmann", 
+        "rank": {
+          "swiss": 16
+        }, 
+        "score": 1, 
+        "sos": "0.72"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "eadenvrill", 
+              "ship": "yt2400", 
+              "upgrades": {
+                "cannon": [
+                  "tractorbeam"
+                ], 
+                "crew": [
+                  "captainrex"
+                ], 
+                "illicit": [
+                  "feedbackarray"
+                ], 
+                "mod": [
+                  "smugglingcompartment"
+                ]
+              }
+            }, 
+            {
+              "name": "crimsonspecialist", 
+              "ship": "bsf17bomber", 
+              "upgrades": {
+                "bomb": [
+                  "ordnancesilos", 
+                  "thermaldetonators"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ]
+              }
+            }, 
+            {
+              "name": "prototypepilot", 
+              "ship": "awing", 
+              "upgrades": {
+                "missile": [
+                  "chardaanrefit"
+                ]
+              }
+            }, 
+            {
+              "name": "prototypepilot", 
+              "ship": "awing", 
+              "upgrades": {
+                "missile": [
+                  "chardaanrefit"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 264, 
+        "name": "Joel Guardiola", 
+        "rank": {
+          "swiss": 17
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 215, 
+        "name": "Luke Rief", 
+        "rank": {
+          "swiss": 18
+        }, 
+        "score": 1, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 199, 
+        "name": "Alan Tool", 
+        "rank": {
+          "swiss": 19
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 238, 
+        "name": "Kris Skov", 
+        "rank": {
+          "swiss": 20
+        }, 
+        "score": 0, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 222, 
+        "name": "Adam Krecklow", 
+        "rank": {
+          "swiss": 21
+        }, 
+        "score": 0, 
+        "sos": "0.56"
+      }
+    ], 
+    "round_length": 60, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Speedy", 
+            "player1points": 63, 
+            "player2": "Kris Skov", 
+            "player2points": 52, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lance Schendt", 
+            "player1points": 32, 
+            "player2": "Leighton Eash", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ryan Heun", 
+            "player1points": 70, 
+            "player2": "Jim Blakley", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alan Tool", 
+            "player1points": 67, 
+            "player2": "Traynor Wolfe", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Eli May", 
+            "player1points": 100, 
+            "player2": "Quinn Coveney", 
+            "player2points": 42, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Joel Guardiola", 
+            "player1points": 28, 
+            "player2": "Casey Beran", 
+            "player2points": 31, 
+            "result": "win"
+          }, 
+          {
+            "player1": "John Stanley", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }, 
+          {
+            "player1": "Dustin Poskochil", 
+            "player1points": 80, 
+            "player2": "James Bitz", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alex Martin", 
+            "player1points": 100, 
+            "player2": "Neil Gilsdorf", 
+            "player2points": 35, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Patrick McDonald", 
+            "player1points": 77, 
+            "player2": "Luke Rief", 
+            "player2points": 12, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Matt Lehecka", 
+            "player1points": 100, 
+            "player2": "Adam Krecklow", 
+            "player2points": 60, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Elliot Campbell", 
+            "player1points": 29, 
+            "player2": "Derek Pohlmann", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Leighton Eash", 
+            "player1points": 100, 
+            "player2": "Patrick McDonald", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Matt Lehecka", 
+            "player1points": 35, 
+            "player2": "Alex Martin", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "John Stanley", 
+            "player1points": 0, 
+            "player2": "Speedy", 
+            "player2points": 50, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Eli May", 
+            "player1points": 100, 
+            "player2": "Jim Blakley", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Casey Beran", 
+            "player1points": 32, 
+            "player2": "Dustin Poskochil", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Derek Pohlmann", 
+            "player1points": 0, 
+            "player2": "Traynor Wolfe", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Luke Rief", 
+            "player1points": 30, 
+            "player2": "Lance Schendt", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Joel Guardiola", 
+            "player1points": 0, 
+            "player2": "James Bitz", 
+            "player2points": 33, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alan Tool", 
+            "player1points": 32, 
+            "player2": "Neil Gilsdorf", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Kris Skov", 
+            "player1points": 12, 
+            "player2": "Ryan Heun", 
+            "player2points": 63, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Adam Krecklow", 
+            "player1points": 62, 
+            "player2": "Quinn Coveney", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Elliot Campbell", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Leighton Eash", 
+            "player1points": 0, 
+            "player2": "Speedy", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Eli May", 
+            "player1points": 0, 
+            "player2": "Traynor Wolfe", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Dustin Poskochil", 
+            "player1points": 0, 
+            "player2": "Alex Martin", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Matt Lehecka", 
+            "player1points": 0, 
+            "player2": "Ryan Heun", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Derek Pohlmann", 
+            "player1points": 0, 
+            "player2": "Quinn Coveney", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Patrick McDonald", 
+            "player1points": 0, 
+            "player2": "James Bitz", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lance Schendt", 
+            "player1points": 0, 
+            "player2": "Casey Beran", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "John Stanley", 
+            "player1points": 0, 
+            "player2": "Neil Gilsdorf", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Joel Guardiola", 
+            "player1points": 0, 
+            "player2": "Kris Skov", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alan Tool", 
+            "player1points": 0, 
+            "player2": "Adam Krecklow", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Luke Rief", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Other", 
+    "venue": {
+      "city": "Lincoln", 
+      "country": "United States of America", 
+      "lat": null, 
+      "lon": null, 
+      "name": "", 
+      "state": "Nebraska"
+    }, 
+    "video_url": "http://"
+  }
+}

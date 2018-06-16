@@ -1,0 +1,158 @@
+{
+  "tournament": {
+    "date": "2018-06-06", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4400, 
+    "name": "Gralnia - Draft #3", 
+    "players": [
+      {
+        "mov": 600, 
+        "name": "Roberto", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 354, 
+        "name": "Micha \"Enzeru\" Nowak", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 316, 
+        "name": "Chudy", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 273, 
+        "name": "Woszczu", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 147, 
+        "name": "Andrzej \"Endi\" Zajc", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 110, 
+        "name": "Janusz", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 0, 
+        "sos": "0.56"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Micha \"Enzeru\" Nowak", 
+            "player1points": 100, 
+            "player2": "Janusz", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Woszczu", 
+            "player1points": 0, 
+            "player2": "Roberto", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Andrzej \"Endi\" Zajc", 
+            "player1points": 0, 
+            "player2": "Chudy", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Micha \"Enzeru\" Nowak", 
+            "player1points": 0, 
+            "player2": "Roberto", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chudy", 
+            "player1points": 49, 
+            "player2": "Janusz", 
+            "player2points": 33, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Woszczu", 
+            "player1points": 33, 
+            "player2": "Andrzej \"Endi\" Zajc", 
+            "player2points": 34, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Chudy", 
+            "player1points": 0, 
+            "player2": "Roberto", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Andrzej \"Endi\" Zajc", 
+            "player1points": 46, 
+            "player2": "Micha \"Enzeru\" Nowak", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Woszczu", 
+            "player1points": 100, 
+            "player2": "Janusz", 
+            "player2points": 26, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Other", 
+    "venue": {
+      "city": "Lodz", 
+      "country": "Poland", 
+      "lat": "51.768749000000", 
+      "lon": "19.456981700000", 
+      "name": "Gralnia", 
+      "state": "Lodzkie"
+    }, 
+    "video_url": "http://"
+  }
+}

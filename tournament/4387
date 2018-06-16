@@ -1,0 +1,297 @@
+{
+  "tournament": {
+    "date": "2018-05-27", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4387, 
+    "name": "32 torneio de Porto Alegre", 
+    "players": [
+      {
+        "mov": 501, 
+        "name": "Juliano Vargas", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 3, 
+        "sos": "0.22"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "omicrongrouppilot", 
+              "ship": "lambdaclassshuttle", 
+              "upgrades": {
+                "crew": [
+                  "emperorpalpatine"
+                ], 
+                "system": [
+                  "targetingscrambler"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "theinquisitor", 
+              "ship": "tieadvprototype", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "missile": [
+                  "protonrockets"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "tiev1"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 386, 
+        "name": "Marcelo Trein", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 2, 
+        "sos": "0.33"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "asajjventress", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "lattsrazzi"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "illicit": [
+                  "blackmarketslicertools"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ]
+              }
+            }, 
+            {
+              "name": "ketsuonyo", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "k4securitydroid"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "illicit": [
+                  "blackmarketslicertools"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "title": [
+                  "shadowcaster"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 265, 
+        "name": "Jonatan Lemos", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 252, 
+        "name": "M3-Alessandro", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 1, 
+        "sos": "0.78"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "corranhorn", 
+              "ship": "ewing", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ]
+              }
+            }, 
+            {
+              "name": "rey", 
+              "ship": "yt1300", 
+              "upgrades": {
+                "crew": [
+                  "sawgerrera", 
+                  "finn"
+                ], 
+                "ept": [
+                  "trickshot"
+                ], 
+                "title": [
+                  "millenniumfalcon-swx57"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 246, 
+        "name": "Henrique", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Henrique", 
+            "player1points": 75, 
+            "player2": "Jonatan Lemos", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marcelo Trein", 
+            "player1points": 16, 
+            "player2": "M3-Alessandro", 
+            "player2points": 66, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Juliano Vargas", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "M3-Alessandro", 
+            "player1points": 47, 
+            "player2": "Jonatan Lemos", 
+            "player2points": 73, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Juliano Vargas", 
+            "player1points": 100, 
+            "player2": "Henrique", 
+            "player2points": 21, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marcelo Trein", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Marcelo Trein", 
+            "player1points": 100, 
+            "player2": "Jonatan Lemos", 
+            "player2points": 14, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Juliano Vargas", 
+            "player1points": 100, 
+            "player2": "M3-Alessandro", 
+            "player2points": 28, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Henrique", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "Porto Alegre", 
+      "country": "Brazil", 
+      "lat": "-30.028265700000", 
+      "lon": "-51.228426900000", 
+      "name": "Nerdz", 
+      "state": "Rio Grande do Sul"
+    }, 
+    "video_url": "http://"
+  }
+}

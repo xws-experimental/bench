@@ -1,0 +1,509 @@
+{
+  "tournament": {
+    "date": "2018-06-09", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4406, 
+    "name": "Compleat Strategist June Tournament", 
+    "players": [
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "rey", 
+              "ship": "yt1300", 
+              "upgrades": {
+                "crew": [
+                  "kananjarrus", 
+                  "finn"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "illicit": [
+                  "scavengercrane"
+                ], 
+                "mod": [
+                  "countermeasures", 
+                  "smugglingcompartment"
+                ], 
+                "title": [
+                  "millenniumfalcon-swx57"
+                ]
+              }
+            }, 
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "c3po", 
+                  "tactician"
+                ], 
+                "ept": [
+                  "expertise"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 607, 
+        "name": "Rolando Garcia", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 4, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "ascoretosettle"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "colonelvessery", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }, 
+            {
+              "name": "theinquisitor", 
+              "ship": "tieadvprototype", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "tiev1"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 616, 
+        "name": "Jorge Gonzalez", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 549, 
+        "name": "Bruno Roncada", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 518, 
+        "name": "Sam Page", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 3, 
+        "sos": "0.50"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "toranikulda", 
+              "ship": "m12lkimogilafighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "r5tk"
+                ]
+              }
+            }, 
+            {
+              "name": "captainjostero", 
+              "ship": "kihraxzfighter", 
+              "upgrades": {
+                "ept": [
+                  "deadeye"
+                ], 
+                "illicit": [
+                  "blackmarketslicertools"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "munitionsfailsafe", 
+                  "guidancechips"
+                ], 
+                "title": [
+                  "vaksai"
+                ]
+              }
+            }, 
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "thermaldetonators"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 462, 
+        "name": "Chris Daniel", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "contractedscout", 
+              "ship": "jumpmaster5000", 
+              "upgrades": {
+                "crew": [
+                  "dengar"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "illicit": [
+                  "riggedcargochute"
+                ], 
+                "mod": [
+                  "shieldupgrade"
+                ], 
+                "title": [
+                  "punishingone"
+                ]
+              }
+            }, 
+            {
+              "name": "asajjventress", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "k4securitydroid"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "illicit": [
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "countermeasures"
+                ], 
+                "title": [
+                  "shadowcaster"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 416, 
+        "name": "Doug Smith", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 2, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 295, 
+        "name": "Cal Neuvost", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 289, 
+        "name": "Joaquin Quintana", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 202, 
+        "name": "Brando Medina", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 46, 
+        "name": "John Caccioppoli", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 0, 
+        "sos": "0.50"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Jorge Gonzalez", 
+            "player1points": 100, 
+            "player2": "John Caccioppoli", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Cal Neuvost", 
+            "player1points": 64, 
+            "player2": "Joaquin Quintana", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chris Daniel", 
+            "player1points": 28, 
+            "player2": "Sam Page", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Doug Smith", 
+            "player1points": 63, 
+            "player2": "Rolando Garcia", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bruno Roncada", 
+            "player1points": 100, 
+            "player2": "Brando Medina", 
+            "player2points": 24, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Jorge Gonzalez", 
+            "player1points": 51, 
+            "player2": "Bruno Roncada", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Joaquin Quintana", 
+            "player1points": 28, 
+            "player2": "Sam Page", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Rolando Garcia", 
+            "player1points": 100, 
+            "player2": "Brando Medina", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "John Caccioppoli", 
+            "player1points": 0, 
+            "player2": "Chris Daniel", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Cal Neuvost", 
+            "player1points": 100, 
+            "player2": "Doug Smith", 
+            "player2points": 26, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Jorge Gonzalez", 
+            "player1points": 68, 
+            "player2": "Rolando Garcia", 
+            "player2points": 69, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sam Page", 
+            "player1points": 100, 
+            "player2": "Cal Neuvost", 
+            "player2points": 57, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Joaquin Quintana", 
+            "player1points": 76, 
+            "player2": "Bruno Roncada", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chris Daniel", 
+            "player1points": 100, 
+            "player2": "Brando Medina", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Doug Smith", 
+            "player1points": 100, 
+            "player2": "John Caccioppoli", 
+            "player2points": 24, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Sam Page", 
+            "player1points": 31, 
+            "player2": "Rolando Garcia", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chris Daniel", 
+            "player1points": 34, 
+            "player2": "Jorge Gonzalez", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bruno Roncada", 
+            "player1points": 100, 
+            "player2": "Cal Neuvost", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Doug Smith", 
+            "player1points": 100, 
+            "player2": "Joaquin Quintana", 
+            "player2points": 49, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Brando Medina", 
+            "player1points": 100, 
+            "player2": "John Caccioppoli", 
+            "player2points": 22, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Other", 
+    "venue": {
+      "city": "New York", 
+      "country": "United States of America", 
+      "lat": "27.960398900000", 
+      "lon": "-82.442503300000", 
+      "name": "The Compleat Strategist", 
+      "state": "New York"
+    }, 
+    "video_url": "http://"
+  }
+}

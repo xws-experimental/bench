@@ -1,0 +1,1020 @@
+{
+  "tournament": {
+    "date": "2018-05-26", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4379, 
+    "name": "GD X-Wing 2018 - Tournament 3", 
+    "players": [
+      {
+        "mov": 45, 
+        "name": "Zlatko Perez Luna", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 0, 
+        "sos": "0.42"
+      }, 
+      {
+        "mov": 781, 
+        "name": "Nicolas Bruce", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 1
+        }, 
+        "score": 5, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 693, 
+        "name": "Juan Carlos Ruiz", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 2
+        }, 
+        "score": 4, 
+        "sos": "0.64"
+      }, 
+      {
+        "mov": 685, 
+        "name": "Renato Flores", 
+        "rank": {
+          "elimination": 2, 
+          "swiss": 3
+        }, 
+        "score": 4, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 635, 
+        "name": "Arturo Aliaga", 
+        "rank": {
+          "elimination": 1, 
+          "swiss": 4
+        }, 
+        "score": 4, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 762, 
+        "name": "Alberto Ego-Aguirre", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 3, 
+        "sos": "0.48"
+      }, 
+      {
+        "mov": 691, 
+        "name": "Abel Soto", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 3, 
+        "sos": "0.37"
+      }, 
+      {
+        "mov": 617, 
+        "name": "Hugo Cisneros", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 3, 
+        "sos": "0.40"
+      }, 
+      {
+        "mov": 612, 
+        "name": "Jorge Bazan", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 3, 
+        "sos": "0.60"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "adaptability"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "darthvader", 
+              "ship": "tieadvanced", 
+              "upgrades": {
+                "ept": [
+                  "adaptability"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "system": [
+                  "advtargetingcomputer"
+                ], 
+                "title": [
+                  "tiex1"
+                ]
+              }
+            }, 
+            {
+              "name": "theinquisitor", 
+              "ship": "tieadvprototype", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "title": [
+                  "tiev1"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 581, 
+        "name": "Alonso Montes", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 563, 
+        "name": "Max Murillo", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 3, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 537, 
+        "name": "Carlos Garcia", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 478, 
+        "name": "Angelo Hitotsuishi", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 3, 
+        "sos": "0.72"
+      }, 
+      {
+        "mov": 474, 
+        "name": "Patricio Saco", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 3, 
+        "sos": "0.52"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "backdraft", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "epsilonace", 
+              "ship": "tiefofighter", 
+              "upgrades": {
+                "tech": [
+                  "advancedoptics"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 459, 
+        "name": "Jose Gomez", 
+        "rank": {
+          "swiss": 14
+        }, 
+        "score": 3, 
+        "sos": "0.60"
+      }, 
+      {
+        "mov": 384, 
+        "name": "Diego Rodriguez", 
+        "rank": {
+          "swiss": 15
+        }, 
+        "score": 3, 
+        "sos": "0.35"
+      }, 
+      {
+        "mov": 550, 
+        "name": "Pedro Pulgar", 
+        "rank": {
+          "swiss": 16
+        }, 
+        "score": 2, 
+        "sos": "0.41"
+      }, 
+      {
+        "mov": 512, 
+        "name": "Carlos Salazar", 
+        "rank": {
+          "swiss": 17
+        }, 
+        "score": 2, 
+        "sos": "0.51"
+      }, 
+      {
+        "mov": 483, 
+        "name": "Jan Bludau", 
+        "rank": {
+          "swiss": 18
+        }, 
+        "score": 2, 
+        "sos": "0.60"
+      }, 
+      {
+        "mov": 470, 
+        "name": "Gabriel Derteano", 
+        "rank": {
+          "swiss": 19
+        }, 
+        "score": 2, 
+        "sos": "0.32"
+      }, 
+      {
+        "mov": 421, 
+        "name": "Nicols Bazan", 
+        "rank": {
+          "swiss": 20
+        }, 
+        "score": 2, 
+        "sos": "0.45"
+      }, 
+      {
+        "mov": 413, 
+        "name": "Roberto Herrera", 
+        "rank": {
+          "swiss": 21
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "epsilonace", 
+              "ship": "tiefofighter", 
+              "upgrades": {
+                "mod": [
+                  "guidancechips"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "kyloren", 
+              "ship": "tiesilencer", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "advancedsensors"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "firstordervanguard"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 292, 
+        "name": "Guillermo Saona", 
+        "rank": {
+          "swiss": 22
+        }, 
+        "score": 2, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 372, 
+        "name": "Vincenzo Darrigo", 
+        "rank": {
+          "swiss": 23
+        }, 
+        "score": 1, 
+        "sos": "0.43"
+      }, 
+      {
+        "mov": 348, 
+        "name": "Eduardo Oscata", 
+        "rank": {
+          "swiss": 24
+        }, 
+        "score": 1, 
+        "sos": "0.40"
+      }, 
+      {
+        "mov": 328, 
+        "name": "Andrs Romero", 
+        "rank": {
+          "swiss": 25
+        }, 
+        "score": 1, 
+        "sos": "0.55"
+      }, 
+      {
+        "mov": 274, 
+        "name": "Yoshiaki Murakami", 
+        "rank": {
+          "swiss": 26
+        }, 
+        "score": 1, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 240, 
+        "name": "Jose Fernandez", 
+        "rank": {
+          "swiss": 27
+        }, 
+        "score": 1, 
+        "sos": "0.35"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Guillermo Saona", 
+            "player1points": 46, 
+            "player2": "Jorge Bazan", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Abel Soto", 
+            "player1points": 100, 
+            "player2": "Pedro Pulgar", 
+            "player2points": 22, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Max Murillo", 
+            "player1points": 37, 
+            "player2": "Carlos Salazar", 
+            "player2points": 15, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Roberto Herrera", 
+            "player1points": 100, 
+            "player2": "Zlatko Perez Luna", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jose Gomez", 
+            "player1points": 100, 
+            "player2": "Vincenzo Darrigo", 
+            "player2points": 60, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Juan Carlos Ruiz", 
+            "player1points": 69, 
+            "player2": "Carlos Garcia", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alberto Ego-Aguirre", 
+            "player1points": 100, 
+            "player2": "Yoshiaki Murakami", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Arturo Aliaga", 
+            "player1points": 100, 
+            "player2": "Alonso Montes", 
+            "player2points": 55, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jan Bludau", 
+            "player1points": 81, 
+            "player2": "Eduardo Oscata", 
+            "player2points": 33, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Patricio Saco", 
+            "player1points": 0, 
+            "player2": "Nicolas Bruce", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Hugo Cisneros", 
+            "player1points": 53, 
+            "player2": "Angelo Hitotsuishi", 
+            "player2points": 58, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nicols Bazan", 
+            "player1points": 33, 
+            "player2": "Gabriel Derteano", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Renato Flores", 
+            "player1points": 100, 
+            "player2": "Andrs Romero", 
+            "player2points": 78, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Arturo Aliaga", 
+            "player1points": 100, 
+            "player2": "Nicols Bazan", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nicolas Bruce", 
+            "player1points": 100, 
+            "player2": "Jan Bludau", 
+            "player2points": 57, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Abel Soto", 
+            "player1points": 62, 
+            "player2": "Jose Gomez", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jorge Bazan", 
+            "player1points": 39, 
+            "player2": "Renato Flores", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Carlos Garcia", 
+            "player1points": 47, 
+            "player2": "Angelo Hitotsuishi", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Max Murillo", 
+            "player1points": 71, 
+            "player2": "Roberto Herrera", 
+            "player2points": 29, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alberto Ego-Aguirre", 
+            "player1points": 100, 
+            "player2": "Eduardo Oscata", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pedro Pulgar", 
+            "player1points": 100, 
+            "player2": "Jose Fernandez", 
+            "player2points": 31, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Guillermo Saona", 
+            "player1points": 100, 
+            "player2": "Andrs Romero", 
+            "player2points": 64, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Yoshiaki Murakami", 
+            "player1points": 31, 
+            "player2": "Carlos Salazar", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Gabriel Derteano", 
+            "player1points": 0, 
+            "player2": "Patricio Saco", 
+            "player2points": 66, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Juan Carlos Ruiz", 
+            "player1points": 100, 
+            "player2": "Alonso Montes", 
+            "player2points": 52, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Vincenzo Darrigo", 
+            "player1points": 64, 
+            "player2": "Diego Rodriguez", 
+            "player2points": 70, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Hugo Cisneros", 
+            "player1points": 100, 
+            "player2": "Zlatko Perez Luna", 
+            "player2points": 22, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Arturo Aliaga", 
+            "player1points": 100, 
+            "player2": "Renato Flores", 
+            "player2points": 0, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "elimination"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Renato Flores", 
+            "player1points": 100, 
+            "player2": "Jose Gomez", 
+            "player2points": 17, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Angelo Hitotsuishi", 
+            "player1points": 67, 
+            "player2": "Alberto Ego-Aguirre", 
+            "player2points": 53, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nicolas Bruce", 
+            "player1points": 100, 
+            "player2": "Max Murillo", 
+            "player2points": 57, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Arturo Aliaga", 
+            "player1points": 0, 
+            "player2": "Jorge Bazan", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Juan Carlos Ruiz", 
+            "player1points": 100, 
+            "player2": "Hugo Cisneros", 
+            "player2points": 24, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Vincenzo Darrigo", 
+            "player1points": 68, 
+            "player2": "Carlos Salazar", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pedro Pulgar", 
+            "player1points": 29, 
+            "player2": "Roberto Herrera", 
+            "player2points": 62, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jan Bludau", 
+            "player1points": 100, 
+            "player2": "Patricio Saco", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Guillermo Saona", 
+            "player1points": 63, 
+            "player2": "Abel Soto", 
+            "player2points": 53, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Carlos Garcia", 
+            "player1points": 100, 
+            "player2": "Nicols Bazan", 
+            "player2points": 69, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Zlatko Perez Luna", 
+            "player1points": 23, 
+            "player2": "Jose Fernandez", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Gabriel Derteano", 
+            "player1points": 54, 
+            "player2": "Yoshiaki Murakami", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Andrs Romero", 
+            "player1points": 37, 
+            "player2": "Diego Rodriguez", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Eduardo Oscata", 
+            "player1points": 35, 
+            "player2": "Alonso Montes", 
+            "player2points": 74, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Nicolas Bruce", 
+            "player1points": 100, 
+            "player2": "Angelo Hitotsuishi", 
+            "player2points": 29, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Renato Flores", 
+            "player1points": 76, 
+            "player2": "Juan Carlos Ruiz", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jorge Bazan", 
+            "player1points": 100, 
+            "player2": "Jan Bludau", 
+            "player2points": 46, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jose Gomez", 
+            "player1points": 100, 
+            "player2": "Carlos Garcia", 
+            "player2points": 60, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alberto Ego-Aguirre", 
+            "player1points": 100, 
+            "player2": "Guillermo Saona", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Arturo Aliaga", 
+            "player1points": 100, 
+            "player2": "Carlos Salazar", 
+            "player2points": 33, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Diego Rodriguez", 
+            "player1points": 15, 
+            "player2": "Max Murillo", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Roberto Herrera", 
+            "player1points": 0, 
+            "player2": "Alonso Montes", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jose Fernandez", 
+            "player1points": 0, 
+            "player2": "Abel Soto", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Hugo Cisneros", 
+            "player1points": 100, 
+            "player2": "Yoshiaki Murakami", 
+            "player2points": 58, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Patricio Saco", 
+            "player1points": 31, 
+            "player2": "Pedro Pulgar", 
+            "player2points": 23, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nicols Bazan", 
+            "player1points": 51, 
+            "player2": "Andrs Romero", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Gabriel Derteano", 
+            "player1points": 100, 
+            "player2": "Vincenzo Darrigo", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Eduardo Oscata", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Nicolas Bruce", 
+            "player1points": 55, 
+            "player2": "Arturo Aliaga", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Juan Carlos Ruiz", 
+            "player1points": 39, 
+            "player2": "Renato Flores", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "elimination"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Nicolas Bruce", 
+            "player1points": 100, 
+            "player2": "Alberto Ego-Aguirre", 
+            "player2points": 76, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Renato Flores", 
+            "player1points": 100, 
+            "player2": "Max Murillo", 
+            "player2points": 57, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Juan Carlos Ruiz", 
+            "player1points": 100, 
+            "player2": "Jose Gomez", 
+            "player2points": 24, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Angelo Hitotsuishi", 
+            "player1points": 55, 
+            "player2": "Arturo Aliaga", 
+            "player2points": 78, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jorge Bazan", 
+            "player1points": 65, 
+            "player2": "Alonso Montes", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jan Bludau", 
+            "player1points": 32, 
+            "player2": "Carlos Garcia", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Hugo Cisneros", 
+            "player1points": 100, 
+            "player2": "Roberto Herrera", 
+            "player2points": 22, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Patricio Saco", 
+            "player1points": 100, 
+            "player2": "Guillermo Saona", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Diego Rodriguez", 
+            "player1points": 63, 
+            "player2": "Carlos Salazar", 
+            "player2points": 63, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Abel Soto", 
+            "player1points": 100, 
+            "player2": "Yoshiaki Murakami", 
+            "player2points": 39, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Andrs Romero", 
+            "player1points": 0, 
+            "player2": "Pedro Pulgar", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nicols Bazan", 
+            "player1points": 100, 
+            "player2": "Jose Fernandez", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Eduardo Oscata", 
+            "player1points": 33, 
+            "player2": "Gabriel Derteano", 
+            "player2points": 48, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Vincenzo Darrigo", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 5, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "Lima", 
+      "country": "Peru", 
+      "lat": "-12.062106400000", 
+      "lon": "-77.036525500000", 
+      "name": "GD Games", 
+      "state": "Lima"
+    }, 
+    "video_url": "http://"
+  }
+}
