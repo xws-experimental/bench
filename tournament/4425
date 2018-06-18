@@ -7,6 +7,121 @@
     "players": [
       {
         "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "countessryad", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "lonewolf"
+                ], 
+                "mod": [
+                  "stealthdevice"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }, 
+            {
+              "name": "theinquisitor", 
+              "ship": "tieadvprototype", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "tiev1"
+                ]
+              }
+            }, 
+            {
+              "name": "captainyorr", 
+              "ship": "lambdaclassshuttle", 
+              "upgrades": {
+                "crew": [
+                  "emperorpalpatine"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 642, 
+        "name": "Liam Earley", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 4, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "thweek", 
+              "ship": "starviper", 
+              "upgrades": {
+                "illicit": [
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "starvipermkii", 
+                  "virago"
+                ], 
+                "torpedo": [
+                  "advprotontorpedoes"
+                ]
+              }
+            }, 
+            {
+              "name": "dengar", 
+              "ship": "jumpmaster5000", 
+              "upgrades": {
+                "crew": [
+                  "k4securitydroid"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "title": [
+                  "punishingone"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 579, 
+        "name": "Barry Earley", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.58"
+      }, 
+      {
+        "list": {
           "faction": "scum", 
           "pilots": [
             {
@@ -78,177 +193,43 @@
           }, 
           "version": "4.2.0"
         }, 
-        "mov": 0, 
+        "mov": 560, 
         "name": "Aaron Walkom", 
-        "rank": {
-          "swiss": 1
-        }, 
-        "score": 0, 
-        "sos": "0.00"
-      }, 
-      {
-        "list": {
-          "faction": "scum", 
-          "pilots": [
-            {
-              "name": "contractedscout", 
-              "ship": "jumpmaster5000", 
-              "upgrades": {
-                "crew": [
-                  "intelligenceagent"
-                ], 
-                "ept": [
-                  "adaptability"
-                ], 
-                "illicit": [
-                  "feedbackarray"
-                ]
-              }
-            }, 
-            {
-              "name": "syndicatethug", 
-              "ship": "ywing", 
-              "upgrades": {
-                "turret": [
-                  "twinlaserturret"
-                ]
-              }
-            }, 
-            {
-              "name": "syndicatethug", 
-              "ship": "ywing", 
-              "upgrades": {
-                "turret": [
-                  "twinlaserturret"
-                ]
-              }
-            }, 
-            {
-              "name": "syndicatethug", 
-              "ship": "ywing", 
-              "upgrades": {
-                "turret": [
-                  "twinlaserturret"
-                ]
-              }
-            }
-          ], 
-          "vendor": {
-            "listjuggler": {}
-          }, 
-          "version": "4.2.0"
-        }, 
-        "mov": 0, 
-        "name": "Isaac Walkom", 
-        "rank": {
-          "swiss": 2
-        }, 
-        "score": 0, 
-        "sos": "0.00"
-      }, 
-      {
-        "list": {
-          "faction": "rebel", 
-          "pilots": [
-            {
-              "name": "poedameron-swx57", 
-              "ship": "t70xwing", 
-              "upgrades": {
-                "amd": [
-                  "bb8"
-                ], 
-                "ept": [
-                  "intensity"
-                ], 
-                "mod": [
-                  "autothrusters"
-                ], 
-                "tech": [
-                  "primedthrusters"
-                ], 
-                "title": [
-                  "blackone"
-                ]
-              }
-            }, 
-            {
-              "name": "dashrendar", 
-              "ship": "yt2400", 
-              "upgrades": {
-                "cannon": [
-                  "heavylasercannon"
-                ], 
-                "crew": [
-                  "rey"
-                ], 
-                "ept": [
-                  "lonewolf"
-                ], 
-                "mod": [
-                  "engineupgrade"
-                ], 
-                "title": [
-                  "outrider"
-                ]
-              }
-            }
-          ], 
-          "vendor": {
-            "listjuggler": {}
-          }, 
-          "version": "4.2.0"
-        }, 
-        "mov": 0, 
-        "name": "Adam Gray", 
         "rank": {
           "swiss": 3
         }, 
-        "score": 0, 
-        "sos": "0.00"
+        "score": 3, 
+        "sos": "0.52"
       }, 
       {
         "list": {
-          "faction": "rebel", 
+          "faction": "imperial", 
           "pilots": [
             {
-              "name": "hortonsalm", 
-              "ship": "ywing", 
+              "name": "whisper", 
+              "ship": "tiephantom", 
               "upgrades": {
-                "amd": [
-                  "r2astromech"
-                ], 
-                "bomb": [
-                  "proximitymines"
+                "crew": [
+                  "agentkallus"
                 ], 
                 "mod": [
-                  "vectoredthrusters"
+                  "advancedcloakingdevice"
                 ], 
-                "torpedo": [
-                  "bombloadout", 
-                  "extramunitions"
-                ], 
-                "turret": [
-                  "twinlaserturret"
+                "system": [
+                  "firecontrolsystem"
                 ]
               }
             }, 
             {
-              "name": "rey", 
-              "ship": "yt1300", 
+              "name": "rearadmiralchiraneau", 
+              "ship": "vt49decimator", 
               "upgrades": {
                 "crew": [
-                  "finn", 
-                  "kananjarrus"
+                  "emperorpalpatine", 
+                  "kyloren"
                 ], 
                 "ept": [
-                  "expertise"
-                ], 
-                "mod": [
-                  "smugglingcompartment", 
-                  "countermeasures"
-                ], 
-                "title": [
-                  "millenniumfalcon-swx57"
+                  "veteraninstincts"
                 ]
               }
             }
@@ -258,13 +239,13 @@
           }, 
           "version": "4.2.0"
         }, 
-        "mov": 0, 
-        "name": "Greg Farrell", 
+        "mov": 557, 
+        "name": "Alex Sandoval", 
         "rank": {
           "swiss": 4
         }, 
-        "score": 0, 
-        "sos": "0.00"
+        "score": 3, 
+        "sos": "0.38"
       }, 
       {
         "list": {
@@ -321,54 +302,64 @@
           }, 
           "version": "4.2.0"
         }, 
-        "mov": 0, 
+        "mov": 409, 
         "name": "Andrew Symons", 
         "rank": {
           "swiss": 5
         }, 
-        "score": 0, 
-        "sos": "0.00"
+        "score": 2, 
+        "sos": "0.50"
       }, 
       {
         "list": {
-          "faction": "imperial", 
+          "faction": "scum", 
           "pilots": [
             {
-              "name": "countessryad", 
-              "ship": "tiedefender", 
+              "name": "sunnybounder", 
+              "ship": "m3ainterceptor", 
               "upgrades": {
-                "ept": [
-                  "lonewolf"
-                ], 
-                "mod": [
-                  "stealthdevice"
-                ], 
-                "title": [
-                  "tiex7"
+                "cannon": [
+                  "linkedbattery"
                 ]
               }
             }, 
             {
-              "name": "theinquisitor", 
-              "ship": "tieadvprototype", 
+              "name": "inaldra", 
+              "ship": "m3ainterceptor", 
               "upgrades": {
-                "ept": [
-                  "pushthelimit"
+                "cannon": [
+                  "ioncannon"
                 ], 
+                "ept": [
+                  "attannimindlink"
+                ]
+              }
+            }, 
+            {
+              "name": "thweek", 
+              "ship": "starviper", 
+              "upgrades": {
                 "mod": [
                   "autothrusters"
                 ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
                 "title": [
-                  "tiev1"
+                  "virago", 
+                  "starvipermkii"
                 ]
               }
             }, 
             {
-              "name": "captainyorr", 
-              "ship": "lambdaclassshuttle", 
+              "name": "fennrau", 
+              "ship": "protectoratestarfighter", 
               "upgrades": {
-                "crew": [
-                  "emperorpalpatine"
+                "ept": [
+                  "attannimindlink"
+                ], 
+                "mod": [
+                  "autothrusters"
                 ]
               }
             }
@@ -378,46 +369,39 @@
           }, 
           "version": "4.2.0"
         }, 
-        "mov": 0, 
-        "name": "Liam Earley", 
+        "mov": 391, 
+        "name": "Josh Corcoran", 
         "rank": {
           "swiss": 6
         }, 
-        "score": 0, 
-        "sos": "0.00"
+        "score": 2, 
+        "sos": "0.63"
       }, 
       {
         "list": {
-          "faction": "scum", 
+          "faction": "rebel", 
           "pilots": [
             {
-              "name": "thweek", 
-              "ship": "starviper", 
+              "name": "corranhorn", 
+              "ship": "ewing", 
               "upgrades": {
-                "illicit": [
-                  "glitterstim"
+                "amd": [
+                  "r2d2"
                 ], 
-                "mod": [
-                  "autothrusters"
+                "ept": [
+                  "pushthelimit"
                 ], 
                 "system": [
                   "firecontrolsystem"
-                ], 
-                "title": [
-                  "starvipermkii", 
-                  "virago"
-                ], 
-                "torpedo": [
-                  "advprotontorpedoes"
                 ]
               }
             }, 
             {
-              "name": "dengar", 
-              "ship": "jumpmaster5000", 
+              "name": "dashrendar", 
+              "ship": "yt2400", 
               "upgrades": {
-                "crew": [
-                  "k4securitydroid"
+                "cannon": [
+                  "heavylasercannon"
                 ], 
                 "ept": [
                   "expertise"
@@ -426,7 +410,7 @@
                   "engineupgrade"
                 ], 
                 "title": [
-                  "punishingone"
+                  "outrider"
                 ]
               }
             }
@@ -436,43 +420,56 @@
           }, 
           "version": "4.2.0"
         }, 
-        "mov": 0, 
-        "name": "Barry Earley", 
+        "mov": 372, 
+        "name": "William Woods", 
         "rank": {
           "swiss": 7
         }, 
-        "score": 0, 
-        "sos": "0.00"
+        "score": 2, 
+        "sos": "0.52"
       }, 
       {
         "list": {
-          "faction": "imperial", 
+          "faction": "rebel", 
           "pilots": [
             {
-              "name": "whisper", 
-              "ship": "tiephantom", 
+              "name": "jakefarrell", 
+              "ship": "awing", 
               "upgrades": {
-                "crew": [
-                  "agentkallus"
+                "ept": [
+                  "pushthelimit", 
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
                 ], 
                 "mod": [
-                  "advancedcloakingdevice"
+                  "autothrusters"
                 ], 
-                "system": [
-                  "firecontrolsystem"
+                "title": [
+                  "awingtestpilot"
                 ]
               }
             }, 
             {
-              "name": "rearadmiralchiraneau", 
-              "ship": "vt49decimator", 
+              "name": "rey", 
+              "ship": "yt1300", 
               "upgrades": {
                 "crew": [
-                  "emperorpalpatine", 
-                  "kyloren"
+                  "finn", 
+                  "kananjarrus"
                 ], 
                 "ept": [
-                  "veteraninstincts"
+                  "expertise"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "title": [
+                  "millenniumfalcon-swx57"
                 ]
               }
             }
@@ -482,48 +479,57 @@
           }, 
           "version": "4.2.0"
         }, 
-        "mov": 0, 
-        "name": "Alex Sandoval", 
+        "mov": 367, 
+        "name": "Nate Sobejko", 
         "rank": {
           "swiss": 8
         }, 
-        "score": 0, 
-        "sos": "0.00"
+        "score": 2, 
+        "sos": "0.44"
       }, 
       {
         "list": {
-          "faction": "imperial", 
+          "faction": "rebel", 
           "pilots": [
             {
-              "name": "theinquisitor", 
-              "ship": "tieadvprototype", 
+              "name": "hortonsalm", 
+              "ship": "ywing", 
               "upgrades": {
-                "title": [
-                  "tiev1"
+                "amd": [
+                  "r2astromech"
+                ], 
+                "bomb": [
+                  "proximitymines"
+                ], 
+                "mod": [
+                  "vectoredthrusters"
+                ], 
+                "torpedo": [
+                  "bombloadout", 
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
                 ]
               }
             }, 
             {
-              "name": "glaivesquadronpilot", 
-              "ship": "tiedefender", 
+              "name": "rey", 
+              "ship": "yt1300", 
               "upgrades": {
-                "cannon": [
-                  "ioncannon"
+                "crew": [
+                  "finn", 
+                  "kananjarrus"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "smugglingcompartment", 
+                  "countermeasures"
                 ], 
                 "title": [
-                  "tied"
-                ]
-              }
-            }, 
-            {
-              "name": "countessryad", 
-              "ship": "tiedefender", 
-              "upgrades": {
-                "cannon": [
-                  "ioncannon"
-                ], 
-                "title": [
-                  "tied"
+                  "millenniumfalcon-swx57"
                 ]
               }
             }
@@ -533,85 +539,13 @@
           }, 
           "version": "4.2.0"
         }, 
-        "mov": 0, 
-        "name": "Colin Caesar", 
+        "mov": 308, 
+        "name": "Greg Farrell", 
         "rank": {
           "swiss": 9
         }, 
-        "score": 0, 
-        "sos": "0.00"
-      }, 
-      {
-        "list": {
-          "faction": "imperial", 
-          "pilots": [
-            {
-              "name": "quickdraw", 
-              "ship": "tiesffighter", 
-              "upgrades": {
-                "ept": [
-                  "veteraninstincts"
-                ], 
-                "mod": [
-                  "lightweightframe"
-                ], 
-                "system": [
-                  "firecontrolsystem"
-                ], 
-                "title": [
-                  "specialopstraining"
-                ]
-              }
-            }, 
-            {
-              "name": "nusquadronpilot", 
-              "ship": "alphaclassstarwing", 
-              "upgrades": {
-                "missile": [
-                  "harpoonmissiles"
-                ], 
-                "mod": [
-                  "longrangescanners"
-                ]
-              }
-            }, 
-            {
-              "name": "nusquadronpilot", 
-              "ship": "alphaclassstarwing", 
-              "upgrades": {
-                "missile": [
-                  "harpoonmissiles"
-                ], 
-                "mod": [
-                  "longrangescanners"
-                ]
-              }
-            }, 
-            {
-              "name": "nusquadronpilot", 
-              "ship": "alphaclassstarwing", 
-              "upgrades": {
-                "missile": [
-                  "harpoonmissiles"
-                ], 
-                "mod": [
-                  "longrangescanners"
-                ]
-              }
-            }
-          ], 
-          "vendor": {
-            "listjuggler": {}
-          }, 
-          "version": "4.2.0"
-        }, 
-        "mov": 0, 
-        "name": "Matthew McConnell", 
-        "rank": {
-          "swiss": 10
-        }, 
-        "score": 0, 
-        "sos": "0.00"
+        "score": 2, 
+        "sos": "0.42"
       }, 
       {
         "list": {
@@ -685,64 +619,48 @@
           }, 
           "version": "4.2.0"
         }, 
-        "mov": 0, 
+        "mov": 282, 
         "name": "Gregg Johnson", 
         "rank": {
-          "swiss": 11
+          "swiss": 10
         }, 
-        "score": 0, 
-        "sos": "0.00"
+        "score": 1, 
+        "sos": "0.44"
       }, 
       {
         "list": {
-          "faction": "scum", 
+          "faction": "imperial", 
           "pilots": [
             {
-              "name": "sunnybounder", 
-              "ship": "m3ainterceptor", 
+              "name": "theinquisitor", 
+              "ship": "tieadvprototype", 
               "upgrades": {
-                "cannon": [
-                  "linkedbattery"
+                "title": [
+                  "tiev1"
                 ]
               }
             }, 
             {
-              "name": "inaldra", 
-              "ship": "m3ainterceptor", 
+              "name": "glaivesquadronpilot", 
+              "ship": "tiedefender", 
               "upgrades": {
                 "cannon": [
                   "ioncannon"
                 ], 
-                "ept": [
-                  "attannimindlink"
+                "title": [
+                  "tied"
                 ]
               }
             }, 
             {
-              "name": "thweek", 
-              "ship": "starviper", 
+              "name": "countessryad", 
+              "ship": "tiedefender", 
               "upgrades": {
-                "mod": [
-                  "autothrusters"
-                ], 
-                "system": [
-                  "firecontrolsystem"
+                "cannon": [
+                  "ioncannon"
                 ], 
                 "title": [
-                  "virago", 
-                  "starvipermkii"
-                ]
-              }
-            }, 
-            {
-              "name": "fennrau", 
-              "ship": "protectoratestarfighter", 
-              "upgrades": {
-                "ept": [
-                  "attannimindlink"
-                ], 
-                "mod": [
-                  "autothrusters"
+                  "tied"
                 ]
               }
             }
@@ -752,89 +670,36 @@
           }, 
           "version": "4.2.0"
         }, 
-        "mov": 0, 
-        "name": "Josh Corcoran", 
+        "mov": 268, 
+        "name": "Colin Caesar", 
         "rank": {
-          "swiss": 12
+          "swiss": 11
         }, 
-        "score": 0, 
-        "sos": "0.00"
+        "score": 1, 
+        "sos": "0.63"
       }, 
       {
         "list": {
           "faction": "rebel", 
           "pilots": [
             {
-              "name": "jakefarrell", 
-              "ship": "awing", 
-              "upgrades": {
-                "ept": [
-                  "pushthelimit", 
-                  "veteraninstincts"
-                ], 
-                "missile": [
-                  "harpoonmissiles"
-                ], 
-                "mod": [
-                  "autothrusters"
-                ], 
-                "title": [
-                  "awingtestpilot"
-                ]
-              }
-            }, 
-            {
-              "name": "rey", 
-              "ship": "yt1300", 
-              "upgrades": {
-                "crew": [
-                  "finn", 
-                  "kananjarrus"
-                ], 
-                "ept": [
-                  "expertise"
-                ], 
-                "missile": [
-                  "harpoonmissiles"
-                ], 
-                "mod": [
-                  "engineupgrade"
-                ], 
-                "title": [
-                  "millenniumfalcon-swx57"
-                ]
-              }
-            }
-          ], 
-          "vendor": {
-            "listjuggler": {}
-          }, 
-          "version": "4.2.0"
-        }, 
-        "mov": 0, 
-        "name": "Nate Sobejko", 
-        "rank": {
-          "swiss": 13
-        }, 
-        "score": 0, 
-        "sos": "0.00"
-      }, 
-      {
-        "list": {
-          "faction": "rebel", 
-          "pilots": [
-            {
-              "name": "corranhorn", 
-              "ship": "ewing", 
+              "name": "poedameron-swx57", 
+              "ship": "t70xwing", 
               "upgrades": {
                 "amd": [
-                  "r2d2"
+                  "bb8"
                 ], 
                 "ept": [
-                  "pushthelimit"
+                  "intensity"
                 ], 
-                "system": [
-                  "firecontrolsystem"
+                "mod": [
+                  "autothrusters"
+                ], 
+                "tech": [
+                  "primedthrusters"
+                ], 
+                "title": [
+                  "blackone"
                 ]
               }
             }, 
@@ -845,8 +710,11 @@
                 "cannon": [
                   "heavylasercannon"
                 ], 
+                "crew": [
+                  "rey"
+                ], 
                 "ept": [
-                  "expertise"
+                  "lonewolf"
                 ], 
                 "mod": [
                   "engineupgrade"
@@ -862,13 +730,145 @@
           }, 
           "version": "4.2.0"
         }, 
-        "mov": 0, 
-        "name": "Player 14", 
+        "mov": 193, 
+        "name": "Adam Gray", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 1, 
+        "sos": "0.42"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "nusquadronpilot", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ]
+              }
+            }, 
+            {
+              "name": "nusquadronpilot", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ]
+              }
+            }, 
+            {
+              "name": "nusquadronpilot", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 188, 
+        "name": "Matthew McConnell", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 1, 
+        "sos": "0.75"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "contractedscout", 
+              "ship": "jumpmaster5000", 
+              "upgrades": {
+                "crew": [
+                  "intelligenceagent"
+                ], 
+                "ept": [
+                  "adaptability"
+                ], 
+                "illicit": [
+                  "feedbackarray"
+                ]
+              }
+            }, 
+            {
+              "name": "syndicatethug", 
+              "ship": "ywing", 
+              "upgrades": {
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "syndicatethug", 
+              "ship": "ywing", 
+              "upgrades": {
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "syndicatethug", 
+              "ship": "ywing", 
+              "upgrades": {
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 234, 
+        "name": "Isaac Walkom", 
         "rank": {
           "swiss": 14
         }, 
         "score": 0, 
-        "sos": "0.00"
+        "sos": "0.40"
       }
     ], 
     "round_length": 75, 
