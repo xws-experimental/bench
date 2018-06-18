@@ -797,8 +797,13 @@ Unit.prototype = {
 	addupgradeaddhandler(this);
     },
     getagility: function() {
-	if (phase==COMBAT_PHASE) return this.agility-this.tractorbeam;
-	return this.agility;
+        // Minimum possible agility value is 0
+        var val = this.agility
+	if (phase==COMBAT_PHASE){
+            val = this.agility-this.tractorbeam;
+            val = (val>=0)?val:0;
+        }
+	return val;
     },
     getskill: function() {
 	return this.skill;
