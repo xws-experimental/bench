@@ -2823,38 +2823,41 @@ window.PILOTS = [
             skill: 8,
             upgrades: [Unit.TURRET,Unit.TORPEDO,Unit.TORPEDO,Unit.MISSILE,Unit.CREW,Unit.BOMB,Unit.BOMB],
 	    mirandaturn:-1,
-	    preattackroll: function(w,t) {
-		if (this.mirandaturn!=round) {
-		    var a1={org:this,name:this.name,type:"SHIELD",action:function(n) {
-			this.mirandaturn=round;
-			this.log("-1 attack die");
-			this.wrap_after("getattackstrength",this,function(i,sh,a){
-			    var ra= this.weapons[i].getrangeattackbonus(sh);
-			    if (a-ra>0) a=a-1;			    
-			    return a;
-			}).unwrapper("attackroll");
-			if (this.shield<this.ship.shield) {
-			    this.addshield(1); 
-			    this.log("+1 %SHIELD%");
-			}
-			this.endnoaction(n,"SHIELD");
-		    }.bind(this)};
-		    var a2={org:this,name:this.name,type:"HIT",action:function(n) {
-			this.log("-1 %SHIELD%");
-			this.log("+1 attack die");
-			this.mirandaturn=round;
-			this.wrap_after("getattackstrength",this,function(i,sh,a){
-			    return 1+a;
-			}).unwrapper("attackroll");
-			this.removeshield(1); 
-			this.endnoaction(n,"HIT");
-		    }.bind(this)};
-		    var list=[];
-		    if (this.shield>0) list.push(a2);
-		    if (this.shield<this.ship.shield) list.push(a1);
-		    this.donoaction(list,"select to add shield/roll 1 fewer die or remove shield/roll 1 additional die",true);
-		}
-	    },
+            init: function(){
+                this.mirandaturn=-1;
+                this.preattackroll=function(w,t) {
+                    if (this.mirandaturn!=round) {
+                        var a1={org:this,name:this.name,type:"SHIELD",action:function(n) {
+                            this.mirandaturn=round;
+                            this.log("-1 attack die");
+                            this.wrap_after("getattackstrength",this,function(i,sh,a){
+                                var ra= this.weapons[i].getrangeattackbonus(sh);
+                                if (a-ra>0) a=a-1;			    
+                                return a;
+                            }).unwrapper("attackroll");
+                            if (this.shield<this.ship.shield) {
+                                this.addshield(1); 
+                                this.log("+1 %SHIELD%");
+                            }
+                            this.endnoaction(n,"SHIELD");
+                        }.bind(this)};
+                        var a2={org:this,name:this.name,type:"HIT",action:function(n) {
+                            this.log("-1 %SHIELD%");
+                            this.log("+1 attack die");
+                            this.mirandaturn=round;
+                            this.wrap_after("getattackstrength",this,function(i,sh,a){
+                                return 1+a;
+                            }).unwrapper("attackroll");
+                            this.removeshield(1); 
+                            this.endnoaction(n,"HIT");
+                        }.bind(this)};
+                        var list=[];
+                        if (this.shield>0) list.push(a2);
+                        if (this.shield<this.ship.shield) list.push(a1);
+                        this.donoaction(list,"select to add shield/roll 1 fewer die or remove shield/roll 1 additional die",true);
+                    }
+                }
+            },
             points: 29,
         },
         {

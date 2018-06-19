@@ -1016,7 +1016,11 @@ function createsquad(f,teamlist) {
                         installed=true; 
                         impUpgList.shift(); break; }
                 }
-                if(installed){installed=false; continue;} // If we found a slot, great!  Move on.
+                if(installed){
+                    u.points += upg.points;
+                    installed=false; 
+                    continue; // If we found a slot, great!  Move on.
+                } 
                 else{ // Not enough of required type of slots.
                     var idx=u.upgradetype.length; // Find last index of upgradetype array
                     u.upgradetype.push(upg.type); // Add a new entry of the type we want to install
@@ -1234,6 +1238,33 @@ function bombsHandled(actionsLength){
         return true;
     }
 }
+
+function globalErrorHandler(errorMsg, url, lineNumber, column, errorObj){
+    // We need a cleaner re-entry into the action execution loop than just
+    // forcing the user to enter the next phase when an exception happens.
+    var alertMsg = "";
+    var choice;
+    
+    if (errorMsg.indexOf('Script error.') > -1){
+        alertMsg = "Browser does not support detailed exception info.";
+        console.log("Indeterminate exception caught: " + errorMsg);
+        console.log("Line number: " + lineNumber);
+    }
+    else{
+        alertMsg = errorObj.name + ": " + errorObj.message;
+        alertMsg += "\nLine: " + lineNumber + "; Col: " + column;
+        console.log(alertMsg);
+        console.log(errorObj);
+    }
+    console.log("Please report this bug via https://github.com/baranidlo/bench/issues");
+    alertMsg += "\nPress \"OK\" to begin next action or \"cancel\" to stop execution.";
+    choice = confirm(alertMsg);
+    
+    if(choice){
+        
+    }
+}
+
 function nextphase() {
     var i;
     //$("#savebtn").hide();
@@ -1361,6 +1392,9 @@ function setphase(cannotreplay) {
     case SETUP_PHASE:
 	$(".imagebg").show();
 	$("#addcomment").show();
+        // Register error handler for window; this should allow for more
+        // nuanced exception handling while playing.
+        window.onerror = globalErrorHandler;
 
 	var t=["bomb","weapon","upgrade","social","condition","squad-display"];
 	for (var i=0;i<t.length; i++) {
