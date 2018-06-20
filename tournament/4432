@@ -1,0 +1,375 @@
+{
+  "tournament": {
+    "date": "2018-06-19", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4432, 
+    "name": "Nyar Asza 1/6", 
+    "players": [
+      {
+        "mov": 181, 
+        "name": "Rafi", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "fennrau", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "crew": [
+                  "hotshotcopilot"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ]
+              }
+            }, 
+            {
+              "name": "lothalrebel", 
+              "ship": "vcx100", 
+              "upgrades": {
+                "crew": [
+                  "maul", 
+                  "ezrabridger"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "sensorjammer"
+                ], 
+                "title": [
+                  "ghost"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "zeborrelios", 
+              "ship": "attackshuttle", 
+              "upgrades": {
+                "title": [
+                  "phantom"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 494, 
+        "name": "Runty", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 392, 
+        "name": "Istvn", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 2, 
+        "sos": "0.72"
+      }, 
+      {
+        "mov": 342, 
+        "name": "Zoltn", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 270, 
+        "name": "Vrs ts", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "testpilotblackout", 
+              "ship": "tiesilencer", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "system": [
+                  "advancedsensors"
+                ], 
+                "tech": [
+                  "primedthrusters"
+                ], 
+                "title": [
+                  "firstordervanguard"
+                ]
+              }
+            }, 
+            {
+              "name": "zetaspecialist", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "accuracycorrector"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "zetaspecialist", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "accuracycorrector"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 251, 
+        "name": "Marci", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 1, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 216, 
+        "name": "Kristf", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 1, 
+        "sos": "0.67"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "backdraft", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "sensorcluster"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "omicrongrouppilot", 
+              "ship": "lambdaclassshuttle", 
+              "upgrades": {
+                "crew": [
+                  "emperorpalpatine"
+                ], 
+                "system": [
+                  "collisiondetector"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 204, 
+        "name": "Dani", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 1, 
+        "sos": "0.67"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Zoltn", 
+            "player1points": 17, 
+            "player2": "Istvn", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Rafi", 
+            "player1points": 100, 
+            "player2": "Vrs ts", 
+            "player2points": 36, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marci", 
+            "player1points": 49, 
+            "player2": "Dani", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Runty", 
+            "player1points": 100, 
+            "player2": "Kristf", 
+            "player2points": 27, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Runty", 
+            "player1points": 100, 
+            "player2": "Dani", 
+            "player2points": 53, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Istvn", 
+            "player1points": 100, 
+            "player2": "Rafi", 
+            "player2points": 17, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marci", 
+            "player1points": 100, 
+            "player2": "Kristf", 
+            "player2points": 39, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Zoltn", 
+            "player1points": 100, 
+            "player2": "Vrs ts", 
+            "player2points": 75, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Runty", 
+            "player1points": 100, 
+            "player2": "Istvn", 
+            "player2points": 26, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Dani", 
+            "player1points": 0, 
+            "player2": "Zoltn", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marci", 
+            "player1points": 41, 
+            "player2": "Vrs ts", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Kristf", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Other", 
+    "venue": {
+      "city": "Budapest", 
+      "country": "Hungary", 
+      "lat": "47.498381500000", 
+      "lon": "19.040470700000", 
+      "name": "Vault51", 
+      "state": "Budapest"
+    }, 
+    "video_url": "http://"
+  }
+}

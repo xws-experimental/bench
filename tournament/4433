@@ -1,0 +1,470 @@
+{
+  "tournament": {
+    "date": "2018-06-17", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4433, 
+    "name": "Imaginaire", 
+    "players": [
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "rey", 
+                  "c3po"
+                ], 
+                "ept": [
+                  "drawtheirfire"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "crew": [
+                  "operationsspecialist"
+                ], 
+                "ept": [
+                  "adaptability"
+                ]
+              }
+            }, 
+            {
+              "name": "jesspava", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "m9g8"
+                ], 
+                "mod": [
+                  "integratedastromech"
+                ]
+              }
+            }, 
+            {
+              "name": "captainrex", 
+              "ship": "tiefighter"
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 681, 
+        "name": "Francois Beaumont", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 4, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "zeborrelios", 
+              "ship": "attackshuttle", 
+              "upgrades": {
+                "crew": [
+                  "chopper"
+                ], 
+                "title": [
+                  "phantom"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "crew": [
+                  "hotshotcopilot"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ]
+              }
+            }, 
+            {
+              "name": "lothalrebel", 
+              "ship": "vcx100", 
+              "upgrades": {
+                "crew": [
+                  "ezrabridger", 
+                  "maul"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "sensorjammer"
+                ], 
+                "title": [
+                  "ghost"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 564, 
+        "name": "francois lizotte", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "tychocelchu", 
+              "ship": "awing", 
+              "upgrades": {
+                "ept": [
+                  "predator", 
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "awingtestpilot"
+                ]
+              }
+            }, 
+            {
+              "name": "rey", 
+              "ship": "yt1300", 
+              "upgrades": {
+                "crew": [
+                  "kananjarrus", 
+                  "finn"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "title": [
+                  "millenniumfalcon-swx57"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 540, 
+        "name": "Benoit Sigouin", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.31"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "rearadmiralchiraneau", 
+              "ship": "vt49decimator", 
+              "upgrades": {
+                "crew": [
+                  "darthvader", 
+                  "rebelcaptive", 
+                  "kyloren"
+                ], 
+                "ept": [
+                  "expose"
+                ]
+              }
+            }, 
+            {
+              "name": "starkillerbasepilot", 
+              "ship": "upsilonclassshuttle", 
+              "upgrades": {
+                "crew": [
+                  "emperorpalpatine"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 502, 
+        "name": "Denis Dupuis", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 359, 
+        "name": "Louis Bouchard", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 305, 
+        "name": "Alexandre Deschambeault", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 405, 
+        "name": "Claude Matte", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 1, 
+        "sos": "0.31"
+      }, 
+      {
+        "mov": 355, 
+        "name": "Jean-Francois Oligny", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 1, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 260, 
+        "name": "julien", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 29, 
+        "name": "Andre Nerron", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 0, 
+        "sos": "0.56"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Jean-Francois Oligny", 
+            "player1points": 55, 
+            "player2": "francois lizotte", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Louis Bouchard", 
+            "player1points": 14, 
+            "player2": "Francois Beaumont", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alexandre Deschambeault", 
+            "player1points": 100, 
+            "player2": "julien", 
+            "player2points": 33, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Claude Matte", 
+            "player1points": 67, 
+            "player2": "Benoit Sigouin", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Andre Nerron", 
+            "player1points": 29, 
+            "player2": "Denis Dupuis", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "francois lizotte", 
+            "player1points": 0, 
+            "player2": "Francois Beaumont", 
+            "player2points": 55, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Denis Dupuis", 
+            "player1points": 100, 
+            "player2": "Alexandre Deschambeault", 
+            "player2points": 29, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Benoit Sigouin", 
+            "player1points": 100, 
+            "player2": "Andre Nerron", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Louis Bouchard", 
+            "player1points": 70, 
+            "player2": "julien", 
+            "player2points": 51, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jean-Francois Oligny", 
+            "player1points": 100, 
+            "player2": "Claude Matte", 
+            "player2points": 51, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Denis Dupuis", 
+            "player1points": 100, 
+            "player2": "Benoit Sigouin", 
+            "player2points": 40, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Francois Beaumont", 
+            "player1points": 74, 
+            "player2": "Jean-Francois Oligny", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "player1": "francois lizotte", 
+            "player1points": 100, 
+            "player2": "Alexandre Deschambeault", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Louis Bouchard", 
+            "player1points": 100, 
+            "player2": "Andre Nerron", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Claude Matte", 
+            "player1points": 27, 
+            "player2": "julien", 
+            "player2points": 40, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Denis Dupuis", 
+            "player1points": 0, 
+            "player2": "Francois Beaumont", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Louis Bouchard", 
+            "player1points": 26, 
+            "player2": "francois lizotte", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Benoit Sigouin", 
+            "player1points": 100, 
+            "player2": "julien", 
+            "player2points": 33, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jean-Francois Oligny", 
+            "player1points": 66, 
+            "player2": "Alexandre Deschambeault", 
+            "player2points": 75, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Andre Nerron", 
+            "player1points": 0, 
+            "player2": "Claude Matte", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Other", 
+    "venue": {
+      "city": "Quebec City", 
+      "country": "Canada", 
+      "lat": "46.769114000000", 
+      "lon": "-71.284930000000", 
+      "name": "L'Imaginaire", 
+      "state": "Quebec"
+    }, 
+    "video_url": "http://"
+  }
+}
