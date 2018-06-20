@@ -2633,7 +2633,16 @@ var UPGRADES=window.UPGRADES= [
 			}.bind(b)});
 		    }
 		}
-		this.donoaction(p,"",true);
+                if(sh.ia){
+                    // Don't just give iaunits this action; make sure they have targets
+                    var prospects=sh.getBombVictims(3);
+                    if(prospects.length>0){
+                        this.donoaction(p,"",true);
+                    }
+                }
+                else{
+                    this.donoaction(p,"",true);
+                }
 	    });
 	},
         type: Unit.SALVAGED,

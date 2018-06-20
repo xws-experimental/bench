@@ -2507,15 +2507,21 @@ Unit.prototype = {
 	if (typeof org=="undefined") org="undefined";
 	//this.log("enqueueaction "+n+":"+org);
 	actionr[n].name=org;
-	if (n==0) callback(n); 
+        actionr[n].status=ACTION_READY;
+	if (n==0) {
+            actionr[n].status=ACTION_PARTIAL;
+            callback(n);
+        } 
 	else actionr[n-1].done(function() { 
 	    //this.log("|| "+n+" execute "+actionr[n].name); 
+            actionr[n].status=ACTION_PARTIAL;
 	    callback(n);
 	}.bind(this));
 	return actionr[n];
     },
     endnoaction: function(n,type) {
 	//this.log("*** "+n+" "+(actionr.length-1));
+        actionr[n].status=ACTION_COMPLETE
 	actionr[n].resolve(type);
 	//this.log("n="+n+" "+(actionr.length-1));
 	if (n==actionr.length-1) {

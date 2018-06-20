@@ -51,6 +51,10 @@ var stype="";
 var REPLAY="";
 var PERMALINK="";
 
+var ACTION_READY=0
+var ACTION_PARTIAL=1
+var ACTION_COMPLETE=2
+
 var Unit=window.Unit || {};
 var metaUnit=window.metaUnit || {};
 var PILOTS = window.PILOTS || {};
@@ -1252,6 +1256,7 @@ function globalErrorHandler(errorMsg, url, lineNumber, column, errorObj){
     }
     else{
         alertMsg = errorObj.name + ": " + errorObj.message;
+        alertMsg += "\nURL: " + url;
         alertMsg += "\nLine: " + lineNumber + "; Col: " + column;
         console.log(alertMsg);
         console.log(errorObj);
@@ -1261,7 +1266,19 @@ function globalErrorHandler(errorMsg, url, lineNumber, column, errorObj){
     choice = confirm(alertMsg);
     
     if(choice){
-        
+        // Figure out the last partially-completed action
+        for(var i in actionr){
+            if(typeof actionr[i].status !== "undefined" && 
+               actionr[i].status===ACTION_PARTIAL){
+                break;
+            }
+        }
+        // If one action between 0 and the end of the array died part-way,
+        // resume from the next.
+        if(i < actionr.length){
+            activeunit.endnoaction(i,actionr[i].name);
+            // actionr.splice(0,i+1);
+        }
     }
 }
 

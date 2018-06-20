@@ -72,7 +72,14 @@ IAUnit.prototype = {
             ship=squadron[i];
             if(this.isenemy(ship) && this.getrange(ship)<=3) 
                 victims.push(ship.m);
+            else if(this.isenemy(ship) && this.getrange(ship)<=5){
+                // Not sure how we got here, but it happens on ships with TrajSim
+                if(this.isinprimaryfiringarc(ship)){
+                    victims.push(ship.m);
+                }
+            }
         }
+        if (victims.length===0) return [positions[0]]; // hack until I figure out why a bomb was dropped
         // Find the average center point amongst all victims (or just the .m if 1 victim)
         if(victims.length===1) centroid=new Snap.Matrix(1,0,0,1,victims[0].e,victims[0].f);
         else{
