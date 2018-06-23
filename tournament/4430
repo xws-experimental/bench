@@ -10,36 +10,21 @@
           "faction": "scum", 
           "pilots": [
             {
-              "name": "toranikulda", 
-              "ship": "m12lkimogilafighter", 
-              "upgrades": {
-                "ept": [
-                  "veteraninstincts"
-                ], 
-                "missile": [
-                  "harpoonmissiles"
-                ], 
-                "mod": [
-                  "guidancechips"
-                ], 
-                "samd": [
-                  "r5tk"
-                ]
-              }
-            }, 
-            {
               "name": "captainjostero", 
               "ship": "kihraxzfighter", 
               "upgrades": {
                 "ept": [
                   "deadeye"
                 ], 
+                "illicit": [
+                  "contrabandcybernetics"
+                ], 
                 "missile": [
                   "harpoonmissiles"
                 ], 
                 "mod": [
-                  "munitionsfailsafe", 
-                  "guidancechips"
+                  "guidancechips", 
+                  "munitionsfailsafe"
                 ], 
                 "title": [
                   "vaksai"
@@ -73,6 +58,24 @@
                 ], 
                 "torpedo": [
                   "extramunitions"
+                ]
+              }
+            }, 
+            {
+              "name": "toranikulda", 
+              "ship": "m12lkimogilafighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "r5tk"
                 ]
               }
             }
