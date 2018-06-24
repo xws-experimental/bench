@@ -1,0 +1,454 @@
+{
+  "tournament": {
+    "date": "2018-05-27", 
+    "format": "60,90,90,120,150", 
+    "id": 4438, 
+    "name": "X-Wing Liga '18 V. Fordulo", 
+    "players": [
+      {
+        "mov": 207, 
+        "name": "Caniz", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 962, 
+        "name": "Loczy Zoltan", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 5, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 743, 
+        "name": "Toth Benjamin", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 4, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 650, 
+        "name": "Kenessey Marton", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 4, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 596, 
+        "name": "Sebok Richard", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 3, 
+        "sos": "0.60"
+      }, 
+      {
+        "mov": 514, 
+        "name": "Dervadelin Zoltan", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 3, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 482, 
+        "name": "Vigh-Bellon Andras", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 3, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 406, 
+        "name": "Balogh Balazs", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 3, 
+        "sos": "0.48"
+      }, 
+      {
+        "mov": 520, 
+        "name": "Harangozo Andris", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 2, 
+        "sos": "0.48"
+      }, 
+      {
+        "mov": 470, 
+        "name": "Varga Nandor", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 2, 
+        "sos": "0.36"
+      }, 
+      {
+        "mov": 426, 
+        "name": "Kovacs Imre", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 2, 
+        "sos": "0.47"
+      }, 
+      {
+        "mov": 398, 
+        "name": "Rafy", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 2, 
+        "sos": "0.60"
+      }, 
+      {
+        "mov": 395, 
+        "name": "Biro Zoltan", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 2, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 430, 
+        "name": "Leto Laszlo", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 1, 
+        "sos": "0.48"
+      }, 
+      {
+        "mov": 301, 
+        "name": "Timko Attila", 
+        "rank": {
+          "swiss": 14
+        }, 
+        "score": 1, 
+        "sos": "0.36"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Rafy", 
+            "player1points": 60, 
+            "player2": "Biro Zoltan", 
+            "player2points": 20, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Kovacs Imre", 
+            "player1points": 0, 
+            "player2": "Loczy Zoltan", 
+            "player2points": 60, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Dervadelin Zoltan", 
+            "player1points": 60, 
+            "player2": "Leto Laszlo", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Balogh Balazs", 
+            "player1points": 15, 
+            "player2": "Sebok Richard", 
+            "player2points": 60, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Caniz", 
+            "player1points": 0, 
+            "player2": "Vigh-Bellon Andras", 
+            "player2points": 60, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Harangozo Andris", 
+            "player1points": 14, 
+            "player2": "Kenessey Marton", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Varga Nandor", 
+            "player1points": 60, 
+            "player2": "Timko Attila", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Toth Benjamin", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Sebok Richard", 
+            "player1points": 22, 
+            "player2": "Toth Benjamin", 
+            "player2points": 76, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Varga Nandor", 
+            "player1points": 60, 
+            "player2": "Rafy", 
+            "player2points": 90, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Vigh-Bellon Andras", 
+            "player1points": 90, 
+            "player2": "Kenessey Marton", 
+            "player2points": 29, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Loczy Zoltan", 
+            "player1points": 90, 
+            "player2": "Dervadelin Zoltan", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Caniz", 
+            "player1points": 42, 
+            "player2": "Kovacs Imre", 
+            "player2points": 60, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Biro Zoltan", 
+            "player1points": 59, 
+            "player2": "Harangozo Andris", 
+            "player2points": 52, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Leto Laszlo", 
+            "player1points": 53, 
+            "player2": "Balogh Balazs", 
+            "player2points": 63, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Timko Attila", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Loczy Zoltan", 
+            "player1points": 90, 
+            "player2": "Rafy", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Vigh-Bellon Andras", 
+            "player1points": 0, 
+            "player2": "Toth Benjamin", 
+            "player2points": 90, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Kovacs Imre", 
+            "player1points": 53, 
+            "player2": "Balogh Balazs", 
+            "player2points": 60, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Biro Zoltan", 
+            "player1points": 31, 
+            "player2": "Kenessey Marton", 
+            "player2points": 52, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Dervadelin Zoltan", 
+            "player1points": 90, 
+            "player2": "Varga Nandor", 
+            "player2points": 39, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sebok Richard", 
+            "player1points": 90, 
+            "player2": "Timko Attila", 
+            "player2points": 15, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Harangozo Andris", 
+            "player1points": 90, 
+            "player2": "Leto Laszlo", 
+            "player2points": 57, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Caniz", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Toth Benjamin", 
+            "player1points": 29, 
+            "player2": "Loczy Zoltan", 
+            "player2points": 120, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sebok Richard", 
+            "player1points": 120, 
+            "player2": "Dervadelin Zoltan", 
+            "player2points": 44, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Vigh-Bellon Andras", 
+            "player1points": 120, 
+            "player2": "Rafy", 
+            "player2points": 58, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Kenessey Marton", 
+            "player1points": 120, 
+            "player2": "Balogh Balazs", 
+            "player2points": 14, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Timko Attila", 
+            "player1points": 31, 
+            "player2": "Biro Zoltan", 
+            "player2points": 120, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Varga Nandor", 
+            "player1points": 59, 
+            "player2": "Harangozo Andris", 
+            "player2points": 120, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Kovacs Imre", 
+            "player1points": 55, 
+            "player2": "Leto Laszlo", 
+            "player2points": 120, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Loczy Zoltan", 
+            "player1points": 150, 
+            "player2": "Vigh-Bellon Andras", 
+            "player2points": 29, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sebok Richard", 
+            "player1points": 94, 
+            "player2": "Kenessey Marton", 
+            "player2points": 150, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Toth Benjamin", 
+            "player1points": 150, 
+            "player2": "Biro Zoltan", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Dervadelin Zoltan", 
+            "player1points": 150, 
+            "player2": "Harangozo Andris", 
+            "player2points": 91, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Rafy", 
+            "player1points": 80, 
+            "player2": "Balogh Balazs", 
+            "player2points": 110, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Varga Nandor", 
+            "player1points": 150, 
+            "player2": "Leto Laszlo", 
+            "player2points": 108, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Timko Attila", 
+            "player1points": 72, 
+            "player2": "Kovacs Imre", 
+            "player2points": 102, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 5, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Other", 
+    "venue": {
+      "city": "Budapest", 
+      "country": "Hungary", 
+      "lat": "47.498381500000", 
+      "lon": "19.040470700000", 
+      "name": "HUNGEXPO", 
+      "state": "Budapest"
+    }, 
+    "video_url": "https://www.youtube.com/watch?v=4k4n--geNFE&t=161s"
+  }
+}

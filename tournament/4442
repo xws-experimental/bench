@@ -1,0 +1,535 @@
+{
+  "tournament": {
+    "date": "2018-06-23", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4442, 
+    "name": "GMI Games: Store Championship", 
+    "players": [
+      {
+        "mov": 680, 
+        "name": "Mitchel Raab", 
+        "rank": {
+          "elimination": 1, 
+          "swiss": 1
+        }, 
+        "score": 4, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 618, 
+        "name": "Trevor Betts", 
+        "rank": {
+          "elimination": 2, 
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 610, 
+        "name": "Mitchel Hurst", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 520, 
+        "name": "Chris Williams", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 4
+        }, 
+        "score": 3, 
+        "sos": "0.69"
+      }, 
+      {
+        "mov": 400, 
+        "name": "Bruce Enos", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 3, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 376, 
+        "name": "Emmanuel Stites", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 453, 
+        "name": "Jerome Kentz", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 2, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 449, 
+        "name": "Brent Scott", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 2, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 430, 
+        "name": "David Wright", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 414, 
+        "name": "Sam Kirk", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 2, 
+        "sos": "0.75"
+      }, 
+      {
+        "mov": 414, 
+        "name": "Matt Plumb", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 366, 
+        "name": "Josh Youngblood", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 2, 
+        "sos": "0.58"
+      }, 
+      {
+        "mov": 296, 
+        "name": "\"E\" Stites", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 285, 
+        "name": "Robb Tolson", 
+        "rank": {
+          "swiss": 14
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 244, 
+        "name": "Brian Carrasquillo", 
+        "rank": {
+          "swiss": 15
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 365, 
+        "name": "Nathan Carey", 
+        "rank": {
+          "swiss": 16
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 347, 
+        "name": "Donovan Stites", 
+        "rank": {
+          "swiss": 17
+        }, 
+        "score": 1, 
+        "sos": "0.58"
+      }, 
+      {
+        "mov": 203, 
+        "name": "Corbin Youngblood", 
+        "rank": {
+          "swiss": 18
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 330, 
+        "name": "Tom Burns", 
+        "rank": {
+          "swiss": 19
+        }, 
+        "score": 0, 
+        "sos": "0.44"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Chris Williams", 
+            "player1points": 100, 
+            "player2": "Josh Youngblood", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mitchel Hurst", 
+            "player1points": 100, 
+            "player2": "Brian Carrasquillo", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Trevor Betts", 
+            "player1points": 100, 
+            "player2": "Emmanuel Stites", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mitchel Raab", 
+            "player1points": 100, 
+            "player2": "\"E\" Stites", 
+            "player2points": 12, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Robb Tolson", 
+            "player1points": 100, 
+            "player2": "Bruce Enos", 
+            "player2points": 22, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Corbin Youngblood", 
+            "player1points": 59, 
+            "player2": "Matt Plumb", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jerome Kentz", 
+            "player1points": 100, 
+            "player2": "David Wright", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nathan Carey", 
+            "player1points": 73, 
+            "player2": "Tom Burns", 
+            "player2points": 53, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Donovan Stites", 
+            "player1points": 0, 
+            "player2": "Brent Scott", 
+            "player2points": 39, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sam Kirk", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Nathan Carey", 
+            "player1points": 56, 
+            "player2": "Robb Tolson", 
+            "player2points": 63, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jerome Kentz", 
+            "player1points": 36, 
+            "player2": "Chris Williams", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mitchel Hurst", 
+            "player1points": 100, 
+            "player2": "Trevor Betts", 
+            "player2points": 56, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Brent Scott", 
+            "player1points": 59, 
+            "player2": "Matt Plumb", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sam Kirk", 
+            "player1points": 0, 
+            "player2": "Mitchel Raab", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tom Burns", 
+            "player1points": 72, 
+            "player2": "Emmanuel Stites", 
+            "player2points": 75, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Donovan Stites", 
+            "player1points": 59, 
+            "player2": "Brian Carrasquillo", 
+            "player2points": 61, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Corbin Youngblood", 
+            "player1points": 31, 
+            "player2": "Bruce Enos", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "David Wright", 
+            "player1points": 100, 
+            "player2": "\"E\" Stites", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Josh Youngblood", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Mitchel Raab", 
+            "player1points": 0, 
+            "player2": "Trevor Betts", 
+            "player2points": 0, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "elimination"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Mitchel Raab", 
+            "player1points": 36, 
+            "player2": "Brent Scott", 
+            "player2points": 22, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chris Williams", 
+            "player1points": 100, 
+            "player2": "Mitchel Hurst", 
+            "player2points": 66, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Robb Tolson", 
+            "player1points": 0, 
+            "player2": "Matt Plumb", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bruce Enos", 
+            "player1points": 25, 
+            "player2": "Nathan Carey", 
+            "player2points": 19, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Brian Carrasquillo", 
+            "player1points": 0, 
+            "player2": "Sam Kirk", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Emmanuel Stites", 
+            "player1points": 100, 
+            "player2": "Jerome Kentz", 
+            "player2points": 63, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Josh Youngblood", 
+            "player1points": 100, 
+            "player2": "David Wright", 
+            "player2points": 30, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Trevor Betts", 
+            "player1points": 100, 
+            "player2": "Donovan Stites", 
+            "player2points": 38, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tom Burns", 
+            "player1points": 60, 
+            "player2": "Corbin Youngblood", 
+            "player2points": 73, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"E\" Stites", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Mitchel Raab", 
+            "player1points": 100, 
+            "player2": "Chris Williams", 
+            "player2points": 22, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jerome Kentz", 
+            "player1points": 100, 
+            "player2": "Josh Youngblood", 
+            "player2points": 46, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Matt Plumb", 
+            "player1points": 0, 
+            "player2": "Trevor Betts", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bruce Enos", 
+            "player1points": 32, 
+            "player2": "Brent Scott", 
+            "player2points": 29, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sam Kirk", 
+            "player1points": 64, 
+            "player2": "Emmanuel Stites", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mitchel Hurst", 
+            "player1points": 100, 
+            "player2": "Robb Tolson", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "David Wright", 
+            "player1points": 100, 
+            "player2": "Corbin Youngblood", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Brian Carrasquillo", 
+            "player1points": 100, 
+            "player2": "Nathan Carey", 
+            "player2points": 58, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"E\" Stites", 
+            "player1points": 100, 
+            "player2": "Tom Burns", 
+            "player2points": 66, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Donovan Stites", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Mitchel Raab", 
+            "player1points": 34, 
+            "player2": "Chris Williams", 
+            "player2points": 22, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Trevor Betts", 
+            "player1points": 100, 
+            "player2": "Mitchel Hurst", 
+            "player2points": 62, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "elimination"
+      }
+    ], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "Riverside", 
+      "country": "United States of America", 
+      "lat": "33.953354600000", 
+      "lon": "-117.396162300000", 
+      "name": "GMI Games & Collectibles", 
+      "state": "California"
+    }, 
+    "video_url": "http://twitch.tv/warlock_xwing"
+  }
+}
