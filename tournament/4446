@@ -7,7 +7,7 @@
     "players": [
       {
         "mov": 41, 
-        "name": "fabio faria", 
+        "name": "Fabio Faria", 
         "rank": {
           "swiss": 0
         }, 
@@ -15,8 +15,54 @@
         "sos": "0.50"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "wookieeliberator", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "tactician"
+                ], 
+                "ept": [
+                  "expertise"
+                ]
+              }
+            }, 
+            {
+              "name": "wookieeliberator", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "tactician"
+                ], 
+                "ept": [
+                  "expertise"
+                ]
+              }
+            }, 
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "tactician", 
+                  "c3po"
+                ], 
+                "ept": [
+                  "predator"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 658, 
-        "name": "leo parra", 
+        "name": "Leo Parra", 
         "rank": {
           "elimination": 1, 
           "swiss": 1
@@ -25,6 +71,50 @@
         "sos": "0.50"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "zeborrelios", 
+              "ship": "attackshuttle"
+            }, 
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "wookieecommandos"
+                ], 
+                "ept": [
+                  "drawtheirfire"
+                ]
+              }
+            }, 
+            {
+              "name": "lothalrebel", 
+              "ship": "vcx100", 
+              "upgrades": {
+                "crew": [
+                  "ezrabridger", 
+                  "maul"
+                ], 
+                "system": [
+                  "sensorjammer"
+                ], 
+                "title": [
+                  "ghost"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 636, 
         "name": "Oigres", 
         "rank": {
@@ -99,7 +189,7 @@
           "version": "4.2.0"
         }, 
         "mov": 618, 
-        "name": "LG", 
+        "name": "LG Sabino", 
         "rank": {
           "elimination": 2, 
           "swiss": 3
@@ -108,8 +198,76 @@
         "sos": "0.44"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "protonbombs", 
+                  "thermaldetonators"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator", 
+                  "ionbombs"
+                ], 
+                "crew": [
+                  "sabinewren"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 579, 
-        "name": "wagner", 
+        "name": "Wagner", 
         "rank": {
           "elimination": 4, 
           "swiss": 4
@@ -127,8 +285,71 @@
         "sos": "0.31"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "deathrain", 
+              "ship": "tiepunisher", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "ascoretosettle"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "tomaxbren", 
+              "ship": "tiebomber", 
+              "upgrades": {
+                "ept": [
+                  "crackshot"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 548, 
-        "name": "fernando ribeiro", 
+        "name": "Fernando Ribeiro", 
         "rank": {
           "swiss": 6
         }, 
@@ -137,7 +358,7 @@
       }, 
       {
         "mov": 541, 
-        "name": "andre", 
+        "name": "Andre", 
         "rank": {
           "swiss": 7
         }, 
@@ -194,7 +415,7 @@
           "version": "4.2.0"
         }, 
         "mov": 433, 
-        "name": "ide", 
+        "name": "Ide", 
         "rank": {
           "swiss": 8
         }, 
@@ -202,50 +423,43 @@
         "sos": "0.38"
       }, 
       {
-        "mov": 428, 
-        "name": "rafa yudi", 
-        "rank": {
-          "swiss": 9
-        }, 
-        "score": 2, 
-        "sos": "0.44"
-      }, 
-      {
         "list": {
           "faction": "rebel", 
           "pilots": [
             {
-              "name": "zeborrelios", 
-              "ship": "attackshuttle"
-            }, 
-            {
-              "name": "kananjarrus", 
-              "ship": "vcx100", 
+              "name": "rey", 
+              "ship": "yt1300", 
               "upgrades": {
                 "crew": [
-                  "rey", 
-                  "reconspecialist"
+                  "finn", 
+                  "chewbacca"
                 ], 
-                "system": [
-                  "firecontrolsystem"
+                "ept": [
+                  "expertise"
                 ], 
                 "title": [
-                  "ghost"
-                ], 
-                "turret": [
-                  "syncedturret"
+                  "millenniumfalcon"
                 ]
               }
             }, 
             {
-              "name": "lowhhrick", 
-              "ship": "auzituckgunship", 
+              "name": "poedameron", 
+              "ship": "t70xwing", 
               "upgrades": {
-                "crew": [
-                  "chopper"
+                "amd": [
+                  "bb8"
                 ], 
                 "ept": [
-                  "expertise"
+                  "intensity"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "tech": [
+                  "commrelay"
+                ], 
+                "title": [
+                  "blackone"
                 ]
               }
             }
@@ -255,8 +469,17 @@
           }, 
           "version": "4.2.0"
         }, 
+        "mov": 428, 
+        "name": "Rafa Yudi", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
         "mov": 410, 
-        "name": "neto", 
+        "name": "Neto", 
         "rank": {
           "swiss": 10
         }, 
@@ -388,6 +611,66 @@
         "sos": "0.63"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "dashrendar", 
+              "ship": "yt2400", 
+              "upgrades": {
+                "cannon": [
+                  "manglercannon"
+                ], 
+                "crew": [
+                  "landocalrissian"
+                ], 
+                "ept": [
+                  "trickshot"
+                ], 
+                "mod": [
+                  "countermeasures"
+                ], 
+                "title": [
+                  "outrider"
+                ]
+              }
+            }, 
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 264, 
         "name": "Kenjy", 
         "rank": {
@@ -407,7 +690,7 @@
       }, 
       {
         "mov": 204, 
-        "name": "nicola", 
+        "name": "Nicola", 
         "rank": {
           "swiss": 15
         }, 
@@ -415,6 +698,58 @@
         "sos": "0.58"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "rey", 
+              "ship": "yt1300", 
+              "upgrades": {
+                "crew": [
+                  "finn", 
+                  "kananjarrus"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "illicit": [
+                  "burnoutslam"
+                ], 
+                "mod": [
+                  "smugglingcompartment"
+                ], 
+                "title": [
+                  "millenniumfalcon"
+                ]
+              }
+            }, 
+            {
+              "name": "poedameron", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "blackone"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 183, 
         "name": "Ariela", 
         "rank": {
@@ -438,14 +773,14 @@
       {
         "matches": [
           {
-            "player1": "fabio faria", 
+            "player1": "Fabio Faria", 
             "player1points": 0, 
             "player2": "Renan", 
             "player2points": 100, 
             "result": "win"
           }, 
           {
-            "player1": "ide", 
+            "player1": "Ide", 
             "player1points": 19, 
             "player2": "Dip", 
             "player2points": 32, 
@@ -454,12 +789,12 @@
           {
             "player1": "Kenjy", 
             "player1points": 0, 
-            "player2": "wagner", 
+            "player2": "Wagner", 
             "player2points": 100, 
             "result": "win"
           }, 
           {
-            "player1": "andre", 
+            "player1": "Andre", 
             "player1points": 100, 
             "player2": "Ariela", 
             "player2points": 0, 
@@ -468,26 +803,26 @@
           {
             "player1": "Oigres", 
             "player1points": 100, 
-            "player2": "rafa yudi", 
+            "player2": "Rafa Yudi", 
             "player2points": 0, 
             "result": "win"
           }, 
           {
-            "player1": "nicola", 
+            "player1": "Nicola", 
             "player1points": 0, 
-            "player2": "leo parra", 
+            "player2": "Leo Parra", 
             "player2points": 73, 
             "result": "win"
           }, 
           {
-            "player1": "fernando ribeiro", 
+            "player1": "Fernando Ribeiro", 
             "player1points": 100, 
-            "player2": "LG", 
+            "player2": "LG Sabino", 
             "player2points": 66, 
             "result": "win"
           }, 
           {
-            "player1": "neto", 
+            "player1": "Neto", 
             "player1points": 100, 
             "player2": "Hugo", 
             "player2points": 24, 
@@ -507,16 +842,16 @@
       {
         "matches": [
           {
-            "player1": "wagner", 
+            "player1": "Wagner", 
             "player1points": 100, 
-            "player2": "fernando ribeiro", 
+            "player2": "Fernando Ribeiro", 
             "player2points": 48, 
             "result": "win"
           }, 
           {
-            "player1": "andre", 
+            "player1": "Andre", 
             "player1points": 100, 
-            "player2": "neto", 
+            "player2": "Neto", 
             "player2points": 0, 
             "result": "win"
           }, 
@@ -530,7 +865,7 @@
           {
             "player1": "Dip", 
             "player1points": 0, 
-            "player2": "leo parra", 
+            "player2": "Leo Parra", 
             "player2points": 100, 
             "result": "win"
           }, 
@@ -544,28 +879,28 @@
           {
             "player1": "Toco", 
             "player1points": 28, 
-            "player2": "rafa yudi", 
+            "player2": "Rafa Yudi", 
             "player2points": 100, 
             "result": "win"
           }, 
           {
             "player1": "Kenjy", 
             "player1points": 100, 
-            "player2": "nicola", 
+            "player2": "Nicola", 
             "player2points": 0, 
             "result": "win"
           }, 
           {
-            "player1": "fabio faria", 
+            "player1": "Fabio Faria", 
             "player1points": 41, 
             "player2": "Ariela", 
             "player2points": 100, 
             "result": "win"
           }, 
           {
-            "player1": "LG", 
+            "player1": "LG Sabino", 
             "player1points": 100, 
-            "player2": "ide", 
+            "player2": "Ide", 
             "player2points": 24, 
             "result": "win"
           }
@@ -576,9 +911,9 @@
       {
         "matches": [
           {
-            "player1": "leo parra", 
+            "player1": "Leo Parra", 
             "player1points": 100, 
-            "player2": "LG", 
+            "player2": "LG Sabino", 
             "player2points": 36, 
             "result": "win"
           }
@@ -589,30 +924,30 @@
       {
         "matches": [
           {
-            "player1": "andre", 
+            "player1": "Andre", 
             "player1points": 52, 
-            "player2": "wagner", 
+            "player2": "Wagner", 
             "player2points": 100, 
             "result": "win"
           }, 
           {
             "player1": "Oigres", 
             "player1points": 36, 
-            "player2": "leo parra", 
+            "player2": "Leo Parra", 
             "player2points": 100, 
             "result": "win"
           }, 
           {
             "player1": "Radamantes", 
             "player1points": 0, 
-            "player2": "neto", 
+            "player2": "Neto", 
             "player2points": 100, 
             "result": "win"
           }, 
           {
             "player1": "Hugo", 
             "player1points": 59, 
-            "player2": "rafa yudi", 
+            "player2": "Rafa Yudi", 
             "player2points": 42, 
             "result": "win"
           }, 
@@ -624,14 +959,14 @@
             "result": "win"
           }, 
           {
-            "player1": "fernando ribeiro", 
+            "player1": "Fernando Ribeiro", 
             "player1points": 100, 
             "player2": "Ariela", 
             "player2points": 0, 
             "result": "win"
           }, 
           {
-            "player1": "LG", 
+            "player1": "LG Sabino", 
             "player1points": 100, 
             "player2": "Dip", 
             "player2points": 0, 
@@ -640,12 +975,12 @@
           {
             "player1": "Toco", 
             "player1points": 0, 
-            "player2": "ide", 
+            "player2": "Ide", 
             "player2points": 58, 
             "result": "win"
           }, 
           {
-            "player1": "nicola", 
+            "player1": "Nicola", 
             "player1points": null, 
             "player2": "", 
             "player2points": null, 
@@ -658,14 +993,14 @@
       {
         "matches": [
           {
-            "player1": "leo parra", 
+            "player1": "Leo Parra", 
             "player1points": 53, 
-            "player2": "wagner", 
+            "player2": "Wagner", 
             "player2points": 32, 
             "result": "win"
           }, 
           {
-            "player1": "andre", 
+            "player1": "Andre", 
             "player1points": 17, 
             "player2": "Renan", 
             "player2points": 28, 
@@ -679,14 +1014,14 @@
             "result": "win"
           }, 
           {
-            "player1": "fernando ribeiro", 
+            "player1": "Fernando Ribeiro", 
             "player1points": 100, 
-            "player2": "neto", 
+            "player2": "Neto", 
             "player2points": 34, 
             "result": "win"
           }, 
           {
-            "player1": "LG", 
+            "player1": "LG Sabino", 
             "player1points": 100, 
             "player2": "Ariela", 
             "player2points": 24, 
@@ -700,16 +1035,16 @@
             "result": "win"
           }, 
           {
-            "player1": "rafa yudi", 
+            "player1": "Rafa Yudi", 
             "player1points": 73, 
-            "player2": "nicola", 
+            "player2": "Nicola", 
             "player2points": 0, 
             "result": "win"
           }, 
           {
             "player1": "Kenjy", 
             "player1points": 36, 
-            "player2": "ide", 
+            "player2": "Ide", 
             "player2points": 100, 
             "result": "win"
           }, 
@@ -727,16 +1062,16 @@
       {
         "matches": [
           {
-            "player1": "leo parra", 
+            "player1": "Leo Parra", 
             "player1points": 100, 
-            "player2": "wagner", 
+            "player2": "Wagner", 
             "player2points": 36, 
             "result": "win"
           }, 
           {
             "player1": "Oigres", 
             "player1points": 39, 
-            "player2": "LG", 
+            "player2": "LG Sabino", 
             "player2points": 100, 
             "result": "win"
           }
@@ -751,7 +1086,7 @@
       "country": "Brazil", 
       "lat": "-23.501667000000", 
       "lon": "-47.458056000000", 
-      "name": "", 
+      "name": "Newstation Sorocaba", 
       "state": "Sao Paulo"
     }, 
     "video_url": "http://"
