@@ -1,0 +1,2424 @@
+{
+  "tournament": {
+    "date": "2018-06-23", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4457, 
+    "name": "2018 Seattle System Open", 
+    "players": [
+      {
+        "mov": 0, 
+        "name": "Jake Freeland", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 0, 
+        "sos": "0.60"
+      }, 
+      {
+        "mov": 208, 
+        "name": "Carson Sawatsky", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.39"
+      }, 
+      {
+        "mov": 210, 
+        "name": "Austin Johnson", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.53"
+      }, 
+      {
+        "mov": 212, 
+        "name": "Thomas Linville", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.51"
+      }, 
+      {
+        "mov": 213, 
+        "name": "William Wooldrige", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.48"
+      }, 
+      {
+        "mov": 219, 
+        "name": "Timothy Pansch", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.33"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "fennrau", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "m9g8"
+                ], 
+                "crew": [
+                  "tactician"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ]
+              }
+            }, 
+            {
+              "name": "sharabey", 
+              "ship": "arc170", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "crew": [
+                  "weaponsengineer"
+                ], 
+                "ept": [
+                  "adaptability"
+                ], 
+                "title": [
+                  "allianceoverhaul"
+                ]
+              }
+            }, 
+            {
+              "name": "norrawexley", 
+              "ship": "arc170", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ], 
+                "crew": [
+                  "c3po"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "vectoredthrusters"
+                ], 
+                "title": [
+                  "allianceoverhaul"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 232, 
+        "name": "Conor Dowley", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.28"
+      }, 
+      {
+        "mov": 234, 
+        "name": "Andrew Lauritzen", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.39"
+      }, 
+      {
+        "mov": 238, 
+        "name": "Zachery Buntin", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.60"
+      }, 
+      {
+        "mov": 239, 
+        "name": "Luke Bunnell", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.45"
+      }, 
+      {
+        "mov": 241, 
+        "name": "Patrick Boyle", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.41"
+      }, 
+      {
+        "mov": 254, 
+        "name": "Tom Wiggin", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.48"
+      }, 
+      {
+        "mov": 258, 
+        "name": "Chris Mason", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.24"
+      }, 
+      {
+        "mov": 282, 
+        "name": "Colby Schmidt", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.31"
+      }, 
+      {
+        "mov": 284, 
+        "name": "Patrick Mclard", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.49"
+      }, 
+      {
+        "mov": 302, 
+        "name": "James Kelly", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.53"
+      }, 
+      {
+        "mov": 333, 
+        "name": "Joel Fadenrecht", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 337, 
+        "name": "Cameron Harris", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.40"
+      }, 
+      {
+        "mov": 200, 
+        "name": "Michael Trotter", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.40"
+      }, 
+      {
+        "mov": 198, 
+        "name": "Ryan Yee", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 0, 
+        "name": "jacob freeland", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 0, 
+        "sos": "0.86"
+      }, 
+      {
+        "mov": 30, 
+        "name": "josh Freeland", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 0, 
+        "sos": "0.86"
+      }, 
+      {
+        "mov": 86, 
+        "name": "Philip Sandborn", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 0, 
+        "sos": "0.48"
+      }, 
+      {
+        "mov": 87, 
+        "name": "Matt Steski", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 0, 
+        "sos": "0.39"
+      }, 
+      {
+        "mov": 96, 
+        "name": "Kyle Smith", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 0, 
+        "sos": "0.44"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "dashrendar", 
+              "ship": "yt2400", 
+              "upgrades": {
+                "cannon": [
+                  "manglercannon"
+                ], 
+                "crew": [
+                  "rey"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "illicit": [
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "smugglingcompartment", 
+                  "countermeasures"
+                ], 
+                "title": [
+                  "outrider"
+                ]
+              }
+            }, 
+            {
+              "name": "poedameron-swx57", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "r5p9"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "blackone"
+                ], 
+                "torpedo": [
+                  "plasmatorpedoes"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 104, 
+        "name": "Nels Postma", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 0, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 118, 
+        "name": "Joel Churchman", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 0, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 123, 
+        "name": "Tyronne Broady", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 0, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 143, 
+        "name": "Eric Dietsch", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 0, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 153, 
+        "name": "Justin Brown", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 0, 
+        "sos": "0.45"
+      }, 
+      {
+        "mov": 191, 
+        "name": "Jonas Malapas", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 0, 
+        "sos": "0.53"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "norrawexley", 
+              "ship": "arc170", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ], 
+                "crew": [
+                  "tailgunner"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "vectoredthrusters"
+                ], 
+                "title": [
+                  "allianceoverhaul"
+                ]
+              }
+            }, 
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "rey", 
+                  "jynerso"
+                ], 
+                "ept": [
+                  "selflessness"
+                ], 
+                "mod": [
+                  "shieldupgrade"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "herasyndulla"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 114, 
+        "name": "Robert Tenglin", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 132, 
+        "name": "Nikki Barry", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 141, 
+        "name": "Jeremy Kelly", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.36"
+      }, 
+      {
+        "mov": 143, 
+        "name": "Nathan Horton", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.61"
+      }, 
+      {
+        "mov": 168, 
+        "name": "Michael Adams", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.45"
+      }, 
+      {
+        "mov": 181, 
+        "name": "Nathan Flaming", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.71"
+      }, 
+      {
+        "mov": 339, 
+        "name": "Chris Norris", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 338, 
+        "name": "Bennett Kim", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.43"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "guri", 
+              "ship": "starviper", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "virago", 
+                  "starvipermkii"
+                ]
+              }
+            }, 
+            {
+              "name": "princexizor", 
+              "ship": "starviper", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "starvipermkii"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "protectoratestarfighter", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "concorddawnprotector"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 660, 
+        "name": "Samuel Wang", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 3, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 693, 
+        "name": "Joon Kim", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 3, 
+        "sos": "0.46"
+      }, 
+      {
+        "mov": 749, 
+        "name": "Geoff Frost", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 3, 
+        "sos": "0.58"
+      }, 
+      {
+        "mov": 549, 
+        "name": "Jeffrey Alexander", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 4, 
+        "sos": "0.59"
+      }, 
+      {
+        "mov": 610, 
+        "name": "Kyle Lee", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 4, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 700, 
+        "name": "Bradley Riley", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 4, 
+        "sos": "0.53"
+      }, 
+      {
+        "mov": 758, 
+        "name": "Ernest Pasillas", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 4, 
+        "sos": "0.51"
+      }, 
+      {
+        "mov": 763, 
+        "name": "Damon Jones", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 4, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 794, 
+        "name": "Steven Jesionowski", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 4, 
+        "sos": "0.43"
+      }, 
+      {
+        "mov": 819, 
+        "name": "Daniel Hope", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 4, 
+        "sos": "0.60"
+      }, 
+      {
+        "mov": 822, 
+        "name": "Eric Dignard", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 4, 
+        "sos": "0.47"
+      }, 
+      {
+        "mov": 859, 
+        "name": "Ryan Moore", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 4, 
+        "sos": "0.49"
+      }, 
+      {
+        "mov": 863, 
+        "name": "Paul Vogel", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 4, 
+        "sos": "0.46"
+      }, 
+      {
+        "mov": 596, 
+        "name": "Shawn Ramberg", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 3, 
+        "sos": "0.54"
+      }, 
+      {
+        "mov": 589, 
+        "name": "Sebastien Demers", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 3, 
+        "sos": "0.53"
+      }, 
+      {
+        "mov": 350, 
+        "name": "Calen Wong", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.42"
+      }, 
+      {
+        "mov": 395, 
+        "name": "Cole Bailey", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.54"
+      }, 
+      {
+        "mov": 400, 
+        "name": "Chris Graff", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.57"
+      }, 
+      {
+        "mov": 432, 
+        "name": "Emmanuel Gambliel", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.59"
+      }, 
+      {
+        "mov": 463, 
+        "name": "Joshua Mattison", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 483, 
+        "name": "Patrick Cotter", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 495, 
+        "name": "Justin Clapper", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 485, 
+        "name": "Jim King", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 3, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 492, 
+        "name": "Jake Mailhot", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 3, 
+        "sos": "0.47"
+      }, 
+      {
+        "mov": 495, 
+        "name": "Kyle Meidell", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 3, 
+        "sos": "0.65"
+      }, 
+      {
+        "mov": 511, 
+        "name": "Andrew Clark", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 3, 
+        "sos": "0.54"
+      }, 
+      {
+        "mov": 528, 
+        "name": "Conner Wells", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 3, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 542, 
+        "name": "Peter Auchterlonie", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 3, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 1187, 
+        "name": "Robin Sather", 
+        "rank": {
+          "elimination": 1, 
+          "swiss": 1
+        }, 
+        "score": 7, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 1101, 
+        "name": "Matthew Lee", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 2
+        }, 
+        "score": 6, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 1084, 
+        "name": "Doug Stone Weaver", 
+        "rank": {
+          "elimination": 8, 
+          "swiss": 3
+        }, 
+        "score": 6, 
+        "sos": "0.50"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "fennrau", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "crew": [
+                  "hotshotcopilot"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ]
+              }
+            }, 
+            {
+              "name": "lothalrebel", 
+              "ship": "vcx100", 
+              "upgrades": {
+                "crew": [
+                  "maul", 
+                  "ezrabridger"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "sensorjammer"
+                ], 
+                "title": [
+                  "ghost"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "zeborrelios", 
+              "ship": "attackshuttle", 
+              "upgrades": {
+                "crew": [
+                  "chopper"
+                ], 
+                "title": [
+                  "phantom"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 1033, 
+        "name": "Bradley Ho", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 4
+        }, 
+        "score": 6, 
+        "sos": "0.55"
+      }, 
+      {
+        "mov": 984, 
+        "name": "David Lasserre", 
+        "rank": {
+          "elimination": 8, 
+          "swiss": 5
+        }, 
+        "score": 6, 
+        "sos": "0.60"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "herasyndulla"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }, 
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "rey", 
+                  "tactician"
+                ], 
+                "ept": [
+                  "drawtheirfire"
+                ]
+              }
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "c3po"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 968, 
+        "name": "Ee Ern Low", 
+        "rank": {
+          "elimination": 8, 
+          "swiss": 6
+        }, 
+        "score": 6, 
+        "sos": "0.47"
+      }, 
+      {
+        "mov": 962, 
+        "name": "Blair Bunke", 
+        "rank": {
+          "elimination": 2, 
+          "swiss": 7
+        }, 
+        "score": 6, 
+        "sos": "0.63"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "jakkugunrunner", 
+              "ship": "quadjumper", 
+              "upgrades": {
+                "crew": [
+                  "cikatrovizago"
+                ], 
+                "illicit": [
+                  "cloakingdevice"
+                ], 
+                "mod": [
+                  "spacetugtractorarray"
+                ], 
+                "tech": [
+                  "patternanalyzer"
+                ]
+              }
+            }, 
+            {
+              "name": "thweek", 
+              "ship": "starviper", 
+              "upgrades": {
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "starvipermkii", 
+                  "virago"
+                ]
+              }
+            }, 
+            {
+              "name": "asajjventress", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "lattsrazzi"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "illicit": [
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 914, 
+        "name": "Matthew Larose", 
+        "rank": {
+          "elimination": 8, 
+          "swiss": 8
+        }, 
+        "score": 6, 
+        "sos": "0.48"
+      }, 
+      {
+        "mov": 791, 
+        "name": "David Tam", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 5, 
+        "sos": "0.69"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Shawn Ramberg", 
+            "player1points": 100, 
+            "player2": "William Wooldrige", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Conor Dowley", 
+            "player1points": 32, 
+            "player2": "Austin Johnson", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ryan Moore", 
+            "player1points": 100, 
+            "player2": "Kyle Smith", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nathan Flaming", 
+            "player1points": 100, 
+            "player2": "Paul Vogel", 
+            "player2points": 62, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nels Postma", 
+            "player1points": 31, 
+            "player2": "Steven Jesionowski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jake Mailhot", 
+            "player1points": 0, 
+            "player2": "Justin Clapper", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Andrew Lauritzen", 
+            "player1points": 55, 
+            "player2": "Peter Auchterlonie", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Luke Bunnell", 
+            "player1points": 0, 
+            "player2": "Matthew Larose", 
+            "player2points": 28, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Timothy Pansch", 
+            "player1points": 40, 
+            "player2": "Emmanuel Gambliel", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Joel Fadenrecht", 
+            "player1points": 53, 
+            "player2": "Jeffrey Alexander", 
+            "player2points": 53, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Patrick Boyle", 
+            "player1points": 76, 
+            "player2": "Jeremy Kelly", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Kyle Lee", 
+            "player1points": 100, 
+            "player2": "Jim King", 
+            "player2points": 75, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bradley Ho", 
+            "player1points": 100, 
+            "player2": "Jonas Malapas", 
+            "player2points": 53, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Damon Jones", 
+            "player1points": 48, 
+            "player2": "Ryan Yee", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Joon Kim", 
+            "player1points": 100, 
+            "player2": "Philip Sandborn", 
+            "player2points": 51, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Robert Tenglin", 
+            "player1points": 0, 
+            "player2": "Kyle Meidell", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sebastien Demers", 
+            "player1points": 100, 
+            "player2": "Matt Steski", 
+            "player2points": 55, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nikki Barry", 
+            "player1points": 0, 
+            "player2": "Chris Norris", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nathan Horton", 
+            "player1points": 0, 
+            "player2": "Robin Sather", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bradley Riley", 
+            "player1points": 100, 
+            "player2": "Thomas Linville", 
+            "player2points": 59, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Patrick Mclard", 
+            "player1points": 22, 
+            "player2": "Matthew Lee", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Justin Brown", 
+            "player1points": 69, 
+            "player2": "Cole Bailey", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Joshua Mattison", 
+            "player1points": 100, 
+            "player2": "Bennett Kim", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "josh Freeland", 
+            "player1points": 30, 
+            "player2": "Blair Bunke", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Zachery Buntin", 
+            "player1points": 0, 
+            "player2": "James Kelly", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Conner Wells", 
+            "player1points": 100, 
+            "player2": "Colby Schmidt", 
+            "player2points": 68, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Eric Dignard", 
+            "player1points": 100, 
+            "player2": "Calen Wong", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Geoff Frost", 
+            "player1points": 100, 
+            "player2": "Ee Ern Low", 
+            "player2points": 17, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Joel Churchman", 
+            "player1points": 0, 
+            "player2": "Ernest Pasillas", 
+            "player2points": 52, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Cameron Harris", 
+            "player1points": 47, 
+            "player2": "David Lasserre", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Carson Sawatsky", 
+            "player1points": 100, 
+            "player2": "Eric Dietsch", 
+            "player2points": 29, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jake Freeland", 
+            "player1points": 0, 
+            "player2": "Andrew Clark", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Michael Adams", 
+            "player1points": 100, 
+            "player2": "Tyronne Broady", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Daniel Hope", 
+            "player1points": 100, 
+            "player2": "Samuel Wang", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "jacob freeland", 
+            "player1points": 0, 
+            "player2": "Doug Stone Weaver", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "David Tam", 
+            "player1points": 100, 
+            "player2": "Michael Trotter", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Patrick Cotter", 
+            "player1points": 100, 
+            "player2": "Chris Mason", 
+            "player2points": 38, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chris Graff", 
+            "player1points": 100, 
+            "player2": "Tom Wiggin", 
+            "player2points": 26, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Robin Sather", 
+            "player1points": 100, 
+            "player2": "Blair Bunke", 
+            "player2points": 0, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "elimination"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Justin Clapper", 
+            "player1points": 53, 
+            "player2": "Ernest Pasillas", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bradley Ho", 
+            "player1points": 100, 
+            "player2": "Daniel Hope", 
+            "player2points": 81, 
+            "result": "win"
+          }, 
+          {
+            "player1": "David Tam", 
+            "player1points": 100, 
+            "player2": "Geoff Frost", 
+            "player2points": 69, 
+            "result": "win"
+          }, 
+          {
+            "player1": "David Lasserre", 
+            "player1points": 42, 
+            "player2": "Blair Bunke", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Robin Sather", 
+            "player1points": 100, 
+            "player2": "Peter Auchterlonie", 
+            "player2points": 35, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chris Norris", 
+            "player1points": 37, 
+            "player2": "Damon Jones", 
+            "player2points": 68, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jeffrey Alexander", 
+            "player1points": 69, 
+            "player2": "Joshua Mattison", 
+            "player2points": 64, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Doug Stone Weaver", 
+            "player1points": 100, 
+            "player2": "Michael Adams", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nathan Flaming", 
+            "player1points": 43, 
+            "player2": "Andrew Clark", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Eric Dignard", 
+            "player1points": 57, 
+            "player2": "Kyle Meidell", 
+            "player2points": 60, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Cole Bailey", 
+            "player1points": 100, 
+            "player2": "Matthew Larose", 
+            "player2points": 31, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sebastien Demers", 
+            "player1points": 0, 
+            "player2": "Matthew Lee", 
+            "player2points": 63, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Carson Sawatsky", 
+            "player1points": 0, 
+            "player2": "Bradley Riley", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Steven Jesionowski", 
+            "player1points": 100, 
+            "player2": "Austin Johnson", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Conner Wells", 
+            "player1points": 100, 
+            "player2": "James Kelly", 
+            "player2points": 68, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Patrick Cotter", 
+            "player1points": 0, 
+            "player2": "Joon Kim", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chris Graff", 
+            "player1points": 100, 
+            "player2": "Patrick Boyle", 
+            "player2points": 6, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Shawn Ramberg", 
+            "player1points": 23, 
+            "player2": "Ryan Moore", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Kyle Lee", 
+            "player1points": 40, 
+            "player2": "Emmanuel Gambliel", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Matt Steski", 
+            "player1points": 0, 
+            "player2": "Michael Trotter", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chris Mason", 
+            "player1points": 52, 
+            "player2": "Jeremy Kelly", 
+            "player2points": 69, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Andrew Lauritzen", 
+            "player1points": 41, 
+            "player2": "Paul Vogel", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Eric Dietsch", 
+            "player1points": 52, 
+            "player2": "Timothy Pansch", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Luke Bunnell", 
+            "player1points": 67, 
+            "player2": "Kyle Smith", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nathan Horton", 
+            "player1points": 72, 
+            "player2": "Cameron Harris", 
+            "player2points": 62, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jake Mailhot", 
+            "player1points": 100, 
+            "player2": "Philip Sandborn", 
+            "player2points": 35, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tom Wiggin", 
+            "player1points": 69, 
+            "player2": "Joel Fadenrecht", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ee Ern Low", 
+            "player1points": 100, 
+            "player2": "Thomas Linville", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Joel Churchman", 
+            "player1points": 0, 
+            "player2": "Conor Dowley", 
+            "player2points": 77, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jonas Malapas", 
+            "player1points": 66, 
+            "player2": "Bennett Kim", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tyronne Broady", 
+            "player1points": 68, 
+            "player2": "Nikki Barry", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Justin Brown", 
+            "player1points": 84, 
+            "player2": "Calen Wong", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "William Wooldrige", 
+            "player1points": 81, 
+            "player2": "Ryan Yee", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Colby Schmidt", 
+            "player1points": 60, 
+            "player2": "Robert Tenglin", 
+            "player2points": 74, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jim King", 
+            "player1points": 67, 
+            "player2": "Patrick Mclard", 
+            "player2points": 52, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Samuel Wang", 
+            "player1points": 100, 
+            "player2": "Nels Postma", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Zachery Buntin", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Damon Jones", 
+            "player1points": 57, 
+            "player2": "Andrew Clark", 
+            "player2points": 62, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Kyle Meidell", 
+            "player1points": 0, 
+            "player2": "Bradley Ho", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chris Graff", 
+            "player1points": 32, 
+            "player2": "Robin Sather", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Blair Bunke", 
+            "player1points": 100, 
+            "player2": "Steven Jesionowski", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jeffrey Alexander", 
+            "player1points": 0, 
+            "player2": "Doug Stone Weaver", 
+            "player2points": 64, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Emmanuel Gambliel", 
+            "player1points": 0, 
+            "player2": "Conner Wells", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ernest Pasillas", 
+            "player1points": 100, 
+            "player2": "Cole Bailey", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Joon Kim", 
+            "player1points": 67, 
+            "player2": "David Tam", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bradley Riley", 
+            "player1points": 0, 
+            "player2": "Matthew Lee", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ryan Moore", 
+            "player1points": 55, 
+            "player2": "Peter Auchterlonie", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Eric Dignard", 
+            "player1points": 100, 
+            "player2": "James Kelly", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tom Wiggin", 
+            "player1points": 26, 
+            "player2": "Jim King", 
+            "player2points": 33, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Austin Johnson", 
+            "player1points": 42, 
+            "player2": "Shawn Ramberg", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Timothy Pansch", 
+            "player1points": 31, 
+            "player2": "Daniel Hope", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Conor Dowley", 
+            "player1points": 23, 
+            "player2": "Jake Mailhot", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Calen Wong", 
+            "player1points": 100, 
+            "player2": "Michael Trotter", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "William Wooldrige", 
+            "player1points": 0, 
+            "player2": "Geoff Frost", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Kyle Lee", 
+            "player1points": 64, 
+            "player2": "Chris Norris", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nathan Flaming", 
+            "player1points": 0, 
+            "player2": "Ee Ern Low", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Joshua Mattison", 
+            "player1points": 100, 
+            "player2": "Luke Bunnell", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Paul Vogel", 
+            "player1points": 100, 
+            "player2": "Nikki Barry", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "David Lasserre", 
+            "player1points": 100, 
+            "player2": "Robert Tenglin", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jeremy Kelly", 
+            "player1points": 0, 
+            "player2": "Patrick Cotter", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nathan Horton", 
+            "player1points": 33, 
+            "player2": "Samuel Wang", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Michael Adams", 
+            "player1points": 0, 
+            "player2": "Justin Clapper", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sebastien Demers", 
+            "player1points": 100, 
+            "player2": "Carson Sawatsky", 
+            "player2points": 37, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Matthew Larose", 
+            "player1points": 81, 
+            "player2": "Zachery Buntin", 
+            "player2points": 69, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bennett Kim", 
+            "player1points": 74, 
+            "player2": "Patrick Boyle", 
+            "player2points": 33, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Eric Dietsch", 
+            "player1points": 62, 
+            "player2": "Andrew Lauritzen", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Joel Churchman", 
+            "player1points": 24, 
+            "player2": "Thomas Linville", 
+            "player2points": 77, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Matt Steski", 
+            "player1points": 32, 
+            "player2": "Joel Fadenrecht", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chris Mason", 
+            "player1points": 100, 
+            "player2": "Kyle Smith", 
+            "player2points": 63, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jonas Malapas", 
+            "player1points": 72, 
+            "player2": "Colby Schmidt", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nels Postma", 
+            "player1points": 0, 
+            "player2": "Ryan Yee", 
+            "player2points": 27, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Cameron Harris", 
+            "player1points": 100, 
+            "player2": "Philip Sandborn", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Patrick Mclard", 
+            "player1points": 100, 
+            "player2": "Tyronne Broady", 
+            "player2points": 23, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Conner Wells", 
+            "player1points": 31, 
+            "player2": "Ernest Pasillas", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Blair Bunke", 
+            "player1points": 32, 
+            "player2": "Robin Sather", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "David Tam", 
+            "player1points": 100, 
+            "player2": "Doug Stone Weaver", 
+            "player2points": 36, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Matthew Lee", 
+            "player1points": 100, 
+            "player2": "Andrew Clark", 
+            "player2points": 22, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bradley Ho", 
+            "player1points": 100, 
+            "player2": "Damon Jones", 
+            "player2points": 26, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Steven Jesionowski", 
+            "player1points": 55, 
+            "player2": "Sebastien Demers", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ryan Moore", 
+            "player1points": 100, 
+            "player2": "Eric Dignard", 
+            "player2points": 59, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Shawn Ramberg", 
+            "player1points": 100, 
+            "player2": "Justin Clapper", 
+            "player2points": 42, 
+            "result": "win"
+          }, 
+          {
+            "player1": "David Lasserre", 
+            "player1points": 100, 
+            "player2": "Samuel Wang", 
+            "player2points": 52, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Patrick Cotter", 
+            "player1points": 59, 
+            "player2": "Kyle Lee", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jeffrey Alexander", 
+            "player1points": 69, 
+            "player2": "Cole Bailey", 
+            "player2points": 64, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chris Graff", 
+            "player1points": 0, 
+            "player2": "Joon Kim", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Peter Auchterlonie", 
+            "player1points": 22, 
+            "player2": "Ee Ern Low", 
+            "player2points": 55, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Paul Vogel", 
+            "player1points": 100, 
+            "player2": "Calen Wong", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Matthew Larose", 
+            "player1points": 100, 
+            "player2": "Jake Mailhot", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bennett Kim", 
+            "player1points": 31, 
+            "player2": "Daniel Hope", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Joshua Mattison", 
+            "player1points": 0, 
+            "player2": "Bradley Riley", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Geoff Frost", 
+            "player1points": 0, 
+            "player2": "Kyle Meidell", 
+            "player2points": 40, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jim King", 
+            "player1points": 40, 
+            "player2": "Emmanuel Gambliel", 
+            "player2points": 26, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Matthew Lee", 
+            "player1points": 0, 
+            "player2": "Robin Sather", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bradley Ho", 
+            "player1points": 0, 
+            "player2": "Blair Bunke", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "elimination"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Matthew Lee", 
+            "player1points": 32, 
+            "player2": "Robin Sather", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "David Tam", 
+            "player1points": 100, 
+            "player2": "Ernest Pasillas", 
+            "player2points": 69, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bradley Ho", 
+            "player1points": 100, 
+            "player2": "Andrew Clark", 
+            "player2points": 27, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Shawn Ramberg", 
+            "player1points": 57, 
+            "player2": "David Lasserre", 
+            "player2points": 68, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ryan Moore", 
+            "player1points": 45, 
+            "player2": "Matthew Larose", 
+            "player2points": 59, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sebastien Demers", 
+            "player1points": 59, 
+            "player2": "Kyle Lee", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jeffrey Alexander", 
+            "player1points": 100, 
+            "player2": "Joon Kim", 
+            "player2points": 77, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Doug Stone Weaver", 
+            "player1points": 100, 
+            "player2": "Conner Wells", 
+            "player2points": 33, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Blair Bunke", 
+            "player1points": 74, 
+            "player2": "Jim King", 
+            "player2points": 48, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ee Ern Low", 
+            "player1points": 70, 
+            "player2": "Kyle Meidell", 
+            "player2points": 22, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bradley Riley", 
+            "player1points": 0, 
+            "player2": "Daniel Hope", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Paul Vogel", 
+            "player1points": 100, 
+            "player2": "Bennett Kim", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Geoff Frost", 
+            "player1points": 37, 
+            "player2": "Damon Jones", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Samuel Wang", 
+            "player1points": 100, 
+            "player2": "Peter Auchterlonie", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Patrick Cotter", 
+            "player1points": 62, 
+            "player2": "Steven Jesionowski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Eric Dignard", 
+            "player1points": 100, 
+            "player2": "Emmanuel Gambliel", 
+            "player2points": 26, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jake Mailhot", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 5, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Robin Sather", 
+            "player1points": 100, 
+            "player2": "David Tam", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bradley Ho", 
+            "player1points": 70, 
+            "player2": "David Lasserre", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ee Ern Low", 
+            "player1points": 53, 
+            "player2": "Jeffrey Alexander", 
+            "player2points": 33, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Matthew Lee", 
+            "player1points": 100, 
+            "player2": "Daniel Hope", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ernest Pasillas", 
+            "player1points": 21, 
+            "player2": "Matthew Larose", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Blair Bunke", 
+            "player1points": 100, 
+            "player2": "Paul Vogel", 
+            "player2points": 42, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Doug Stone Weaver", 
+            "player1points": 100, 
+            "player2": "Kyle Lee", 
+            "player2points": 33, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Steven Jesionowski", 
+            "player1points": 100, 
+            "player2": "Jake Mailhot", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Eric Dignard", 
+            "player1points": 100, 
+            "player2": "Sebastien Demers", 
+            "player2points": 40, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bradley Riley", 
+            "player1points": 100, 
+            "player2": "Samuel Wang", 
+            "player2points": 41, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Damon Jones", 
+            "player1points": 100, 
+            "player2": "Kyle Meidell", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ryan Moore", 
+            "player1points": 100, 
+            "player2": "Emmanuel Gambliel", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Cole Bailey", 
+            "player1points": 0, 
+            "player2": "Geoff Frost", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Peter Auchterlonie", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 6, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "David Lasserre", 
+            "player1points": 100, 
+            "player2": "David Tam", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Blair Bunke", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }, 
+          {
+            "player1": "Bradley Ho", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }, 
+          {
+            "player1": "Doug Stone Weaver", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }, 
+          {
+            "player1": "Ee Ern Low", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }, 
+          {
+            "player1": "Matthew Larose", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }, 
+          {
+            "player1": "Matthew Lee", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }, 
+          {
+            "player1": "Robin Sather", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 7, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Matthew Lee", 
+            "player1points": 100, 
+            "player2": "Matthew Larose", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Robin Sather", 
+            "player1points": 100, 
+            "player2": "David Lasserre", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bradley Ho", 
+            "player1points": 100, 
+            "player2": "Ee Ern Low", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Doug Stone Weaver", 
+            "player1points": 0, 
+            "player2": "Blair Bunke", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 8, 
+        "round-type": "elimination"
+      }
+    ], 
+    "type": "System Open", 
+    "venue": {
+      "city": "Seattle", 
+      "country": "United States of America", 
+      "lat": "47.603832100000", 
+      "lon": "-122.330062400000", 
+      "name": "", 
+      "state": "Washington"
+    }, 
+    "video_url": "http://"
+  }
+}

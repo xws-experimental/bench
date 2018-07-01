@@ -1,0 +1,779 @@
+{
+  "tournament": {
+    "date": "2018-06-30", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4462, 
+    "name": "Store Championship", 
+    "players": [
+      {
+        "mov": 828, 
+        "name": "Matt Cary", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 1
+        }, 
+        "score": 5, 
+        "sos": "0.60"
+      }, 
+      {
+        "mov": 807, 
+        "name": "Matt Evans", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 2
+        }, 
+        "score": 4, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 766, 
+        "name": "Tim Wertin", 
+        "rank": {
+          "elimination": 2, 
+          "swiss": 3
+        }, 
+        "score": 4, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 721, 
+        "name": "Will Barnickel", 
+        "rank": {
+          "elimination": 1, 
+          "swiss": 4
+        }, 
+        "score": 4, 
+        "sos": "0.60"
+      }, 
+      {
+        "mov": 712, 
+        "name": "Ryan Bell", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 4, 
+        "sos": "0.76"
+      }, 
+      {
+        "mov": 619, 
+        "name": "Tim Oursler", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 3, 
+        "sos": "0.48"
+      }, 
+      {
+        "mov": 591, 
+        "name": "Marty Motz", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 3, 
+        "sos": "0.32"
+      }, 
+      {
+        "mov": 585, 
+        "name": "Chris Kerasotes", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 3, 
+        "sos": "0.48"
+      }, 
+      {
+        "mov": 544, 
+        "name": "Joshua Stechschulte", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 3, 
+        "sos": "0.60"
+      }, 
+      {
+        "mov": 533, 
+        "name": "Jacob O'Russa", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 3, 
+        "sos": "0.60"
+      }, 
+      {
+        "mov": 514, 
+        "name": "Lencho Rubio", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 3, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 508, 
+        "name": "Mason Moessmer", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 3, 
+        "sos": "0.40"
+      }, 
+      {
+        "mov": 454, 
+        "name": "Kevin O'Leary", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 600, 
+        "name": "Joe Sipka", 
+        "rank": {
+          "swiss": 14
+        }, 
+        "score": 2, 
+        "sos": "0.32"
+      }, 
+      {
+        "mov": 440, 
+        "name": "Nick Mock", 
+        "rank": {
+          "swiss": 15
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 412, 
+        "name": "Chris Earp", 
+        "rank": {
+          "swiss": 16
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 395, 
+        "name": "Clay Cone", 
+        "rank": {
+          "swiss": 17
+        }, 
+        "score": 2, 
+        "sos": "0.48"
+      }, 
+      {
+        "mov": 392, 
+        "name": "Carrie Favela", 
+        "rank": {
+          "swiss": 18
+        }, 
+        "score": 2, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 376, 
+        "name": "Kevin Collins", 
+        "rank": {
+          "swiss": 19
+        }, 
+        "score": 2, 
+        "sos": "0.48"
+      }, 
+      {
+        "mov": 368, 
+        "name": "Jared Phares", 
+        "rank": {
+          "swiss": 20
+        }, 
+        "score": 2, 
+        "sos": "0.40"
+      }, 
+      {
+        "mov": 363, 
+        "name": "Alex Bell", 
+        "rank": {
+          "swiss": 21
+        }, 
+        "score": 2, 
+        "sos": "0.48"
+      }, 
+      {
+        "mov": 415, 
+        "name": "Patrick Shaw", 
+        "rank": {
+          "swiss": 22
+        }, 
+        "score": 1, 
+        "sos": "0.40"
+      }, 
+      {
+        "mov": 394, 
+        "name": "Joe Dumey", 
+        "rank": {
+          "swiss": 23
+        }, 
+        "score": 1, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 244, 
+        "name": "AJ Wetton", 
+        "rank": {
+          "swiss": 24
+        }, 
+        "score": 1, 
+        "sos": "0.40"
+      }, 
+      {
+        "mov": 222, 
+        "name": "Ethan Morrissey", 
+        "rank": {
+          "swiss": 25
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 197, 
+        "name": "Harold Larson", 
+        "rank": {
+          "swiss": 26
+        }, 
+        "score": 0, 
+        "sos": "0.44"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Chris Kerasotes", 
+            "player1points": 100, 
+            "player2": "Harold Larson", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ryan Bell", 
+            "player1points": 100, 
+            "player2": "Tim Wertin", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ethan Morrissey", 
+            "player1points": 100, 
+            "player2": "AJ Wetton", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Kevin O'Leary", 
+            "player1points": 27, 
+            "player2": "Matt Evans", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Joshua Stechschulte", 
+            "player1points": 66, 
+            "player2": "Alex Bell", 
+            "player2points": 25, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chris Earp", 
+            "player1points": 100, 
+            "player2": "Mason Moessmer", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lencho Rubio", 
+            "player1points": 24, 
+            "player2": "Matt Cary", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tim Oursler", 
+            "player1points": 71, 
+            "player2": "Joe Sipka", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marty Motz", 
+            "player1points": 25, 
+            "player2": "Jacob O'Russa", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Carrie Favela", 
+            "player1points": 100, 
+            "player2": "Joe Dumey", 
+            "player2points": 62, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jared Phares", 
+            "player1points": 71, 
+            "player2": "Patrick Shaw", 
+            "player2points": 67, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nick Mock", 
+            "player1points": 76, 
+            "player2": "Kevin Collins", 
+            "player2points": 46, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Will Barnickel", 
+            "player1points": 100, 
+            "player2": "Clay Cone", 
+            "player2points": 20, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Joshua Stechschulte", 
+            "player1points": 100, 
+            "player2": "Carrie Favela", 
+            "player2points": 41, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chris Kerasotes", 
+            "player1points": 100, 
+            "player2": "Ethan Morrissey", 
+            "player2points": 33, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Matt Evans", 
+            "player1points": 100, 
+            "player2": "Jared Phares", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chris Earp", 
+            "player1points": 76, 
+            "player2": "Matt Cary", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Will Barnickel", 
+            "player1points": 67, 
+            "player2": "Tim Oursler", 
+            "player2points": 20, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nick Mock", 
+            "player1points": 34, 
+            "player2": "Ryan Bell", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jacob O'Russa", 
+            "player1points": 100, 
+            "player2": "Clay Cone", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marty Motz", 
+            "player1points": 81, 
+            "player2": "Kevin Collins", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Kevin O'Leary", 
+            "player1points": 100, 
+            "player2": "Mason Moessmer", 
+            "player2points": 78, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lencho Rubio", 
+            "player1points": 65, 
+            "player2": "Patrick Shaw", 
+            "player2points": 52, 
+            "result": "win"
+          }, 
+          {
+            "player1": "AJ Wetton", 
+            "player1points": 28, 
+            "player2": "Joe Sipka", 
+            "player2points": 24, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tim Wertin", 
+            "player1points": 100, 
+            "player2": "Joe Dumey", 
+            "player2points": 37, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alex Bell", 
+            "player1points": 70, 
+            "player2": "Harold Larson", 
+            "player2points": 66, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Will Barnickel", 
+            "player1points": 80, 
+            "player2": "Tim Wertin", 
+            "player2points": 20, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "elimination"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Jacob O'Russa", 
+            "player1points": 0, 
+            "player2": "Matt Cary", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Will Barnickel", 
+            "player1points": 100, 
+            "player2": "Chris Kerasotes", 
+            "player2points": 20, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Matt Evans", 
+            "player1points": 34, 
+            "player2": "Ryan Bell", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Joshua Stechschulte", 
+            "player1points": 100, 
+            "player2": "Kevin Collins", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Kevin O'Leary", 
+            "player1points": 0, 
+            "player2": "Tim Wertin", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tim Oursler", 
+            "player1points": 31, 
+            "player2": "Carrie Favela", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alex Bell", 
+            "player1points": 100, 
+            "player2": "Jared Phares", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ethan Morrissey", 
+            "player1points": 23, 
+            "player2": "Lencho Rubio", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nick Mock", 
+            "player1points": 100, 
+            "player2": "AJ Wetton", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chris Earp", 
+            "player1points": 0, 
+            "player2": "Joe Dumey", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marty Motz", 
+            "player1points": 100, 
+            "player2": "Patrick Shaw", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mason Moessmer", 
+            "player1points": 100, 
+            "player2": "Clay Cone", 
+            "player2points": 37, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Joe Sipka", 
+            "player1points": 100, 
+            "player2": "Harold Larson", 
+            "player2points": 0, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Ryan Bell", 
+            "player1points": 100, 
+            "player2": "Will Barnickel", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Joshua Stechschulte", 
+            "player1points": 24, 
+            "player2": "Matt Cary", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Matt Evans", 
+            "player1points": 100, 
+            "player2": "Nick Mock", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alex Bell", 
+            "player1points": 0, 
+            "player2": "Tim Wertin", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jacob O'Russa", 
+            "player1points": 33, 
+            "player2": "Chris Kerasotes", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Carrie Favela", 
+            "player1points": 0, 
+            "player2": "Lencho Rubio", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chris Earp", 
+            "player1points": 100, 
+            "player2": "Jared Phares", 
+            "player2points": 64, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tim Oursler", 
+            "player1points": 100, 
+            "player2": "Kevin Collins", 
+            "player2points": 36, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Joe Dumey", 
+            "player1points": 22, 
+            "player2": "Kevin O'Leary", 
+            "player2points": 27, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mason Moessmer", 
+            "player1points": 43, 
+            "player2": "AJ Wetton", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Joe Sipka", 
+            "player1points": 100, 
+            "player2": "Ethan Morrissey", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marty Motz", 
+            "player1points": 100, 
+            "player2": "Harold Larson", 
+            "player2points": 37, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Clay Cone", 
+            "player1points": 100, 
+            "player2": "Patrick Shaw", 
+            "player2points": 62, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Matt Cary", 
+            "player1points": 20, 
+            "player2": "Will Barnickel", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Matt Evans", 
+            "player1points": 31, 
+            "player2": "Tim Wertin", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "elimination"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Matt Cary", 
+            "player1points": 100, 
+            "player2": "Ryan Bell", 
+            "player2points": 48, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Will Barnickel", 
+            "player1points": 100, 
+            "player2": "Joshua Stechschulte", 
+            "player2points": 20, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lencho Rubio", 
+            "player1points": 0, 
+            "player2": "Matt Evans", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tim Wertin", 
+            "player1points": 100, 
+            "player2": "Chris Kerasotes", 
+            "player2points": 31, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mason Moessmer", 
+            "player1points": 100, 
+            "player2": "Nick Mock", 
+            "player2points": 76, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tim Oursler", 
+            "player1points": 100, 
+            "player2": "Alex Bell", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marty Motz", 
+            "player1points": 100, 
+            "player2": "Carrie Favela", 
+            "player2points": 44, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jacob O'Russa", 
+            "player1points": 100, 
+            "player2": "Joe Sipka", 
+            "player2points": 75, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Kevin O'Leary", 
+            "player1points": 100, 
+            "player2": "Chris Earp", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Clay Cone", 
+            "player1points": 100, 
+            "player2": "Joe Dumey", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Kevin Collins", 
+            "player1points": 100, 
+            "player2": "AJ Wetton", 
+            "player2points": 49, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ethan Morrissey", 
+            "player1points": 0, 
+            "player2": "Jared Phares", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Patrick Shaw", 
+            "player1points": 100, 
+            "player2": "Harold Larson", 
+            "player2points": 64, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 5, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "Springfield", 
+      "country": "United States of America", 
+      "lat": "39.798976300000", 
+      "lon": "-89.644368800000", 
+      "name": "Titan Games", 
+      "state": "Illinois"
+    }, 
+    "video_url": "http://"
+  }
+}
