@@ -849,33 +849,33 @@
         "sos": "0.67"
       }, 
       {
-        "mov": 1187, 
+        "mov": 1037, 
         "name": "Robin Sather", 
         "rank": {
           "elimination": 1, 
           "swiss": 1
         }, 
-        "score": 7, 
+        "score": 6, 
         "sos": "0.63"
       }, 
       {
-        "mov": 1101, 
+        "mov": 951, 
         "name": "Matthew Lee", 
         "rank": {
           "elimination": 4, 
           "swiss": 2
         }, 
-        "score": 6, 
+        "score": 5, 
         "sos": "0.63"
       }, 
       {
-        "mov": 1084, 
+        "mov": 934, 
         "name": "Doug Stone Weaver", 
         "rank": {
           "elimination": 8, 
           "swiss": 3
         }, 
-        "score": 6, 
+        "score": 5, 
         "sos": "0.50"
       }, 
       {
@@ -937,24 +937,14 @@
           }, 
           "version": "4.2.0"
         }, 
-        "mov": 1033, 
+        "mov": 883, 
         "name": "Bradley Ho", 
         "rank": {
           "elimination": 4, 
           "swiss": 4
         }, 
-        "score": 6, 
+        "score": 5, 
         "sos": "0.55"
-      }, 
-      {
-        "mov": 984, 
-        "name": "David Lasserre", 
-        "rank": {
-          "elimination": 8, 
-          "swiss": 5
-        }, 
-        "score": 6, 
-        "sos": "0.60"
       }, 
       {
         "list": {
@@ -1015,23 +1005,23 @@
           }, 
           "version": "4.2.0"
         }, 
-        "mov": 968, 
+        "mov": 818, 
         "name": "Ee Ern Low", 
         "rank": {
           "elimination": 8, 
-          "swiss": 6
+          "swiss": 5
         }, 
-        "score": 6, 
+        "score": 5, 
         "sos": "0.47"
       }, 
       {
-        "mov": 962, 
+        "mov": 812, 
         "name": "Blair Bunke", 
         "rank": {
           "elimination": 2, 
-          "swiss": 7
+          "swiss": 6
         }, 
-        "score": 6, 
+        "score": 5, 
         "sos": "0.63"
       }, 
       {
@@ -1096,23 +1086,33 @@
           }, 
           "version": "4.2.0"
         }, 
-        "mov": 914, 
+        "mov": 804, 
         "name": "Matthew Larose", 
         "rank": {
           "elimination": 8, 
-          "swiss": 8
+          "swiss": 7
         }, 
-        "score": 6, 
+        "score": 5, 
         "sos": "0.48"
       }, 
       {
         "mov": 791, 
         "name": "David Tam", 
         "rank": {
-          "swiss": 9
+          "swiss": 8
         }, 
         "score": 5, 
         "sos": "0.69"
+      }, 
+      {
+        "mov": 784, 
+        "name": "David Lasserre", 
+        "rank": {
+          "elimination": 8, 
+          "swiss": 9
+        }, 
+        "score": 5, 
+        "sos": "0.60"
       }
     ], 
     "round_length": 75, 
@@ -2319,7 +2319,7 @@
             "player1": "David Lasserre", 
             "player1points": 100, 
             "player2": "David Tam", 
-            "player2points": 0, 
+            "player2points": 73, 
             "result": "win"
           }, 
           {

@@ -1,0 +1,1424 @@
+{
+  "tournament": {
+    "date": "2018-06-30", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4465, 
+    "name": "DracheNaescht Store Championship 2018", 
+    "players": [
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r2astromech"
+                ], 
+                "crew": [
+                  "sabinewren"
+                ], 
+                "ept": [
+                  "elusiveness"
+                ], 
+                "mod": [
+                  "pulsedrayshield"
+                ]
+              }
+            }, 
+            {
+              "name": "crimsonspecialist", 
+              "ship": "bsf17bomber", 
+              "upgrades": {
+                "bomb": [
+                  "thermaldetonators", 
+                  "ordnancesilos"
+                ], 
+                "mod": [
+                  "deflectiveplating"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 760, 
+        "name": "Martin Espinal", 
+        "rank": {
+          "elimination": 1, 
+          "swiss": 1
+        }, 
+        "score": 5, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "thermaldetonators", 
+                  "ionbombs"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator", 
+                  "proximitymines"
+                ], 
+                "crew": [
+                  "sabinewren"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 753, 
+        "name": "Lukas Bollack", 
+        "rank": {
+          "elimination": 2, 
+          "swiss": 2
+        }, 
+        "score": 4, 
+        "sos": "0.60"
+      }, 
+      {
+        "mov": 749, 
+        "name": "Timon Knechtenhofer", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 3
+        }, 
+        "score": 4, 
+        "sos": "0.72"
+      }, 
+      {
+        "mov": 726, 
+        "name": "Sascha Konrad", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 4
+        }, 
+        "score": 4, 
+        "sos": "0.48"
+      }, 
+      {
+        "mov": 625, 
+        "name": "Roger Bussinger", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 4, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 594, 
+        "name": "Michael Frochaux", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 3, 
+        "sos": "0.40"
+      }, 
+      {
+        "mov": 587, 
+        "name": "Robert Perrin", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 584, 
+        "name": "Lionel Mueller", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 3, 
+        "sos": "0.48"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "sienarjaemusanalyst", 
+              "ship": "tiesilencer", 
+              "upgrades": {
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ]
+              }
+            }, 
+            {
+              "name": "sienarjaemusanalyst", 
+              "ship": "tiesilencer", 
+              "upgrades": {
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 578, 
+        "name": "Guido Gloor", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 3, 
+        "sos": "0.60"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "sabinewren"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "thermaldetonators", 
+                  "protonbombs"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 574, 
+        "name": "Erik Schetters", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 488, 
+        "name": "Patrik Pfister", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 3, 
+        "sos": "0.40"
+      }, 
+      {
+        "mov": 467, 
+        "name": "Samuel Mueller", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 414, 
+        "name": "Stephan Mueller", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 3, 
+        "sos": "0.68"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "captainyorr", 
+              "ship": "lambdaclassshuttle", 
+              "upgrades": {
+                "crew": [
+                  "emperorpalpatine"
+                ], 
+                "system": [
+                  "collisiondetector"
+                ]
+              }
+            }, 
+            {
+              "name": "theinquisitor", 
+              "ship": "tieadvprototype", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "tiev1"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 567, 
+        "name": "Fritz Arn", 
+        "rank": {
+          "swiss": 14
+        }, 
+        "score": 2, 
+        "sos": "0.40"
+      }, 
+      {
+        "mov": 519, 
+        "name": "Andrea Zaffalon", 
+        "rank": {
+          "swiss": 15
+        }, 
+        "score": 2, 
+        "sos": "0.60"
+      }, 
+      {
+        "mov": 486, 
+        "name": "Simon Bettschen", 
+        "rank": {
+          "swiss": 16
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "goldsquadronpilot", 
+              "ship": "ywing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "title": [
+                  "btla4ywing"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "goldsquadronpilot", 
+              "ship": "ywing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "title": [
+                  "btla4ywing"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "jesspava", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "integratedastromech"
+                ], 
+                "tech": [
+                  "primedthrusters"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "m9g8"
+                ], 
+                "crew": [
+                  "weaponsengineer"
+                ], 
+                "ept": [
+                  "trickshot"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 472, 
+        "name": "Cyril Bucher", 
+        "rank": {
+          "swiss": 17
+        }, 
+        "score": 2, 
+        "sos": "0.32"
+      }, 
+      {
+        "mov": 429, 
+        "name": "Michael Holzer", 
+        "rank": {
+          "swiss": 18
+        }, 
+        "score": 2, 
+        "sos": "0.40"
+      }, 
+      {
+        "mov": 425, 
+        "name": "Fabian Palm", 
+        "rank": {
+          "swiss": 19
+        }, 
+        "score": 2, 
+        "sos": "0.60"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "poedameron-swx57", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "bb8"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "blackone"
+                ]
+              }
+            }, 
+            {
+              "name": "wedgeantilles", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "integratedastromech"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "crew": [
+                  "hotshotcopilot"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 401, 
+        "name": "Christoph Kaeubler", 
+        "rank": {
+          "swiss": 20
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "goldsquadronpilot", 
+              "ship": "ywing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "title": [
+                  "btla4ywing"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "goldsquadronpilot", 
+              "ship": "ywing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "title": [
+                  "btla4ywing"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "jesspava", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "integratedastromech"
+                ], 
+                "tech": [
+                  "primedthrusters"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "m9g8"
+                ], 
+                "crew": [
+                  "weaponsengineer"
+                ], 
+                "ept": [
+                  "trickshot"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 329, 
+        "name": "Andre Gloor", 
+        "rank": {
+          "swiss": 21
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 385, 
+        "name": "Markus Piller", 
+        "rank": {
+          "swiss": 22
+        }, 
+        "score": 1, 
+        "sos": "0.60"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "thermaldetonators"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ]
+              }
+            }, 
+            {
+              "name": "captainjostero", 
+              "ship": "kihraxzfighter", 
+              "upgrades": {
+                "missile": [
+                  "concussionmissiles"
+                ], 
+                "mod": [
+                  "guidancechips", 
+                  "munitionsfailsafe"
+                ], 
+                "title": [
+                  "vaksai"
+                ]
+              }
+            }, 
+            {
+              "name": "toranikulda", 
+              "ship": "m12lkimogilafighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 340, 
+        "name": "Loris Arn", 
+        "rank": {
+          "swiss": 23
+        }, 
+        "score": 1, 
+        "sos": "0.36"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "zeborrelios", 
+              "ship": "attackshuttle", 
+              "upgrades": {
+                "crew": [
+                  "chopper"
+                ], 
+                "title": [
+                  "phantom"
+                ]
+              }
+            }, 
+            {
+              "name": "lothalrebel", 
+              "ship": "vcx100", 
+              "upgrades": {
+                "crew": [
+                  "maul", 
+                  "ezrabridger"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "sensorjammer"
+                ], 
+                "title": [
+                  "ghost"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "crew": [
+                  "hotshotcopilot"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 272, 
+        "name": "Fabian Zaech", 
+        "rank": {
+          "swiss": 24
+        }, 
+        "score": 1, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 213, 
+        "name": "Renato Meisser", 
+        "rank": {
+          "swiss": 25
+        }, 
+        "score": 1, 
+        "sos": "0.28"
+      }, 
+      {
+        "mov": 263, 
+        "name": "Andrea Leibundgut", 
+        "rank": {
+          "swiss": 26
+        }, 
+        "score": 0, 
+        "sos": "0.44"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Renato Meisser", 
+            "player1points": 53, 
+            "player2": "Fabian Zaech", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Fabian Palm", 
+            "player1points": 0, 
+            "player2": "Martin Espinal", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Robert Perrin", 
+            "player1points": 25, 
+            "player2": "Cyril Bucher", 
+            "player2points": 14, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Christoph Kaeubler", 
+            "player1points": 0, 
+            "player2": "Sascha Konrad", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Guido Gloor", 
+            "player1points": 46, 
+            "player2": "Roger Bussinger", 
+            "player2points": 68, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Markus Piller", 
+            "player1points": 100, 
+            "player2": "Erik Schetters", 
+            "player2points": 41, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Stephan Mueller", 
+            "player1points": 62, 
+            "player2": "Simon Bettschen", 
+            "player2points": 47, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Andrea Zaffalon", 
+            "player1points": 100, 
+            "player2": "Michael Frochaux", 
+            "player2points": 27, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Andrea Leibundgut", 
+            "player1points": 46, 
+            "player2": "Patrik Pfister", 
+            "player2points": 76, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Loris Arn", 
+            "player1points": 38, 
+            "player2": "Michael Holzer", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lionel Mueller", 
+            "player1points": 69, 
+            "player2": "Timon Knechtenhofer", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Andre Gloor", 
+            "player1points": 31, 
+            "player2": "Samuel Mueller", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Fritz Arn", 
+            "player1points": 49, 
+            "player2": "Lukas Bollack", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Andrea Zaffalon", 
+            "player1points": 58, 
+            "player2": "Martin Espinal", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sascha Konrad", 
+            "player1points": 0, 
+            "player2": "Timon Knechtenhofer", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Roger Bussinger", 
+            "player1points": 100, 
+            "player2": "Markus Piller", 
+            "player2points": 46, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lukas Bollack", 
+            "player1points": 100, 
+            "player2": "Fabian Zaech", 
+            "player2points": 49, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Patrik Pfister", 
+            "player1points": 32, 
+            "player2": "Stephan Mueller", 
+            "player2points": 46, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Michael Holzer", 
+            "player1points": 24, 
+            "player2": "Robert Perrin", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Samuel Mueller", 
+            "player1points": 32, 
+            "player2": "Guido Gloor", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Erik Schetters", 
+            "player1points": 100, 
+            "player2": "Renato Meisser", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Michael Frochaux", 
+            "player1points": 100, 
+            "player2": "Christoph Kaeubler", 
+            "player2points": 55, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Fritz Arn", 
+            "player1points": 60, 
+            "player2": "Fabian Palm", 
+            "player2points": 69, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Simon Bettschen", 
+            "player1points": 100, 
+            "player2": "Cyril Bucher", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lionel Mueller", 
+            "player1points": 100, 
+            "player2": "Andrea Leibundgut", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Loris Arn", 
+            "player1points": 52, 
+            "player2": "Andre Gloor", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Martin Espinal", 
+            "player1points": 100, 
+            "player2": "Lukas Bollack", 
+            "player2points": 41, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "elimination"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Martin Espinal", 
+            "player1points": 76, 
+            "player2": "Robert Perrin", 
+            "player2points": 24, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Stephan Mueller", 
+            "player1points": 28, 
+            "player2": "Roger Bussinger", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lukas Bollack", 
+            "player1points": 100, 
+            "player2": "Timon Knechtenhofer", 
+            "player2points": 49, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Guido Gloor", 
+            "player1points": 100, 
+            "player2": "Fabian Palm", 
+            "player2points": 68, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Andre Gloor", 
+            "player1points": 100, 
+            "player2": "Fabian Zaech", 
+            "player2points": 50, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Erik Schetters", 
+            "player1points": 100, 
+            "player2": "Andrea Zaffalon", 
+            "player2points": 46, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Simon Bettschen", 
+            "player1points": 100, 
+            "player2": "Samuel Mueller", 
+            "player2points": 31, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Michael Frochaux", 
+            "player1points": 100, 
+            "player2": "Markus Piller", 
+            "player2points": 55, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Michael Holzer", 
+            "player1points": 44, 
+            "player2": "Lionel Mueller", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sascha Konrad", 
+            "player1points": 100, 
+            "player2": "Patrik Pfister", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Christoph Kaeubler", 
+            "player1points": 100, 
+            "player2": "Cyril Bucher", 
+            "player2points": 58, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Renato Meisser", 
+            "player1points": 27, 
+            "player2": "Loris Arn", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Fritz Arn", 
+            "player1points": 100, 
+            "player2": "Andrea Leibundgut", 
+            "player2points": 69, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Lukas Bollack", 
+            "player1points": 100, 
+            "player2": "Martin Espinal", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Roger Bussinger", 
+            "player1points": 0, 
+            "player2": "Timon Knechtenhofer", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Stephan Mueller", 
+            "player1points": 55, 
+            "player2": "Michael Frochaux", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Robert Perrin", 
+            "player1points": 52, 
+            "player2": "Erik Schetters", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lionel Mueller", 
+            "player1points": 100, 
+            "player2": "Simon Bettschen", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Guido Gloor", 
+            "player1points": 100, 
+            "player2": "Andre Gloor", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sascha Konrad", 
+            "player1points": 100, 
+            "player2": "Fabian Zaech", 
+            "player2points": 26, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Christoph Kaeubler", 
+            "player1points": 100, 
+            "player2": "Michael Holzer", 
+            "player2points": 68, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Loris Arn", 
+            "player1points": 27, 
+            "player2": "Andrea Zaffalon", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Markus Piller", 
+            "player1points": 56, 
+            "player2": "Patrik Pfister", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Fritz Arn", 
+            "player1points": 65, 
+            "player2": "Samuel Mueller", 
+            "player2points": 69, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Fabian Palm", 
+            "player1points": 100, 
+            "player2": "Renato Meisser", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Andrea Leibundgut", 
+            "player1points": 25, 
+            "player2": "Cyril Bucher", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Martin Espinal", 
+            "player1points": 100, 
+            "player2": "Sascha Konrad", 
+            "player2points": 58, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lukas Bollack", 
+            "player1points": 100, 
+            "player2": "Timon Knechtenhofer", 
+            "player2points": 49, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "elimination"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Martin Espinal", 
+            "player1points": 100, 
+            "player2": "Stephan Mueller", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lionel Mueller", 
+            "player1points": 23, 
+            "player2": "Roger Bussinger", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Timon Knechtenhofer", 
+            "player1points": 100, 
+            "player2": "Erik Schetters", 
+            "player2points": 31, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lukas Bollack", 
+            "player1points": 100, 
+            "player2": "Guido Gloor", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sascha Konrad", 
+            "player1points": 100, 
+            "player2": "Fabian Palm", 
+            "player2points": 48, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Christoph Kaeubler", 
+            "player1points": 72, 
+            "player2": "Patrik Pfister", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Simon Bettschen", 
+            "player1points": 0, 
+            "player2": "Robert Perrin", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Samuel Mueller", 
+            "player1points": 100, 
+            "player2": "Andrea Zaffalon", 
+            "player2points": 69, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Michael Frochaux", 
+            "player1points": 100, 
+            "player2": "Andre Gloor", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Loris Arn", 
+            "player1points": 50, 
+            "player2": "Cyril Bucher", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Fritz Arn", 
+            "player1points": 100, 
+            "player2": "Fabian Zaech", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Markus Piller", 
+            "player1points": 69, 
+            "player2": "Michael Holzer", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Andrea Leibundgut", 
+            "player1points": 67, 
+            "player2": "Renato Meisser", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 5, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "Bern", 
+      "country": "Switzerland", 
+      "lat": "46.948271300000", 
+      "lon": "7.451451200000", 
+      "name": "DracheNaescht", 
+      "state": "Bern"
+    }, 
+    "video_url": "http://"
+  }
+}
