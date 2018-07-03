@@ -1,0 +1,1464 @@
+{
+  "tournament": {
+    "date": "2018-07-01", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4474, 
+    "name": "Beyond the Dungeon Store Championship", 
+    "players": [
+      {
+        "mov": 44, 
+        "name": "Jeremy Green", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 0, 
+        "sos": "0.53"
+      }, 
+      {
+        "mov": 120, 
+        "name": "David Light", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.70"
+      }, 
+      {
+        "mov": 148, 
+        "name": "Daniel Lupo", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "cavernangelszealot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "cavernangelszealot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "ap5", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "crew": [
+                  "inspiringrecruit"
+                ], 
+                "title": [
+                  "phantomii"
+                ]
+              }
+            }, 
+            {
+              "name": "cavernangelszealot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "mod": [
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "cavernangelszealot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "mod": [
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 785, 
+        "name": "Wayne Basta", 
+        "rank": {
+          "elimination": 1, 
+          "swiss": 1
+        }, 
+        "score": 5, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "keyanfarlander", 
+              "ship": "bwing", 
+              "upgrades": {
+                "cannon": [
+                  "heavylasercannon"
+                ], 
+                "crew": [
+                  "maul"
+                ], 
+                "mod": [
+                  "bwinge2"
+                ]
+              }
+            }, 
+            {
+              "name": "norrawexley", 
+              "ship": "arc170", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ], 
+                "crew": [
+                  "ezrabridger"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "title": [
+                  "allianceoverhaul"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "sheathipedeclassshuttle"
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 773, 
+        "name": "Justice Buras", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 2
+        }, 
+        "score": 4, 
+        "sos": "0.66"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "theinquisitor", 
+              "ship": "tieadvprototype", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "tiev1"
+                ]
+              }
+            }, 
+            {
+              "name": "captainferoph", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "emperorpalpatine"
+                ], 
+                "ept": [
+                  "adaptability"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "majorvermeil", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "directorkrennic"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 750, 
+        "name": "Gerry Russell", 
+        "rank": {
+          "elimination": 2, 
+          "swiss": 3
+        }, 
+        "score": 4, 
+        "sos": "0.70"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "captainrex", 
+              "ship": "tiefighter", 
+              "upgrades": {
+                "mod": [
+                  "multispectralcamouflage"
+                ]
+              }
+            }, 
+            {
+              "name": "wesjanson", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "trickshot"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "gunner"
+                ], 
+                "ept": [
+                  "adaptability"
+                ]
+              }
+            }, 
+            {
+              "name": "roarkgarnet", 
+              "ship": "hwk290", 
+              "upgrades": {
+                "crew": [
+                  "chewbacca"
+                ], 
+                "title": [
+                  "moldycrow"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 722, 
+        "name": "Chris Schafer", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 4
+        }, 
+        "score": 4, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "zeborrelios", 
+              "ship": "attackshuttle", 
+              "upgrades": {
+                "title": [
+                  "phantom"
+                ]
+              }
+            }, 
+            {
+              "name": "lothalrebel", 
+              "ship": "vcx100", 
+              "upgrades": {
+                "crew": [
+                  "maul", 
+                  "ezrabridger"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "sensorjammer"
+                ], 
+                "title": [
+                  "ghost"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "crew": [
+                  "hotshotcopilot"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 564, 
+        "name": "Mike Fay", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 4, 
+        "sos": "0.64"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "wampa", 
+              "ship": "tiefighter"
+            }, 
+            {
+              "name": "kyloren", 
+              "ship": "upsilonclassshuttle", 
+              "upgrades": {
+                "crew": [
+                  "emperorpalpatine"
+                ], 
+                "ept": [
+                  "ascoretosettle"
+                ], 
+                "system": [
+                  "collisiondetector"
+                ], 
+                "tech": [
+                  "patternanalyzer"
+                ], 
+                "title": [
+                  "kylorensshuttle"
+                ]
+              }
+            }, 
+            {
+              "name": "echo", 
+              "ship": "tiephantom", 
+              "upgrades": {
+                "crew": [
+                  "rebelcaptive"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "advancedcloakingdevice"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 683, 
+        "name": "Sean Trainor", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 3, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 653, 
+        "name": "Ryan Fisher", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle"
+            }, 
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship"
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing"
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 645, 
+        "name": "Daniel Casslasy", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 3, 
+        "sos": "0.50"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "ap5", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "tactician"
+                ], 
+                "mod": [
+                  "multispectralcamouflage"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 643, 
+        "name": "Jesse Choe", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 3, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 600, 
+        "name": "Erik Larson", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 3, 
+        "sos": "0.49"
+      }, 
+      {
+        "mov": 595, 
+        "name": "Adrian Parra", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 3, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 551, 
+        "name": "Doug Lee", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 3, 
+        "sos": "0.48"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "fennrau", 
+              "ship": "protectoratestarfighter", 
+              "upgrades": {
+                "ept": [
+                  "attannimindlink"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "concorddawnprotector"
+                ]
+              }
+            }, 
+            {
+              "name": "asajjventress", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "lattsrazzi"
+                ], 
+                "ept": [
+                  "attannimindlink"
+                ], 
+                "illicit": [
+                  "inertialdampeners", 
+                  "glitterstim"
+                ], 
+                "title": [
+                  "shadowcaster"
+                ]
+              }
+            }, 
+            {
+              "name": "sunnybounder", 
+              "ship": "m3ainterceptor", 
+              "upgrades": {
+                "cannon": [
+                  "linkedbattery"
+                ], 
+                "mod": [
+                  "hullupgrade"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 482, 
+        "name": "Ross Sanders", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 3, 
+        "sos": "0.52"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "rey", 
+              "ship": "yt1300", 
+              "upgrades": {
+                "crew": [
+                  "kananjarrus", 
+                  "finn"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "illicit": [
+                  "scavengercrane"
+                ], 
+                "mod": [
+                  "smugglingcompartment", 
+                  "countermeasures"
+                ], 
+                "title": [
+                  "millenniumfalcon-swx57"
+                ]
+              }
+            }, 
+            {
+              "name": "crimsonspecialist", 
+              "ship": "bsf17bomber", 
+              "upgrades": {
+                "bomb": [
+                  "ordnancesilos", 
+                  "protonbombs"
+                ], 
+                "mod": [
+                  "deflectiveplating"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 556, 
+        "name": "Chris Marek", 
+        "rank": {
+          "swiss": 14
+        }, 
+        "score": 2, 
+        "sos": "0.53"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "captainjostero", 
+              "ship": "kihraxzfighter", 
+              "upgrades": {
+                "ept": [
+                  "deadeye"
+                ], 
+                "illicit": [
+                  "contrabandcybernetics"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "multispectralcamouflage", 
+                  "munitionsfailsafe", 
+                  "guidancechips"
+                ], 
+                "title": [
+                  "vaksai"
+                ]
+              }
+            }, 
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "turret": [
+                  "autoblasterturret"
+                ]
+              }
+            }, 
+            {
+              "name": "toranikulda", 
+              "ship": "m12lkimogilafighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "r5tk"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 499, 
+        "name": "Zac Godbold", 
+        "rank": {
+          "swiss": 15
+        }, 
+        "score": 2, 
+        "sos": "0.48"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "colonelvessery", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "adaptability"
+                ], 
+                "mod": [
+                  "twinionenginemkii"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }, 
+            {
+              "name": "maarekstele", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "ascoretosettle"
+                ], 
+                "mod": [
+                  "twinionenginemkii"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }, 
+            {
+              "name": "scarifbasepilot", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "emperorpalpatine"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 422, 
+        "name": "Leo Skelly", 
+        "rank": {
+          "swiss": 16
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 400, 
+        "name": "Lee Graves", 
+        "rank": {
+          "swiss": 17
+        }, 
+        "score": 2, 
+        "sos": "0.37"
+      }, 
+      {
+        "mov": 336, 
+        "name": "Brian Serafine", 
+        "rank": {
+          "swiss": 18
+        }, 
+        "score": 2, 
+        "sos": "0.36"
+      }, 
+      {
+        "mov": 322, 
+        "name": "Kathryn Graves", 
+        "rank": {
+          "swiss": 19
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 270, 
+        "name": "Carl Sandhoff", 
+        "rank": {
+          "swiss": 20
+        }, 
+        "score": 1, 
+        "sos": "0.48"
+      }, 
+      {
+        "mov": 266, 
+        "name": "Ramiro Deleon", 
+        "rank": {
+          "swiss": 21
+        }, 
+        "score": 1, 
+        "sos": "0.60"
+      }, 
+      {
+        "mov": 221, 
+        "name": "Jonah Sanders", 
+        "rank": {
+          "swiss": 22
+        }, 
+        "score": 1, 
+        "sos": "0.52"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Leo Skelly", 
+            "player1points": 40, 
+            "player2": "Jesse Choe", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Zac Godbold", 
+            "player1points": 58, 
+            "player2": "Wayne Basta", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mike Fay", 
+            "player1points": 100, 
+            "player2": "Doug Lee", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chris Marek", 
+            "player1points": 39, 
+            "player2": "Chris Schafer", 
+            "player2points": 49, 
+            "result": "win"
+          }, 
+          {
+            "player1": "David Light", 
+            "player1points": 55, 
+            "player2": "Daniel Casslasy", 
+            "player2points": 55, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sean Trainor", 
+            "player1points": 45, 
+            "player2": "Ramiro Deleon", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Justice Buras", 
+            "player1points": 100, 
+            "player2": "Adrian Parra", 
+            "player2points": 39, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ryan Fisher", 
+            "player1points": 100, 
+            "player2": "Carl Sandhoff", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Daniel Lupo", 
+            "player1points": 34, 
+            "player2": "Lee Graves", 
+            "player2points": 27, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ross Sanders", 
+            "player1points": 100, 
+            "player2": "Jeremy Green", 
+            "player2points": 44, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jonah Sanders", 
+            "player1points": 100, 
+            "player2": "Brian Serafine", 
+            "player2points": 69, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Erik Larson", 
+            "player1points": 100, 
+            "player2": "Kathryn Graves", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Gerry Russell", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Jesse Choe", 
+            "player1points": 54, 
+            "player2": "Ross Sanders", 
+            "player2points": 80, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ramiro Deleon", 
+            "player1points": 15, 
+            "player2": "Chris Schafer", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jonah Sanders", 
+            "player1points": 42, 
+            "player2": "Wayne Basta", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Erik Larson", 
+            "player1points": 100, 
+            "player2": "Daniel Lupo", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Justice Buras", 
+            "player1points": 100, 
+            "player2": "David Light", 
+            "player2points": 20, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mike Fay", 
+            "player1points": 61, 
+            "player2": "Ryan Fisher", 
+            "player2points": 51, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Gerry Russell", 
+            "player1points": 59, 
+            "player2": "Lee Graves", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jeremy Green", 
+            "player1points": 0, 
+            "player2": "Sean Trainor", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Doug Lee", 
+            "player1points": 100, 
+            "player2": "Brian Serafine", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Zac Godbold", 
+            "player1points": 31, 
+            "player2": "Chris Marek", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Adrian Parra", 
+            "player1points": 100, 
+            "player2": "Kathryn Graves", 
+            "player2points": 28, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Daniel Casslasy", 
+            "player1points": 100, 
+            "player2": "Carl Sandhoff", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Leo Skelly", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Wayne Basta", 
+            "player1points": 100, 
+            "player2": "Gerry Russell", 
+            "player2points": 42, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "elimination"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Erik Larson", 
+            "player1points": 0, 
+            "player2": "Wayne Basta", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Gerry Russell", 
+            "player1points": 100, 
+            "player2": "Ross Sanders", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mike Fay", 
+            "player1points": 0, 
+            "player2": "Justice Buras", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chris Schafer", 
+            "player1points": 100, 
+            "player2": "Doug Lee", 
+            "player2points": 15, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Daniel Casslasy", 
+            "player1points": 100, 
+            "player2": "Chris Marek", 
+            "player2points": 55, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ramiro Deleon", 
+            "player1points": 0, 
+            "player2": "Adrian Parra", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Leo Skelly", 
+            "player1points": 100, 
+            "player2": "Jonah Sanders", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Daniel Lupo", 
+            "player1points": 23, 
+            "player2": "Sean Trainor", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ryan Fisher", 
+            "player1points": 0, 
+            "player2": "Jesse Choe", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Carl Sandhoff", 
+            "player1points": 59, 
+            "player2": "Lee Graves", 
+            "player2points": 73, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jeremy Green", 
+            "player1points": 0, 
+            "player2": "Zac Godbold", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Brian Serafine", 
+            "player1points": 81, 
+            "player2": "Kathryn Graves", 
+            "player2points": 50, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Gerry Russell", 
+            "player1points": 100, 
+            "player2": "Justice Buras", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chris Schafer", 
+            "player1points": 42, 
+            "player2": "Wayne Basta", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jesse Choe", 
+            "player1points": 69, 
+            "player2": "Adrian Parra", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Leo Skelly", 
+            "player1points": 0, 
+            "player2": "Ross Sanders", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mike Fay", 
+            "player1points": 60, 
+            "player2": "Sean Trainor", 
+            "player2points": 53, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Erik Larson", 
+            "player1points": 0, 
+            "player2": "Daniel Casslasy", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Brian Serafine", 
+            "player1points": 54, 
+            "player2": "Ramiro Deleon", 
+            "player2points": 50, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Zac Godbold", 
+            "player1points": 100, 
+            "player2": "Lee Graves", 
+            "player2points": 27, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Carl Sandhoff", 
+            "player1points": 32, 
+            "player2": "Doug Lee", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jonah Sanders", 
+            "player1points": 0, 
+            "player2": "Ryan Fisher", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chris Marek", 
+            "player1points": 100, 
+            "player2": "Daniel Lupo", 
+            "player2points": 18, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Kathryn Graves", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Wayne Basta", 
+            "player1points": 100, 
+            "player2": "Chris Schafer", 
+            "player2points": 20, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Justice Buras", 
+            "player1points": 69, 
+            "player2": "Gerry Russell", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "elimination"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Gerry Russell", 
+            "player1points": 42, 
+            "player2": "Wayne Basta", 
+            "player2points": 69, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mike Fay", 
+            "player1points": 100, 
+            "player2": "Adrian Parra", 
+            "player2points": 53, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Justice Buras", 
+            "player1points": 100, 
+            "player2": "Ross Sanders", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chris Schafer", 
+            "player1points": 100, 
+            "player2": "Daniel Casslasy", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chris Marek", 
+            "player1points": 60, 
+            "player2": "Jesse Choe", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Zac Godbold", 
+            "player1points": 37, 
+            "player2": "Ryan Fisher", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Brian Serafine", 
+            "player1points": 0, 
+            "player2": "Erik Larson", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sean Trainor", 
+            "player1points": 68, 
+            "player2": "Leo Skelly", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Doug Lee", 
+            "player1points": 100, 
+            "player2": "Ramiro Deleon", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Kathryn Graves", 
+            "player1points": 41, 
+            "player2": "Lee Graves", 
+            "player2points": 66, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jonah Sanders", 
+            "player1points": 48, 
+            "player2": "Carl Sandhoff", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 5, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "Spring", 
+      "country": "United States of America", 
+      "lat": "30.079882600000", 
+      "lon": "-95.417254900000", 
+      "name": "Beyond the Dungeon", 
+      "state": "Texas"
+    }, 
+    "video_url": "http://"
+  }
+}
