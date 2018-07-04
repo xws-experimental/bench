@@ -1,0 +1,779 @@
+{
+  "tournament": {
+    "date": "2018-06-30", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4478, 
+    "name": "BedebileStore2018", 
+    "players": [
+      {
+        "mov": 415, 
+        "name": "Niek  Bergans", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.55"
+      }, 
+      {
+        "mov": 861, 
+        "name": "Matthieu Carbon", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 1
+        }, 
+        "score": 5, 
+        "sos": "0.76"
+      }, 
+      {
+        "mov": 708, 
+        "name": "Remy  Foret", 
+        "rank": {
+          "elimination": 1, 
+          "swiss": 2
+        }, 
+        "score": 4, 
+        "sos": "0.58"
+      }, 
+      {
+        "mov": 700, 
+        "name": "Arnaud Wauthier", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 3
+        }, 
+        "score": 4, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 691, 
+        "name": "Raphael Cogneau", 
+        "rank": {
+          "elimination": 2, 
+          "swiss": 4
+        }, 
+        "score": 4, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 659, 
+        "name": "Michel Melis", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 4, 
+        "sos": "0.48"
+      }, 
+      {
+        "mov": 529, 
+        "name": "Steve Libert", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 4, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 626, 
+        "name": "Arnault  Grimont", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 3, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 571, 
+        "name": "Jean-Francois  Bergmans", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 565, 
+        "name": "Manuel  Gil", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 3, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 507, 
+        "name": "Martijn  Bouss", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 3, 
+        "sos": "0.66"
+      }, 
+      {
+        "mov": 484, 
+        "name": "Steve  van Weereld", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 474, 
+        "name": "Jean-Christophe  Voets", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 551, 
+        "name": "Vincent  Rycx", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 2, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 527, 
+        "name": "Laurent  Salon", 
+        "rank": {
+          "swiss": 14
+        }, 
+        "score": 2, 
+        "sos": "0.40"
+      }, 
+      {
+        "mov": 522, 
+        "name": "Benot  Dieudonne", 
+        "rank": {
+          "swiss": 15
+        }, 
+        "score": 2, 
+        "sos": "0.60"
+      }, 
+      {
+        "mov": 489, 
+        "name": "Nick Verbiest", 
+        "rank": {
+          "swiss": 16
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 488, 
+        "name": "Jean-Christophe Brunet", 
+        "rank": {
+          "swiss": 17
+        }, 
+        "score": 2, 
+        "sos": "0.36"
+      }, 
+      {
+        "mov": 460, 
+        "name": "Freddy  Machon", 
+        "rank": {
+          "swiss": 18
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 372, 
+        "name": "Tim  Tuerlinckx", 
+        "rank": {
+          "swiss": 19
+        }, 
+        "score": 2, 
+        "sos": "0.40"
+      }, 
+      {
+        "mov": 357, 
+        "name": "Robin Melis", 
+        "rank": {
+          "swiss": 20
+        }, 
+        "score": 2, 
+        "sos": "0.40"
+      }, 
+      {
+        "mov": 394, 
+        "name": "Nicolas Spruyt", 
+        "rank": {
+          "swiss": 21
+        }, 
+        "score": 1, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 368, 
+        "name": "Thomas  Polom", 
+        "rank": {
+          "swiss": 22
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 253, 
+        "name": "Franois Castro", 
+        "rank": {
+          "swiss": 23
+        }, 
+        "score": 1, 
+        "sos": "0.40"
+      }, 
+      {
+        "mov": 192, 
+        "name": "Yordi  Schaeken", 
+        "rank": {
+          "swiss": 24
+        }, 
+        "score": 1, 
+        "sos": "0.46"
+      }, 
+      {
+        "mov": 187, 
+        "name": "Nicolas  Brunet", 
+        "rank": {
+          "swiss": 25
+        }, 
+        "score": 0, 
+        "sos": "0.52"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Steve  van Weereld", 
+            "player1points": 50, 
+            "player2": "Tim  Tuerlinckx", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Benot  Dieudonne", 
+            "player1points": 100, 
+            "player2": "Franois Castro", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Raphael Cogneau", 
+            "player1points": 100, 
+            "player2": "Jean-Francois  Bergmans", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Niek  Bergans", 
+            "player1points": 100, 
+            "player2": "Yordi  Schaeken", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jean-Christophe Brunet", 
+            "player1points": 56, 
+            "player2": "Steve Libert", 
+            "player2points": 68, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Remy  Foret", 
+            "player1points": 0, 
+            "player2": "Matthieu Carbon", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Michel Melis", 
+            "player1points": 36, 
+            "player2": "Manuel  Gil", 
+            "player2points": 58, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Martijn  Bouss", 
+            "player1points": 100, 
+            "player2": "Robin Melis", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nicolas  Brunet", 
+            "player1points": 0, 
+            "player2": "Arnault  Grimont", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Arnaud Wauthier", 
+            "player1points": 100, 
+            "player2": "Nicolas Spruyt", 
+            "player2points": 22, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nick Verbiest", 
+            "player1points": 69, 
+            "player2": "Thomas  Polom", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Freddy  Machon", 
+            "player1points": 68, 
+            "player2": "Vincent  Rycx", 
+            "player2points": 52, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Laurent  Salon", 
+            "player1points": 0, 
+            "player2": "Jean-Christophe  Voets", 
+            "player2points": 0, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Steve  van Weereld", 
+            "player1points": 0, 
+            "player2": "Arnaud Wauthier", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Arnault  Grimont", 
+            "player1points": 48, 
+            "player2": "Niek  Bergans", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Thomas  Polom", 
+            "player1points": 32, 
+            "player2": "Steve Libert", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Matthieu Carbon", 
+            "player1points": 65, 
+            "player2": "Raphael Cogneau", 
+            "player2points": 52, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Martijn  Bouss", 
+            "player1points": 40, 
+            "player2": "Jean-Christophe  Voets", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Freddy  Machon", 
+            "player1points": 49, 
+            "player2": "Benot  Dieudonne", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Manuel  Gil", 
+            "player1points": 79, 
+            "player2": "Nicolas  Brunet", 
+            "player2points": 27, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nick Verbiest", 
+            "player1points": 100, 
+            "player2": "Jean-Christophe Brunet", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Yordi  Schaeken", 
+            "player1points": 0, 
+            "player2": "Remy  Foret", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Vincent  Rycx", 
+            "player1points": 100, 
+            "player2": "Tim  Tuerlinckx", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jean-Francois  Bergmans", 
+            "player1points": 100, 
+            "player2": "Franois Castro", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Laurent  Salon", 
+            "player1points": 22, 
+            "player2": "Michel Melis", 
+            "player2points": 24, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Robin Melis", 
+            "player1points": 0, 
+            "player2": "Nicolas Spruyt", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Raphael Cogneau", 
+            "player1points": 36, 
+            "player2": "Remy  Foret", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "elimination"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Martijn  Bouss", 
+            "player1points": 100, 
+            "player2": "Niek  Bergans", 
+            "player2points": 63, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Arnaud Wauthier", 
+            "player1points": 0, 
+            "player2": "Matthieu Carbon", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Benot  Dieudonne", 
+            "player1points": 56, 
+            "player2": "Steve Libert", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Manuel  Gil", 
+            "player1points": 100, 
+            "player2": "Nicolas Spruyt", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Steve  van Weereld", 
+            "player1points": 35, 
+            "player2": "Remy  Foret", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nick Verbiest", 
+            "player1points": 21, 
+            "player2": "Michel Melis", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jean-Francois  Bergmans", 
+            "player1points": 100, 
+            "player2": "Arnault  Grimont", 
+            "player2points": 25, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Raphael Cogneau", 
+            "player1points": 33, 
+            "player2": "Vincent  Rycx", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Thomas  Polom", 
+            "player1points": 23, 
+            "player2": "Freddy  Machon", 
+            "player2points": 65, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jean-Christophe  Voets", 
+            "player1points": 75, 
+            "player2": "Nicolas  Brunet", 
+            "player2points": 66, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Yordi  Schaeken", 
+            "player1points": 0, 
+            "player2": "Jean-Christophe Brunet", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Franois Castro", 
+            "player1points": 45, 
+            "player2": "Tim  Tuerlinckx", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Robin Melis", 
+            "player1points": 100, 
+            "player2": "Laurent  Salon", 
+            "player2points": 25, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Steve Libert", 
+            "player1points": 61, 
+            "player2": "Manuel  Gil", 
+            "player2points": 56, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Martijn  Bouss", 
+            "player1points": 52, 
+            "player2": "Matthieu Carbon", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Niek  Bergans", 
+            "player1points": 0, 
+            "player2": "Remy  Foret", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jean-Christophe  Voets", 
+            "player1points": 76, 
+            "player2": "Freddy  Machon", 
+            "player2points": 60, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Arnaud Wauthier", 
+            "player1points": 100, 
+            "player2": "Jean-Francois  Bergmans", 
+            "player2points": 21, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Michel Melis", 
+            "player1points": 100, 
+            "player2": "Benot  Dieudonne", 
+            "player2points": 58, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Raphael Cogneau", 
+            "player1points": 66, 
+            "player2": "Thomas  Polom", 
+            "player2points": 65, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Steve  van Weereld", 
+            "player1points": 100, 
+            "player2": "Robin Melis", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tim  Tuerlinckx", 
+            "player1points": 58, 
+            "player2": "Nicolas Spruyt", 
+            "player2points": 48, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nick Verbiest", 
+            "player1points": 47, 
+            "player2": "Arnault  Grimont", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Vincent  Rycx", 
+            "player1points": 100, 
+            "player2": "Jean-Christophe Brunet", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Yordi  Schaeken", 
+            "player1points": 67, 
+            "player2": "Franois Castro", 
+            "player2points": 25, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nicolas  Brunet", 
+            "player1points": 48, 
+            "player2": "Laurent  Salon", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Matthieu Carbon", 
+            "player1points": 65, 
+            "player2": "Raphael Cogneau", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Remy  Foret", 
+            "player1points": 100, 
+            "player2": "Arnaud Wauthier", 
+            "player2points": 36, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "elimination"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Steve Libert", 
+            "player1points": 0, 
+            "player2": "Matthieu Carbon", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Michel Melis", 
+            "player1points": 100, 
+            "player2": "Martijn  Bouss", 
+            "player2points": 42, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Remy  Foret", 
+            "player1points": 64, 
+            "player2": "Jean-Christophe  Voets", 
+            "player2points": 21, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Manuel  Gil", 
+            "player1points": 30, 
+            "player2": "Raphael Cogneau", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Arnaud Wauthier", 
+            "player1points": 100, 
+            "player2": "Benot  Dieudonne", 
+            "player2points": 57, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Freddy  Machon", 
+            "player1points": 16, 
+            "player2": "Steve  van Weereld", 
+            "player2points": 47, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Vincent  Rycx", 
+            "player1points": 0, 
+            "player2": "Arnault  Grimont", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jean-Francois  Bergmans", 
+            "player1points": 100, 
+            "player2": "Tim  Tuerlinckx", 
+            "player2points": 25, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Yordi  Schaeken", 
+            "player1points": 50, 
+            "player2": "Robin Melis", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Laurent  Salon", 
+            "player1points": 100, 
+            "player2": "Thomas  Polom", 
+            "player2points": 48, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nicolas Spruyt", 
+            "player1points": 48, 
+            "player2": "Nick Verbiest", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jean-Christophe Brunet", 
+            "player1points": 100, 
+            "player2": "Nicolas  Brunet", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Franois Castro", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 5, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "Mons", 
+      "country": "Belgium", 
+      "lat": "50.454956800000", 
+      "lon": "3.951958000000", 
+      "name": "", 
+      "state": "Hainaut"
+    }, 
+    "video_url": "http://"
+  }
+}
