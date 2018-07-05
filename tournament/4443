@@ -67,6 +67,7 @@
         "mov": 795, 
         "name": "Misha Mikheev", 
         "rank": {
+          "elimination": 5, 
           "swiss": 1
         }, 
         "score": 5, 
@@ -142,6 +143,7 @@
         "mov": 0, 
         "name": "Kirill Grigorov ", 
         "rank": {
+          "elimination": 6, 
           "swiss": 2
         }, 
         "score": 4, 
@@ -296,6 +298,7 @@
         "mov": 807, 
         "name": "Nikita Dolganov", 
         "rank": {
+          "elimination": 3, 
           "swiss": 4
         }, 
         "score": 4, 
@@ -303,8 +306,9 @@
       }, 
       {
         "mov": 0, 
-        "name": "Player 5", 
+        "name": "Alexander Goncharov", 
         "rank": {
+          "elimination": 7, 
           "swiss": 5
         }, 
         "score": 0, 
@@ -361,8 +365,9 @@
           "version": "4.2.0"
         }, 
         "mov": 0, 
-        "name": "Player 6", 
+        "name": "Dmitri Tochenov", 
         "rank": {
+          "elimination": 8, 
           "swiss": 6
         }, 
         "score": 0, 
