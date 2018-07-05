@@ -16,3 +16,6 @@ Saving to: ‘tournaments’
 2018-07-05 07:03:34 (530 KB/s) - ‘tournaments’ saved [42144/42144]
 
 Downloading new tournament list data...
+Warning: Permanently added the RSA host key for IP address '192.30.253.113' to the list of known hosts.
+To git@github.com:baranidlo/bench.git
+   87f9513..7acf695  gh-pages -> gh-pages
