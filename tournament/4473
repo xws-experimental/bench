@@ -6,6 +6,60 @@
     "name": "Crystal Dragon Sat 6/16", 
     "players": [
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "kashyyykdefender", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "wookieecommandos"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "crew": [
+                  "kylekatarn"
+                ], 
+                "ept": [
+                  "squadleader"
+                ], 
+                "mod": [
+                  "experimentalinterface"
+                ]
+              }
+            }, 
+            {
+              "name": "goldsquadronpilot", 
+              "ship": "ywing", 
+              "upgrades": {
+                "amd": [
+                  "r2astromech"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "kashyyykdefender", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "wookieecommandos"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 525, 
         "name": "John Hazen (Evil)", 
         "rank": {
@@ -24,6 +78,60 @@
         "sos": "0.44"
       }, 
       {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "fennrau", 
+              "ship": "protectoratestarfighter", 
+              "upgrades": {
+                "ept": [
+                  "fearlessness"
+                ], 
+                "title": [
+                  "concorddawnprotector"
+                ]
+              }
+            }, 
+            {
+              "name": "grazthehunter", 
+              "ship": "kihraxzfighter", 
+              "upgrades": {
+                "illicit": [
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "stealthdevice"
+                ]
+              }
+            }, 
+            {
+              "name": "dacebonearm", 
+              "ship": "hwk290", 
+              "upgrades": {
+                "crew": [
+                  "reconspecialist"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "shieldupgrade"
+                ], 
+                "title": [
+                  "moldycrow"
+                ], 
+                "turret": [
+                  "ioncannonturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 198, 
         "name": "Hayden Coxson", 
         "rank": {
@@ -33,6 +141,57 @@
         "sos": "0.56"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "corranhorn", 
+              "ship": "ewing", 
+              "upgrades": {
+                "amd": [
+                  "r2astromech"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ]
+              }
+            }, 
+            {
+              "name": "lukeskywalker", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "r2f2"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "integratedastromech"
+                ]
+              }
+            }, 
+            {
+              "name": "tarnmison", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "r7astromech"
+                ], 
+                "mod": [
+                  "integratedastromech"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 152, 
         "name": "Lukas McCoy", 
         "rank": {
@@ -105,7 +264,7 @@
         "round-type": "swiss"
       }
     ], 
-    "type": "Vassal play", 
+    "type": "Other", 
     "venue": {
       "city": "Niles", 
       "country": "United States of America", 
