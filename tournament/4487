@@ -1,0 +1,323 @@
+{
+  "tournament": {
+    "date": "2018-07-07", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4487, 
+    "name": "Duplicate please delete", 
+    "players": [
+      {
+        "mov": 611, 
+        "name": "Treylon Nielson", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 4, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 600, 
+        "name": "Bradley Pate", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 475, 
+        "name": "Ivan Amargo", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 474, 
+        "name": "William McDavid", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 2, 
+        "sos": "0.69"
+      }, 
+      {
+        "mov": 452, 
+        "name": "Johnny Lamb", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 2, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 426, 
+        "name": "Ean Malette", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 2, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 409, 
+        "name": "Chris Painter", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 346, 
+        "name": "Richard Herman", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 2, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 261, 
+        "name": "Andrew Sigrist", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 2, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 375, 
+        "name": "Shawn Pechin", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 227, 
+        "name": "Isaac Gerber", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 1, 
+        "sos": "0.31"
+      }, 
+      {
+        "mov": 144, 
+        "name": "Clayden Nielson", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 0, 
+        "sos": "0.56"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Treylon Nielson", 
+            "player1points": 100, 
+            "player2": "Clayden Nielson", 
+            "player2points": 54, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ean Malette", 
+            "player1points": 60, 
+            "player2": "Ivan Amargo", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bradley Pate", 
+            "player1points": 100, 
+            "player2": "Chris Painter", 
+            "player2points": 25, 
+            "result": "win"
+          }, 
+          {
+            "player1": "William McDavid", 
+            "player1points": 45, 
+            "player2": "Andrew Sigrist", 
+            "player2points": 50, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Isaac Gerber", 
+            "player1points": 0, 
+            "player2": "Shawn Pechin", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Richard Herman", 
+            "player1points": 0, 
+            "player2": "Johnny Lamb", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Ivan Amargo", 
+            "player1points": 25, 
+            "player2": "Bradley Pate", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Treylon Nielson", 
+            "player1points": 100, 
+            "player2": "Johnny Lamb", 
+            "player2points": 54, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Andrew Sigrist", 
+            "player1points": 29, 
+            "player2": "Shawn Pechin", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ean Malette", 
+            "player1points": 25, 
+            "player2": "William McDavid", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Isaac Gerber", 
+            "player1points": 33, 
+            "player2": "Richard Herman", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Clayden Nielson", 
+            "player1points": 0, 
+            "player2": "Chris Painter", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Andrew Sigrist", 
+            "player1points": 27, 
+            "player2": "Treylon Nielson", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bradley Pate", 
+            "player1points": 50, 
+            "player2": "William McDavid", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chris Painter", 
+            "player1points": 100, 
+            "player2": "Richard Herman", 
+            "player2points": 46, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ivan Amargo", 
+            "player1points": 100, 
+            "player2": "Johnny Lamb", 
+            "player2points": 60, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Shawn Pechin", 
+            "player1points": 37, 
+            "player2": "Ean Malette", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Isaac Gerber", 
+            "player1points": 100, 
+            "player2": "Clayden Nielson", 
+            "player2points": 68, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Treylon Nielson", 
+            "player1points": 100, 
+            "player2": "William McDavid", 
+            "player2points": 54, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chris Painter", 
+            "player1points": 30, 
+            "player2": "Ivan Amargo", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bradley Pate", 
+            "player1points": 100, 
+            "player2": "Andrew Sigrist", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Johnny Lamb", 
+            "player1points": 100, 
+            "player2": "Isaac Gerber", 
+            "player2points": 62, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Shawn Pechin", 
+            "player1points": 67, 
+            "player2": "Richard Herman", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ean Malette", 
+            "player1points": 100, 
+            "player2": "Clayden Nielson", 
+            "player2points": 22, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "St George", 
+      "country": "United States of America", 
+      "lat": "37.104153000000", 
+      "lon": "-113.584131300000", 
+      "name": "Game Haven", 
+      "state": "Utah"
+    }, 
+    "video_url": "http://"
+  }
+}
