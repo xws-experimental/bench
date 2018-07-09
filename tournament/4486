@@ -339,7 +339,7 @@
           "version": "4.2.0"
         }, 
         "mov": 452, 
-        "name": "Johnny Lamb", 
+        "name": "Johnny Lam", 
         "rank": {
           "swiss": 5
         }, 
@@ -829,7 +829,7 @@
           {
             "player1": "Richard Herman", 
             "player1points": 0, 
-            "player2": "Johnny Lamb", 
+            "player2": "Johnny Lam", 
             "player2points": 100, 
             "result": "win"
           }
@@ -849,7 +849,7 @@
           {
             "player1": "Treylon Nielson", 
             "player1points": 100, 
-            "player2": "Johnny Lamb", 
+            "player2": "Johnny Lam", 
             "player2points": 54, 
             "result": "win"
           }, 
@@ -911,7 +911,7 @@
           {
             "player1": "Ivan Amargo", 
             "player1points": 100, 
-            "player2": "Johnny Lamb", 
+            "player2": "Johnny Lam", 
             "player2points": 60, 
             "result": "win"
           }, 
@@ -957,7 +957,7 @@
             "result": "win"
           }, 
           {
-            "player1": "Johnny Lamb", 
+            "player1": "Johnny Lam", 
             "player1points": 100, 
             "player2": "Isaac Gerber", 
             "player2points": 62, 
