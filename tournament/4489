@@ -74,59 +74,50 @@
           "faction": "imperial", 
           "pilots": [
             {
-              "name": "howlrunner", 
-              "ship": "tiefighter", 
+              "name": "theinquisitor", 
+              "ship": "tieadvprototype", 
               "upgrades": {
                 "ept": [
-                  "crackshot"
+                  "pushthelimit"
                 ], 
                 "mod": [
-                  "hullupgrade"
+                  "autothrusters"
+                ], 
+                "title": [
+                  "tiev1"
                 ]
               }
             }, 
             {
-              "name": "omegasquadronpilot", 
-              "ship": "tiefofighter", 
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
               "upgrades": {
                 "ept": [
-                  "crackshot"
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
                 ]
               }
             }, 
             {
-              "name": "blacksquadronpilot", 
-              "ship": "tiefighter", 
+              "name": "captainferoph", 
+              "ship": "tiereaper", 
               "upgrades": {
-                "ept": [
-                  "crackshot"
-                ]
-              }
-            }, 
-            {
-              "name": "blacksquadronpilot", 
-              "ship": "tiefighter", 
-              "upgrades": {
-                "ept": [
-                  "crackshot"
-                ]
-              }
-            }, 
-            {
-              "name": "blacksquadronpilot", 
-              "ship": "tiefighter", 
-              "upgrades": {
-                "ept": [
-                  "crackshot"
-                ]
-              }
-            }, 
-            {
-              "name": "blacksquadronpilot", 
-              "ship": "tiefighter", 
-              "upgrades": {
-                "ept": [
-                  "crackshot"
+                "crew": [
+                  "emperorpalpatine"
+                ], 
+                "title": [
+                  "advancedailerons"
                 ]
               }
             }

@@ -1,0 +1,757 @@
+{
+  "tournament": {
+    "date": "2018-07-07", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4492, 
+    "name": "X-Wing Auryn Cup 2018", 
+    "players": [
+      {
+        "mov": 686, 
+        "name": "\"Grob\"", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 5, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 853, 
+        "name": "\"axxel\"", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 4, 
+        "sos": "0.60"
+      }, 
+      {
+        "mov": 747, 
+        "name": "\"Tzaziki-Mann\"", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 4, 
+        "sos": "0.64"
+      }, 
+      {
+        "mov": 669, 
+        "name": "\"flkoe\"", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 4, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 648, 
+        "name": "\"Andi_p\"", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 3, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 609, 
+        "name": "\"Chris-Wing\"", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "zuckuss", 
+              "ship": "g1astarfighter", 
+              "upgrades": {
+                "cannon": [
+                  "tractorbeam"
+                ], 
+                "crew": [
+                  "gunner"
+                ], 
+                "ept": [
+                  "trickshot"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "misthunter"
+                ]
+              }
+            }, 
+            {
+              "name": "lokrevenant", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "ept": [
+                  "adaptability"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "turret": [
+                  "autoblasterturret"
+                ]
+              }
+            }, 
+            {
+              "name": "lokrevenant", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "ept": [
+                  "adaptability"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "turret": [
+                  "autoblasterturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 594, 
+        "name": "\"awaahh\"", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 575, 
+        "name": "\"Schattenlicht\"", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 530, 
+        "name": "\"Lucas\"", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 3, 
+        "sos": "0.36"
+      }, 
+      {
+        "mov": 516, 
+        "name": "\"Han\"", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 3, 
+        "sos": "0.68"
+      }, 
+      {
+        "mov": 457, 
+        "name": "\"Wanalseed\"", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 3, 
+        "sos": "0.60"
+      }, 
+      {
+        "mov": 488, 
+        "name": "\"ZeroXshift\"", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 2, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 488, 
+        "name": "\"kaibabros\"", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 2, 
+        "sos": "0.32"
+      }, 
+      {
+        "mov": 478, 
+        "name": "\"dunklemacht\"", 
+        "rank": {
+          "swiss": 14
+        }, 
+        "score": 2, 
+        "sos": "0.72"
+      }, 
+      {
+        "mov": 458, 
+        "name": "\"flooze\"", 
+        "rank": {
+          "swiss": 15
+        }, 
+        "score": 2, 
+        "sos": "0.52"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "zeborrelios", 
+              "ship": "attackshuttle", 
+              "upgrades": {
+                "title": [
+                  "phantom"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "crew": [
+                  "hotshotcopilot"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ]
+              }
+            }, 
+            {
+              "name": "lothalrebel", 
+              "ship": "vcx100", 
+              "upgrades": {
+                "crew": [
+                  "ezrabridger", 
+                  "maul"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "sensorjammer"
+                ], 
+                "title": [
+                  "ghost"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 425, 
+        "name": "\"Sweta-Hornet\"", 
+        "rank": {
+          "swiss": 16
+        }, 
+        "score": 2, 
+        "sos": "0.40"
+      }, 
+      {
+        "mov": 380, 
+        "name": "\"Sonic1\"", 
+        "rank": {
+          "swiss": 17
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 380, 
+        "name": "\"Nukleid\"", 
+        "rank": {
+          "swiss": 18
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 418, 
+        "name": "\"M4TZ3\"", 
+        "rank": {
+          "swiss": 19
+        }, 
+        "score": 1, 
+        "sos": "0.36"
+      }, 
+      {
+        "mov": 296, 
+        "name": "\"Eternauta\"", 
+        "rank": {
+          "swiss": 20
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 135, 
+        "name": "\"ausknipsr\"", 
+        "rank": {
+          "swiss": 21
+        }, 
+        "score": 1, 
+        "sos": "0.48"
+      }, 
+      {
+        "mov": 170, 
+        "name": "\"Tito.T.Arantula\"", 
+        "rank": {
+          "swiss": 22
+        }, 
+        "score": 0, 
+        "sos": "0.40"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "\"axxel\"", 
+            "player1points": 100, 
+            "player2": "\"Schattenlicht\"", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"flkoe\"", 
+            "player1points": 100, 
+            "player2": "\"Nukleid\"", 
+            "player2points": 23, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"Grob\"", 
+            "player1points": 100, 
+            "player2": "\"ZeroXshift\"", 
+            "player2points": 42, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"Sonic1\"", 
+            "player1points": 64, 
+            "player2": "\"M4TZ3\"", 
+            "player2points": 46, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"Chris-Wing\"", 
+            "player1points": 70, 
+            "player2": "\"Wanalseed\"", 
+            "player2points": 82, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"Sweta-Hornet\"", 
+            "player1points": 100, 
+            "player2": "\"Tito.T.Arantula\"", 
+            "player2points": 26, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"Han\"", 
+            "player1points": 100, 
+            "player2": "\"awaahh\"", 
+            "player2points": 27, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"flooze\"", 
+            "player1points": 100, 
+            "player2": "\"kaibabros\"", 
+            "player2points": 17, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"dunklemacht\"", 
+            "player1points": 100, 
+            "player2": "\"Lucas\"", 
+            "player2points": 26, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"Andi_p\"", 
+            "player1points": 26, 
+            "player2": "\"Tzaziki-Mann\"", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"Eternauta\"", 
+            "player1points": 56, 
+            "player2": "\"ausknipsr\"", 
+            "player2points": 61, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "\"flkoe\"", 
+            "player1points": 54, 
+            "player2": "\"dunklemacht\"", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"Tzaziki-Mann\"", 
+            "player1points": 100, 
+            "player2": "\"Sweta-Hornet\"", 
+            "player2points": 27, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"Wanalseed\"", 
+            "player1points": 100, 
+            "player2": "\"ausknipsr\"", 
+            "player2points": 30, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"Han\"", 
+            "player1points": 58, 
+            "player2": "\"Grob\"", 
+            "player2points": 81, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"flooze\"", 
+            "player1points": 0, 
+            "player2": "\"axxel\"", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"Sonic1\"", 
+            "player1points": 100, 
+            "player2": "\"Nukleid\"", 
+            "player2points": 52, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"awaahh\"", 
+            "player1points": 100, 
+            "player2": "\"ZeroXshift\"", 
+            "player2points": 64, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"Eternauta\"", 
+            "player1points": 22, 
+            "player2": "\"Schattenlicht\"", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"Chris-Wing\"", 
+            "player1points": 100, 
+            "player2": "\"M4TZ3\"", 
+            "player2points": 58, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"Tito.T.Arantula\"", 
+            "player1points": 47, 
+            "player2": "\"Lucas\"", 
+            "player2points": 64, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"kaibabros\"", 
+            "player1points": 26, 
+            "player2": "\"Andi_p\"", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "\"dunklemacht\"", 
+            "player1points": 21, 
+            "player2": "\"Grob\"", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"Sonic1\"", 
+            "player1points": 26, 
+            "player2": "\"Tzaziki-Mann\"", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"axxel\"", 
+            "player1points": 100, 
+            "player2": "\"Wanalseed\"", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"Lucas\"", 
+            "player1points": 100, 
+            "player2": "\"Chris-Wing\"", 
+            "player2points": 51, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"ausknipsr\"", 
+            "player1points": 0, 
+            "player2": "\"awaahh\"", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"Schattenlicht\"", 
+            "player1points": 53, 
+            "player2": "\"Han\"", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"flkoe\"", 
+            "player1points": 100, 
+            "player2": "\"flooze\"", 
+            "player2points": 49, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"Andi_p\"", 
+            "player1points": 100, 
+            "player2": "\"Sweta-Hornet\"", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"ZeroXshift\"", 
+            "player1points": 100, 
+            "player2": "\"Tito.T.Arantula\"", 
+            "player2points": 26, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"Eternauta\"", 
+            "player1points": 56, 
+            "player2": "\"kaibabros\"", 
+            "player2points": 29, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"Nukleid\"", 
+            "player1points": 65, 
+            "player2": "\"M4TZ3\"", 
+            "player2points": 50, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "\"Tzaziki-Mann\"", 
+            "player1points": 100, 
+            "player2": "\"axxel\"", 
+            "player2points": 53, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"Grob\"", 
+            "player1points": 68, 
+            "player2": "\"awaahh\"", 
+            "player2points": 63, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"flkoe\"", 
+            "player1points": 100, 
+            "player2": "\"Sonic1\"", 
+            "player2points": 64, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"Han\"", 
+            "player1points": 100, 
+            "player2": "\"dunklemacht\"", 
+            "player2points": 81, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"Andi_p\"", 
+            "player1points": 50, 
+            "player2": "\"Wanalseed\"", 
+            "player2points": 76, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"Lucas\"", 
+            "player1points": 100, 
+            "player2": "\"Eternauta\"", 
+            "player2points": 26, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"Nukleid\"", 
+            "player1points": 100, 
+            "player2": "\"Sweta-Hornet\"", 
+            "player2points": 50, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"Chris-Wing\"", 
+            "player1points": 100, 
+            "player2": "\"ZeroXshift\"", 
+            "player2points": 48, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"Schattenlicht\"", 
+            "player1points": 100, 
+            "player2": "\"ausknipsr\"", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"flooze\"", 
+            "player1points": 100, 
+            "player2": "\"Tito.T.Arantula\"", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"kaibabros\"", 
+            "player1points": 100, 
+            "player2": "\"M4TZ3\"", 
+            "player2points": 28, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "\"Grob\"", 
+            "player1points": 100, 
+            "player2": "\"Tzaziki-Mann\"", 
+            "player2points": 79, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"flkoe\"", 
+            "player1points": 80, 
+            "player2": "\"Wanalseed\"", 
+            "player2points": 29, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"Han\"", 
+            "player1points": 0, 
+            "player2": "\"axxel\"", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"Lucas\"", 
+            "player1points": 64, 
+            "player2": "\"awaahh\"", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"Chris-Wing\"", 
+            "player1points": 100, 
+            "player2": "\"Sonic1\"", 
+            "player2points": 24, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"flooze\"", 
+            "player1points": 26, 
+            "player2": "\"Andi_p\"", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"Schattenlicht\"", 
+            "player1points": 100, 
+            "player2": "\"dunklemacht\"", 
+            "player2points": 56, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"Nukleid\"", 
+            "player1points": 40, 
+            "player2": "\"ZeroXshift\"", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"kaibabros\"", 
+            "player1points": 100, 
+            "player2": "\"ausknipsr\"", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"Eternauta\"", 
+            "player1points": 26, 
+            "player2": "\"Sweta-Hornet\"", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "\"Tito.T.Arantula\"", 
+            "player1points": 35, 
+            "player2": "\"M4TZ3\"", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 5, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Other", 
+    "venue": {
+      "city": "Boeblingen", 
+      "country": "Germany", 
+      "lat": null, 
+      "lon": null, 
+      "name": "Auryn Con - Ev. Waldheim Tannenberg", 
+      "state": "Baden-Wuerttemberg"
+    }, 
+    "video_url": "http://"
+  }
+}
