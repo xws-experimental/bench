@@ -712,12 +712,12 @@
         "sos": "0.00"
       }, 
       {
-        "mov": 0, 
-        "name": "Player 12", 
+        "mov": 563, 
+        "name": "Ivan Malashenko", 
         "rank": {
           "swiss": 12
         }, 
-        "score": 0, 
+        "score": 3, 
         "sos": "0.00"
       }, 
       {
@@ -857,21 +857,21 @@
           }, 
           "version": "4.2.0"
         }, 
-        "mov": 0, 
-        "name": "Player 14", 
+        "mov": 518, 
+        "name": "Maxim Gokhgut", 
         "rank": {
           "swiss": 14
         }, 
-        "score": 0, 
+        "score": 3, 
         "sos": "0.00"
       }, 
       {
-        "mov": 0, 
-        "name": "Player 15", 
+        "mov": 495, 
+        "name": "Sergey Radkovets", 
         "rank": {
           "swiss": 15
         }, 
-        "score": 0, 
+        "score": 3, 
         "sos": "0.00"
       }, 
       {
@@ -945,21 +945,21 @@
         "sos": "0.00"
       }, 
       {
-        "mov": 0, 
-        "name": "Player 17", 
+        "mov": 479, 
+        "name": "Igor Borisov", 
         "rank": {
           "swiss": 17
         }, 
-        "score": 0, 
+        "score": 3, 
         "sos": "0.00"
       }, 
       {
-        "mov": 0, 
-        "name": "Player 18", 
+        "mov": 543, 
+        "name": "Denis Gadalin", 
         "rank": {
           "swiss": 18
         }, 
-        "score": 0, 
+        "score": 2, 
         "sos": "0.00"
       }, 
       {
@@ -1083,21 +1083,21 @@
         "sos": "0.00"
       }, 
       {
-        "mov": 0, 
-        "name": "Player 21", 
+        "mov": 434, 
+        "name": "Andrey Prokopenko", 
         "rank": {
           "swiss": 21
         }, 
-        "score": 0, 
+        "score": 2, 
         "sos": "0.00"
       }, 
       {
-        "mov": 0, 
-        "name": "Player 22", 
+        "mov": 426, 
+        "name": "Aleksey Gulkov", 
         "rank": {
           "swiss": 22
         }, 
-        "score": 0, 
+        "score": 2, 
         "sos": "0.00"
       }, 
       {
@@ -1169,35 +1169,35 @@
           }, 
           "version": "4.2.0"
         }, 
-        "mov": 0, 
-        "name": "Player 23", 
+        "mov": 416, 
+        "name": "Nikita Kryzhanovky", 
         "rank": {
           "swiss": 23
         }, 
-        "score": 0, 
+        "score": 2, 
         "sos": "0.00"
       }, 
       {
-        "mov": 0, 
-        "name": "Player 24", 
+        "mov": 406, 
+        "name": "Denis Smirnov", 
         "rank": {
           "swiss": 24
         }, 
-        "score": 0, 
+        "score": 2, 
         "sos": "0.00"
       }, 
       {
-        "mov": 0, 
-        "name": "Player 25", 
+        "mov": 402, 
+        "name": "Nikolay Onischenko", 
         "rank": {
           "swiss": 25
         }, 
-        "score": 0, 
+        "score": 2, 
         "sos": "0.00"
       }, 
       {
         "mov": 0, 
-        "name": "Player 26", 
+        "name": "Oleg Karyakin", 
         "rank": {
           "swiss": 26
         }, 
@@ -1206,7 +1206,7 @@
       }, 
       {
         "mov": 0, 
-        "name": "Player 27", 
+        "name": "Konstantin Pavlov", 
         "rank": {
           "swiss": 27
         }, 
@@ -1259,7 +1259,7 @@
           "version": "4.2.0"
         }, 
         "mov": 0, 
-        "name": "Player 28", 
+        "name": "Maxim Mikheev", 
         "rank": {
           "swiss": 28
         }, 
@@ -1268,7 +1268,7 @@
       }, 
       {
         "mov": 0, 
-        "name": "Player 29", 
+        "name": "Ilya Zharovtsev", 
         "rank": {
           "swiss": 29
         }, 
@@ -1277,7 +1277,7 @@
       }, 
       {
         "mov": 0, 
-        "name": "Player 30", 
+        "name": "Artem Levakov", 
         "rank": {
           "swiss": 30
         }, 
@@ -1286,7 +1286,7 @@
       }, 
       {
         "mov": 0, 
-        "name": "Player 31", 
+        "name": "Dmitryi Muraviev", 
         "rank": {
           "swiss": 31
         }, 
@@ -1295,7 +1295,7 @@
       }, 
       {
         "mov": 0, 
-        "name": "Player 32", 
+        "name": "Matt Foss", 
         "rank": {
           "swiss": 32
         }, 
