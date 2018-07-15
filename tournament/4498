@@ -1,0 +1,242 @@
+{
+  "tournament": {
+    "date": "2018-07-14", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4498, 
+    "name": "IV Turniej Ligi Wschodnich Rubiey - 14.07.2018 ZDK Zamo", 
+    "players": [
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "maulermithel", 
+              "ship": "tiefighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "whisper", 
+              "ship": "tiephantom", 
+              "upgrades": {
+                "crew": [
+                  "directorkrennic"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "advancedcloakingdevice"
+                ], 
+                "system": [
+                  "advancedsensors"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 474, 
+        "name": "Cypek", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 391, 
+        "name": "Bojler", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 362, 
+        "name": "Dzess", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 322, 
+        "name": "Lukasz", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 2, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 279, 
+        "name": "Tomak", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 213, 
+        "name": "Mlody", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 1, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 209, 
+        "name": "Pawel Bartnik", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 1, 
+        "sos": "0.67"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Pawel Bartnik", 
+            "player1points": 28, 
+            "player2": "Dzess", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lukasz", 
+            "player1points": 74, 
+            "player2": "Tomak", 
+            "player2points": 25, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mlody", 
+            "player1points": 63, 
+            "player2": "Cypek", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bojler", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Cypek", 
+            "player1points": 100, 
+            "player2": "Dzess", 
+            "player2points": 18, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lukasz", 
+            "player1points": 53, 
+            "player2": "Bojler", 
+            "player2points": 25, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mlody", 
+            "player1points": 0, 
+            "player2": "Tomak", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pawel Bartnik", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Cypek", 
+            "player1points": 100, 
+            "player2": "Lukasz", 
+            "player2points": 45, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bojler", 
+            "player1points": 100, 
+            "player2": "Pawel Bartnik", 
+            "player2points": 31, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Dzess", 
+            "player1points": 100, 
+            "player2": "Tomak", 
+            "player2points": 28, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mlody", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Other", 
+    "venue": {
+      "city": "Zamo", 
+      "country": "Poland", 
+      "lat": "50.717085400000", 
+      "lon": "23.252571100000", 
+      "name": "", 
+      "state": "Lubelskie"
+    }, 
+    "video_url": "http://"
+  }
+}
