@@ -1,0 +1,703 @@
+{
+  "tournament": {
+    "date": "2018-07-15", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4513, 
+    "name": "Store Championship 2018 - Gralnia", 
+    "players": [
+      {
+        "mov": 640, 
+        "name": "Bartosz Burchardt", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 1
+        }, 
+        "score": 4, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 613, 
+        "name": "Roberto", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 2
+        }, 
+        "score": 4, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 590, 
+        "name": "Angus", 
+        "rank": {
+          "elimination": 1, 
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 542, 
+        "name": "Krysiak", 
+        "rank": {
+          "elimination": 2, 
+          "swiss": 4
+        }, 
+        "score": 3, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 539, 
+        "name": "Rafal Kurowiak", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 3, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 531, 
+        "name": "Michal Kolasinski", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 3, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 484, 
+        "name": "Ken", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 518, 
+        "name": "Wojciech Kolas", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 470, 
+        "name": "Wojciech Szafalowicz", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 2, 
+        "sos": "0.31"
+      }, 
+      {
+        "mov": 451, 
+        "name": "Chudy", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 2, 
+        "sos": "0.31"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "clustermines", 
+                  "thermaldetonators"
+                ], 
+                "crew": [
+                  "sabinewren"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "experimentalinterface"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 439, 
+        "name": "Michal Pralat", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 2, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 417, 
+        "name": "Czarny Kowboj", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 2, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 417, 
+        "name": "Woszczu", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 359, 
+        "name": "Endi", 
+        "rank": {
+          "swiss": 14
+        }, 
+        "score": 2, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 329, 
+        "name": "Slaan", 
+        "rank": {
+          "swiss": 15
+        }, 
+        "score": 2, 
+        "sos": "0.31"
+      }, 
+      {
+        "mov": 319, 
+        "name": "Janusz", 
+        "rank": {
+          "swiss": 16
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 301, 
+        "name": "Sinnert", 
+        "rank": {
+          "swiss": 17
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 408, 
+        "name": "Radek Kierzkowski", 
+        "rank": {
+          "swiss": 18
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 347, 
+        "name": "Michal Parteka", 
+        "rank": {
+          "swiss": 19
+        }, 
+        "score": 1, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 274, 
+        "name": "Enzeru", 
+        "rank": {
+          "swiss": 20
+        }, 
+        "score": 1, 
+        "sos": "0.75"
+      }, 
+      {
+        "mov": 271, 
+        "name": "Szymon Blaszczyk", 
+        "rank": {
+          "swiss": 21
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 263, 
+        "name": "Piotr Rzepecki", 
+        "rank": {
+          "swiss": 22
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 54, 
+        "name": "Gregorio", 
+        "rank": {
+          "swiss": 23
+        }, 
+        "score": 0, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 24, 
+        "name": "Adam Pawlowski", 
+        "rank": {
+          "swiss": 24
+        }, 
+        "score": 0, 
+        "sos": "0.50"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Gregorio", 
+            "player1points": 0, 
+            "player2": "Angus", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chudy", 
+            "player1points": 24, 
+            "player2": "Michal Kolasinski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Enzeru", 
+            "player1points": 100, 
+            "player2": "Rafal Kurowiak", 
+            "player2points": 49, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Slaan", 
+            "player1points": 0, 
+            "player2": "Wojciech Kolas", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sinnert", 
+            "player1points": 24, 
+            "player2": "Czarny Kowboj", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Piotr Rzepecki", 
+            "player1points": 68, 
+            "player2": "Endi", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Michal Parteka", 
+            "player1points": 62, 
+            "player2": "Janusz", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bartosz Burchardt", 
+            "player1points": 100, 
+            "player2": "Woszczu", 
+            "player2points": 57, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Adam Pawlowski", 
+            "player1points": 0, 
+            "player2": "Michal Pralat", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Szymon Blaszczyk", 
+            "player1points": 28, 
+            "player2": "Ken", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Radek Kierzkowski", 
+            "player1points": 100, 
+            "player2": "Wojciech Szafalowicz", 
+            "player2points": 36, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Krysiak", 
+            "player1points": 22, 
+            "player2": "Roberto", 
+            "player2points": 55, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Michal Pralat", 
+            "player1points": 100, 
+            "player2": "Endi", 
+            "player2points": 47, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Roberto", 
+            "player1points": 59, 
+            "player2": "Wojciech Kolas", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Janusz", 
+            "player1points": 71, 
+            "player2": "Radek Kierzkowski", 
+            "player2points": 62, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Angus", 
+            "player1points": 100, 
+            "player2": "Ken", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Enzeru", 
+            "player1points": 0, 
+            "player2": "Bartosz Burchardt", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Michal Kolasinski", 
+            "player1points": 100, 
+            "player2": "Czarny Kowboj", 
+            "player2points": 47, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Michal Parteka", 
+            "player1points": 73, 
+            "player2": "Sinnert", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Gregorio", 
+            "player1points": 0, 
+            "player2": "Slaan", 
+            "player2points": 46, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Szymon Blaszczyk", 
+            "player1points": 43, 
+            "player2": "Krysiak", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Piotr Rzepecki", 
+            "player1points": 100, 
+            "player2": "Chudy", 
+            "player2points": 39, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Adam Pawlowski", 
+            "player1points": 24, 
+            "player2": "Woszczu", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Rafal Kurowiak", 
+            "player1points": 100, 
+            "player2": "Wojciech Szafalowicz", 
+            "player2points": 68, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Krysiak", 
+            "player1points": 32, 
+            "player2": "Angus", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "elimination"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Michal Kolasinski", 
+            "player1points": 100, 
+            "player2": "Janusz", 
+            "player2points": 72, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Angus", 
+            "player1points": 22, 
+            "player2": "Roberto", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bartosz Burchardt", 
+            "player1points": 100, 
+            "player2": "Michal Pralat", 
+            "player2points": 29, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Endi", 
+            "player1points": 48, 
+            "player2": "Czarny Kowboj", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Radek Kierzkowski", 
+            "player1points": 78, 
+            "player2": "Ken", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Slaan", 
+            "player1points": 58, 
+            "player2": "Woszczu", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Enzeru", 
+            "player1points": 55, 
+            "player2": "Krysiak", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sinnert", 
+            "player1points": 100, 
+            "player2": "Wojciech Kolas", 
+            "player2points": 77, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Piotr Rzepecki", 
+            "player1points": 0, 
+            "player2": "Rafal Kurowiak", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Gregorio", 
+            "player1points": 0, 
+            "player2": "Szymon Blaszczyk", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Adam Pawlowski", 
+            "player1points": 0, 
+            "player2": "Wojciech Szafalowicz", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chudy", 
+            "player1points": 100, 
+            "player2": "Michal Parteka", 
+            "player2points": 12, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Bartosz Burchardt", 
+            "player1points": 100, 
+            "player2": "Michal Kolasinski", 
+            "player2points": 74, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Roberto", 
+            "player1points": 100, 
+            "player2": "Michal Pralat", 
+            "player2points": 57, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Angus", 
+            "player1points": 100, 
+            "player2": "Janusz", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ken", 
+            "player1points": 100, 
+            "player2": "Czarny Kowboj", 
+            "player2points": 42, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Woszczu", 
+            "player1points": 0, 
+            "player2": "Rafal Kurowiak", 
+            "player2points": 58, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sinnert", 
+            "player1points": 27, 
+            "player2": "Krysiak", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Slaan", 
+            "player1points": 65, 
+            "player2": "Radek Kierzkowski", 
+            "player2points": 40, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Wojciech Kolas", 
+            "player1points": 100, 
+            "player2": "Szymon Blaszczyk", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Endi", 
+            "player1points": 100, 
+            "player2": "Enzeru", 
+            "player2points": 68, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Wojciech Szafalowicz", 
+            "player1points": 100, 
+            "player2": "Piotr Rzepecki", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chudy", 
+            "player1points": 100, 
+            "player2": "Adam Pawlowski", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Michal Parteka", 
+            "player1points": 100, 
+            "player2": "Gregorio", 
+            "player2points": 0, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Bartosz Burchardt", 
+            "player1points": 55, 
+            "player2": "Krysiak", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Roberto", 
+            "player1points": 64, 
+            "player2": "Angus", 
+            "player2points": 68, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "elimination"
+      }
+    ], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "Lodz", 
+      "country": "Poland", 
+      "lat": "51.768749000000", 
+      "lon": "19.456981700000", 
+      "name": "Gralnia", 
+      "state": "Lodzkie"
+    }, 
+    "video_url": "https://www.facebook.com/events/398100477355125/"
+  }
+}

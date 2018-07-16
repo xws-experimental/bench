@@ -1,0 +1,587 @@
+{
+  "tournament": {
+    "date": "2018-07-15", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4511, 
+    "name": "Ackbar Store Championship", 
+    "players": [
+      {
+        "mov": 659, 
+        "name": "Stephen Wooten", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 1
+        }, 
+        "score": 4, 
+        "sos": "0.46"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "darthvader", 
+              "ship": "tieadvanced", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "system": [
+                  "advtargetingcomputer"
+                ], 
+                "title": [
+                  "tiex1"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "rhosquadronveteran", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "ept": [
+                  "deadeye"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 576, 
+        "name": "Rolando Garcia", 
+        "rank": {
+          "elimination": 1, 
+          "swiss": 2
+        }, 
+        "score": 4, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 638, 
+        "name": "Sol Gerrera", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 572, 
+        "name": "Ray Hickman", 
+        "rank": {
+          "elimination": 2, 
+          "swiss": 4
+        }, 
+        "score": 3, 
+        "sos": "0.40"
+      }, 
+      {
+        "mov": 383, 
+        "name": "John Dimaggio", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 3, 
+        "sos": "0.58"
+      }, 
+      {
+        "mov": 511, 
+        "name": "Max Bernstein", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 2, 
+        "sos": "0.46"
+      }, 
+      {
+        "mov": 434, 
+        "name": "Sam Page", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 427, 
+        "name": "Felix Albahae", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 2, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 416, 
+        "name": "Cal Neuvost", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 403, 
+        "name": "Brendan Culliton", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 353, 
+        "name": "Fabian Valle", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 294, 
+        "name": "Matthew Kissh", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 1, 
+        "sos": "0.75"
+      }, 
+      {
+        "mov": 283, 
+        "name": "Mark Bernhardt", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 273, 
+        "name": "Jamal Ahmed", 
+        "rank": {
+          "swiss": 14
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 205, 
+        "name": "Neil Barron", 
+        "rank": {
+          "swiss": 15
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 200, 
+        "name": "Joaquin Quintana", 
+        "rank": {
+          "swiss": 16
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 110, 
+        "name": "Brando Medina", 
+        "rank": {
+          "swiss": 17
+        }, 
+        "score": 0, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 63, 
+        "name": "Doug Smith", 
+        "rank": {
+          "swiss": 18
+        }, 
+        "score": 0, 
+        "sos": "0.36"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "John Dimaggio", 
+            "player1points": 41, 
+            "player2": "Sam Page", 
+            "player2points": 21, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Doug Smith", 
+            "player1points": 0, 
+            "player2": "Mark Bernhardt", 
+            "player2points": 73, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Felix Albahae", 
+            "player1points": 100, 
+            "player2": "Joaquin Quintana", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Neil Barron", 
+            "player1points": 100, 
+            "player2": "Jamal Ahmed", 
+            "player2points": 42, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Stephen Wooten", 
+            "player1points": 52, 
+            "player2": "Max Bernstein", 
+            "player2points": 31, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Fabian Valle", 
+            "player1points": 50, 
+            "player2": "Cal Neuvost", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Brando Medina", 
+            "player1points": 14, 
+            "player2": "Brendan Culliton", 
+            "player2points": 69, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Ray Hickman", 
+            "player1points": 0, 
+            "player2": "Matthew Kissh", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Sol Gerrera", 
+            "player1points": 38, 
+            "player2": "Rolando Garcia", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "Brendan Culliton", 
+            "player1points": 52, 
+            "player2": "Cal Neuvost", 
+            "player2points": 28, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "John Dimaggio", 
+            "player1points": 61, 
+            "player2": "Matthew Kissh", 
+            "player2points": 55, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Felix Albahae", 
+            "player1points": 100, 
+            "player2": "Neil Barron", 
+            "player2points": 47, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Mark Bernhardt", 
+            "player1points": 0, 
+            "player2": "Stephen Wooten", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Rolando Garcia", 
+            "player1points": 100, 
+            "player2": "Sam Page", 
+            "player2points": 26, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Max Bernstein", 
+            "player1points": 100, 
+            "player2": "Brando Medina", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Fabian Valle", 
+            "player1points": 0, 
+            "player2": "Ray Hickman", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Jamal Ahmed", 
+            "player1points": 100, 
+            "player2": "Doug Smith", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Sol Gerrera", 
+            "player1points": 100, 
+            "player2": "Joaquin Quintana", 
+            "player2points": 0, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "Ray Hickman", 
+            "player1points": 0, 
+            "player2": "Rolando Garcia", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "elimination"
+      }, 
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "John Dimaggio", 
+            "player1points": 47, 
+            "player2": "Felix Albahae", 
+            "player2points": 21, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Rolando Garcia", 
+            "player1points": 68, 
+            "player2": "Brendan Culliton", 
+            "player2points": 64, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Stephen Wooten", 
+            "player1points": 100, 
+            "player2": "Jamal Ahmed", 
+            "player2points": 31, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Cal Neuvost", 
+            "player1points": 52, 
+            "player2": "Mark Bernhardt", 
+            "player2points": 26, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Neil Barron", 
+            "player1points": 0, 
+            "player2": "Max Bernstein", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Matthew Kissh", 
+            "player1points": 0, 
+            "player2": "Sol Gerrera", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Ray Hickman", 
+            "player1points": 100, 
+            "player2": "Joaquin Quintana", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Brando Medina", 
+            "player1points": 65, 
+            "player2": "Fabian Valle", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Doug Smith", 
+            "player1points": 36, 
+            "player2": "Sam Page", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "John Dimaggio", 
+            "player1points": 31, 
+            "player2": "Stephen Wooten", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Rolando Garcia", 
+            "player1points": 100, 
+            "player2": "Cal Neuvost", 
+            "player2points": 64, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Brendan Culliton", 
+            "player1points": 28, 
+            "player2": "Ray Hickman", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Felix Albahae", 
+            "player1points": 0, 
+            "player2": "Sol Gerrera", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Max Bernstein", 
+            "player1points": 32, 
+            "player2": "Fabian Valle", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Mark Bernhardt", 
+            "player1points": 36, 
+            "player2": "Sam Page", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Brando Medina", 
+            "player1points": 0, 
+            "player2": "Joaquin Quintana", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "Stephen Wooten", 
+            "player1points": 26, 
+            "player2": "Ray Hickman", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Rolando Garcia", 
+            "player1points": 100, 
+            "player2": "Sol Gerrera", 
+            "player2points": 61, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "elimination"
+      }
+    ], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "New York", 
+      "country": "United States of America", 
+      "lat": "27.960398900000", 
+      "lon": "-82.442503300000", 
+      "name": "Brooklyn Strategist", 
+      "state": "New York"
+    }, 
+    "video_url": "http://"
+  }
+}
