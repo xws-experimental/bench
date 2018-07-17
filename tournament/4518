@@ -1,0 +1,294 @@
+{
+  "tournament": {
+    "date": "2018-07-15", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4518, 
+    "name": "July Q2 kit", 
+    "players": [
+      {
+        "mov": 0, 
+        "name": "Player 1", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "majorvermeil", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "rebelcaptive"
+                ], 
+                "ept": [
+                  "predator"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "omegaleader", 
+              "ship": "tiefofighter", 
+              "upgrades": {
+                "ept": [
+                  "juke"
+                ], 
+                "mod": [
+                  "multispectralcamouflage"
+                ], 
+                "tech": [
+                  "commrelay"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 679, 
+        "name": "Mikhail Jenkins", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 4, 
+        "sos": "0.58"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "scarifbasepilot", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "directorkrennic", 
+                  "isbslicer"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "theinquisitor", 
+              "ship": "tieadvprototype", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "missile": [
+                  "protonrockets"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "tiev1"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "adaptability"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 569, 
+        "name": "Tommy Adams", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.69"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "majorvermeil", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "isbslicer", 
+                  "directorkrennic"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "scarifbasepilot", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "emperorpalpatine"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "darthvader", 
+              "ship": "tieadvanced", 
+              "upgrades": {
+                "ept": [
+                  "adaptability"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "advtargetingcomputer"
+                ], 
+                "title": [
+                  "tiex1"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 508, 
+        "name": "Gordon Berg", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.42"
+      }, 
+      {
+        "mov": 430, 
+        "name": "Joseph Franchino", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 323, 
+        "name": "Stephen", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 322, 
+        "name": "Tyler Wheeler", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 2, 
+        "sos": "0.42"
+      }, 
+      {
+        "mov": 299, 
+        "name": "Zac Teisman", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 2, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 378, 
+        "name": "Sean O'Donahue", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 322, 
+        "name": "Jonathan Wheeler", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 1, 
+        "sos": "0.58"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [], 
+    "type": "Other", 
+    "venue": {
+      "city": "Frankfort", 
+      "country": "United States of America", 
+      "lat": null, 
+      "lon": null, 
+      "name": "TTD Cards", 
+      "state": "Kentucky"
+    }, 
+    "video_url": "http://"
+  }
+}

@@ -1,0 +1,828 @@
+{
+  "tournament": {
+    "date": "2018-07-07", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4521, 
+    "name": "Glimpses Store Champ", 
+    "players": [
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "puresabacc", 
+              "ship": "tiestriker", 
+              "upgrades": {
+                "ept": [
+                  "predator"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "adaptiveailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "majorvermeil", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "directorkrennic"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "maarekstele", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "juke"
+                ], 
+                "mod": [
+                  "multispectralcamouflage"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 569, 
+        "name": "Zachery Johnson", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "colonelvessery", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "twinionenginemkii"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "nusquadronpilot", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 526, 
+        "name": "Jeff McClain", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.38"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "blacksunsoldier", 
+              "ship": "z95headhunter", 
+              "upgrades": {
+                "illicit": [
+                  "scavengercrane"
+                ], 
+                "missile": [
+                  "cruisemissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ]
+              }
+            }, 
+            {
+              "name": "blacksunsoldier", 
+              "ship": "z95headhunter", 
+              "upgrades": {
+                "illicit": [
+                  "scavengercrane"
+                ], 
+                "missile": [
+                  "cruisemissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ]
+              }
+            }, 
+            {
+              "name": "blacksunsoldier", 
+              "ship": "z95headhunter", 
+              "upgrades": {
+                "illicit": [
+                  "scavengercrane"
+                ], 
+                "missile": [
+                  "cruisemissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ]
+              }
+            }, 
+            {
+              "name": "blacksunsoldier", 
+              "ship": "z95headhunter", 
+              "upgrades": {
+                "illicit": [
+                  "scavengercrane"
+                ], 
+                "missile": [
+                  "cruisemissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ]
+              }
+            }, 
+            {
+              "name": "blacksunsoldier", 
+              "ship": "z95headhunter", 
+              "upgrades": {
+                "missile": [
+                  "xx23sthreadtracers"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ]
+              }
+            }, 
+            {
+              "name": "blacksunsoldier", 
+              "ship": "z95headhunter", 
+              "upgrades": {
+                "missile": [
+                  "xx23sthreadtracers"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 474, 
+        "name": "Thomas Shaw", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "fennrau", 
+              "ship": "protectoratestarfighter", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "concorddawnprotector"
+                ]
+              }
+            }, 
+            {
+              "name": "guri", 
+              "ship": "starviper", 
+              "upgrades": {
+                "ept": [
+                  "intensity"
+                ], 
+                "illicit": [
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "starvipermkii", 
+                  "virago"
+                ]
+              }
+            }, 
+            {
+              "name": "thweek", 
+              "ship": "starviper", 
+              "upgrades": {
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "starvipermkii"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 473, 
+        "name": "Matt Moresey", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 3, 
+        "sos": "0.63"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "manaroo", 
+              "ship": "jumpmaster5000", 
+              "upgrades": {
+                "ept": [
+                  "attannimindlink"
+                ], 
+                "mod": [
+                  "tacticaljammer"
+                ]
+              }
+            }, 
+            {
+              "name": "asajjventress", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "lattsrazzi"
+                ], 
+                "ept": [
+                  "attannimindlink"
+                ]
+              }
+            }, 
+            {
+              "name": "guri", 
+              "ship": "starviper", 
+              "upgrades": {
+                "ept": [
+                  "intensity"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "starvipermkii"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 509, 
+        "name": "Donny Eucker", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 2, 
+        "sos": "0.25"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "scarifbasepilot", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "emperorpalpatine"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "majorvermeil", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "directorkrennic"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "theinquisitor", 
+              "ship": "tieadvprototype", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "tiev1"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 437, 
+        "name": "Milo Beall", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 365, 
+        "name": "John Witherspoon", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "countessryad", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "adaptability"
+                ], 
+                "mod": [
+                  "twinionenginemkii"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }, 
+            {
+              "name": "colonelvessery", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "swarmleader"
+                ], 
+                "mod": [
+                  "twinionenginemkii"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }, 
+            {
+              "name": "scarifbasepilot", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "directorkrennic", 
+                  "intelligenceagent"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 227, 
+        "name": "Ben OELGART", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "countdown", 
+              "ship": "tiestriker", 
+              "upgrades": {
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "adaptiveailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "adaptability"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "kyloren", 
+              "ship": "tiesilencer", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "advancedsensors"
+                ], 
+                "title": [
+                  "firstordervanguard"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 225, 
+        "name": "George Irwin", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 1, 
+        "sos": "0.63"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "goldsquadronpilot", 
+              "ship": "ywing", 
+              "upgrades": {
+                "amd": [
+                  "chopper-swx72"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "torpedo": [
+                  "bombloadout"
+                ], 
+                "turret": [
+                  "ioncannonturret"
+                ]
+              }
+            }, 
+            {
+              "name": "braylenstramm", 
+              "ship": "arc170", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "kylekatarn"
+                ], 
+                "mod": [
+                  "vectoredthrusters"
+                ], 
+                "title": [
+                  "allianceoverhaul"
+                ]
+              }
+            }, 
+            {
+              "name": "norrawexley", 
+              "ship": "arc170", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ], 
+                "crew": [
+                  "magvayarro"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "title": [
+                  "allianceoverhaul"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 195, 
+        "name": "Kyung Lee", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Milo Beall", 
+            "player1points": 14, 
+            "player2": "Thomas Shaw", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jeff McClain", 
+            "player1points": 100, 
+            "player2": "Ben OELGART", 
+            "player2points": 22, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Donny Eucker", 
+            "player1points": 22, 
+            "player2": "George Irwin", 
+            "player2points": 29, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Kyung Lee", 
+            "player1points": 0, 
+            "player2": "Zachery Johnson", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "John Witherspoon", 
+            "player1points": 27, 
+            "player2": "Matt Moresey", 
+            "player2points": 33, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Thomas Shaw", 
+            "player1points": 27, 
+            "player2": "Zachery Johnson", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jeff McClain", 
+            "player1points": 35, 
+            "player2": "Matt Moresey", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "George Irwin", 
+            "player1points": 0, 
+            "player2": "Milo Beall", 
+            "player2points": 55, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Kyung Lee", 
+            "player1points": 23, 
+            "player2": "John Witherspoon", 
+            "player2points": 56, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ben OELGART", 
+            "player1points": 49, 
+            "player2": "Donny Eucker", 
+            "player2points": 30, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Matt Moresey", 
+            "player1points": 36, 
+            "player2": "Zachery Johnson", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "George Irwin", 
+            "player1points": 28, 
+            "player2": "Thomas Shaw", 
+            "player2points": 55, 
+            "result": "win"
+          }, 
+          {
+            "player1": "John Witherspoon", 
+            "player1points": 65, 
+            "player2": "Jeff McClain", 
+            "player2points": 78, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Milo Beall", 
+            "player1points": 100, 
+            "player2": "Ben OELGART", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Donny Eucker", 
+            "player1points": 100, 
+            "player2": "Kyung Lee", 
+            "player2points": 14, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Matt Moresey", 
+            "player1points": 28, 
+            "player2": "Thomas Shaw", 
+            "player2points": 62, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Milo Beall", 
+            "player1points": 36, 
+            "player2": "Zachery Johnson", 
+            "player2points": 68, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jeff McClain", 
+            "player1points": 100, 
+            "player2": "George Irwin", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "John Witherspoon", 
+            "player1points": 29, 
+            "player2": "Donny Eucker", 
+            "player2points": 78, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ben OELGART", 
+            "player1points": 56, 
+            "player2": "Kyung Lee", 
+            "player2points": 70, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "Sherwood", 
+      "country": "United States of America", 
+      "lat": "45.357098300000", 
+      "lon": "-122.840357000000", 
+      "name": "", 
+      "state": "Oregon"
+    }, 
+    "video_url": "http://"
+  }
+}

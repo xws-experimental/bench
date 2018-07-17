@@ -1,0 +1,461 @@
+{
+  "tournament": {
+    "date": "2018-07-14", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4519, 
+    "name": "Atlantis Portsmouth Store Championship", 
+    "players": [
+      {
+        "mov": 624, 
+        "name": "Will Pearce", 
+        "rank": {
+          "elimination": 3, 
+          "swiss": 1
+        }, 
+        "score": 4, 
+        "sos": "0.52"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "lieutenantblount", 
+              "ship": "z95headhunter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "xx23sthreadtracers"
+                ], 
+                "mod": [
+                  "multispectralcamouflage"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 595, 
+        "name": "Joel Springle", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 557, 
+        "name": "Andrew Nee", 
+        "rank": {
+          "elimination": 2, 
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.38"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "scimitarsquadronpilot", 
+              "ship": "tiebomber", 
+              "upgrades": {
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ]
+              }
+            }, 
+            {
+              "name": "scimitarsquadronpilot", 
+              "ship": "tiebomber", 
+              "upgrades": {
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ]
+              }
+            }, 
+            {
+              "name": "scimitarsquadronpilot", 
+              "ship": "tiebomber", 
+              "upgrades": {
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 545, 
+        "name": "Lee Holland", 
+        "rank": {
+          "elimination": 1, 
+          "swiss": 4
+        }, 
+        "score": 3, 
+        "sos": "0.65"
+      }, 
+      {
+        "mov": 513, 
+        "name": "Nick Gray", 
+        "rank": {
+          "elimination": 5, 
+          "swiss": 5
+        }, 
+        "score": 3, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 503, 
+        "name": "Seth Bushore", 
+        "rank": {
+          "elimination": 6, 
+          "swiss": 6
+        }, 
+        "score": 3, 
+        "sos": "0.50"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "wullffwarro", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "chopper", 
+                  "janors"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "vectoredthrusters"
+                ]
+              }
+            }, 
+            {
+              "name": "rey", 
+              "ship": "yt1300", 
+              "upgrades": {
+                "crew": [
+                  "finn", 
+                  "kananjarrus"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "title": [
+                  "millenniumfalcon-swx57"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 500, 
+        "name": "Cody Zimmerman", 
+        "rank": {
+          "elimination": 7, 
+          "swiss": 7
+        }, 
+        "score": 3, 
+        "sos": "0.46"
+      }, 
+      {
+        "mov": 466, 
+        "name": "Ian Shaw", 
+        "rank": {
+          "elimination": 8, 
+          "swiss": 8
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 426, 
+        "name": "Thomas Gibbings", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 2, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 420, 
+        "name": "David Kelley", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 2, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 416, 
+        "name": "Jarrod Ward", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 2, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 400, 
+        "name": "Tim Sikardi", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 383, 
+        "name": "Eoin Whalen", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 2, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 253, 
+        "name": "Blair Garrett", 
+        "rank": {
+          "swiss": 14
+        }, 
+        "score": 1, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 251, 
+        "name": "Avatar Boardman", 
+        "rank": {
+          "swiss": 15
+        }, 
+        "score": 1, 
+        "sos": "0.31"
+      }, 
+      {
+        "mov": 231, 
+        "name": "Carson Wittwer", 
+        "rank": {
+          "swiss": 16
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "asajjventress", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "lattsrazzi"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "illicit": [
+                  "burnoutslam", 
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "gyroscopictargeting"
+                ]
+              }
+            }, 
+            {
+              "name": "ketsuonyo", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "dengar"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "illicit": [
+                  "burnoutslam", 
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "gyroscopictargeting"
+                ], 
+                "title": [
+                  "shadowcaster"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 220, 
+        "name": "Chris Stough", 
+        "rank": {
+          "swiss": 17
+        }, 
+        "score": 1, 
+        "sos": "0.75"
+      }, 
+      {
+        "mov": 185, 
+        "name": "Xavier Whalen", 
+        "rank": {
+          "swiss": 18
+        }, 
+        "score": 1, 
+        "sos": "0.42"
+      }, 
+      {
+        "mov": 204, 
+        "name": "Joe H", 
+        "rank": {
+          "swiss": 19
+        }, 
+        "score": 0, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 108, 
+        "name": "Eric Ni", 
+        "rank": {
+          "swiss": 20
+        }, 
+        "score": 0, 
+        "sos": "0.62"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "Portsmouth", 
+      "country": "United States of America", 
+      "lat": "36.835425800000", 
+      "lon": "-76.298274200000", 
+      "name": "Atlantis Games and Comics", 
+      "state": "Virginia"
+    }, 
+    "video_url": "http://"
+  }
+}

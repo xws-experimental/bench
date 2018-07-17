@@ -1,0 +1,383 @@
+{
+  "tournament": {
+    "date": "2018-07-11", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4514, 
+    "name": "Quickfire: Wilczek 2", 
+    "players": [
+      {
+        "mov": 532, 
+        "name": "Mateusz \"Jupi\" Sz.", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 3, 
+        "sos": "0.67"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "fennrau", 
+              "ship": "protectoratestarfighter", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "concorddawnprotector"
+                ]
+              }
+            }, 
+            {
+              "name": "thweek", 
+              "ship": "starviper", 
+              "upgrades": {
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "starvipermkii", 
+                  "virago"
+                ]
+              }
+            }, 
+            {
+              "name": "palobgodalhi", 
+              "ship": "hwk290", 
+              "upgrades": {
+                "crew": [
+                  "dengar"
+                ], 
+                "ept": [
+                  "trickshot"
+                ], 
+                "illicit": [
+                  "cloakingdevice"
+                ], 
+                "title": [
+                  "moldycrow"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 529, 
+        "name": "Wojciech Szafalowicz", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 468, 
+        "name": "Rafa? Kura Kurowiak", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 446, 
+        "name": "Tomasz \"Thrud\" Kwieci?ski", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 374, 
+        "name": "Kudlaty", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 362, 
+        "name": "Michal Forest", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 336, 
+        "name": "Kolas", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 302, 
+        "name": "Maciej Klorek", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 201, 
+        "name": "Micha? Tyranowski", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 1, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 155, 
+        "name": "Jakub Machul", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 150, 
+        "name": "Andrzej Bobak", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 1, 
+        "sos": "0.83"
+      }, 
+      {
+        "mov": 150, 
+        "name": "Kuba Es", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 45, 
+        "name": "Bartosz  Burchardt", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 0, 
+        "sos": "0.56"
+      }
+    ], 
+    "round_length": 65, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "Andrzej Bobak", 
+            "player1points": 0, 
+            "player2": "Kudlaty", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Mateusz \"Jupi\" Sz.", 
+            "player1points": 100, 
+            "player2": "Rafa? Kura Kurowiak", 
+            "player2points": 68, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Bartosz  Burchardt", 
+            "player1points": 0, 
+            "player2": "Michal Forest", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Micha? Tyranowski", 
+            "player1points": 25, 
+            "player2": "Tomasz \"Thrud\" Kwieci?ski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Kuba Es", 
+            "player1points": 100, 
+            "player2": "Maciej Klorek", 
+            "player2points": 50, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Wojciech Szafalowicz", 
+            "player1points": 100, 
+            "player2": "Jakub Machul", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Kolas", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "Tomasz \"Thrud\" Kwieci?ski", 
+            "player1points": 100, 
+            "player2": "Kuba Es", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Mateusz \"Jupi\" Sz.", 
+            "player1points": 100, 
+            "player2": "Kudlaty", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Michal Forest", 
+            "player1points": 76, 
+            "player2": "Kolas", 
+            "player2points": 14, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Wojciech Szafalowicz", 
+            "player1points": 100, 
+            "player2": "Andrzej Bobak", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Rafa? Kura Kurowiak", 
+            "player1points": 100, 
+            "player2": "Bartosz  Burchardt", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Maciej Klorek", 
+            "player1points": 100, 
+            "player2": "Jakub Machul", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Micha? Tyranowski", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "Wojciech Szafalowicz", 
+            "player1points": 63, 
+            "player2": "Tomasz \"Thrud\" Kwieci?ski", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Michal Forest", 
+            "player1points": 0, 
+            "player2": "Mateusz \"Jupi\" Sz.", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Kolas", 
+            "player1points": 100, 
+            "player2": "Maciej Klorek", 
+            "player2points": 52, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Kuba Es", 
+            "player1points": 0, 
+            "player2": "Rafa? Kura Kurowiak", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Kudlaty", 
+            "player1points": 100, 
+            "player2": "Micha? Tyranowski", 
+            "player2points": 26, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Jakub Machul", 
+            "player1points": 100, 
+            "player2": "Bartosz  Burchardt", 
+            "player2points": 45, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Andrzej Bobak", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Other", 
+    "venue": {
+      "city": "Poznan", 
+      "country": "Poland", 
+      "lat": "52.408266300000", 
+      "lon": "16.933519900000", 
+      "name": "", 
+      "state": "Wielkopolskie"
+    }
+  }
+}

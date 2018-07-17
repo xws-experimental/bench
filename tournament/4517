@@ -1,0 +1,704 @@
+{
+  "tournament": {
+    "date": "2018-07-15", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4517, 
+    "name": "Icarus jocs 13", 
+    "players": [
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "whisper", 
+              "ship": "tiephantom", 
+              "upgrades": {
+                "crew": [
+                  "directorkrennic"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "advancedcloakingdevice"
+                ], 
+                "system": [
+                  "collisiondetector"
+                ]
+              }
+            }, 
+            {
+              "name": "captainoicunn", 
+              "ship": "vt49decimator", 
+              "upgrades": {
+                "crew": [
+                  "emperorpalpatine"
+                ], 
+                "ept": [
+                  "determination"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "title": [
+                  "dauntless"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 571, 
+        "name": "Sergio", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "talasquadronpilot", 
+              "ship": "z95headhunter", 
+              "upgrades": {
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "tactician"
+                ], 
+                "ept": [
+                  "snapshot"
+                ], 
+                "mod": [
+                  "multispectralcamouflage"
+                ]
+              }
+            }, 
+            {
+              "name": "wedgeantilles", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "predator"
+                ], 
+                "mod": [
+                  "integratedastromech", 
+                  "servomotorsfoils"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "wesjanson", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "bb8"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "integratedastromech", 
+                  "servomotorsfoils"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 400, 
+        "name": "Salvi", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 2, 
+        "sos": "0.22"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "guri", 
+              "ship": "starviper", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "advancedsensors"
+                ], 
+                "title": [
+                  "virago", 
+                  "starvipermkii"
+                ]
+              }
+            }, 
+            {
+              "name": "sunnybounder", 
+              "ship": "m3ainterceptor", 
+              "upgrades": {
+                "cannon": [
+                  "linkedbattery"
+                ], 
+                "mod": [
+                  "multispectralcamouflage"
+                ]
+              }
+            }, 
+            {
+              "name": "asajjventress", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "lattsrazzi"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "title": [
+                  "shadowcaster"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 365, 
+        "name": "Edgar", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "asajjventress", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "dengar"
+                ], 
+                "ept": [
+                  "attannimindlink"
+                ], 
+                "mod": [
+                  "gyroscopictargeting"
+                ], 
+                "title": [
+                  "shadowcaster"
+                ]
+              }
+            }, 
+            {
+              "name": "kaatoleeachos", 
+              "ship": "z95headhunter", 
+              "upgrades": {
+                "ept": [
+                  "attannimindlink"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ]
+              }
+            }, 
+            {
+              "name": "guri", 
+              "ship": "starviper", 
+              "upgrades": {
+                "ept": [
+                  "intensity"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "virago", 
+                  "starvipermkii"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 244, 
+        "name": "Carlos", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "autoblasterturret"
+                ]
+              }
+            }, 
+            {
+              "name": "captainjostero", 
+              "ship": "kihraxzfighter", 
+              "upgrades": {
+                "ept": [
+                  "deadeye"
+                ], 
+                "mod": [
+                  "vectoredthrusters", 
+                  "munitionsfailsafe", 
+                  "guidancechips"
+                ], 
+                "title": [
+                  "vaksai"
+                ]
+              }
+            }, 
+            {
+              "name": "dalanoberos", 
+              "ship": "m12lkimogilafighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "illicit": [
+                  "blackmarketslicertools"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "unhingedastromech"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 349, 
+        "name": "Adri", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 1, 
+        "sos": "0.67"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "scarifdefender", 
+              "ship": "tiestriker", 
+              "upgrades": {
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "adaptiveailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "scarifdefender", 
+              "ship": "tiestriker", 
+              "upgrades": {
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "adaptiveailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "scarifdefender", 
+              "ship": "tiestriker", 
+              "upgrades": {
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "adaptiveailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "scarifdefender", 
+              "ship": "tiestriker", 
+              "upgrades": {
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "adaptiveailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "scarifdefender", 
+              "ship": "tiestriker", 
+              "upgrades": {
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "adaptiveailerons"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 200, 
+        "name": "Miquel", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "poedameron-swx57", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "bb8"
+                ], 
+                "ept": [
+                  "predator"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "blackone"
+                ]
+              }
+            }, 
+            {
+              "name": "braylenstramm", 
+              "ship": "arc170", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "tactician"
+                ], 
+                "title": [
+                  "allianceoverhaul"
+                ]
+              }
+            }, 
+            {
+              "name": "wesjanson", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "integratedastromech", 
+                  "servomotorsfoils"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 172, 
+        "name": "Montse hernadez", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "leebo", 
+              "ship": "yt2400", 
+              "upgrades": {
+                "cannon": [
+                  "manglercannon"
+                ], 
+                "crew": [
+                  "rey"
+                ], 
+                "ept": [
+                  "determination"
+                ], 
+                "illicit": [
+                  "burnoutslam"
+                ], 
+                "mod": [
+                  "smugglingcompartment"
+                ], 
+                "title": [
+                  "outrider"
+                ]
+              }
+            }, 
+            {
+              "name": "chewbacca", 
+              "ship": "yt1300", 
+              "upgrades": {
+                "crew": [
+                  "bistan", 
+                  "c3po"
+                ], 
+                "ept": [
+                  "determination"
+                ], 
+                "illicit": [
+                  "burnoutslam"
+                ], 
+                "mod": [
+                  "smugglingcompartment", 
+                  "countermeasures"
+                ], 
+                "title": [
+                  "millenniumfalcon-swx57"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 99, 
+        "name": "Jordi Mateu", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 0, 
+        "sos": "0.44"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Adri", 
+            "player1points": 100, 
+            "player2": "Salvi", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Edgar", 
+            "player1points": 100, 
+            "player2": "Montse hernadez", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Miquel", 
+            "player1points": 100, 
+            "player2": "Jordi Mateu", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Carlos", 
+            "player1points": 0, 
+            "player2": "Sergio", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Edgar", 
+            "player1points": 59, 
+            "player2": "Adri", 
+            "player2points": 23, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Miquel", 
+            "player1points": 0, 
+            "player2": "Sergio", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Salvi", 
+            "player1points": 100, 
+            "player2": "Jordi Mateu", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Montse hernadez", 
+            "player1points": 0, 
+            "player2": "Carlos", 
+            "player2points": 29, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Sergio", 
+            "player1points": 100, 
+            "player2": "Edgar", 
+            "player2points": 29, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Adri", 
+            "player1points": 57, 
+            "player2": "Carlos", 
+            "player2points": 72, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Miquel", 
+            "player1points": 0, 
+            "player2": "Salvi", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jordi Mateu", 
+            "player1points": 72, 
+            "player2": "Montse hernadez", 
+            "player2points": 73, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Other", 
+    "venue": {
+      "city": "Malgrat de Mar", 
+      "country": "Spain", 
+      "lat": "41.645911800000", 
+      "lon": "2.741405400000", 
+      "name": "Icarus jocs", 
+      "state": "Cataluna"
+    }, 
+    "video_url": "http://"
+  }
+}

@@ -1,0 +1,1248 @@
+{
+  "tournament": {
+    "date": "2018-07-15", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4522, 
+    "name": "Heroic Knights Store Championship", 
+    "players": [
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "countessryad", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "juke"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }, 
+            {
+              "name": "theinquisitor", 
+              "ship": "tieadvprototype", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "tiev1"
+                ]
+              }
+            }, 
+            {
+              "name": "lieutenantkarsabi", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "cannon": [
+                  "linkedbattery", 
+                  "heavylasercannon"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "title": [
+                  "xg1assaultconfiguration"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 716, 
+        "name": "Blair Bunke", 
+        "rank": {
+          "elimination": 5, 
+          "swiss": 1
+        }, 
+        "score": 4, 
+        "sos": "0.58"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "c3po"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "dashrendar", 
+              "ship": "yt2400", 
+              "upgrades": {
+                "cannon": [
+                  "heavylasercannon"
+                ], 
+                "crew": [
+                  "rey"
+                ], 
+                "ept": [
+                  "lonewolf"
+                ], 
+                "mod": [
+                  "countermeasures"
+                ], 
+                "title": [
+                  "outrider"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 658, 
+        "name": "David Lasserne", 
+        "rank": {
+          "elimination": 2, 
+          "swiss": 2
+        }, 
+        "score": 4, 
+        "sos": "0.50"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "kyloren", 
+              "ship": "tiesilencer", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "advancedsensors"
+                ], 
+                "title": [
+                  "firstordervanguard"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "adaptability"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "countdown", 
+              "ship": "tiestriker", 
+              "upgrades": {
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "adaptiveailerons"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 535, 
+        "name": "Paul Adler", 
+        "rank": {
+          "elimination": 1, 
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.50"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "zeborrelios", 
+              "ship": "attackshuttle", 
+              "upgrades": {
+                "crew": [
+                  "chopper"
+                ], 
+                "title": [
+                  "phantom"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "crew": [
+                  "hotshotcopilot"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ]
+              }
+            }, 
+            {
+              "name": "lothalrebel", 
+              "ship": "vcx100", 
+              "upgrades": {
+                "crew": [
+                  "ezrabridger", 
+                  "maul"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "sensorjammer"
+                ], 
+                "title": [
+                  "ghost"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 515, 
+        "name": "Tom Wiggin", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 4
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "colonelvessery", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "juke"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }, 
+            {
+              "name": "countessryad", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "adaptability"
+                ], 
+                "mod": [
+                  "multispectralcamouflage"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }, 
+            {
+              "name": "sigmasquadronpilot", 
+              "ship": "tiephantom", 
+              "upgrades": {
+                "crew": [
+                  "directorkrennic"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "collisiondetector"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 464, 
+        "name": "Doug Stone Weaver", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 5
+        }, 
+        "score": 3, 
+        "sos": "0.50"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator", 
+                  "seismiccharges"
+                ], 
+                "crew": [
+                  "sabinewren"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "protonbombs", 
+                  "seismiccharges"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 496, 
+        "name": "Sam Piccioto", 
+        "rank": {
+          "elimination": 6, 
+          "swiss": 6
+        }, 
+        "score": 2, 
+        "sos": "0.31"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "rearadmiralchiraneau", 
+              "ship": "vt49decimator", 
+              "upgrades": {
+                "crew": [
+                  "directorkrennic", 
+                  "inspiringrecruit", 
+                  "tacticalofficer"
+                ], 
+                "ept": [
+                  "opportunist"
+                ], 
+                "mod": [
+                  "tacticaljammer"
+                ], 
+                "title": [
+                  "dauntless"
+                ]
+              }
+            }, 
+            {
+              "name": "soontirfel", 
+              "ship": "tieinterceptor", 
+              "upgrades": {
+                "ept": [
+                  "daredevil"
+                ], 
+                "mod": [
+                  "experimentalinterface", 
+                  "shieldupgrade"
+                ], 
+                "title": [
+                  "royalguardtie"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 459, 
+        "name": "Matthew Cunningham", 
+        "rank": {
+          "elimination": 7, 
+          "swiss": 7
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "rhosquadronveteran", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "cannon": [
+                  "linkedbattery", 
+                  "heavylasercannon"
+                ], 
+                "ept": [
+                  "lightningreflexes"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "title": [
+                  "xg1assaultconfiguration"
+                ]
+              }
+            }, 
+            {
+              "name": "rhosquadronveteran", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "cannon": [
+                  "linkedbattery", 
+                  "heavylasercannon"
+                ], 
+                "ept": [
+                  "lightningreflexes"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "title": [
+                  "xg1assaultconfiguration"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 453, 
+        "name": "Robert Tengelin", 
+        "rank": {
+          "elimination": 8, 
+          "swiss": 8
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "echo", 
+              "ship": "tiephantom", 
+              "upgrades": {
+                "crew": [
+                  "directorkrennic"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "advancedcloakingdevice"
+                ], 
+                "system": [
+                  "sensorjammer"
+                ]
+              }
+            }, 
+            {
+              "name": "rhosquadronveteran", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "ept": [
+                  "deadeye"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ]
+              }
+            }, 
+            {
+              "name": "rhosquadronveteran", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "ept": [
+                  "deadeye"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 414, 
+        "name": "Jeff Wilson", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 2, 
+        "sos": "0.67"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "roarkgarnet", 
+              "ship": "hwk290", 
+              "upgrades": {
+                "crew": [
+                  "inspiringrecruit"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "wesjanson", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "ept": [
+                  "swarmtactics"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "cavernangelszealot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "swarmtactics"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "cavernangelszealot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "swarmtactics"
+                ], 
+                "mod": [
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 377, 
+        "name": "Todd Knopp", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 2, 
+        "sos": "0.67"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "captainyorr", 
+              "ship": "lambdaclassshuttle", 
+              "upgrades": {
+                "crew": [
+                  "emperorpalpatine"
+                ], 
+                "system": [
+                  "collisiondetector"
+                ]
+              }
+            }, 
+            {
+              "name": "theinquisitor", 
+              "ship": "tieadvprototype", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "tiev1"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 327, 
+        "name": "Chris Mason", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 2, 
+        "sos": "0.63"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "wookieeliberator", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "inspiringrecruit", 
+                  "tactician"
+                ], 
+                "ept": [
+                  "rage"
+                ]
+              }
+            }, 
+            {
+              "name": "wookieeliberator", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "inspiringrecruit", 
+                  "tactician"
+                ], 
+                "ept": [
+                  "rage"
+                ]
+              }
+            }, 
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "integratedastromech", 
+                  "servomotorsfoils"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "servomotorsfoils"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 327, 
+        "name": "Jeremy Wilson", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "operationsspecialist"
+                ], 
+                "ept": [
+                  "crackshot"
+                ]
+              }
+            }, 
+            {
+              "name": "captainrex", 
+              "ship": "tiefighter"
+            }, 
+            {
+              "name": "cavernangelszealot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "r5astromech"
+                ], 
+                "ept": [
+                  "drawtheirfire"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "cavernangelszealot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "chopper-swx72"
+                ], 
+                "ept": [
+                  "selflessness"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "cavernangelszealot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "r4d6"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 356, 
+        "name": "Damon Jones", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "binayrepirate", 
+              "ship": "z95headhunter", 
+              "upgrades": {
+                "missile": [
+                  "ionpulsemissiles"
+                ]
+              }
+            }, 
+            {
+              "name": "binayrepirate", 
+              "ship": "z95headhunter", 
+              "upgrades": {
+                "missile": [
+                  "ionpulsemissiles"
+                ]
+              }
+            }, 
+            {
+              "name": "binayrepirate", 
+              "ship": "z95headhunter", 
+              "upgrades": {
+                "missile": [
+                  "ionpulsemissiles"
+                ]
+              }
+            }, 
+            {
+              "name": "binayrepirate", 
+              "ship": "z95headhunter", 
+              "upgrades": {
+                "missile": [
+                  "xx23sthreadtracers"
+                ]
+              }
+            }, 
+            {
+              "name": "syndicatethug", 
+              "ship": "ywing", 
+              "upgrades": {
+                "samd": [
+                  "unhingedastromech"
+                ], 
+                "turret": [
+                  "autoblasterturret"
+                ]
+              }
+            }, 
+            {
+              "name": "syndicatethug", 
+              "ship": "ywing", 
+              "upgrades": {
+                "samd": [
+                  "unhingedastromech"
+                ], 
+                "turret": [
+                  "autoblasterturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 302, 
+        "name": "Clinton", 
+        "rank": {
+          "swiss": 14
+        }, 
+        "score": 1, 
+        "sos": "0.00"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "jesspava", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "r2d6"
+                ], 
+                "ept": [
+                  "squadleader"
+                ], 
+                "mod": [
+                  "integratedastromech"
+                ]
+              }
+            }, 
+            {
+              "name": "greensquadronpilot", 
+              "ship": "awing", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit", 
+                  "wingman"
+                ], 
+                "missile": [
+                  "chardaanrefit"
+                ], 
+                "mod": [
+                  "hullupgrade"
+                ], 
+                "title": [
+                  "awingtestpilot"
+                ]
+              }
+            }, 
+            {
+              "name": "greensquadronpilot", 
+              "ship": "awing", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit", 
+                  "wingman"
+                ], 
+                "missile": [
+                  "chardaanrefit"
+                ], 
+                "title": [
+                  "awingtestpilot"
+                ]
+              }
+            }, 
+            {
+              "name": "greensquadronpilot", 
+              "ship": "awing", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit", 
+                  "wingman"
+                ], 
+                "missile": [
+                  "chardaanrefit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "awingtestpilot"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 226, 
+        "name": "Fiona Kilfoyle", 
+        "rank": {
+          "swiss": 15
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "guri", 
+              "ship": "starviper", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "illicit": [
+                  "scavengercrane"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "system": [
+                  "advancedsensors"
+                ], 
+                "title": [
+                  "virago", 
+                  "starvipermkii"
+                ], 
+                "torpedo": [
+                  "protontorpedoes"
+                ]
+              }
+            }, 
+            {
+              "name": "cartelexecutioner", 
+              "ship": "m12lkimogilafighter", 
+              "upgrades": {
+                "ept": [
+                  "deadeye"
+                ], 
+                "missile": [
+                  "cruisemissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "r4agromech"
+                ]
+              }
+            }, 
+            {
+              "name": "cartelexecutioner", 
+              "ship": "m12lkimogilafighter", 
+              "upgrades": {
+                "ept": [
+                  "deadeye"
+                ], 
+                "missile": [
+                  "cruisemissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "r4agromech"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 218, 
+        "name": "Brian", 
+        "rank": {
+          "swiss": 16
+        }, 
+        "score": 1, 
+        "sos": "0.38"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "bossk", 
+              "ship": "yv666", 
+              "upgrades": {
+                "crew": [
+                  "k4securitydroid", 
+                  "reconspecialist", 
+                  "outlawtech"
+                ], 
+                "ept": [
+                  "trickshot"
+                ], 
+                "illicit": [
+                  "scavengercrane"
+                ], 
+                "missile": [
+                  "concussionmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ]
+              }
+            }, 
+            {
+              "name": "kathscarlet", 
+              "ship": "firespray31", 
+              "upgrades": {
+                "cannon": [
+                  "heavylasercannon"
+                ], 
+                "crew": [
+                  "tailgunner"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "mod": [
+                  "countermeasures"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 157, 
+        "name": "Gil Piccoto", 
+        "rank": {
+          "swiss": 17
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "Issaquah", 
+      "country": "United States of America", 
+      "lat": "47.534877800000", 
+      "lon": "-122.043297400000", 
+      "name": "Heroic Knight Games", 
+      "state": "Washington"
+    }, 
+    "video_url": "http://"
+  }
+}
