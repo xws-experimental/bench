@@ -1,0 +1,197 @@
+{
+  "tournament": {
+    "date": "2018-07-15", 
+    "format": "Epic Play - 200 points", 
+    "id": 4523, 
+    "name": "1. Torneio Epico CJ 15/07/2018", 
+    "players": [
+      {
+        "mov": 73, 
+        "name": "Bruno Leal", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 0, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 1010, 
+        "name": "Filipe Malaquias", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 915, 
+        "name": "Moises Kalile", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 746, 
+        "name": "Luciano Kalabric", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 2, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 688, 
+        "name": "Pedro Thiago", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 2, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 591, 
+        "name": "Rodrigo Vasconcelos", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 1, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 425, 
+        "name": "Geison Silva", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 352, 
+        "name": "Cezar Miranda", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 1, 
+        "sos": "0.67"
+      }
+    ], 
+    "round_length": 150, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Luciano Kalabric", 
+            "player1points": 156, 
+            "player2": "Bruno Leal", 
+            "player2points": 29, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Moises Kalile", 
+            "player1points": 148, 
+            "player2": "Filipe Malaquias", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Geison Silva", 
+            "player1points": 25, 
+            "player2": "Pedro Thiago", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Cezar Miranda", 
+            "player1points": 102, 
+            "player2": "Rodrigo Vasconcelos", 
+            "player2points": 60, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Luciano Kalabric", 
+            "player1points": 129, 
+            "player2": "Pedro Thiago", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Cezar Miranda", 
+            "player1points": 0, 
+            "player2": "Filipe Malaquias", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bruno Leal", 
+            "player1points": 0, 
+            "player2": "Rodrigo Vasconcelos", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Geison Silva", 
+            "player1points": 0, 
+            "player2": "Moises Kalile", 
+            "player2points": 200, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Pedro Thiago", 
+            "player1points": 42, 
+            "player2": "Filipe Malaquias", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Moises Kalile", 
+            "player1points": 200, 
+            "player2": "Rodrigo Vasconcelos", 
+            "player2points": 33, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Cezar Miranda", 
+            "player1points": 110, 
+            "player2": "Luciano Kalabric", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Geison Silva", 
+            "player1points": 200, 
+            "player2": "Bruno Leal", 
+            "player2points": 0, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "Salvador", 
+      "country": "Brazil", 
+      "lat": "-12.982249900000", 
+      "lon": "-38.481277200000", 
+      "name": "Coliseu dos Jogos", 
+      "state": "Bahia"
+    }, 
+    "video_url": "https://www.facebook.com/coliseudosjogos/"
+  }
+}

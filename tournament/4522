@@ -3,7 +3,7 @@
     "date": "2018-07-15", 
     "format": "Standard - 100 Point Dogfight", 
     "id": 4522, 
-    "name": "Heroic Knights Store Championship", 
+    "name": "Heroic Knight Games Store Championship", 
     "players": [
       {
         "list": {
@@ -123,7 +123,7 @@
           "version": "4.2.0"
         }, 
         "mov": 658, 
-        "name": "David Lasserne", 
+        "name": "David Lasserre", 
         "rank": {
           "elimination": 2, 
           "swiss": 2
