@@ -1,0 +1,521 @@
+{
+  "tournament": {
+    "date": "2018-07-14", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4532, 
+    "name": "Enchanted Grounds 2 Store Champs", 
+    "players": [
+      {
+        "mov": 24, 
+        "name": "Justin Kresh", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 0, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 748, 
+        "name": "Duhtch Cuthbert", 
+        "rank": {
+          "elimination": 1, 
+          "swiss": 1
+        }, 
+        "score": 4, 
+        "sos": "0.69"
+      }, 
+      {
+        "mov": 594, 
+        "name": "Jim Frank", 
+        "rank": {
+          "elimination": 2, 
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 560, 
+        "name": "Braden Beard", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 448, 
+        "name": "Tom Haserodt-Arnold", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 4
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 406, 
+        "name": "Ryan MacLeod", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 3, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 367, 
+        "name": "Fergie Alvarez", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 3, 
+        "sos": "0.58"
+      }, 
+      {
+        "mov": 538, 
+        "name": "Jotham Michalski", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 2, 
+        "sos": "0.69"
+      }, 
+      {
+        "mov": 489, 
+        "name": "Sam Shepic", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 482, 
+        "name": "Jeff Pollmiller", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 2, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 437, 
+        "name": "Ken Cho", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 368, 
+        "name": "Tashi Duane", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 356, 
+        "name": "Paul Fuller", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 301, 
+        "name": "Agustin Ramirez", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 284, 
+        "name": "Steven Sherry", 
+        "rank": {
+          "swiss": 14
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 367, 
+        "name": "Matthew Drumm", 
+        "rank": {
+          "swiss": 15
+        }, 
+        "score": 1, 
+        "sos": "0.58"
+      }, 
+      {
+        "mov": 260, 
+        "name": "George Woodruff", 
+        "rank": {
+          "swiss": 16
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 254, 
+        "name": "Eric Belvill", 
+        "rank": {
+          "swiss": 17
+        }, 
+        "score": 1, 
+        "sos": "0.31"
+      }, 
+      {
+        "mov": 217, 
+        "name": "Luke DeWitt", 
+        "rank": {
+          "swiss": 18
+        }, 
+        "score": 0, 
+        "sos": "0.56"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Sam Shepic", 
+            "player1points": 39, 
+            "player2": "Braden Beard", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Paul Fuller", 
+            "player1points": 100, 
+            "player2": "Eric Belvill", 
+            "player2points": 30, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Fergie Alvarez", 
+            "player1points": 0, 
+            "player2": "Duhtch Cuthbert", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tom Haserodt-Arnold", 
+            "player1points": 0, 
+            "player2": "Jotham Michalski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jeff Pollmiller", 
+            "player1points": 29, 
+            "player2": "Ken Cho", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Steven Sherry", 
+            "player1points": 65, 
+            "player2": "George Woodruff", 
+            "player2points": 31, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jim Frank", 
+            "player1points": 100, 
+            "player2": "Justin Kresh", 
+            "player2points": 24, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Luke DeWitt", 
+            "player1points": 16, 
+            "player2": "Ryan MacLeod", 
+            "player2points": 80, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tashi Duane", 
+            "player1points": 100, 
+            "player2": "Agustin Ramirez", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Matthew Drumm", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Paul Fuller", 
+            "player1points": 15, 
+            "player2": "Jim Frank", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ryan MacLeod", 
+            "player1points": 62, 
+            "player2": "Jotham Michalski", 
+            "player2points": 38, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Braden Beard", 
+            "player1points": 100, 
+            "player2": "Ken Cho", 
+            "player2points": 39, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tashi Duane", 
+            "player1points": 0, 
+            "player2": "Duhtch Cuthbert", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Matthew Drumm", 
+            "player1points": 64, 
+            "player2": "Steven Sherry", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Agustin Ramirez", 
+            "player1points": 100, 
+            "player2": "Jeff Pollmiller", 
+            "player2points": 53, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Eric Belvill", 
+            "player1points": 0, 
+            "player2": "George Woodruff", 
+            "player2points": 33, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Justin Kresh", 
+            "player1points": 0, 
+            "player2": "Sam Shepic", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Luke DeWitt", 
+            "player1points": 32, 
+            "player2": "Tom Haserodt-Arnold", 
+            "player2points": 40, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Fergie Alvarez", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Duhtch Cuthbert", 
+            "player1points": 100, 
+            "player2": "Jim Frank", 
+            "player2points": 52, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "elimination"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Ryan MacLeod", 
+            "player1points": 0, 
+            "player2": "Duhtch Cuthbert", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Steven Sherry", 
+            "player1points": 14, 
+            "player2": "Braden Beard", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jim Frank", 
+            "player1points": 32, 
+            "player2": "Tom Haserodt-Arnold", 
+            "player2points": 72, 
+            "result": "win"
+          }, 
+          {
+            "player1": "George Woodruff", 
+            "player1points": 0, 
+            "player2": "Ken Cho", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tashi Duane", 
+            "player1points": 21, 
+            "player2": "Jotham Michalski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Paul Fuller", 
+            "player1points": 32, 
+            "player2": "Sam Shepic", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Fergie Alvarez", 
+            "player1points": 0, 
+            "player2": "Matthew Drumm", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Agustin Ramirez", 
+            "player1points": 100, 
+            "player2": "Eric Belvill", 
+            "player2points": 46, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Luke DeWitt", 
+            "player1points": 0, 
+            "player2": "Jeff Pollmiller", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Duhtch Cuthbert", 
+            "player1points": 100, 
+            "player2": "Braden Beard", 
+            "player2points": 52, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ryan MacLeod", 
+            "player1points": 100, 
+            "player2": "Sam Shepic", 
+            "player2points": 82, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jim Frank", 
+            "player1points": 100, 
+            "player2": "Ken Cho", 
+            "player2points": 27, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Agustin Ramirez", 
+            "player1points": 0, 
+            "player2": "Tom Haserodt-Arnold", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jotham Michalski", 
+            "player1points": 66, 
+            "player2": "Fergie Alvarez", 
+            "player2points": 83, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Steven Sherry", 
+            "player1points": 0, 
+            "player2": "Jeff Pollmiller", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Matthew Drumm", 
+            "player1points": 53, 
+            "player2": "Tashi Duane", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Paul Fuller", 
+            "player1points": 100, 
+            "player2": "George Woodruff", 
+            "player2points": 61, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Luke DeWitt", 
+            "player1points": 20, 
+            "player2": "Eric Belvill", 
+            "player2points": 31, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Duhtch Cuthbert", 
+            "player1points": 100, 
+            "player2": "Tom Haserodt-Arnold", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jim Frank", 
+            "player1points": 100, 
+            "player2": "Braden Beard", 
+            "player2points": 0, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "elimination"
+      }
+    ], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "Littleton", 
+      "country": "United States of America", 
+      "lat": "39.613321000000", 
+      "lon": "-105.016649800000", 
+      "name": "", 
+      "state": "Colorado"
+    }, 
+    "video_url": "http://"
+  }
+}
