@@ -6,9 +6,75 @@
     "name": "Vans CCG Store Championship", 
     "players": [
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "goldsquadronpilot", 
+              "ship": "ywing", 
+              "upgrades": {
+                "amd": [
+                  "r2astromech"
+                ], 
+                "bomb": [
+                  "clustermines"
+                ], 
+                "torpedo": [
+                  "bombloadout", 
+                  "extramunitions"
+                ]
+              }
+            }, 
+            {
+              "name": "magvayarro", 
+              "ship": "uwing", 
+              "upgrades": {
+                "bomb": [
+                  "proximitymines"
+                ], 
+                "crew": [
+                  "sabinewren", 
+                  "rey"
+                ], 
+                "system": [
+                  "sensorjammer"
+                ], 
+                "title": [
+                  "pivotwing"
+                ]
+              }
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "sawgerrera"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 0, 
-        "name": "Player 1", 
+        "name": "Andy", 
         "rank": {
+          "elimination": 1, 
           "swiss": 1
         }, 
         "score": 0, 
