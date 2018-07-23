@@ -1,0 +1,360 @@
+{
+  "tournament": {
+    "date": "2018-07-22", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4545, 
+    "name": "Big Easy Store Championship", 
+    "players": [
+      {
+        "mov": 578, 
+        "name": "Colin Miner", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 3, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 553, 
+        "name": "Jamie Mayo", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 457, 
+        "name": "Gregg Caruso", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 449, 
+        "name": "Ryan Robinson", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 449, 
+        "name": "Justice Buras", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 437, 
+        "name": "Jason Guidry", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 2, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 430, 
+        "name": "Robert Coleman", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 416, 
+        "name": "Garrett Platner", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 413, 
+        "name": "Jason Mayo", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 2, 
+        "sos": "0.42"
+      }, 
+      {
+        "mov": 378, 
+        "name": "Weslee Wright", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 320, 
+        "name": "Mike Livaccari", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 1, 
+        "sos": "0.58"
+      }, 
+      {
+        "mov": 284, 
+        "name": "Calvin Bryson", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 1, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 236, 
+        "name": "Justin Bennett", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 1, 
+        "sos": "0.67"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Robert Coleman", 
+            "player1points": 41, 
+            "player2": "Colin Miner", 
+            "player2points": 63, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Justin Bennett", 
+            "player1points": 35, 
+            "player2": "Gregg Caruso", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jason Mayo", 
+            "player1points": 54, 
+            "player2": "Weslee Wright", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Justice Buras", 
+            "player1points": 100, 
+            "player2": "Calvin Bryson", 
+            "player2points": 39, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jason Guidry", 
+            "player1points": 70, 
+            "player2": "Garrett Platner", 
+            "player2points": 28, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jamie Mayo", 
+            "player1points": 52, 
+            "player2": "Ryan Robinson", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mike Livaccari", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Jason Guidry", 
+            "player1points": 100, 
+            "player2": "Justice Buras", 
+            "player2points": 28, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ryan Robinson", 
+            "player1points": 27, 
+            "player2": "Colin Miner", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Gregg Caruso", 
+            "player1points": 100, 
+            "player2": "Weslee Wright", 
+            "player2points": 42, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mike Livaccari", 
+            "player1points": 58, 
+            "player2": "Robert Coleman", 
+            "player2points": 60, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jamie Mayo", 
+            "player1points": 100, 
+            "player2": "Calvin Bryson", 
+            "player2points": 66, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jason Mayo", 
+            "player1points": 29, 
+            "player2": "Garrett Platner", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Justin Bennett", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Gregg Caruso", 
+            "player1points": 57, 
+            "player2": "Colin Miner", 
+            "player2points": 56, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jason Guidry", 
+            "player1points": 21, 
+            "player2": "Robert Coleman", 
+            "player2points": 72, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Weslee Wright", 
+            "player1points": 41, 
+            "player2": "Justice Buras", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ryan Robinson", 
+            "player1points": 100, 
+            "player2": "Mike Livaccari", 
+            "player2points": 52, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Justin Bennett", 
+            "player1points": 0, 
+            "player2": "Jamie Mayo", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Garrett Platner", 
+            "player1points": 100, 
+            "player2": "Calvin Bryson", 
+            "player2points": 29, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jason Mayo", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Gregg Caruso", 
+            "player1points": 33, 
+            "player2": "Jamie Mayo", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Colin Miner", 
+            "player1points": 100, 
+            "player2": "Garrett Platner", 
+            "player2points": 16, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ryan Robinson", 
+            "player1points": 100, 
+            "player2": "Jason Guidry", 
+            "player2points": 74, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Robert Coleman", 
+            "player1points": 41, 
+            "player2": "Justice Buras", 
+            "player2points": 42, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Weslee Wright", 
+            "player1points": 100, 
+            "player2": "Justin Bennett", 
+            "player2points": 51, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jason Mayo", 
+            "player1points": 100, 
+            "player2": "Mike Livaccari", 
+            "player2points": 20, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Calvin Bryson", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "Covington", 
+      "country": "United States of America", 
+      "lat": "30.475470200000", 
+      "lon": "-90.100910800000", 
+      "name": "", 
+      "state": "Louisiana"
+    }, 
+    "video_url": "http://"
+  }
+}
