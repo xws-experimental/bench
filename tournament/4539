@@ -659,6 +659,27 @@
         "sos": "0.50"
       }, 
       {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "syndicatethug", 
+              "ship": "ywing"
+            }, 
+            {
+              "name": "syndicatethug", 
+              "ship": "ywing"
+            }, 
+            {
+              "name": "asajjventress", 
+              "ship": "lancerclasspursuitcraft"
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 157, 
         "name": "Brian Sarafine", 
         "rank": {

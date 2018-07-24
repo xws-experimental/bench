@@ -1,0 +1,834 @@
+{
+  "tournament": {
+    "date": "2018-07-21", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4550, 
+    "name": "New World Gaming Store Championship", 
+    "players": [
+      {
+        "mov": 0, 
+        "name": "Brian Garcia", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 0, 
+        "sos": "0.80"
+      }, 
+      {
+        "mov": 242, 
+        "name": "Jeremy Bensley", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.26"
+      }, 
+      {
+        "mov": 267, 
+        "name": "Eric Brown", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.57"
+      }, 
+      {
+        "mov": 290, 
+        "name": "Javier Zuckerman", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.61"
+      }, 
+      {
+        "mov": 224, 
+        "name": "Joshua Snyder", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.53"
+      }, 
+      {
+        "mov": 489, 
+        "name": "Raul Flores", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.60"
+      }, 
+      {
+        "mov": 845, 
+        "name": "Carson Norwood", 
+        "rank": {
+          "elimination": 1, 
+          "swiss": 1
+        }, 
+        "score": 5, 
+        "sos": "0.55"
+      }, 
+      {
+        "mov": 804, 
+        "name": "Robby Goodhue", 
+        "rank": {
+          "elimination": 2, 
+          "swiss": 2
+        }, 
+        "score": 4, 
+        "sos": "0.46"
+      }, 
+      {
+        "mov": 760, 
+        "name": "Kris Legg", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 3
+        }, 
+        "score": 4, 
+        "sos": "0.51"
+      }, 
+      {
+        "mov": 712, 
+        "name": "Casey Dzendolet", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 4
+        }, 
+        "score": 4, 
+        "sos": "0.48"
+      }, 
+      {
+        "mov": 688, 
+        "name": "Jeremy Chamblee", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 4, 
+        "sos": "0.57"
+      }, 
+      {
+        "mov": 688, 
+        "name": "Shaun Merritt", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 4, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 704, 
+        "name": "Mackenzie Judd", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 652, 
+        "name": "Ethan Judd", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 3, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 616, 
+        "name": "Robert Pettit", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 3, 
+        "sos": "0.40"
+      }, 
+      {
+        "mov": 597, 
+        "name": "Keenan Childs", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 3, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 586, 
+        "name": "Kyle Apple", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 3, 
+        "sos": "0.66"
+      }, 
+      {
+        "mov": 420, 
+        "name": "Bryce Gullat", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 3, 
+        "sos": "0.64"
+      }, 
+      {
+        "mov": 492, 
+        "name": "Angel Cuevas", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 2, 
+        "sos": "0.42"
+      }, 
+      {
+        "mov": 393, 
+        "name": "Jackson McCullough", 
+        "rank": {
+          "swiss": 14
+        }, 
+        "score": 2, 
+        "sos": "0.32"
+      }, 
+      {
+        "mov": 389, 
+        "name": "Walter Sargent", 
+        "rank": {
+          "swiss": 15
+        }, 
+        "score": 2, 
+        "sos": "0.46"
+      }, 
+      {
+        "mov": 385, 
+        "name": "Mike Maurer", 
+        "rank": {
+          "swiss": 16
+        }, 
+        "score": 2, 
+        "sos": "0.61"
+      }, 
+      {
+        "mov": 380, 
+        "name": "Javier Galvan", 
+        "rank": {
+          "swiss": 17
+        }, 
+        "score": 2, 
+        "sos": "0.40"
+      }, 
+      {
+        "mov": 350, 
+        "name": "Andrew Hubbard", 
+        "rank": {
+          "swiss": 18
+        }, 
+        "score": 2, 
+        "sos": "0.64"
+      }, 
+      {
+        "mov": 343, 
+        "name": "Ryan Daniels", 
+        "rank": {
+          "swiss": 19
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 330, 
+        "name": "Cesar Gonzalez", 
+        "rank": {
+          "swiss": 20
+        }, 
+        "score": 2, 
+        "sos": "0.51"
+      }, 
+      {
+        "mov": 402, 
+        "name": "Chris Westerman", 
+        "rank": {
+          "swiss": 21
+        }, 
+        "score": 1, 
+        "sos": "0.45"
+      }, 
+      {
+        "mov": 370, 
+        "name": "Old Steven", 
+        "rank": {
+          "swiss": 22
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 232, 
+        "name": "Phillip Keeney", 
+        "rank": {
+          "swiss": 23
+        }, 
+        "score": 1, 
+        "sos": "0.46"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Kris Legg", 
+            "player1points": 32, 
+            "player2": "Jeremy Chamblee", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jackson McCullough", 
+            "player1points": 0, 
+            "player2": "Ethan Judd", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ryan Daniels", 
+            "player1points": 52, 
+            "player2": "Angel Cuevas", 
+            "player2points": 35, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Cesar Gonzalez", 
+            "player1points": 100, 
+            "player2": "Javier Galvan", 
+            "player2points": 56, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Shaun Merritt", 
+            "player1points": 100, 
+            "player2": "Brian Garcia", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Andrew Hubbard", 
+            "player1points": 100, 
+            "player2": "Phillip Keeney", 
+            "player2points": 40, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jeremy Bensley", 
+            "player1points": 20, 
+            "player2": "Mike Maurer", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Javier Zuckerman", 
+            "player1points": 42, 
+            "player2": "Carson Norwood", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Casey Dzendolet", 
+            "player1points": 100, 
+            "player2": "Old Steven", 
+            "player2points": 63, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Robert Pettit", 
+            "player1points": 25, 
+            "player2": "Mackenzie Judd", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bryce Gullat", 
+            "player1points": 75, 
+            "player2": "Chris Westerman", 
+            "player2points": 30, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Kyle Apple", 
+            "player1points": 100, 
+            "player2": "Robby Goodhue", 
+            "player2points": 56, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Raul Flores", 
+            "player1points": 100, 
+            "player2": "Walter Sargent", 
+            "player2points": 14, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Joshua Snyder", 
+            "player1points": 41, 
+            "player2": "Eric Brown", 
+            "player2points": 33, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Keenan Childs", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Kyle Apple", 
+            "player1points": 100, 
+            "player2": "Ryan Daniels", 
+            "player2points": 29, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Casey Dzendolet", 
+            "player1points": 100, 
+            "player2": "Keenan Childs", 
+            "player2points": 31, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jeremy Chamblee", 
+            "player1points": 100, 
+            "player2": "Cesar Gonzalez", 
+            "player2points": 16, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mackenzie Judd", 
+            "player1points": 70, 
+            "player2": "Andrew Hubbard", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ethan Judd", 
+            "player1points": 28, 
+            "player2": "Bryce Gullat", 
+            "player2points": 40, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Shaun Merritt", 
+            "player1points": 100, 
+            "player2": "Mike Maurer", 
+            "player2points": 57, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Raul Flores", 
+            "player1points": 37, 
+            "player2": "Carson Norwood", 
+            "player2points": 40, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Joshua Snyder", 
+            "player1points": 0, 
+            "player2": "Robby Goodhue", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Angel Cuevas", 
+            "player1points": 100, 
+            "player2": "Robert Pettit", 
+            "player2points": 51, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Walter Sargent", 
+            "player1points": 25, 
+            "player2": "Eric Brown", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Old Steven", 
+            "player1points": 100, 
+            "player2": "Jackson McCullough", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Phillip Keeney", 
+            "player1points": 0, 
+            "player2": "Kris Legg", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chris Westerman", 
+            "player1points": 69, 
+            "player2": "Javier Galvan", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jeremy Bensley", 
+            "player1points": 16, 
+            "player2": "Javier Zuckerman", 
+            "player2points": 76, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Carson Norwood", 
+            "player1points": 100, 
+            "player2": "Robby Goodhue", 
+            "player2points": 60, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "elimination"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Kyle Apple", 
+            "player1points": 71, 
+            "player2": "Shaun Merritt", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Carson Norwood", 
+            "player1points": 100, 
+            "player2": "Andrew Hubbard", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bryce Gullat", 
+            "player1points": 63, 
+            "player2": "Casey Dzendolet", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jeremy Chamblee", 
+            "player1points": 100, 
+            "player2": "Javier Zuckerman", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Eric Brown", 
+            "player1points": 0, 
+            "player2": "Kris Legg", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Javier Galvan", 
+            "player1points": 0, 
+            "player2": "Keenan Childs", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mike Maurer", 
+            "player1points": 76, 
+            "player2": "Mackenzie Judd", 
+            "player2points": 59, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Angel Cuevas", 
+            "player1points": 32, 
+            "player2": "Joshua Snyder", 
+            "player2points": 48, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Raul Flores", 
+            "player1points": 100, 
+            "player2": "Cesar Gonzalez", 
+            "player2points": 26, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ethan Judd", 
+            "player1points": 100, 
+            "player2": "Ryan Daniels", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Old Steven", 
+            "player1points": 52, 
+            "player2": "Robby Goodhue", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Robert Pettit", 
+            "player1points": 100, 
+            "player2": "Walter Sargent", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chris Westerman", 
+            "player1points": 76, 
+            "player2": "Jeremy Bensley", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Phillip Keeney", 
+            "player1points": 0, 
+            "player2": "Jackson McCullough", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Shaun Merritt", 
+            "player1points": 100, 
+            "player2": "Bryce Gullat", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Carson Norwood", 
+            "player1points": 100, 
+            "player2": "Jeremy Chamblee", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Raul Flores", 
+            "player1points": 32, 
+            "player2": "Keenan Childs", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ethan Judd", 
+            "player1points": 24, 
+            "player2": "Kris Legg", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mike Maurer", 
+            "player1points": 31, 
+            "player2": "Casey Dzendolet", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Andrew Hubbard", 
+            "player1points": 0, 
+            "player2": "Robby Goodhue", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Kyle Apple", 
+            "player1points": 100, 
+            "player2": "Joshua Snyder", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Cesar Gonzalez", 
+            "player1points": 100, 
+            "player2": "Javier Zuckerman", 
+            "player2points": 56, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Javier Galvan", 
+            "player1points": 24, 
+            "player2": "Mackenzie Judd", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Robert Pettit", 
+            "player1points": 100, 
+            "player2": "Chris Westerman", 
+            "player2points": 60, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Old Steven", 
+            "player1points": 24, 
+            "player2": "Angel Cuevas", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ryan Daniels", 
+            "player1points": 100, 
+            "player2": "Jackson McCullough", 
+            "player2points": 35, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Phillip Keeney", 
+            "player1points": 42, 
+            "player2": "Jeremy Bensley", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Walter Sargent", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Carson Norwood", 
+            "player1points": 63, 
+            "player2": "Casey Dzendolet", 
+            "player2points": 37, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Robby Goodhue", 
+            "player1points": 100, 
+            "player2": "Kris Legg", 
+            "player2points": 52, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "elimination"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Shaun Merritt", 
+            "player1points": 16, 
+            "player2": "Carson Norwood", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Keenan Childs", 
+            "player1points": 48, 
+            "player2": "Kris Legg", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Casey Dzendolet", 
+            "player1points": 100, 
+            "player2": "Kyle Apple", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bryce Gullat", 
+            "player1points": 0, 
+            "player2": "Robby Goodhue", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jeremy Chamblee", 
+            "player1points": 100, 
+            "player2": "Ryan Daniels", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mike Maurer", 
+            "player1points": 0, 
+            "player2": "Robert Pettit", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Cesar Gonzalez", 
+            "player1points": 0, 
+            "player2": "Mackenzie Judd", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ethan Judd", 
+            "player1points": 100, 
+            "player2": "Andrew Hubbard", 
+            "player2points": 60, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Angel Cuevas", 
+            "player1points": 0, 
+            "player2": "Walter Sargent", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Old Steven", 
+            "player1points": 31, 
+            "player2": "Javier Galvan", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jackson McCullough", 
+            "player1points": 100, 
+            "player2": "Chris Westerman", 
+            "player2points": 42, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Phillip Keeney", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 5, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "Frisco", 
+      "country": "United States of America", 
+      "lat": "33.150674400000", 
+      "lon": "-96.823611600000", 
+      "name": "", 
+      "state": "Texas"
+    }, 
+    "video_url": "http://"
+  }
+}
