@@ -1,0 +1,1041 @@
+{
+  "tournament": {
+    "date": "2018-07-22", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4552, 
+    "name": "Store Championchip Potsdam 2018", 
+    "players": [
+      {
+        "mov": 172, 
+        "name": "Florian \"BungLer\" Rufnak", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.88"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "majorvermeil", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "isbslicer", 
+                  "rebelcaptive"
+                ], 
+                "ept": [
+                  "adaptability"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "captainyorr", 
+              "ship": "lambdaclassshuttle", 
+              "upgrades": {
+                "crew": [
+                  "inspiringrecruit", 
+                  "directorkrennic"
+                ], 
+                "system": [
+                  "collisiondetector"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 704, 
+        "name": "Patrick \"AdmiralAsskick\" Henning", 
+        "rank": {
+          "elimination": 2, 
+          "swiss": 1
+        }, 
+        "score": 4, 
+        "sos": "0.52"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "darthvader", 
+              "ship": "tieadvanced", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "advtargetingcomputer"
+                ], 
+                "title": [
+                  "tiex1"
+                ]
+              }
+            }, 
+            {
+              "name": "majorvermeil", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "isbslicer", 
+                  "directorkrennic"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "puresabacc", 
+              "ship": "tiestriker", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "adaptiveailerons"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 666, 
+        "name": "Kasimir \"Black-Devil\" Schferhoff", 
+        "rank": {
+          "elimination": 1, 
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.75"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "nusquadronpilot", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "cannon": [
+                  "heavylasercannon", 
+                  "linkedbattery"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "title": [
+                  "xg1assaultconfiguration"
+                ]
+              }
+            }, 
+            {
+              "name": "majorvermeil", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "isbslicer", 
+                  "rebelcaptive"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "expose"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 536, 
+        "name": "Fabian \"Karghan\" Zikowsky", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "dengar"
+                ], 
+                "ept": [
+                  "debrisgambit"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "solsixxa", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "connernet", 
+                  "proximitymines"
+                ], 
+                "ept": [
+                  "debrisgambit"
+                ], 
+                "mod": [
+                  "experimentalinterface"
+                ], 
+                "samd": [
+                  "r4e1"
+                ], 
+                "system": [
+                  "accuracycorrector"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 523, 
+        "name": "Sebastian \"Bonezai\" Gepp", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 4
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "herasyndulla"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }, 
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "rey", 
+                  "tactician"
+                ], 
+                "ept": [
+                  "drawtheirfire"
+                ]
+              }
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "c3po"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 466, 
+        "name": "Christian \"Donaldo\" Schulze", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 3, 
+        "sos": "0.52"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "magvayarro"
+                ]
+              }
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "c3po"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "crew": [
+                  "tactician"
+                ], 
+                "ept": [
+                  "adaptability"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 459, 
+        "name": "Sebastian Kempchen", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "hortonsalm", 
+              "ship": "ywing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "title": [
+                  "btla4ywing"
+                ], 
+                "turret": [
+                  "ioncannonturret"
+                ]
+              }
+            }, 
+            {
+              "name": "keyanfarlander", 
+              "ship": "bwing", 
+              "upgrades": {
+                "cannon": [
+                  "linkedbattery"
+                ], 
+                "crew": [
+                  "herasyndulla"
+                ], 
+                "ept": [
+                  "rage"
+                ], 
+                "mod": [
+                  "bwinge2"
+                ], 
+                "system": [
+                  "advancedsensors"
+                ]
+              }
+            }, 
+            {
+              "name": "jakefarrell", 
+              "ship": "awing", 
+              "upgrades": {
+                "ept": [
+                  "intensity", 
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "vectoredthrusters"
+                ], 
+                "title": [
+                  "awingtestpilot"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 445, 
+        "name": "Florian \"Verco\" Ebeling", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 3, 
+        "sos": "0.63"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "asajjventress", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "lattsrazzi"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "illicit": [
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "countermeasures"
+                ]
+              }
+            }, 
+            {
+              "name": "ketsuonyo", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "dengar"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "illicit": [
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "countermeasures"
+                ], 
+                "title": [
+                  "shadowcaster"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 549, 
+        "name": "Martin \"Kyoto87\" Mller", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 455, 
+        "name": "Sebastian \"curi\" Rhrich", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 435, 
+        "name": "Oliver \"Baron-Lutschbaer\" Berein", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 2, 
+        "sos": "0.31"
+      }, 
+      {
+        "mov": 420, 
+        "name": "Udo \"Nachbrenner\" Murawski", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 416, 
+        "name": "Arne \"meeouw\" Klemens", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 379, 
+        "name": "Sebastian \"TheWampa\" Anderka", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 2, 
+        "sos": "0.42"
+      }, 
+      {
+        "mov": 324, 
+        "name": "Michael \"Beskarklinge\" Nothnagel", 
+        "rank": {
+          "swiss": 14
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 315, 
+        "name": "Danny \"Angel-Interceptor\" Jeske", 
+        "rank": {
+          "swiss": 15
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 339, 
+        "name": "Friedrich \"Unbaloav\" Kayser", 
+        "rank": {
+          "swiss": 16
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 293, 
+        "name": "Mandy \"DarthMom\" Kayser", 
+        "rank": {
+          "swiss": 17
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 267, 
+        "name": "Bettina \"Amidala\" Rhrich", 
+        "rank": {
+          "swiss": 18
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 170, 
+        "name": "Enrico \"Enno\" Kuppe", 
+        "rank": {
+          "swiss": 19
+        }, 
+        "score": 1, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 117, 
+        "name": "Ren \"LostOrder\" Grabowski", 
+        "rank": {
+          "swiss": 20
+        }, 
+        "score": 0, 
+        "sos": "0.56"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Fabian \"Karghan\" Zikowsky", 
+            "player1points": 100, 
+            "player2": "Udo \"Nachbrenner\" Murawski", 
+            "player2points": 63, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ren \"LostOrder\" Grabowski", 
+            "player1points": 52, 
+            "player2": "Sebastian \"Bonezai\" Gepp", 
+            "player2points": 75, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mandy \"DarthMom\" Kayser", 
+            "player1points": 25, 
+            "player2": "Bettina \"Amidala\" Rhrich", 
+            "player2points": 62, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Enrico \"Enno\" Kuppe", 
+            "player1points": 72, 
+            "player2": "Oliver \"Baron-Lutschbaer\" Berein", 
+            "player2points": 64, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Arne \"meeouw\" Klemens", 
+            "player1points": 0, 
+            "player2": "Christian \"Donaldo\" Schulze", 
+            "player2points": 61, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sebastian \"TheWampa\" Anderka", 
+            "player1points": 0, 
+            "player2": "Kasimir \"Black-Devil\" Schferhoff", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Patrick \"AdmiralAsskick\" Henning", 
+            "player1points": 100, 
+            "player2": "Florian \"BungLer\" Rufnak", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sebastian \"curi\" Rhrich", 
+            "player1points": 30, 
+            "player2": "Sebastian Kempchen", 
+            "player2points": 62, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Danny \"Angel-Interceptor\" Jeske", 
+            "player1points": 26, 
+            "player2": "Martin \"Kyoto87\" Mller", 
+            "player2points": 23, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Florian \"Verco\" Ebeling", 
+            "player1points": 100, 
+            "player2": "Friedrich \"Unbaloav\" Kayser", 
+            "player2points": 63, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Michael \"Beskarklinge\" Nothnagel", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Patrick \"AdmiralAsskick\" Henning", 
+            "player1points": 100, 
+            "player2": "Enrico \"Enno\" Kuppe", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sebastian \"Bonezai\" Gepp", 
+            "player1points": 100, 
+            "player2": "Michael \"Beskarklinge\" Nothnagel", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Florian \"Verco\" Ebeling", 
+            "player1points": 46, 
+            "player2": "Danny \"Angel-Interceptor\" Jeske", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Christian \"Donaldo\" Schulze", 
+            "player1points": 0, 
+            "player2": "Kasimir \"Black-Devil\" Schferhoff", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Fabian \"Karghan\" Zikowsky", 
+            "player1points": 100, 
+            "player2": "Bettina \"Amidala\" Rhrich", 
+            "player2points": 35, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sebastian Kempchen", 
+            "player1points": 100, 
+            "player2": "Ren \"LostOrder\" Grabowski", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sebastian \"curi\" Rhrich", 
+            "player1points": 100, 
+            "player2": "Oliver \"Baron-Lutschbaer\" Berein", 
+            "player2points": 24, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Martin \"Kyoto87\" Mller", 
+            "player1points": 100, 
+            "player2": "Friedrich \"Unbaloav\" Kayser", 
+            "player2points": 26, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Arne \"meeouw\" Klemens", 
+            "player1points": 40, 
+            "player2": "Udo \"Nachbrenner\" Murawski", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mandy \"DarthMom\" Kayser", 
+            "player1points": 67, 
+            "player2": "Sebastian \"TheWampa\" Anderka", 
+            "player2points": 29, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Florian \"BungLer\" Rufnak", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Patrick \"AdmiralAsskick\" Henning", 
+            "player1points": 0, 
+            "player2": "Kasimir \"Black-Devil\" Schferhoff", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "elimination"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Fabian \"Karghan\" Zikowsky", 
+            "player1points": 100, 
+            "player2": "Sebastian \"Bonezai\" Gepp", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sebastian Kempchen", 
+            "player1points": 0, 
+            "player2": "Kasimir \"Black-Devil\" Schferhoff", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Patrick \"AdmiralAsskick\" Henning", 
+            "player1points": 100, 
+            "player2": "Florian \"Verco\" Ebeling", 
+            "player2points": 30, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Michael \"Beskarklinge\" Nothnagel", 
+            "player1points": 0, 
+            "player2": "Martin \"Kyoto87\" Mller", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sebastian \"curi\" Rhrich", 
+            "player1points": 100, 
+            "player2": "Bettina \"Amidala\" Rhrich", 
+            "player2points": 62, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Enrico \"Enno\" Kuppe", 
+            "player1points": 0, 
+            "player2": "Arne \"meeouw\" Klemens", 
+            "player2points": 64, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Danny \"Angel-Interceptor\" Jeske", 
+            "player1points": 70, 
+            "player2": "Mandy \"DarthMom\" Kayser", 
+            "player2points": 46, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Christian \"Donaldo\" Schulze", 
+            "player1points": 100, 
+            "player2": "Florian \"BungLer\" Rufnak", 
+            "player2points": 22, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Udo \"Nachbrenner\" Murawski", 
+            "player1points": 75, 
+            "player2": "Ren \"LostOrder\" Grabowski", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Friedrich \"Unbaloav\" Kayser", 
+            "player1points": 65, 
+            "player2": "Oliver \"Baron-Lutschbaer\" Berein", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sebastian \"TheWampa\" Anderka", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Kasimir \"Black-Devil\" Schferhoff", 
+            "player1points": 66, 
+            "player2": "Patrick \"AdmiralAsskick\" Henning", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Fabian \"Karghan\" Zikowsky", 
+            "player1points": 34, 
+            "player2": "Florian \"Verco\" Ebeling", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Arne \"meeouw\" Klemens", 
+            "player1points": 0, 
+            "player2": "Sebastian Kempchen", 
+            "player2points": 27, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Danny \"Angel-Interceptor\" Jeske", 
+            "player1points": 0, 
+            "player2": "Sebastian \"Bonezai\" Gepp", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Christian \"Donaldo\" Schulze", 
+            "player1points": 49, 
+            "player2": "Sebastian \"curi\" Rhrich", 
+            "player2points": 22, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Martin \"Kyoto87\" Mller", 
+            "player1points": 27, 
+            "player2": "Udo \"Nachbrenner\" Murawski", 
+            "player2points": 49, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bettina \"Amidala\" Rhrich", 
+            "player1points": 33, 
+            "player2": "Sebastian \"TheWampa\" Anderka", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Oliver \"Baron-Lutschbaer\" Berein", 
+            "player1points": 100, 
+            "player2": "Mandy \"DarthMom\" Kayser", 
+            "player2points": 16, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Enrico \"Enno\" Kuppe", 
+            "player1points": 26, 
+            "player2": "Michael \"Beskarklinge\" Nothnagel", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ren \"LostOrder\" Grabowski", 
+            "player1points": 15, 
+            "player2": "Friedrich \"Unbaloav\" Kayser", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Patrick \"AdmiralAsskick\" Henning", 
+            "player1points": 100, 
+            "player2": "Sebastian \"Bonezai\" Gepp", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Kasimir \"Black-Devil\" Schferhoff", 
+            "player1points": 100, 
+            "player2": "Fabian \"Karghan\" Zikowsky", 
+            "player2points": 25, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "elimination"
+      }
+    ], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "Potsdam", 
+      "country": "Germany", 
+      "lat": null, 
+      "lon": null, 
+      "name": "", 
+      "state": "Brandenburg"
+    }, 
+    "video_url": "http://"
+  }
+}
