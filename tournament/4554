@@ -77,13 +77,95 @@
         "sos": "0.00"
       }, 
       {
-        "mov": 0, 
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "cavernangelszealot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "cavernangelszealot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "wesjanson", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "sawgerrera", 
+              "ship": "uwing", 
+              "upgrades": {
+                "crew": [
+                  "maul", 
+                  "ezrabridger"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "system": [
+                  "collisiondetector"
+                ], 
+                "title": [
+                  "pivotwing"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 563, 
         "name": "Thibaut TYY ROUX", 
         "rank": {
           "elimination": 2, 
           "swiss": 2
         }, 
-        "score": 0, 
+        "score": 3, 
         "sos": "0.00"
       }, 
       {
@@ -161,35 +243,289 @@
         "sos": "0.00"
       }, 
       {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "tansariipointveteran", 
+              "ship": "m3ainterceptor", 
+              "upgrades": {
+                "cannon": [
+                  "manglercannon"
+                ], 
+                "ept": [
+                  "adaptability"
+                ]
+              }
+            }, 
+            {
+              "name": "tansariipointveteran", 
+              "ship": "m3ainterceptor", 
+              "upgrades": {
+                "cannon": [
+                  "manglercannon"
+                ], 
+                "ept": [
+                  "adaptability"
+                ]
+              }
+            }, 
+            {
+              "name": "genesisred", 
+              "ship": "m3ainterceptor", 
+              "upgrades": {
+                "cannon": [
+                  "tractorbeam"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ]
+              }
+            }, 
+            {
+              "name": "kavil", 
+              "ship": "ywing", 
+              "upgrades": {
+                "ept": [
+                  "adaptability"
+                ], 
+                "samd": [
+                  "unhingedastromech"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 0, 
-        "name": "Player 4", 
+        "name": "Benoit \"Benito\" Abdelli", 
         "rank": {
           "swiss": 4
         }, 
-        "score": 0, 
+        "score": 2, 
         "sos": "0.00"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "tactician"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }, 
+            {
+              "name": "keyanfarlander", 
+              "ship": "bwing", 
+              "upgrades": {
+                "cannon": [
+                  "linkedbattery"
+                ], 
+                "crew": [
+                  "maul"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "bwinge2"
+                ], 
+                "system": [
+                  "thrustcorrector"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 0, 
-        "name": "Player 5", 
+        "name": "Florian \"Flotus\" Da Costa", 
         "rank": {
           "swiss": 5
         }, 
-        "score": 0, 
+        "score": 2, 
         "sos": "0.00"
       }, 
       {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "missile": [
+                  "clustermissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "turret": [
+                  "dorsalturret"
+                ]
+              }
+            }, 
+            {
+              "name": "dengar", 
+              "ship": "jumpmaster5000", 
+              "upgrades": {
+                "crew": [
+                  "k4securitydroid"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "title": [
+                  "punishingone"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 0, 
-        "name": "Player 6", 
+        "name": "Remi Jahier", 
         "rank": {
           "swiss": 6
         }, 
-        "score": 0, 
+        "score": 1, 
         "sos": "0.00"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "sensorcluster"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "backdraft", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "sensorcluster"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "omegaleader", 
+              "ship": "tiefofighter", 
+              "upgrades": {
+                "ept": [
+                  "ascoretosettle"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 0, 
-        "name": "Player 7", 
+        "name": "Guillaume \"Guitou\" Pizard", 
         "rank": {
           "swiss": 7
         }, 
@@ -197,8 +533,56 @@
         "sos": "0.00"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "omegaleader", 
+              "ship": "tiefofighter", 
+              "upgrades": {
+                "ept": [
+                  "juke"
+                ], 
+                "tech": [
+                  "commrelay"
+                ]
+              }
+            }, 
+            {
+              "name": "countessryad", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "cannon": [
+                  "tractorbeam"
+                ], 
+                "ept": [
+                  "predator"
+                ], 
+                "title": [
+                  "tied"
+                ]
+              }
+            }, 
+            {
+              "name": "onyxsquadronpilot", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "cannon": [
+                  "ioncannon"
+                ], 
+                "title": [
+                  "tied"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 0, 
-        "name": "Player 8", 
+        "name": "Guillaume Auguet", 
         "rank": {
           "swiss": 8
         }, 

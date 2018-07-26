@@ -1,0 +1,720 @@
+{
+  "tournament": {
+    "date": "2018-07-15", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4559, 
+    "name": "Bearded Collectibles Store Championship", 
+    "players": [
+      {
+        "mov": 675, 
+        "name": "Reid Hansen", 
+        "rank": {
+          "elimination": 8, 
+          "swiss": 1
+        }, 
+        "score": 4, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 548, 
+        "name": "Ben Shoup", 
+        "rank": {
+          "elimination": 8, 
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 541, 
+        "name": "Zeno", 
+        "rank": {
+          "elimination": 8, 
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 540, 
+        "name": "Jared Arnold", 
+        "rank": {
+          "elimination": 8, 
+          "swiss": 4
+        }, 
+        "score": 3, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 521, 
+        "name": "Logan Clark", 
+        "rank": {
+          "elimination": 1, 
+          "swiss": 5
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 510, 
+        "name": "carlos cabrera", 
+        "rank": {
+          "elimination": 2, 
+          "swiss": 6
+        }, 
+        "score": 3, 
+        "sos": "0.75"
+      }, 
+      {
+        "mov": 493, 
+        "name": "Michael Turner", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 7
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 462, 
+        "name": "Jeremy Scott", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 8
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 458, 
+        "name": "Erin Bisanti", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 3, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 542, 
+        "name": "Marcous Morton", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 464, 
+        "name": "Zack Faughn", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 443, 
+        "name": "Jorge Berrios", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 411, 
+        "name": "Dennis Underwood", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 2, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 386, 
+        "name": "Alex Synovec", 
+        "rank": {
+          "swiss": 14
+        }, 
+        "score": 2, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 381, 
+        "name": "Jared Burkett", 
+        "rank": {
+          "swiss": 15
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 337, 
+        "name": "Max Burns", 
+        "rank": {
+          "swiss": 16
+        }, 
+        "score": 2, 
+        "sos": "0.69"
+      }, 
+      {
+        "mov": 332, 
+        "name": "Jared Kuczynski", 
+        "rank": {
+          "swiss": 17
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 314, 
+        "name": "Neal Gardner", 
+        "rank": {
+          "swiss": 18
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 347, 
+        "name": "Andrew Marsteller", 
+        "rank": {
+          "swiss": 19
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 344, 
+        "name": "Jacob Browning", 
+        "rank": {
+          "swiss": 20
+        }, 
+        "score": 1, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 314, 
+        "name": "Ed Wallace", 
+        "rank": {
+          "swiss": 21
+        }, 
+        "score": 1, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 274, 
+        "name": "Michael Faughn", 
+        "rank": {
+          "swiss": 22
+        }, 
+        "score": 1, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 252, 
+        "name": "Ed Martinez", 
+        "rank": {
+          "swiss": 23
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 232, 
+        "name": "Clint Chambers", 
+        "rank": {
+          "swiss": 24
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 248, 
+        "name": "Damon M McGuire", 
+        "rank": {
+          "swiss": 25
+        }, 
+        "score": 0, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 31, 
+        "name": "Ken Peralta", 
+        "rank": {
+          "swiss": 26
+        }, 
+        "score": 0, 
+        "sos": "0.38"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Ben Shoup", 
+            "player1points": 40, 
+            "player2": "carlos cabrera", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Zack Faughn", 
+            "player1points": 100, 
+            "player2": "Ken Peralta", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Michael Faughn", 
+            "player1points": 41, 
+            "player2": "Alex Synovec", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Clint Chambers", 
+            "player1points": 0, 
+            "player2": "Jared Kuczynski", 
+            "player2points": 31, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marcous Morton", 
+            "player1points": 71, 
+            "player2": "Logan Clark", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Michael Turner", 
+            "player1points": 100, 
+            "player2": "Jacob Browning", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Erin Bisanti", 
+            "player1points": 100, 
+            "player2": "Andrew Marsteller", 
+            "player2points": 54, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Damon M McGuire", 
+            "player1points": 59, 
+            "player2": "Jeremy Scott", 
+            "player2points": 76, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Zeno", 
+            "player1points": 100, 
+            "player2": "Dennis Underwood", 
+            "player2points": 28, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ed Wallace", 
+            "player1points": 30, 
+            "player2": "Jared Burkett", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Neal Gardner", 
+            "player1points": 30, 
+            "player2": "Max Burns", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jorge Berrios", 
+            "player1points": 77, 
+            "player2": "Jared Arnold", 
+            "player2points": 83, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ed Martinez", 
+            "player1points": 21, 
+            "player2": "Reid Hansen", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Zeno", 
+            "player1points": 100, 
+            "player2": "Zack Faughn", 
+            "player2points": 56, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Reid Hansen", 
+            "player1points": 100, 
+            "player2": "Michael Faughn", 
+            "player2points": 42, 
+            "result": "win"
+          }, 
+          {
+            "player1": "carlos cabrera", 
+            "player1points": 67, 
+            "player2": "Jared Burkett", 
+            "player2points": 20, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jared Arnold", 
+            "player1points": 100, 
+            "player2": "Jared Kuczynski", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jeremy Scott", 
+            "player1points": 100, 
+            "player2": "Max Burns", 
+            "player2points": 41, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Logan Clark", 
+            "player1points": 54, 
+            "player2": "Erin Bisanti", 
+            "player2points": 82, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Michael Turner", 
+            "player1points": 100, 
+            "player2": "Clint Chambers", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ed Wallace", 
+            "player1points": 57, 
+            "player2": "Alex Synovec", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marcous Morton", 
+            "player1points": 100, 
+            "player2": "Ken Peralta", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Damon M McGuire", 
+            "player1points": 46, 
+            "player2": "Ben Shoup", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Dennis Underwood", 
+            "player1points": 58, 
+            "player2": "Neal Gardner", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ed Martinez", 
+            "player1points": 0, 
+            "player2": "Jorge Berrios", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jacob Browning", 
+            "player1points": 34, 
+            "player2": "Andrew Marsteller", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Logan Clark", 
+            "player1points": 100, 
+            "player2": "carlos cabrera", 
+            "player2points": 26, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "elimination"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Michael Turner", 
+            "player1points": 72, 
+            "player2": "Zeno", 
+            "player2points": 68, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Reid Hansen", 
+            "player1points": 80, 
+            "player2": "carlos cabrera", 
+            "player2points": 21, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Erin Bisanti", 
+            "player1points": 100, 
+            "player2": "Jeremy Scott", 
+            "player2points": 54, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jared Arnold", 
+            "player1points": 74, 
+            "player2": "Max Burns", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marcous Morton", 
+            "player1points": 100, 
+            "player2": "Neal Gardner", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Michael Faughn", 
+            "player1points": 31, 
+            "player2": "Jared Kuczynski", 
+            "player2points": 64, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ben Shoup", 
+            "player1points": 100, 
+            "player2": "Alex Synovec", 
+            "player2points": 46, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Logan Clark", 
+            "player1points": 100, 
+            "player2": "Jared Burkett", 
+            "player2points": 53, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Zack Faughn", 
+            "player1points": 100, 
+            "player2": "Andrew Marsteller", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jorge Berrios", 
+            "player1points": 100, 
+            "player2": "Jacob Browning", 
+            "player2points": 78, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ken Peralta", 
+            "player1points": 31, 
+            "player2": "Ed Wallace", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ed Martinez", 
+            "player1points": 65, 
+            "player2": "Clint Chambers", 
+            "player2points": 66, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Damon M McGuire", 
+            "player1points": 51, 
+            "player2": "Dennis Underwood", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Reid Hansen", 
+            "player1points": 100, 
+            "player2": "Michael Turner", 
+            "player2points": 21, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Erin Bisanti", 
+            "player1points": 20, 
+            "player2": "carlos cabrera", 
+            "player2points": 82, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marcous Morton", 
+            "player1points": 71, 
+            "player2": "Zeno", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Zack Faughn", 
+            "player1points": 40, 
+            "player2": "Jared Arnold", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jorge Berrios", 
+            "player1points": 27, 
+            "player2": "Logan Clark", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jeremy Scott", 
+            "player1points": 68, 
+            "player2": "Jared Kuczynski", 
+            "player2points": 36, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ben Shoup", 
+            "player1points": 100, 
+            "player2": "Max Burns", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jared Burkett", 
+            "player1points": 69, 
+            "player2": "Andrew Marsteller", 
+            "player2points": 64, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Dennis Underwood", 
+            "player1points": 100, 
+            "player2": "Michael Faughn", 
+            "player2points": 24, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Clint Chambers", 
+            "player1points": 28, 
+            "player2": "Alex Synovec", 
+            "player2points": 66, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Neal Gardner", 
+            "player1points": 100, 
+            "player2": "Ed Wallace", 
+            "player2points": 58, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ken Peralta", 
+            "player1points": 0, 
+            "player2": "Jacob Browning", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ed Martinez", 
+            "player1points": 66, 
+            "player2": "Damon M McGuire", 
+            "player2points": 34, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Jeremy Scott", 
+            "player1points": 26, 
+            "player2": "Logan Clark", 
+            "player2points": 48, 
+            "result": "win"
+          }, 
+          {
+            "player1": "carlos cabrera", 
+            "player1points": 100, 
+            "player2": "Michael Turner", 
+            "player2points": 40, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "elimination"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Reid Hansen", 
+            "player1points": 18, 
+            "player2": "Jeremy Scott", 
+            "player2points": 84, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jared Arnold", 
+            "player1points": 0, 
+            "player2": "Logan Clark", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Zeno", 
+            "player1points": 60, 
+            "player2": "carlos cabrera", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ben Shoup", 
+            "player1points": 36, 
+            "player2": "Michael Turner", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 8, 
+        "round-type": "elimination"
+      }
+    ], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "Winter Park", 
+      "country": "United States of America", 
+      "lat": "28.600062500000", 
+      "lon": "-81.342743843649", 
+      "name": "", 
+      "state": "Florida"
+    }, 
+    "video_url": "http://"
+  }
+}
