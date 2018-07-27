@@ -1,0 +1,650 @@
+{
+  "tournament": {
+    "date": "2018-07-25", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4562, 
+    "name": "3-Round Speed X-Wing", 
+    "players": [
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "darthvader", 
+              "ship": "tieadvanced", 
+              "upgrades": {
+                "ept": [
+                  "adaptability"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "advtargetingcomputer"
+                ], 
+                "title": [
+                  "tiex1"
+                ]
+              }
+            }, 
+            {
+              "name": "rearadmiralchiraneau", 
+              "ship": "vt49decimator", 
+              "upgrades": {
+                "crew": [
+                  "kyloren", 
+                  "gunner", 
+                  "directorkrennic"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "title": [
+                  "dauntless"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 451, 
+        "name": "curtisliddiard", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 3, 
+        "sos": "0.33"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "crackshot"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "soontirfel", 
+              "ship": "tieinterceptor", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ]
+              }
+            }, 
+            {
+              "name": "captainyorr", 
+              "ship": "lambdaclassshuttle", 
+              "upgrades": {
+                "crew": [
+                  "emperorpalpatine"
+                ], 
+                "system": [
+                  "targetingscrambler"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 414, 
+        "name": "Scott Hepler", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 2, 
+        "sos": "0.33"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "rey", 
+              "ship": "yt1300", 
+              "upgrades": {
+                "crew": [
+                  "kananjarrus", 
+                  "finn"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "countermeasures"
+                ], 
+                "title": [
+                  "millenniumfalcon-swx57"
+                ]
+              }
+            }, 
+            {
+              "name": "norrawexley", 
+              "ship": "arc170", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ], 
+                "crew": [
+                  "c3po"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "title": [
+                  "allianceoverhaul"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 330, 
+        "name": "Ben Sausedo", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 2, 
+        "sos": "0.67"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "magvayarro", 
+              "ship": "uwing", 
+              "upgrades": {
+                "crew": [
+                  "rey", 
+                  "janors"
+                ], 
+                "system": [
+                  "targetingscrambler"
+                ], 
+                "title": [
+                  "pivotwing"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "benthictwotubes", 
+              "ship": "uwing", 
+              "upgrades": {
+                "crew": [
+                  "reconspecialist", 
+                  "chopper"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "pivotwing"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "edriotwotubes", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "intensity"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "cavernangelszealot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "intimidation"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 314, 
+        "name": "Andrew Pollard", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "corranhorn", 
+              "ship": "ewing", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "torpedo": [
+                  "protontorpedoes"
+                ]
+              }
+            }, 
+            {
+              "name": "kylekatarn", 
+              "ship": "hwk290", 
+              "upgrades": {
+                "crew": [
+                  "reconspecialist"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "title": [
+                  "moldycrow"
+                ], 
+                "turret": [
+                  "blasterturret"
+                ]
+              }
+            }, 
+            {
+              "name": "captainrex", 
+              "ship": "tiefighter"
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 282, 
+        "name": "Benjamin Ballard", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 1, 
+        "sos": "0.78"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "scarifbasepilot", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "isbslicer", 
+                  "directorkrennic"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "adaptability"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "darthvader", 
+              "ship": "tieadvanced", 
+              "upgrades": {
+                "ept": [
+                  "adaptability"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "advtargetingcomputer"
+                ], 
+                "title": [
+                  "tiex1"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 202, 
+        "name": "Jonathan Young", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "rearadmiralchiraneau", 
+              "ship": "vt49decimator", 
+              "upgrades": {
+                "crew": [
+                  "emperorpalpatine", 
+                  "rebelcaptive"
+                ], 
+                "ept": [
+                  "intimidation"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "title": [
+                  "dauntless"
+                ]
+              }
+            }, 
+            {
+              "name": "countessryad", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "juke"
+                ], 
+                "mod": [
+                  "multispectralcamouflage"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 194, 
+        "name": "Chandler Torres", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "dengar", 
+              "ship": "jumpmaster5000", 
+              "upgrades": {
+                "crew": [
+                  "k4securitydroid"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "illicit": [
+                  "scavengercrane"
+                ], 
+                "mod": [
+                  "countermeasures"
+                ], 
+                "title": [
+                  "punishingone"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "protectoratestarfighter", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "concorddawnprotector"
+                ], 
+                "torpedo": [
+                  "advprotontorpedoes"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 213, 
+        "name": "Zoch", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 0, 
+        "sos": "0.56"
+      }
+    ], 
+    "round_length": 45, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "Zoch", 
+            "player1points": 66, 
+            "player2": "curtisliddiard", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Benjamin Ballard", 
+            "player1points": 100, 
+            "player2": "Scott Hepler", 
+            "player2points": 50, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Jonathan Young", 
+            "player1points": 49, 
+            "player2": "Ben Sausedo", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Chandler Torres", 
+            "player1points": 40, 
+            "player2": "Andrew Pollard", 
+            "player2points": 82, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "curtisliddiard", 
+            "player1points": 100, 
+            "player2": "Benjamin Ballard", 
+            "player2points": 33, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Ben Sausedo", 
+            "player1points": 59, 
+            "player2": "Andrew Pollard", 
+            "player2points": 30, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Scott Hepler", 
+            "player1points": 100, 
+            "player2": "Jonathan Young", 
+            "player2points": 18, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Chandler Torres", 
+            "player1points": 100, 
+            "player2": "Zoch", 
+            "player2points": 82, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "curtisliddiard", 
+            "player1points": 100, 
+            "player2": "Ben Sausedo", 
+            "player2points": 50, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Benjamin Ballard", 
+            "player1points": 49, 
+            "player2": "Andrew Pollard", 
+            "player2points": 50, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Scott Hepler", 
+            "player1points": 100, 
+            "player2": "Chandler Torres", 
+            "player2points": 18, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Jonathan Young", 
+            "player1points": 100, 
+            "player2": "Zoch", 
+            "player2points": 65, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Other", 
+    "venue": {
+      "city": "Orem", 
+      "country": "USA", 
+      "lat": "40.297182500000", 
+      "lon": "-111.694943000000", 
+      "name": "", 
+      "state": "Utah"
+    }
+  }
+}
