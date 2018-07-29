@@ -1,0 +1,953 @@
+{
+  "tournament": {
+    "date": "2018-07-28", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4569, 
+    "name": "Space Cadets Gaming Gaming Store Championship", 
+    "players": [
+      {
+        "mov": 680, 
+        "name": "Adrian Parra", 
+        "rank": {
+          "elimination": 1, 
+          "swiss": 1
+        }, 
+        "score": 4, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 662, 
+        "name": "Dave Do", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 2
+        }, 
+        "score": 4, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 585, 
+        "name": "Daniel Lupo", 
+        "rank": {
+          "elimination": 2, 
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "bluesquadronpilot", 
+              "ship": "bwing", 
+              "upgrades": {
+                "cannon": [
+                  "linkedbattery"
+                ], 
+                "crew": [
+                  "operationsspecialist"
+                ], 
+                "mod": [
+                  "bwinge2"
+                ], 
+                "system": [
+                  "thrustcorrector"
+                ]
+              }
+            }, 
+            {
+              "name": "goldsquadronpilot", 
+              "ship": "ywing", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "title": [
+                  "btla4ywing"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "cavernangelszealot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "snapshot"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "cavernangelszealot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "snapshot"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 568, 
+        "name": "Michael Do", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 4
+        }, 
+        "score": 3, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 559, 
+        "name": "Eric Larson", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 3, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 513, 
+        "name": "Jesse Choe", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 488, 
+        "name": "Chris Schaefer", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 3, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 483, 
+        "name": "Carlo Badiola", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 3, 
+        "sos": "0.69"
+      }, 
+      {
+        "mov": 509, 
+        "name": "Stephen Consoli", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 484, 
+        "name": "Jonah Sanders", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 474, 
+        "name": "Peta", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 2, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 438, 
+        "name": "Sean Trainor", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 2, 
+        "sos": "0.69"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "cassianandor", 
+              "ship": "uwing", 
+              "upgrades": {
+                "crew": [
+                  "operationsspecialist", 
+                  "herasyndulla"
+                ], 
+                "ept": [
+                  "wired"
+                ], 
+                "system": [
+                  "collisiondetector"
+                ], 
+                "title": [
+                  "pivotwing"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "hefftobber", 
+              "ship": "uwing", 
+              "upgrades": {
+                "crew": [
+                  "boshek", 
+                  "courierdroid"
+                ], 
+                "mod": [
+                  "ionprojector", 
+                  "tacticaljammer"
+                ], 
+                "system": [
+                  "enhancedscopes"
+                ], 
+                "title": [
+                  "pivotwing"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "magvayarro", 
+              "ship": "uwing", 
+              "upgrades": {
+                "crew": [
+                  "courierdroid", 
+                  "operationsspecialist"
+                ], 
+                "mod": [
+                  "ionprojector"
+                ], 
+                "system": [
+                  "enhancedscopes"
+                ], 
+                "title": [
+                  "pivotwing"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "captainrex", 
+              "ship": "tiefighter"
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 423, 
+        "name": "Brian Serafine", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 2, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 418, 
+        "name": "Josh Lee", 
+        "rank": {
+          "swiss": 14
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 363, 
+        "name": "Daniel Cass", 
+        "rank": {
+          "swiss": 15
+        }, 
+        "score": 2, 
+        "sos": "0.25"
+      }, 
+      {
+        "mov": 350, 
+        "name": "Parker McFarland", 
+        "rank": {
+          "swiss": 16
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 326, 
+        "name": "Stewart Aaron", 
+        "rank": {
+          "swiss": 17
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 323, 
+        "name": "NIck Hoban", 
+        "rank": {
+          "swiss": 18
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "palobgodalhi", 
+              "ship": "hwk290", 
+              "upgrades": {
+                "crew": [
+                  "dengar"
+                ], 
+                "ept": [
+                  "opportunist"
+                ], 
+                "mod": [
+                  "pulsedrayshield"
+                ], 
+                "turret": [
+                  "dorsalturret"
+                ]
+              }
+            }, 
+            {
+              "name": "toranikulda", 
+              "ship": "m12lkimogilafighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "title": [
+                  "enforcer"
+                ], 
+                "torpedo": [
+                  "plasmatorpedoes"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "protectoratestarfighter", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "concorddawnprotector"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 353, 
+        "name": "Ross Sanders", 
+        "rank": {
+          "swiss": 19
+        }, 
+        "score": 1, 
+        "sos": "0.69"
+      }, 
+      {
+        "mov": 265, 
+        "name": "Stephen Long", 
+        "rank": {
+          "swiss": 20
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 195, 
+        "name": "Ed Ruedemann", 
+        "rank": {
+          "swiss": 21
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 172, 
+        "name": "Chris Marek", 
+        "rank": {
+          "swiss": 22
+        }, 
+        "score": 1, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 166, 
+        "name": "Noah Baskin", 
+        "rank": {
+          "swiss": 23
+        }, 
+        "score": 1, 
+        "sos": "0.75"
+      }, 
+      {
+        "mov": 150, 
+        "name": "Daniel Bowen", 
+        "rank": {
+          "swiss": 24
+        }, 
+        "score": 1, 
+        "sos": "0.58"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "nusquadronpilot", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ]
+              }
+            }, 
+            {
+              "name": "nusquadronpilot", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ]
+              }
+            }, 
+            {
+              "name": "nusquadronpilot", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ]
+              }
+            }, 
+            {
+              "name": "maarekstele", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "ascoretosettle"
+                ], 
+                "mod": [
+                  "twinionenginemkii"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 253, 
+        "name": "Leo Skelly", 
+        "rank": {
+          "swiss": 25
+        }, 
+        "score": 0, 
+        "sos": "0.50"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Daniel Bowen", 
+            "player1points": 0, 
+            "player2": "Jonah Sanders", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jesse Choe", 
+            "player1points": 100, 
+            "player2": "Chris Schaefer", 
+            "player2points": 58, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ross Sanders", 
+            "player1points": 100, 
+            "player2": "Daniel Cass", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Josh Lee", 
+            "player1points": 79, 
+            "player2": "Stewart Aaron", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Leo Skelly", 
+            "player1points": 0, 
+            "player2": "Stephen Long", 
+            "player2points": 44, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Eric Larson", 
+            "player1points": 0, 
+            "player2": "Adrian Parra", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "NIck Hoban", 
+            "player1points": 100, 
+            "player2": "Ed Ruedemann", 
+            "player2points": 21, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sean Trainor", 
+            "player1points": 65, 
+            "player2": "Stephen Consoli", 
+            "player2points": 14, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Noah Baskin", 
+            "player1points": 0, 
+            "player2": "Dave Do", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Daniel Lupo", 
+            "player1points": 100, 
+            "player2": "Chris Marek", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Parker McFarland", 
+            "player1points": 0, 
+            "player2": "Michael Do", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Peta", 
+            "player1points": 42, 
+            "player2": "Carlo Badiola", 
+            "player2points": 63, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Brian Serafine", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Jonah Sanders", 
+            "player1points": 36, 
+            "player2": "Jesse Choe", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Michael Do", 
+            "player1points": 60, 
+            "player2": "Carlo Badiola", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Adrian Parra", 
+            "player1points": 100, 
+            "player2": "Ross Sanders", 
+            "player2points": 20, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Daniel Lupo", 
+            "player1points": 100, 
+            "player2": "Stephen Long", 
+            "player2points": 21, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Stewart Aaron", 
+            "player1points": 23, 
+            "player2": "Sean Trainor", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Dave Do", 
+            "player1points": 100, 
+            "player2": "NIck Hoban", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Brian Serafine", 
+            "player1points": 31, 
+            "player2": "Ed Ruedemann", 
+            "player2points": 42, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Peta", 
+            "player1points": 38, 
+            "player2": "Chris Marek", 
+            "player2points": 54, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Daniel Cass", 
+            "player1points": 51, 
+            "player2": "Josh Lee", 
+            "player2points": 72, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Eric Larson", 
+            "player1points": 100, 
+            "player2": "Daniel Bowen", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chris Schaefer", 
+            "player1points": 100, 
+            "player2": "Leo Skelly", 
+            "player2points": 49, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Parker McFarland", 
+            "player1points": 0, 
+            "player2": "Stephen Consoli", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Noah Baskin", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Adrian Parra", 
+            "player1points": 100, 
+            "player2": "Daniel Lupo", 
+            "player2points": 40, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "elimination"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Adrian Parra", 
+            "player1points": 100, 
+            "player2": "Carlo Badiola", 
+            "player2points": 40, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Dave Do", 
+            "player1points": 100, 
+            "player2": "Sean Trainor", 
+            "player2points": 69, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Daniel Lupo", 
+            "player1points": 100, 
+            "player2": "Jesse Choe", 
+            "player2points": 63, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Stephen Long", 
+            "player1points": 52, 
+            "player2": "Chris Schaefer", 
+            "player2points": 52, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chris Marek", 
+            "player1points": 0, 
+            "player2": "Stephen Consoli", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jonah Sanders", 
+            "player1points": 100, 
+            "player2": "Brian Serafine", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Stewart Aaron", 
+            "player1points": 100, 
+            "player2": "Ed Ruedemann", 
+            "player2points": 39, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Eric Larson", 
+            "player1points": 100, 
+            "player2": "Noah Baskin", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "NIck Hoban", 
+            "player1points": 0, 
+            "player2": "Josh Lee", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ross Sanders", 
+            "player1points": 44, 
+            "player2": "Michael Do", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Leo Skelly", 
+            "player1points": 36, 
+            "player2": "Daniel Cass", 
+            "player2points": 44, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Peta", 
+            "player1points": 100, 
+            "player2": "Daniel Bowen", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Parker McFarland", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Daniel Lupo", 
+            "player1points": 69, 
+            "player2": "Dave Do", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Adrian Parra", 
+            "player1points": 100, 
+            "player2": "Stephen Consoli", 
+            "player2points": 60, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Stewart Aaron", 
+            "player1points": 21, 
+            "player2": "Chris Schaefer", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sean Trainor", 
+            "player1points": 41, 
+            "player2": "Eric Larson", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Michael Do", 
+            "player1points": 100, 
+            "player2": "Jonah Sanders", 
+            "player2points": 48, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Carlo Badiola", 
+            "player1points": 100, 
+            "player2": "Josh Lee", 
+            "player2points": 18, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jesse Choe", 
+            "player1points": 100, 
+            "player2": "Chris Marek", 
+            "player2points": 56, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Parker McFarland", 
+            "player1points": 100, 
+            "player2": "Stephen Long", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ed Ruedemann", 
+            "player1points": 24, 
+            "player2": "Daniel Cass", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Peta", 
+            "player1points": 65, 
+            "player2": "Ross Sanders", 
+            "player2points": 54, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Brian Serafine", 
+            "player1points": 100, 
+            "player2": "Noah Baskin", 
+            "player2points": 16, 
+            "result": "win"
+          }, 
+          {
+            "player1": "NIck Hoban", 
+            "player1points": 100, 
+            "player2": "Leo Skelly", 
+            "player2points": 56, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Daniel Bowen", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Adrian Parra", 
+            "player1points": 100, 
+            "player2": "Michael Do", 
+            "player2points": 20, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Dave Do", 
+            "player1points": 42, 
+            "player2": "Daniel Lupo", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "elimination"
+      }
+    ], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "Oak Ridge North", 
+      "country": "United States of America", 
+      "lat": "30.160215800000", 
+      "lon": "-95.444383400000", 
+      "name": "Space Cadets Gaming Gaming", 
+      "state": "Texas"
+    }, 
+    "video_url": "http://"
+  }
+}
