@@ -161,7 +161,7 @@
           "version": "4.2.0"
         }, 
         "mov": 501, 
-        "name": "AlexD", 
+        "name": "Alex De Rosa", 
         "rank": {
           "swiss": 4
         }, 
@@ -169,6 +169,61 @@
         "sos": "0.50"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "captainyorr", 
+              "ship": "lambdaclassshuttle", 
+              "upgrades": {
+                "crew": [
+                  "emperorpalpatine"
+                ], 
+                "system": [
+                  "targetingscrambler"
+                ]
+              }
+            }, 
+            {
+              "name": "theinquisitor", 
+              "ship": "tieadvprototype", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "tiev1"
+                ]
+              }
+            }, 
+            {
+              "name": "majorvermeil", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "isbslicer", 
+                  "directorkrennic"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 516, 
         "name": "Sam", 
         "rank": {
@@ -267,7 +322,7 @@
             "final_salvo": false, 
             "player1": "JorgeG", 
             "player1points": 100, 
-            "player2": "AlexD", 
+            "player2": "Alex De Rosa", 
             "player2points": 62, 
             "result": "win"
           }, 
@@ -375,7 +430,7 @@
           }, 
           {
             "final_salvo": false, 
-            "player1": "AlexD", 
+            "player1": "Alex De Rosa", 
             "player1points": 100, 
             "player2": "Scott", 
             "player2points": 0, 
@@ -397,7 +452,7 @@
           }, 
           {
             "final_salvo": false, 
-            "player1": "AlexD", 
+            "player1": "Alex De Rosa", 
             "player1points": 75, 
             "player2": "James", 
             "player2points": 52, 
@@ -459,7 +514,7 @@
           }, 
           {
             "final_salvo": false, 
-            "player1": "AlexD", 
+            "player1": "Alex De Rosa", 
             "player1points": 68, 
             "player2": "Sam", 
             "player2points": 52, 

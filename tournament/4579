@@ -1,0 +1,390 @@
+{
+  "tournament": {
+    "date": "2018-07-29", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4579, 
+    "name": "Meeples Games Store Championship", 
+    "players": [
+      {
+        "mov": 250, 
+        "name": "Joe Fiala", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 652, 
+        "name": "Ryan Moore", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 1
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 542, 
+        "name": "Justin Oden", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.69"
+      }, 
+      {
+        "mov": 529, 
+        "name": "Chris Norris", 
+        "rank": {
+          "elimination": 2, 
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.46"
+      }, 
+      {
+        "mov": 487, 
+        "name": "Izzy Gambliel", 
+        "rank": {
+          "elimination": 1, 
+          "swiss": 4
+        }, 
+        "score": 3, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 436, 
+        "name": "Ben Gaetke", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 3, 
+        "sos": "0.75"
+      }, 
+      {
+        "mov": 424, 
+        "name": "Kyle Hutchinson", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 408, 
+        "name": "Carson Hopper", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 368, 
+        "name": "Evan Paul", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 350, 
+        "name": "Tony Costanti", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 2, 
+        "sos": "0.46"
+      }, 
+      {
+        "mov": 287, 
+        "name": "Jeff Cleaves", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 267, 
+        "name": "Tim Pansch", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 1, 
+        "sos": "0.58"
+      }, 
+      {
+        "mov": 250, 
+        "name": "Nikki Barry", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 1, 
+        "sos": "0.58"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Nikki Barry", 
+            "player1points": 20, 
+            "player2": "Chris Norris", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jeff Cleaves", 
+            "player1points": 61, 
+            "player2": "Carson Hopper", 
+            "player2points": 88, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tim Pansch", 
+            "player1points": 0, 
+            "player2": "Ryan Moore", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Justin Oden", 
+            "player1points": 31, 
+            "player2": "Izzy Gambliel", 
+            "player2points": 49, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Kyle Hutchinson", 
+            "player1points": 33, 
+            "player2": "Evan Paul", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Joe Fiala", 
+            "player1points": 64, 
+            "player2": "Tony Costanti", 
+            "player2points": 31, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ben Gaetke", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Izzy Gambliel", 
+            "player1points": 39, 
+            "player2": "Carson Hopper", 
+            "player2points": 31, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ryan Moore", 
+            "player1points": 100, 
+            "player2": "Evan Paul", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ben Gaetke", 
+            "player1points": 60, 
+            "player2": "Chris Norris", 
+            "player2points": 20, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Joe Fiala", 
+            "player1points": 26, 
+            "player2": "Nikki Barry", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Kyle Hutchinson", 
+            "player1points": 100, 
+            "player2": "Jeff Cleaves", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tony Costanti", 
+            "player1points": 20, 
+            "player2": "Justin Oden", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tim Pansch", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Izzy Gambliel", 
+            "player1points": 100, 
+            "player2": "Chris Norris", 
+            "player2points": 0, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "elimination"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Ben Gaetke", 
+            "player1points": 35, 
+            "player2": "Izzy Gambliel", 
+            "player2points": 30, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ryan Moore", 
+            "player1points": 79, 
+            "player2": "Justin Oden", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chris Norris", 
+            "player1points": 69, 
+            "player2": "Joe Fiala", 
+            "player2points": 60, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Kyle Hutchinson", 
+            "player1points": 100, 
+            "player2": "Nikki Barry", 
+            "player2points": 29, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Evan Paul", 
+            "player1points": 100, 
+            "player2": "Tim Pansch", 
+            "player2points": 33, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Carson Hopper", 
+            "player1points": 0, 
+            "player2": "Tony Costanti", 
+            "player2points": 27, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jeff Cleaves", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Ben Gaetke", 
+            "player1points": 41, 
+            "player2": "Justin Oden", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Izzy Gambliel", 
+            "player1points": 100, 
+            "player2": "Evan Paul", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chris Norris", 
+            "player1points": 100, 
+            "player2": "Kyle Hutchinson", 
+            "player2points": 20, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ryan Moore", 
+            "player1points": 100, 
+            "player2": "Nikki Barry", 
+            "player2points": 27, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jeff Cleaves", 
+            "player1points": 36, 
+            "player2": "Tony Costanti", 
+            "player2points": 72, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tim Pansch", 
+            "player1points": 15, 
+            "player2": "Carson Hopper", 
+            "player2points": 31, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Ryan Moore", 
+            "player1points": 0, 
+            "player2": "Izzy Gambliel", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Justin Oden", 
+            "player1points": 0, 
+            "player2": "Chris Norris", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "elimination"
+      }
+    ], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "Seattle", 
+      "country": "United States of America", 
+      "lat": "47.603832100000", 
+      "lon": "-122.330062400000", 
+      "name": "Meeples Games", 
+      "state": "Washington"
+    }, 
+    "video_url": "http://"
+  }
+}

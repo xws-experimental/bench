@@ -1,0 +1,858 @@
+{
+  "tournament": {
+    "date": "2018-07-29", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4575, 
+    "name": "X wing store championchip", 
+    "players": [
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "fennrau", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "crew": [
+                  "hotshotcopilot"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ]
+              }
+            }, 
+            {
+              "name": "kananjarrus", 
+              "ship": "vcx100", 
+              "upgrades": {
+                "crew": [
+                  "rey", 
+                  "dashrendar"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "accuracycorrector"
+                ], 
+                "title": [
+                  "ghost"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "zeborrelios", 
+              "ship": "attackshuttle", 
+              "upgrades": {
+                "crew": [
+                  "chopper"
+                ], 
+                "title": [
+                  "phantom"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 640, 
+        "name": "MAX D BERNSTEIN", 
+        "rank": {
+          "elimination": 2, 
+          "swiss": 1
+        }, 
+        "score": 4, 
+        "sos": "0.50"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "zeborrelios", 
+              "ship": "attackshuttle", 
+              "upgrades": {
+                "crew": [
+                  "chopper"
+                ], 
+                "title": [
+                  "phantom"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "crew": [
+                  "hotshotcopilot"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ]
+              }
+            }, 
+            {
+              "name": "lothalrebel", 
+              "ship": "vcx100", 
+              "upgrades": {
+                "crew": [
+                  "ezrabridger", 
+                  "maul"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "sensorjammer"
+                ], 
+                "title": [
+                  "ghost"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 580, 
+        "name": "JOHN C DIMAGGIO", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 2
+        }, 
+        "score": 4, 
+        "sos": "0.50"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "majorvermeil", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "isbslicer", 
+                  "rebelcaptive"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "nusquadronpilot", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "cannon": [
+                  "linkedbattery", 
+                  "heavylasercannon"
+                ], 
+                "title": [
+                  "xg1assaultconfiguration"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 606, 
+        "name": "JORGE GONZALEZ", 
+        "rank": {
+          "elimination": 1, 
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.75"
+      }, 
+      {
+        "mov": 527, 
+        "name": "JAMES J MCGOVERN", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 4
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 494, 
+        "name": "Jade Mcgovern", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 3, 
+        "sos": "0.50"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "norrawexley", 
+              "ship": "arc170", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ], 
+                "crew": [
+                  "c3po"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "vectoredthrusters"
+                ], 
+                "title": [
+                  "allianceoverhaul"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "herasyndulla"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }, 
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "tactician", 
+                  "kananjarrus"
+                ], 
+                "ept": [
+                  "expertise"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 442, 
+        "name": "KEVIN VALLIERE", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 3, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 463, 
+        "name": "MIKE DAMBOISE", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 459, 
+        "name": "ALEX DELANUEZ", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 452, 
+        "name": "ELI CRANDALL", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 2, 
+        "sos": "0.31"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "scarifbasepilot", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "emperorpalpatine"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "majorvermeil", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "directorkrennic", 
+                  "isbslicer"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "theinquisitor", 
+              "ship": "tieadvprototype", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "tiev1"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 448, 
+        "name": "SAM PAGE", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 435, 
+        "name": "ROLANDO GARCIA", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 2, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 418, 
+        "name": "CHRISTOPHER D PEREZ", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 379, 
+        "name": "MATTHEW KREINER", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 262, 
+        "name": " SCOTT BAIRD", 
+        "rank": {
+          "swiss": 14
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 338, 
+        "name": "JAMES WEBER", 
+        "rank": {
+          "swiss": 15
+        }, 
+        "score": 1, 
+        "sos": "0.42"
+      }, 
+      {
+        "mov": 209, 
+        "name": "BRANDO MEDINA", 
+        "rank": {
+          "swiss": 16
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 159, 
+        "name": "JON NAPOLITANO", 
+        "rank": {
+          "swiss": 17
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 170, 
+        "name": "LEIGHLAND FEINMAN", 
+        "rank": {
+          "swiss": 18
+        }, 
+        "score": 0, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 169, 
+        "name": "DOUGLAS SMITH", 
+        "rank": {
+          "swiss": 19
+        }, 
+        "score": 0, 
+        "sos": "0.42"
+      }
+    ], 
+    "round_length": 120, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "JON NAPOLITANO", 
+            "player1points": 32, 
+            "player2": "JAMES WEBER", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "MAX D BERNSTEIN", 
+            "player1points": 100, 
+            "player2": "Jade Mcgovern", 
+            "player2points": 53, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": " SCOTT BAIRD", 
+            "player1points": 26, 
+            "player2": "JOHN C DIMAGGIO", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "CHRISTOPHER D PEREZ", 
+            "player1points": 0, 
+            "player2": "SAM PAGE", 
+            "player2points": 59, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "ALEX DELANUEZ", 
+            "player1points": 52, 
+            "player2": "MIKE DAMBOISE", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "ELI CRANDALL", 
+            "player1points": 37, 
+            "player2": "MATTHEW KREINER", 
+            "player2points": 54, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "KEVIN VALLIERE", 
+            "player1points": 100, 
+            "player2": "JAMES J MCGOVERN", 
+            "player2points": 58, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "BRANDO MEDINA", 
+            "player1points": 100, 
+            "player2": "DOUGLAS SMITH", 
+            "player2points": 59, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "LEIGHLAND FEINMAN", 
+            "player1points": 0, 
+            "player2": "ROLANDO GARCIA", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "JORGE GONZALEZ", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "BRANDO MEDINA", 
+            "player1points": 52, 
+            "player2": "JOHN C DIMAGGIO", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "JORGE GONZALEZ", 
+            "player1points": 100, 
+            "player2": "SAM PAGE", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "ROLANDO GARCIA", 
+            "player1points": 100, 
+            "player2": "MIKE DAMBOISE", 
+            "player2points": 70, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "KEVIN VALLIERE", 
+            "player1points": 100, 
+            "player2": "MATTHEW KREINER", 
+            "player2points": 41, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "JON NAPOLITANO", 
+            "player1points": 27, 
+            "player2": "MAX D BERNSTEIN", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": " SCOTT BAIRD", 
+            "player1points": 0, 
+            "player2": "JAMES J MCGOVERN", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "ELI CRANDALL", 
+            "player1points": 100, 
+            "player2": "DOUGLAS SMITH", 
+            "player2points": 14, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "LEIGHLAND FEINMAN", 
+            "player1points": 55, 
+            "player2": "Jade Mcgovern", 
+            "player2points": 78, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "ALEX DELANUEZ", 
+            "player1points": 64, 
+            "player2": "JAMES WEBER", 
+            "player2points": 16, 
+            "result": "win"
+          }, 
+          {
+            "player1": "CHRISTOPHER D PEREZ", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "MAX D BERNSTEIN", 
+            "player1points": 0, 
+            "player2": "JORGE GONZALEZ", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "elimination"
+      }, 
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "ROLANDO GARCIA", 
+            "player1points": 52, 
+            "player2": "JOHN C DIMAGGIO", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "KEVIN VALLIERE", 
+            "player1points": 0, 
+            "player2": "JORGE GONZALEZ", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "MAX D BERNSTEIN", 
+            "player1points": 100, 
+            "player2": "CHRISTOPHER D PEREZ", 
+            "player2points": 27, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "JON NAPOLITANO", 
+            "player1points": 0, 
+            "player2": "MIKE DAMBOISE", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "JAMES J MCGOVERN", 
+            "player1points": 68, 
+            "player2": "SAM PAGE", 
+            "player2points": 23, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Jade Mcgovern", 
+            "player1points": 100, 
+            "player2": "MATTHEW KREINER", 
+            "player2points": 37, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "BRANDO MEDINA", 
+            "player1points": 0, 
+            "player2": "ALEX DELANUEZ", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "ELI CRANDALL", 
+            "player1points": 61, 
+            "player2": "LEIGHLAND FEINMAN", 
+            "player2points": 54, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": " SCOTT BAIRD", 
+            "player1points": 48, 
+            "player2": "DOUGLAS SMITH", 
+            "player2points": 44, 
+            "result": "win"
+          }, 
+          {
+            "player1": "JAMES WEBER", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "JORGE GONZALEZ", 
+            "player1points": 55, 
+            "player2": "JOHN C DIMAGGIO", 
+            "player2points": 65, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "MAX D BERNSTEIN", 
+            "player1points": 100, 
+            "player2": "ROLANDO GARCIA", 
+            "player2points": 53, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "JAMES J MCGOVERN", 
+            "player1points": 100, 
+            "player2": "ELI CRANDALL", 
+            "player2points": 76, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "KEVIN VALLIERE", 
+            "player1points": 100, 
+            "player2": "ALEX DELANUEZ", 
+            "player2points": 59, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Jade Mcgovern", 
+            "player1points": 100, 
+            "player2": "MIKE DAMBOISE", 
+            "player2points": 45, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "JAMES WEBER", 
+            "player1points": 0, 
+            "player2": " SCOTT BAIRD", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "BRANDO MEDINA", 
+            "player1points": 16, 
+            "player2": "MATTHEW KREINER", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "SAM PAGE", 
+            "player1points": 100, 
+            "player2": "JON NAPOLITANO", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "CHRISTOPHER D PEREZ", 
+            "player1points": 100, 
+            "player2": "LEIGHLAND FEINMAN", 
+            "player2points": 0, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "MAX D BERNSTEIN", 
+            "player1points": 100, 
+            "player2": "JAMES J MCGOVERN", 
+            "player2points": 53, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "JOHN C DIMAGGIO", 
+            "player1points": 62, 
+            "player2": "JORGE GONZALEZ", 
+            "player2points": 72, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "elimination"
+      }
+    ], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "New York", 
+      "country": "United States of America", 
+      "lat": "27.960398900000", 
+      "lon": "-82.442503300000", 
+      "name": "Hex & Co", 
+      "state": "New York"
+    }, 
+    "video_url": "http://"
+  }
+}

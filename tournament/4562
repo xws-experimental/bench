@@ -54,7 +54,7 @@
           "version": "4.2.0"
         }, 
         "mov": 451, 
-        "name": "curtisliddiard", 
+        "name": "Curtis Liddiard", 
         "rank": {
           "swiss": 1
         }, 
@@ -528,7 +528,7 @@
             "final_salvo": false, 
             "player1": "Zoch", 
             "player1points": 66, 
-            "player2": "curtisliddiard", 
+            "player2": "Curtis Liddiard", 
             "player2points": 100, 
             "result": "win"
           }, 
@@ -564,7 +564,7 @@
         "matches": [
           {
             "final_salvo": false, 
-            "player1": "curtisliddiard", 
+            "player1": "Curtis Liddiard", 
             "player1points": 100, 
             "player2": "Benjamin Ballard", 
             "player2points": 33, 
@@ -602,7 +602,7 @@
         "matches": [
           {
             "final_salvo": false, 
-            "player1": "curtisliddiard", 
+            "player1": "Curtis Liddiard", 
             "player1points": 100, 
             "player2": "Ben Sausedo", 
             "player2points": 50, 
@@ -640,11 +640,12 @@
     "type": "Other", 
     "venue": {
       "city": "Orem", 
-      "country": "USA", 
+      "country": "United States of America", 
       "lat": "40.297182500000", 
       "lon": "-111.694943000000", 
-      "name": "", 
+      "name": "HobbyTown USA Orem", 
       "state": "Utah"
-    }
+    }, 
+    "video_url": "https://www.youtube.com/watch?v=VsPaD5apApM"
   }
 }
