@@ -3,7 +3,7 @@
     "date": "2018-07-29", 
     "format": "Standard - 100 Point Dogfight", 
     "id": 4575, 
-    "name": "X wing store championchip", 
+    "name": "Hex & Co | X-wing Store Championship", 
     "players": [
       {
         "list": {
@@ -211,8 +211,70 @@
         "sos": "0.75"
       }, 
       {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "protonbombs", 
+                  "thermaldetonators"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "asajjventress", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "lattsrazzi"
+                ], 
+                "ept": [
+                  "lonewolf"
+                ], 
+                "illicit": [
+                  "glitterstim", 
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "gyroscopictargeting"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 527, 
-        "name": "JAMES J MCGOVERN", 
+        "name": "JIM MCGOVERN", 
         "rank": {
           "elimination": 4, 
           "swiss": 4
@@ -222,7 +284,7 @@
       }, 
       {
         "mov": 494, 
-        "name": "Jade Mcgovern", 
+        "name": "Jade McGovern", 
         "rank": {
           "swiss": 5
         }, 
@@ -400,6 +462,85 @@
         "sos": "0.63"
       }, 
       {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "toranikulda", 
+              "ship": "m12lkimogilafighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "r5tk"
+                ]
+              }
+            }, 
+            {
+              "name": "captainjostero", 
+              "ship": "kihraxzfighter", 
+              "upgrades": {
+                "ept": [
+                  "deadeye"
+                ], 
+                "illicit": [
+                  "contrabandcybernetics"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips", 
+                  "munitionsfailsafe"
+                ], 
+                "title": [
+                  "vaksai"
+                ]
+              }
+            }, 
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "thermaldetonators"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 418, 
         "name": "CHRISTOPHER D PEREZ", 
         "rank": {
@@ -418,6 +559,66 @@
         "sos": "0.56"
       }, 
       {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "sunnybounder", 
+              "ship": "m3ainterceptor", 
+              "upgrades": {
+                "cannon": [
+                  "heavylasercannon"
+                ], 
+                "mod": [
+                  "stealthdevice"
+                ]
+              }
+            }, 
+            {
+              "name": "cartelspacer", 
+              "ship": "m3ainterceptor", 
+              "upgrades": {
+                "cannon": [
+                  "ioncannon"
+                ], 
+                "mod": [
+                  "stealthdevice"
+                ]
+              }
+            }, 
+            {
+              "name": "cartelspacer", 
+              "ship": "m3ainterceptor", 
+              "upgrades": {
+                "cannon": [
+                  "ioncannon"
+                ], 
+                "mod": [
+                  "stealthdevice"
+                ]
+              }
+            }, 
+            {
+              "name": "serissu", 
+              "ship": "m3ainterceptor", 
+              "upgrades": {
+                "cannon": [
+                  "tractorbeam"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "stealthdevice"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 262, 
         "name": " SCOTT BAIRD", 
         "rank": {
@@ -472,7 +673,7 @@
         "sos": "0.42"
       }
     ], 
-    "round_length": 120, 
+    "round_length": 75, 
     "rounds": [
       {
         "matches": [
@@ -488,7 +689,7 @@
             "final_salvo": false, 
             "player1": "MAX D BERNSTEIN", 
             "player1points": 100, 
-            "player2": "Jade Mcgovern", 
+            "player2": "Jade McGovern", 
             "player2points": 53, 
             "result": "win"
           }, 
@@ -528,7 +729,7 @@
             "final_salvo": false, 
             "player1": "KEVIN VALLIERE", 
             "player1points": 100, 
-            "player2": "JAMES J MCGOVERN", 
+            "player2": "JIM MCGOVERN", 
             "player2points": 58, 
             "result": "win"
           }, 
@@ -605,7 +806,7 @@
             "final_salvo": false, 
             "player1": " SCOTT BAIRD", 
             "player1points": 0, 
-            "player2": "JAMES J MCGOVERN", 
+            "player2": "JIM MCGOVERN", 
             "player2points": 100, 
             "result": "win"
           }, 
@@ -621,7 +822,7 @@
             "final_salvo": false, 
             "player1": "LEIGHLAND FEINMAN", 
             "player1points": 55, 
-            "player2": "Jade Mcgovern", 
+            "player2": "Jade McGovern", 
             "player2points": 78, 
             "result": "win"
           }, 
@@ -694,7 +895,7 @@
           }, 
           {
             "final_salvo": false, 
-            "player1": "JAMES J MCGOVERN", 
+            "player1": "JIM MCGOVERN", 
             "player1points": 68, 
             "player2": "SAM PAGE", 
             "player2points": 23, 
@@ -702,7 +903,7 @@
           }, 
           {
             "final_salvo": false, 
-            "player1": "Jade Mcgovern", 
+            "player1": "Jade McGovern", 
             "player1points": 100, 
             "player2": "MATTHEW KREINER", 
             "player2points": 37, 
@@ -763,7 +964,7 @@
           }, 
           {
             "final_salvo": false, 
-            "player1": "JAMES J MCGOVERN", 
+            "player1": "JIM MCGOVERN", 
             "player1points": 100, 
             "player2": "ELI CRANDALL", 
             "player2points": 76, 
@@ -779,7 +980,7 @@
           }, 
           {
             "final_salvo": false, 
-            "player1": "Jade Mcgovern", 
+            "player1": "Jade McGovern", 
             "player1points": 100, 
             "player2": "MIKE DAMBOISE", 
             "player2points": 45, 
@@ -827,7 +1028,7 @@
             "final_salvo": false, 
             "player1": "MAX D BERNSTEIN", 
             "player1points": 100, 
-            "player2": "JAMES J MCGOVERN", 
+            "player2": "JIM MCGOVERN", 
             "player2points": 53, 
             "result": "win"
           }, 

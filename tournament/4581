@@ -1,0 +1,536 @@
+{
+  "tournament": {
+    "date": "2018-07-28", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4581, 
+    "name": "Dewayne's World Store Championship", 
+    "players": [
+      {
+        "mov": 645, 
+        "name": "Josh Holt", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 4, 
+        "sos": "0.50"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "captainjostero", 
+              "ship": "kihraxzfighter", 
+              "upgrades": {
+                "ept": [
+                  "deadeye"
+                ], 
+                "illicit": [
+                  "contrabandcybernetics"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "munitionsfailsafe", 
+                  "guidancechips"
+                ], 
+                "title": [
+                  "vaksai"
+                ]
+              }
+            }, 
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ]
+              }
+            }, 
+            {
+              "name": "toranikulda", 
+              "ship": "m12lkimogilafighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "r5tk"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 626, 
+        "name": "Jerrod Miller", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.50"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 554, 
+        "name": "Ritchie Gibbs", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.31"
+      }, 
+      {
+        "mov": 485, 
+        "name": "Andrew Williams", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 3, 
+        "sos": "0.63"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "majorvermeil", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "isbslicer", 
+                  "directorkrennic"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "countessryad", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "juke"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }, 
+            {
+              "name": "theinquisitor", 
+              "ship": "tieadvprototype", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "tiev1"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 493, 
+        "name": "Eric Maynard", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 386, 
+        "name": "Brock Clayton", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 341, 
+        "name": "James Seaton", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 323, 
+        "name": "Tommy Correnti", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 351, 
+        "name": "Justin Farrey", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 286, 
+        "name": "Trenton Miller", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 216, 
+        "name": "Andrew Graves", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 1, 
+        "sos": "0.69"
+      }, 
+      {
+        "mov": 94, 
+        "name": "Thomas Correnti", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 0, 
+        "sos": "0.38"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Trenton Miller", 
+            "player1points": 53, 
+            "player2": "Andrew Williams", 
+            "player2points": 58, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ritchie Gibbs", 
+            "player1points": 74, 
+            "player2": "Andrew Graves", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jerrod Miller", 
+            "player1points": 100, 
+            "player2": "Justin Farrey", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Eric Maynard", 
+            "player1points": 100, 
+            "player2": "Thomas Correnti", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Brock Clayton", 
+            "player1points": 33, 
+            "player2": "Tommy Correnti", 
+            "player2points": 56, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Josh Holt", 
+            "player1points": 31, 
+            "player2": "James Seaton", 
+            "player2points": 0, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Andrew Graves", 
+            "player1points": 0, 
+            "player2": "Josh Holt", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Eric Maynard", 
+            "player1points": 100, 
+            "player2": "Tommy Correnti", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Andrew Williams", 
+            "player1points": 100, 
+            "player2": "Jerrod Miller", 
+            "player2points": 53, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Thomas Correnti", 
+            "player1points": 65, 
+            "player2": "James Seaton", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Justin Farrey", 
+            "player1points": 60, 
+            "player2": "Ritchie Gibbs", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Brock Clayton", 
+            "player1points": 100, 
+            "player2": "Trenton Miller", 
+            "player2points": 0, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Eric Maynard", 
+            "player1points": 53, 
+            "player2": "Andrew Williams", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Josh Holt", 
+            "player1points": 100, 
+            "player2": "Brock Clayton", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tommy Correnti", 
+            "player1points": 0, 
+            "player2": "Jerrod Miller", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "James Seaton", 
+            "player1points": 75, 
+            "player2": "Andrew Graves", 
+            "player2points": 65, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ritchie Gibbs", 
+            "player1points": 100, 
+            "player2": "Trenton Miller", 
+            "player2points": 20, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Justin Farrey", 
+            "player1points": 100, 
+            "player2": "Thomas Correnti", 
+            "player2points": 0, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Andrew Williams", 
+            "player1points": 66, 
+            "player2": "Josh Holt", 
+            "player2points": 80, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jerrod Miller", 
+            "player1points": 100, 
+            "player2": "James Seaton", 
+            "player2points": 27, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ritchie Gibbs", 
+            "player1points": 100, 
+            "player2": "Eric Maynard", 
+            "player2points": 40, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Justin Farrey", 
+            "player1points": 56, 
+            "player2": "Brock Clayton", 
+            "player2points": 65, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tommy Correnti", 
+            "player1points": 100, 
+            "player2": "Andrew Graves", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Trenton Miller", 
+            "player1points": 100, 
+            "player2": "Thomas Correnti", 
+            "player2points": 29, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "37664", 
+      "country": "United States of America", 
+      "lat": "31.956557200000", 
+      "lon": "-94.318255100000", 
+      "name": "", 
+      "state": "Tennessee"
+    }, 
+    "video_url": "http://"
+  }
+}
