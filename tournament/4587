@@ -1,0 +1,866 @@
+{
+  "tournament": {
+    "date": "2018-07-29", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4587, 
+    "name": "Taa BH Etapa 05", 
+    "players": [
+      {
+        "mov": 293, 
+        "name": "Rafael Fimose", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.33"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "cavernangelszealot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "cavernangelszealot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "banditsquadronpilot", 
+              "ship": "z95headhunter", 
+              "upgrades": {
+                "missile": [
+                  "xx23sthreadtracers"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ]
+              }
+            }, 
+            {
+              "name": "banditsquadronpilot", 
+              "ship": "z95headhunter", 
+              "upgrades": {
+                "missile": [
+                  "xx23sthreadtracers"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ]
+              }
+            }, 
+            {
+              "name": "jesspava", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "r2d6"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "mod": [
+                  "integratedastromech"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "torpedo": [
+                  "plasmatorpedoes"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 261, 
+        "name": "Kataki", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "primedthrusters"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "majorvermeil", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "puresabacc", 
+              "ship": "tiestriker", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "adaptiveailerons"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 666, 
+        "name": "Filipe Freitas", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 4, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator", 
+                  "clustermines"
+                ], 
+                "crew": [
+                  "sabinewren"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "clustermines", 
+                  "thermaldetonators"
+                ], 
+                "ept": [
+                  "lonewolf"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "minefieldmapper"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 614, 
+        "name": "Rodrigo Muzzi", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 546, 
+        "name": "Rubner", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "fennrau", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "crew": [
+                  "hotshotcopilot"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ]
+              }
+            }, 
+            {
+              "name": "zeborrelios", 
+              "ship": "attackshuttle", 
+              "upgrades": {
+                "crew": [
+                  "chopper"
+                ], 
+                "title": [
+                  "phantom"
+                ]
+              }
+            }, 
+            {
+              "name": "lothalrebel", 
+              "ship": "vcx100", 
+              "upgrades": {
+                "crew": [
+                  "ezrabridger", 
+                  "maul"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "sensorjammer"
+                ], 
+                "title": [
+                  "ghost"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 534, 
+        "name": "Lucas Quaresma", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 402, 
+        "name": "Rafael Gripp", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 3, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 489, 
+        "name": "Henrique He-Man", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 449, 
+        "name": "Paulo Brescia", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 369, 
+        "name": "Paulo Ayres", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "asajjventress", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "lattsrazzi"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "illicit": [
+                  "glitterstim", 
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "countermeasures"
+                ]
+              }
+            }, 
+            {
+              "name": "dengar", 
+              "ship": "jumpmaster5000", 
+              "upgrades": {
+                "crew": [
+                  "bobafett"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "title": [
+                  "punishingone"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 312, 
+        "name": "Cleiton", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 2, 
+        "sos": "0.52"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "countessryad", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "predator"
+                ], 
+                "mod": [
+                  "stealthdevice"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }, 
+            {
+              "name": "puresabacc", 
+              "ship": "tiestriker", 
+              "upgrades": {
+                "ept": [
+                  "predator"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "adaptiveailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 350, 
+        "name": "Giovanni Diniz", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 272, 
+        "name": "Leonardo MAXSON", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 1, 
+        "sos": "0.33"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 215, 
+        "name": "Danilo", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 1, 
+        "sos": "0.69"
+      }, 
+      {
+        "mov": 202, 
+        "name": "Jairo Celani", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 1, 
+        "sos": "0.46"
+      }, 
+      {
+        "mov": 176, 
+        "name": "Pedro Raia", 
+        "rank": {
+          "swiss": 14
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Danilo", 
+            "player1points": 100, 
+            "player2": "Paulo Brescia", 
+            "player2points": 60, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Kataki", 
+            "player1points": 100, 
+            "player2": "Leonardo MAXSON", 
+            "player2points": 13, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Rubner", 
+            "player1points": 100, 
+            "player2": "Rodrigo Muzzi", 
+            "player2points": 65, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Rafael Fimose", 
+            "player1points": 50, 
+            "player2": "Jairo Celani", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Giovanni Diniz", 
+            "player1points": 29, 
+            "player2": "Rafael Gripp", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pedro Raia", 
+            "player1points": 26, 
+            "player2": "Lucas Quaresma", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Paulo Ayres", 
+            "player1points": 0, 
+            "player2": "Henrique He-Man", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Cleiton", 
+            "player1points": 62, 
+            "player2": "Filipe Freitas", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Lucas Quaresma", 
+            "player1points": 100, 
+            "player2": "Henrique He-Man", 
+            "player2points": 52, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Rubner", 
+            "player1points": 83, 
+            "player2": "Jairo Celani", 
+            "player2points": 35, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Rafael Gripp", 
+            "player1points": 26, 
+            "player2": "Kataki", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Danilo", 
+            "player1points": 0, 
+            "player2": "Filipe Freitas", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Paulo Ayres", 
+            "player1points": 100, 
+            "player2": "Giovanni Diniz", 
+            "player2points": 31, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Paulo Brescia", 
+            "player1points": 100, 
+            "player2": "Cleiton", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Leonardo MAXSON", 
+            "player1points": 32, 
+            "player2": "Rafael Fimose", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pedro Raia", 
+            "player1points": 0, 
+            "player2": "Rodrigo Muzzi", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Rubner", 
+            "player1points": 29, 
+            "player2": "Rafael Gripp", 
+            "player2points": 66, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lucas Quaresma", 
+            "player1points": 38, 
+            "player2": "Filipe Freitas", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Danilo", 
+            "player1points": 0, 
+            "player2": "Rodrigo Muzzi", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Paulo Ayres", 
+            "player1points": 100, 
+            "player2": "Jairo Celani", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Henrique He-Man", 
+            "player1points": 37, 
+            "player2": "Paulo Brescia", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Rafael Fimose", 
+            "player1points": 75, 
+            "player2": "Cleiton", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Leonardo MAXSON", 
+            "player1points": 27, 
+            "player2": "Giovanni Diniz", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pedro Raia", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Filipe Freitas", 
+            "player1points": 100, 
+            "player2": "Rafael Gripp", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Paulo Ayres", 
+            "player1points": 0, 
+            "player2": "Rubner", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lucas Quaresma", 
+            "player1points": 100, 
+            "player2": "Paulo Brescia", 
+            "player2points": 26, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Rodrigo Muzzi", 
+            "player1points": 100, 
+            "player2": "Giovanni Diniz", 
+            "player2points": 51, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Danilo", 
+            "player1points": 75, 
+            "player2": "Cleiton", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Henrique He-Man", 
+            "player1points": 100, 
+            "player2": "Pedro Raia", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jairo Celani", 
+            "player1points": 0, 
+            "player2": "Leonardo MAXSON", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Other", 
+    "venue": {
+      "city": "BELO HORIZONTE", 
+      "country": "Brazil", 
+      "lat": "-19.922731700000", 
+      "lon": "-43.945094700000", 
+      "name": "Clube Nerd", 
+      "state": "Minas Gerais"
+    }, 
+    "video_url": "http://"
+  }
+}

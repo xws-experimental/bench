@@ -1,0 +1,190 @@
+{
+  "tournament": {
+    "date": "2018-07-31", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4586, 
+    "name": "NYAR Asza IV", 
+    "players": [
+      {
+        "mov": 288, 
+        "name": "Istvan", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 223, 
+        "name": "Voros Otos", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 80, 
+        "name": "Zoli", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 0, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 379, 
+        "name": "Adam", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 2, 
+        "sos": "0.39"
+      }, 
+      {
+        "mov": 360, 
+        "name": "Runty", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 2, 
+        "sos": "0.39"
+      }, 
+      {
+        "mov": 294, 
+        "name": "David", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 2, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 272, 
+        "name": "Dani", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 1, 
+        "sos": "0.83"
+      }, 
+      {
+        "mov": 254, 
+        "name": "Eszter", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Zoli", 
+            "player1points": 55, 
+            "player2": "Runty", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "David", 
+            "player1points": 100, 
+            "player2": "Eszter", 
+            "player2points": 54, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Voros Otos", 
+            "player1points": 73, 
+            "player2": "Adam", 
+            "player2points": 20, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Istvan", 
+            "player1points": 21, 
+            "player2": "Dani", 
+            "player2points": 0, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Voros Otos", 
+            "player1points": 70, 
+            "player2": "Runty", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "David", 
+            "player1points": 0, 
+            "player2": "Istvan", 
+            "player2points": 67, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Eszter", 
+            "player1points": 100, 
+            "player2": "Zoli", 
+            "player2points": 25, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Dani", 
+            "player1points": 0, 
+            "player2": "Adam", 
+            "player2points": 57, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Runty", 
+            "player1points": 56, 
+            "player2": "David", 
+            "player2points": 71, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Eszter", 
+            "player1points": 0, 
+            "player2": "Adam", 
+            "player2points": 75, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Dani", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Other", 
+    "venue": {
+      "city": "Budapest", 
+      "country": "Hungary", 
+      "lat": "47.498381500000", 
+      "lon": "19.040470700000", 
+      "name": "", 
+      "state": "Budapest"
+    }, 
+    "video_url": "http://"
+  }
+}

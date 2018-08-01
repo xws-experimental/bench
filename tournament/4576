@@ -140,8 +140,81 @@
         "sos": "0.25"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "crimsonspecialist", 
+              "ship": "bsf17bomber", 
+              "upgrades": {
+                "bomb": [
+                  "ordnancesilos", 
+                  "thermaldetonators"
+                ], 
+                "mod": [
+                  "deflectiveplating"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ]
+              }
+            }, 
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "autoblasterturret"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "sabinewren"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 529, 
-        "name": "Daniel F", 
+        "name": "Daniel Fiorentini", 
         "rank": {
           "swiss": 3
         }, 
@@ -633,7 +706,7 @@
             "result": "win"
           }, 
           {
-            "player1": "Daniel F", 
+            "player1": "Daniel Fiorentini", 
             "player1points": 100, 
             "player2": "Justin Carver", 
             "player2points": 34, 
@@ -667,7 +740,7 @@
             "result": "win"
           }, 
           {
-            "player1": "Daniel F", 
+            "player1": "Daniel Fiorentini", 
             "player1points": 0, 
             "player2": "Gordon Berg", 
             "player2points": 23, 
@@ -731,7 +804,7 @@
           {
             "player1": "Mike Jones", 
             "player1points": 66, 
-            "player2": "Daniel F", 
+            "player2": "Daniel Fiorentini", 
             "player2points": 69, 
             "result": "win"
           }, 
@@ -786,7 +859,7 @@
           {
             "player1": "Mikhail Jenkins", 
             "player1points": 17, 
-            "player2": "Daniel F", 
+            "player2": "Daniel Fiorentini", 
             "player2points": 100, 
             "result": "win"
           }, 
