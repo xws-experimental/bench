@@ -6,6 +6,64 @@
     "name": "Gralnia - Draft #5", 
     "players": [
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "poedameron-swx57", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "blackone"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "crew": [
+                  "tactician"
+                ], 
+                "ept": [
+                  "adaptability"
+                ]
+              }
+            }, 
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "rey", 
+                  "c3po"
+                ], 
+                "ept": [
+                  "selflessness"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 600, 
         "name": "Roberto", 
         "rank": {
