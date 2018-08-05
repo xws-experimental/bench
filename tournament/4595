@@ -1,0 +1,275 @@
+{
+  "tournament": {
+    "date": "2018-08-04", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4595, 
+    "name": "SC Ludwigsburg", 
+    "players": [
+      {
+        "mov": 700, 
+        "name": "Tharlin", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 3, 
+        "sos": "0.69"
+      }, 
+      {
+        "mov": 541, 
+        "name": "Grob", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 526, 
+        "name": "Sonic1", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 486, 
+        "name": "Damar", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 467, 
+        "name": "Stoneman", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 468, 
+        "name": "axxel", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 379, 
+        "name": "flooze", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 2, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 360, 
+        "name": "Taires", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 302, 
+        "name": "Dome", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 2, 
+        "sos": "0.69"
+      }, 
+      {
+        "mov": 300, 
+        "name": "dunklemacht", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 2, 
+        "sos": "0.58"
+      }, 
+      {
+        "mov": 311, 
+        "name": "awaahh", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 1, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 295, 
+        "name": "Hinterlist", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "dunklemacht", 
+            "player1points": 31, 
+            "player2": "Tharlin", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Hinterlist", 
+            "player1points": 0, 
+            "player2": "axxel", 
+            "player2points": 72, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Grob", 
+            "player1points": 62, 
+            "player2": "Taires", 
+            "player2points": 52, 
+            "result": "win"
+          }, 
+          {
+            "player1": "awaahh", 
+            "player1points": 100, 
+            "player2": "flooze", 
+            "player2points": 75, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Damar", 
+            "player1points": 100, 
+            "player2": "Sonic1", 
+            "player2points": 49, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Dome", 
+            "player1points": 47, 
+            "player2": "Stoneman", 
+            "player2points": 14, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Grob", 
+            "player1points": 75, 
+            "player2": "axxel", 
+            "player2points": 52, 
+            "result": "win"
+          }, 
+          {
+            "player1": "awaahh", 
+            "player1points": 31, 
+            "player2": "Tharlin", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Damar", 
+            "player1points": 100, 
+            "player2": "Dome", 
+            "player2points": 22, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Taires", 
+            "player1points": 25, 
+            "player2": "Stoneman", 
+            "player2points": 40, 
+            "result": "win"
+          }, 
+          {
+            "player1": "dunklemacht", 
+            "player1points": 31, 
+            "player2": "flooze", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Hinterlist", 
+            "player1points": 0, 
+            "player2": "Sonic1", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Damar", 
+            "player1points": 35, 
+            "player2": "Tharlin", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Grob", 
+            "player1points": 100, 
+            "player2": "flooze", 
+            "player2points": 48, 
+            "result": "win"
+          }, 
+          {
+            "player1": "awaahh", 
+            "player1points": 33, 
+            "player2": "Sonic1", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Stoneman", 
+            "player1points": 51, 
+            "player2": "axxel", 
+            "player2points": 25, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Dome", 
+            "player1points": 41, 
+            "player2": "Taires", 
+            "player2points": 48, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Hinterlist", 
+            "player1points": 0, 
+            "player2": "dunklemacht", 
+            "player2points": 28, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "Ludwigsburg", 
+      "country": "Germany", 
+      "lat": "48.895619400000", 
+      "lon": "9.189514700000", 
+      "name": "", 
+      "state": "Baden-Wuerttemberg"
+    }, 
+    "video_url": "http://"
+  }
+}
