@@ -1,0 +1,631 @@
+{
+  "tournament": {
+    "date": "2018-08-05", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4596, 
+    "name": "New Station Sorocaras", 
+    "players": [
+      {
+        "mov": 564, 
+        "name": "juarez maccarini", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 4, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 628, 
+        "name": "Marcelo", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 491, 
+        "name": "marcelo lin", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 489, 
+        "name": "pedro tortelo", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 3, 
+        "sos": "0.69"
+      }, 
+      {
+        "mov": 485, 
+        "name": "daniel catelan", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 479, 
+        "name": "vinicios candelaria", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 2, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 449, 
+        "name": "Michael Lucas", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 432, 
+        "name": "tadeu goiabeira", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 400, 
+        "name": "Gabriel branco", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 369, 
+        "name": "Wagner", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "ascoretosettle"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "patternanalyzer"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "colonelvessery", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }, 
+            {
+              "name": "darthvader", 
+              "ship": "tieadvanced", 
+              "upgrades": {
+                "ept": [
+                  "adrenalinerush"
+                ], 
+                "system": [
+                  "advtargetingcomputer"
+                ], 
+                "title": [
+                  "tiex1"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 349, 
+        "name": "bruna furtado", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 2, 
+        "sos": "0.38"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "bossk", 
+              "ship": "yv666", 
+              "upgrades": {
+                "crew": [
+                  "maul", 
+                  "bobafett", 
+                  "outlawtech"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "missile": [
+                  "clustermissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ]
+              }
+            }, 
+            {
+              "name": "kathscarlet", 
+              "ship": "firespray31", 
+              "upgrades": {
+                "crew": [
+                  "dengar"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "illicit": [
+                  "glitterstim"
+                ], 
+                "missile": [
+                  "clustermissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 306, 
+        "name": "lg sabino", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 2, 
+        "sos": "0.69"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "rey", 
+              "ship": "yt1300", 
+              "upgrades": {
+                "crew": [
+                  "finn", 
+                  "kananjarrus"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "missile": [
+                  "clustermissiles"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "title": [
+                  "millenniumfalcon-swx57"
+                ]
+              }
+            }, 
+            {
+              "name": "lukeskywalker", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "integratedastromech", 
+                  "servomotorsfoils"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 348, 
+        "name": "Tadeu abreu", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 1, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 165, 
+        "name": "artur halaban", 
+        "rank": {
+          "swiss": 14
+        }, 
+        "score": 1, 
+        "sos": "0.31"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "rhosquadronveteran", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "cannon": [
+                  "linkedbattery", 
+                  "manglercannon"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "title": [
+                  "xg1assaultconfiguration"
+                ]
+              }
+            }, 
+            {
+              "name": "majorvynder", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "advancedslam"
+                ], 
+                "title": [
+                  "os1arsenalloadout"
+                ]
+              }
+            }, 
+            {
+              "name": "rhosquadronveteran", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "cannon": [
+                  "linkedbattery", 
+                  "manglercannon"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "title": [
+                  "xg1assaultconfiguration"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 158, 
+        "name": "Diogo Patrao", 
+        "rank": {
+          "swiss": 15
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 288, 
+        "name": "Renan Santos", 
+        "rank": {
+          "swiss": 16
+        }, 
+        "score": 0, 
+        "sos": "0.63"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "daniel catelan", 
+            "player1points": 100, 
+            "player2": "artur halaban", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Diogo Patrao", 
+            "player1points": 100, 
+            "player2": "Tadeu abreu", 
+            "player2points": 64, 
+            "result": "win"
+          }, 
+          {
+            "player1": "marcelo lin", 
+            "player1points": 48, 
+            "player2": "pedro tortelo", 
+            "player2points": 67, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Michael Lucas", 
+            "player1points": 100, 
+            "player2": "tadeu goiabeira", 
+            "player2points": 22, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Wagner", 
+            "player1points": 0, 
+            "player2": "vinicios candelaria", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Gabriel branco", 
+            "player1points": 100, 
+            "player2": "bruna furtado", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Renan Santos", 
+            "player1points": 42, 
+            "player2": "juarez maccarini", 
+            "player2points": 54, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marcelo", 
+            "player1points": 75, 
+            "player2": "lg sabino", 
+            "player2points": 84, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Gabriel branco", 
+            "player1points": 100, 
+            "player2": "Diogo Patrao", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "vinicios candelaria", 
+            "player1points": 100, 
+            "player2": "daniel catelan", 
+            "player2points": 30, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Michael Lucas", 
+            "player1points": 50, 
+            "player2": "pedro tortelo", 
+            "player2points": 78, 
+            "result": "win"
+          }, 
+          {
+            "player1": "lg sabino", 
+            "player1points": 21, 
+            "player2": "juarez maccarini", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Wagner", 
+            "player1points": 100, 
+            "player2": "Tadeu abreu", 
+            "player2points": 52, 
+            "result": "win"
+          }, 
+          {
+            "player1": "bruna furtado", 
+            "player1points": 32, 
+            "player2": "marcelo lin", 
+            "player2points": 35, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marcelo", 
+            "player1points": 100, 
+            "player2": "Renan Santos", 
+            "player2points": 21, 
+            "result": "win"
+          }, 
+          {
+            "player1": "tadeu goiabeira", 
+            "player1points": 100, 
+            "player2": "artur halaban", 
+            "player2points": 28, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "juarez maccarini", 
+            "player1points": 52, 
+            "player2": "vinicios candelaria", 
+            "player2points": 37, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Gabriel branco", 
+            "player1points": 0, 
+            "player2": "pedro tortelo", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Diogo Patrao", 
+            "player1points": 22, 
+            "player2": "Michael Lucas", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "lg sabino", 
+            "player1points": 0, 
+            "player2": "daniel catelan", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "marcelo lin", 
+            "player1points": 70, 
+            "player2": "tadeu goiabeira", 
+            "player2points": 63, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Wagner", 
+            "player1points": 21, 
+            "player2": "Marcelo", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tadeu abreu", 
+            "player1points": 100, 
+            "player2": "artur halaban", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "player1": "bruna furtado", 
+            "player1points": 18, 
+            "player2": "Renan Santos", 
+            "player2points": 0, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "pedro tortelo", 
+            "player1points": 42, 
+            "player2": "juarez maccarini", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marcelo", 
+            "player1points": 100, 
+            "player2": "Michael Lucas", 
+            "player2points": 21, 
+            "result": "win"
+          }, 
+          {
+            "player1": "vinicios candelaria", 
+            "player1points": 24, 
+            "player2": "lg sabino", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "marcelo lin", 
+            "player1points": 100, 
+            "player2": "Gabriel branco", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tadeu abreu", 
+            "player1points": 66, 
+            "player2": "bruna furtado", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "tadeu goiabeira", 
+            "player1points": 45, 
+            "player2": "daniel catelan", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Wagner", 
+            "player1points": 100, 
+            "player2": "Diogo Patrao", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "artur halaban", 
+            "player1points": 37, 
+            "player2": "Renan Santos", 
+            "player2points": 34, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Other", 
+    "venue": {
+      "city": "So Paulo", 
+      "country": "Brazil", 
+      "lat": null, 
+      "lon": null, 
+      "name": "", 
+      "state": "Sao Paulo"
+    }, 
+    "video_url": "http://"
+  }
+}
