@@ -106,6 +106,79 @@
         "sos": "0.31"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "fennrau", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "crew": [
+                  "sabinewren"
+                ], 
+                "ept": [
+                  "adaptability"
+                ]
+              }
+            }, 
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "seismiccharges", 
+                  "ionbombs"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "autoblasterturret"
+                ]
+              }
+            }, 
+            {
+              "name": "norrawexley", 
+              "ship": "arc170", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ], 
+                "crew": [
+                  "sawgerrera"
+                ], 
+                "ept": [
+                  "adaptability"
+                ], 
+                "title": [
+                  "allianceoverhaul"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 608, 
         "name": "Bryan Shull", 
         "rank": {

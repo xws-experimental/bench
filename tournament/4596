@@ -6,6 +6,100 @@
     "name": "New Station Sorocaras", 
     "players": [
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "cavernangelszealot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "mod": [
+                  "integratedastromech", 
+                  "servomotorsfoils"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "cavernangelszealot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "mod": [
+                  "servomotorsfoils"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "cavernangelszealot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "mod": [
+                  "servomotorsfoils"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "cavernangelszealot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "mod": [
+                  "servomotorsfoils"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "banditsquadronpilot", 
+              "ship": "z95headhunter", 
+              "upgrades": {
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 564, 
         "name": "juarez maccarini", 
         "rank": {
@@ -24,6 +118,60 @@
         "sos": "0.38"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "scarifbasepilot", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "emperorpalpatine"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "theinquisitor", 
+              "ship": "tieadvprototype", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "tiev1"
+                ]
+              }
+            }, 
+            {
+              "name": "countessryad", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "lonewolf"
+                ], 
+                "mod": [
+                  "multispectralcamouflage"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 491, 
         "name": "marcelo lin", 
         "rank": {
@@ -42,6 +190,76 @@
         "sos": "0.69"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "edriotwotubes", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "m9g8"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "ap5", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "chopper-swx72"
+                ], 
+                "crew": [
+                  "courierdroid"
+                ]
+              }
+            }, 
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "wookieecommandos"
+                ], 
+                "ept": [
+                  "selflessness"
+                ]
+              }
+            }, 
+            {
+              "name": "jesspava", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "r2d6"
+                ], 
+                "ept": [
+                  "drawtheirfire"
+                ], 
+                "mod": [
+                  "integratedastromech"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 485, 
         "name": "daniel catelan", 
         "rank": {
@@ -60,6 +278,69 @@
         "sos": "0.63"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "nusquadronpilot", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ]
+              }
+            }, 
+            {
+              "name": "nusquadronpilot", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ]
+              }
+            }, 
+            {
+              "name": "nusquadronpilot", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 449, 
         "name": "Michael Lucas", 
         "rank": {
@@ -280,6 +561,61 @@
         "sos": "0.38"
       }, 
       {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "fennrau", 
+              "ship": "protectoratestarfighter", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "concorddawnprotector"
+                ]
+              }
+            }, 
+            {
+              "name": "guri", 
+              "ship": "starviper", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "stealthdevice"
+                ], 
+                "title": [
+                  "starvipermkii"
+                ]
+              }
+            }, 
+            {
+              "name": "thweek", 
+              "ship": "starviper", 
+              "upgrades": {
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "starvipermkii", 
+                  "virago"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 165, 
         "name": "artur halaban", 
         "rank": {
