@@ -6,6 +6,100 @@
     "name": "Bearded Collectibles Store Championship", 
     "players": [
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "cavernangelszealot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "cavernangelszealot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "cavernangelszealot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "cavernangelszealot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "ap5", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "crew": [
+                  "inspiringrecruit"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 675, 
         "name": "Reid Hansen", 
         "rank": {

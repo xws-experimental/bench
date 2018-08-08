@@ -1,0 +1,804 @@
+{
+  "tournament": {
+    "date": "2018-07-29", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4602, 
+    "name": "Summer Tournament Kit 2018 Nr. 1 - Die Spieleburg Goettingen", 
+    "players": [
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "colonelvessery", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }, 
+            {
+              "name": "theinquisitor", 
+              "ship": "tieadvprototype", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "tiev1"
+                ]
+              }
+            }, 
+            {
+              "name": "majorvermeil", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "isbslicer", 
+                  "directorkrennic"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "multispectralcamouflage"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 548, 
+        "name": "Kai K.", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 4, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "c3po", 
+                  "magvayarro"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "multispectralcamouflage"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "gunner"
+                ], 
+                "ept": [
+                  "snapshot"
+                ], 
+                "mod": [
+                  "pulsedrayshield"
+                ]
+              }
+            }, 
+            {
+              "name": "roarkgarnet", 
+              "ship": "hwk290", 
+              "upgrades": {
+                "crew": [
+                  "reconspecialist"
+                ], 
+                "mod": [
+                  "pulsedrayshield"
+                ], 
+                "title": [
+                  "moldycrow"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 624, 
+        "name": "Soeren P.", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.58"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "rey", 
+                  "c3po"
+                ], 
+                "ept": [
+                  "drawtheirfire"
+                ]
+              }
+            }, 
+            {
+              "name": "jesspava", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "integratedastromech"
+                ], 
+                "tech": [
+                  "primedthrusters"
+                ]
+              }
+            }, 
+            {
+              "name": "captainrex", 
+              "ship": "tiefighter"
+            }, 
+            {
+              "name": "biggsdarklighter", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "r4d6"
+                ], 
+                "mod": [
+                  "integratedastromech", 
+                  "servomotorsfoils"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 564, 
+        "name": "Andreas R.", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.43"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "asajjventress", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "lattsrazzi"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "illicit": [
+                  "glitterstim", 
+                  "scavengercrane"
+                ], 
+                "mod": [
+                  "countermeasures"
+                ], 
+                "title": [
+                  "shadowcaster"
+                ]
+              }
+            }, 
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 516, 
+        "name": "Sebastian H.", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "deltasquadronpilot", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "mod": [
+                  "stealthdevice"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }, 
+            {
+              "name": "countessryad", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "lonewolf"
+                ], 
+                "mod": [
+                  "stealthdevice"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }, 
+            {
+              "name": "scarifbasepilot", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "agentkallus", 
+                  "directorkrennic"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 436, 
+        "name": "Steffen P.", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 2, 
+        "sos": "0.43"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 432, 
+        "name": "Tilman B.", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "whisper", 
+              "ship": "tiephantom", 
+              "upgrades": {
+                "crew": [
+                  "directorkrennic"
+                ], 
+                "ept": [
+                  "trickshot"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "collisiondetector"
+                ]
+              }
+            }, 
+            {
+              "name": "echo", 
+              "ship": "tiephantom", 
+              "upgrades": {
+                "crew": [
+                  "intelligenceagent"
+                ], 
+                "ept": [
+                  "adaptability"
+                ], 
+                "mod": [
+                  "advancedcloakingdevice"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ]
+              }
+            }, 
+            {
+              "name": "scarifbasepilot", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "tacticalofficer"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 375, 
+        "name": "Marco H.", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 2, 
+        "sos": "0.62"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "asajjventress", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "ketsuonyo"
+                ], 
+                "ept": [
+                  "attannimindlink"
+                ], 
+                "illicit": [
+                  "blackmarketslicertools"
+                ], 
+                "mod": [
+                  "gyroscopictargeting"
+                ], 
+                "title": [
+                  "shadowcaster"
+                ]
+              }
+            }, 
+            {
+              "name": "dengar", 
+              "ship": "jumpmaster5000", 
+              "upgrades": {
+                "crew": [
+                  "maul"
+                ], 
+                "ept": [
+                  "attannimindlink"
+                ], 
+                "mod": [
+                  "shieldupgrade"
+                ], 
+                "title": [
+                  "punishingone"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 276, 
+        "name": "Kristian S.", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 2, 
+        "sos": "0.75"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "maarekstele", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "ascoretosettle"
+                ], 
+                "mod": [
+                  "twinionenginemkii"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }, 
+            {
+              "name": "countessryad", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }, 
+            {
+              "name": "scarifbasepilot", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "directorkrennic", 
+                  "generalhux"
+                ], 
+                "mod": [
+                  "twinionenginemkii"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 364, 
+        "name": "Christian W.", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "bluesquadronpathfinder", 
+              "ship": "uwing", 
+              "upgrades": {
+                "mod": [
+                  "antipursuitlasers", 
+                  "ionprojector"
+                ], 
+                "system": [
+                  "collisiondetector"
+                ], 
+                "title": [
+                  "pivotwing"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "partisanrenegade", 
+              "ship": "uwing", 
+              "upgrades": {
+                "crew": [
+                  "wookieecommandos"
+                ], 
+                "mod": [
+                  "antipursuitlasers", 
+                  "ionprojector"
+                ], 
+                "system": [
+                  "collisiondetector"
+                ], 
+                "title": [
+                  "pivotwing"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "partisanrenegade", 
+              "ship": "uwing", 
+              "upgrades": {
+                "crew": [
+                  "wookieecommandos"
+                ], 
+                "mod": [
+                  "antipursuitlasers", 
+                  "ionprojector"
+                ], 
+                "system": [
+                  "collisiondetector"
+                ], 
+                "title": [
+                  "pivotwing"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "partisanrenegade", 
+              "ship": "uwing", 
+              "upgrades": {
+                "crew": [
+                  "wookieecommandos"
+                ], 
+                "mod": [
+                  "antipursuitlasers", 
+                  "ionprojector"
+                ], 
+                "system": [
+                  "collisiondetector"
+                ], 
+                "title": [
+                  "pivotwing"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 315, 
+        "name": "Tobias G.", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 1, 
+        "sos": "0.58"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "poedameron", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "bb8"
+                ], 
+                "ept": [
+                  "determination"
+                ], 
+                "title": [
+                  "blackone"
+                ]
+              }
+            }, 
+            {
+              "name": "redsquadronveteran", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "r5d8"
+                ], 
+                "ept": [
+                  "outmaneuver"
+                ], 
+                "tech": [
+                  "weaponsguidance"
+                ]
+              }
+            }, 
+            {
+              "name": "redsquadronveteran", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "ept": [
+                  "experthandling"
+                ], 
+                "mod": [
+                  "vectoredthrusters"
+                ], 
+                "tech": [
+                  "primedthrusters"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 150, 
+        "name": "Emil N.", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 1, 
+        "sos": "0.66"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "Goettingen", 
+      "country": "Germany", 
+      "lat": "51.532760400000", 
+      "lon": "9.935205100000", 
+      "name": "Die Spieleburg", 
+      "state": "Niedersachsen"
+    }, 
+    "video_url": "http://"
+  }
+}
