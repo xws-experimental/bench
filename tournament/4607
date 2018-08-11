@@ -1,0 +1,596 @@
+{
+  "tournament": {
+    "date": "2018-08-04", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4607, 
+    "name": "North American Championship Day 2", 
+    "players": [
+      {
+        "mov": 0, 
+        "name": "William Barnickel", 
+        "rank": {
+          "elimination": 16, 
+          "swiss": 1
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Dominic Brown", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 2
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Andrew Bunn", 
+        "rank": {
+          "elimination": 2, 
+          "swiss": 3
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Duncan Howard", 
+        "rank": {
+          "elimination": 1, 
+          "swiss": 4
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Nathaniel Moore", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Mark Grawburg", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Phillip Horny", 
+        "rank": {
+          "elimination": 16, 
+          "swiss": 7
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Kyle Adams", 
+        "rank": {
+          "elimination": 16, 
+          "swiss": 8
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Nathan Eide", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Shawn Morris", 
+        "rank": {
+          "elimination": 8, 
+          "swiss": 10
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Mark Myers", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Brandon Carey", 
+        "rank": {
+          "elimination": 8, 
+          "swiss": 12
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Jaren Foss", 
+        "rank": {
+          "elimination": 16, 
+          "swiss": 13
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Adam Kempers", 
+        "rank": {
+          "elimination": 16, 
+          "swiss": 14
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Dee Yun", 
+        "rank": {
+          "swiss": 15
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Johnathan Grasser", 
+        "rank": {
+          "swiss": 16
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Kierab Simske", 
+        "rank": {
+          "swiss": 17
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Eric Berling", 
+        "rank": {
+          "elimination": 16, 
+          "swiss": 18
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Bradley Riley", 
+        "rank": {
+          "swiss": 19
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Francois Moret", 
+        "rank": {
+          "swiss": 20
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Todd Brubbs", 
+        "rank": {
+          "swiss": 21
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Justin Brown", 
+        "rank": {
+          "elimination": 16, 
+          "swiss": 22
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Herman Ruddell", 
+        "rank": {
+          "swiss": 23
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Connor Hawley", 
+        "rank": {
+          "swiss": 24
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Emmanuel Gambiel", 
+        "rank": {
+          "swiss": 25
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Justin Mazouat", 
+        "rank": {
+          "swiss": 26
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Ryan Farmer", 
+        "rank": {
+          "swiss": 27
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Jacob Grabill", 
+        "rank": {
+          "swiss": 28
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Gerald Tan", 
+        "rank": {
+          "swiss": 29
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Rob Goodhue", 
+        "rank": {
+          "swiss": 30
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Jeremy Howard", 
+        "rank": {
+          "swiss": 31
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Matthew Wilkes", 
+        "rank": {
+          "swiss": 32
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Richard Hine", 
+        "rank": {
+          "swiss": 33
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Matthew Courser", 
+        "rank": {
+          "swiss": 34
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Alberto Ego Aguirre Leon", 
+        "rank": {
+          "swiss": 35
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Terrence Brown", 
+        "rank": {
+          "swiss": 36
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "William Haigwood", 
+        "rank": {
+          "swiss": 37
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Duhtch Cuthert", 
+        "rank": {
+          "elimination": 8, 
+          "swiss": 38
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Tyler Saunders", 
+        "rank": {
+          "swiss": 39
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Bryan Ramsdell", 
+        "rank": {
+          "swiss": 40
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Ernest Pasillas", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 41
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Tommy Adams", 
+        "rank": {
+          "swiss": 42
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Joe Konopa", 
+        "rank": {
+          "swiss": 43
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Andrew Lauritzen", 
+        "rank": {
+          "swiss": 44
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Tyler Tippet", 
+        "rank": {
+          "swiss": 45
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "John DeBoer", 
+        "rank": {
+          "swiss": 46
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Richard Hsu", 
+        "rank": {
+          "swiss": 47
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Jame Comely", 
+        "rank": {
+          "swiss": 48
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Eric Dignard", 
+        "rank": {
+          "elimination": 8, 
+          "swiss": 49
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Nickolas Mock", 
+        "rank": {
+          "swiss": 50
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Drew Bishop", 
+        "rank": {
+          "swiss": 51
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Zachary Bart", 
+        "rank": {
+          "swiss": 52
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Andrew Schuler", 
+        "rank": {
+          "swiss": 53
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Michael Simon", 
+        "rank": {
+          "swiss": 54
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Dion Morales", 
+        "rank": {
+          "swiss": 55
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Jerry Russell", 
+        "rank": {
+          "swiss": 56
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Isaiah Brody", 
+        "rank": {
+          "swiss": 57
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Jared Labonte", 
+        "rank": {
+          "swiss": 58
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Damon Jones", 
+        "rank": {
+          "swiss": 59
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Ethan Judd", 
+        "rank": {
+          "elimination": 16, 
+          "swiss": 60
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Jill McGilinchey", 
+        "rank": {
+          "swiss": 61
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Ryan Payne", 
+        "rank": {
+          "swiss": 62
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [], 
+    "type": "Nationals", 
+    "venue": {
+      "city": "Indianapolis", 
+      "country": "United States of America", 
+      "lat": "39.768333100000", 
+      "lon": "-86.158350100000", 
+      "name": "GenCon", 
+      "state": "Indiana"
+    }, 
+    "video_url": "http://"
+  }
+}
