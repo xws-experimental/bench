@@ -1,0 +1,596 @@
+{
+  "tournament": {
+    "date": "2018-08-11", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4609, 
+    "name": "Nexus Store Championship 2018", 
+    "players": [
+      {
+        "mov": 679, 
+        "name": "Eras Gouws", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 1
+        }, 
+        "score": 4, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 677, 
+        "name": "Frank Malan", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 2
+        }, 
+        "score": 4, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 675, 
+        "name": "Quintin Ludick", 
+        "rank": {
+          "elimination": 1, 
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 605, 
+        "name": "Charlie Cloete", 
+        "rank": {
+          "elimination": 2, 
+          "swiss": 4
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 471, 
+        "name": "Shaun Rushmer", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 454, 
+        "name": "Kevin Brown", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 421, 
+        "name": "Shannon Perumall", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "threattracker"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "majorvermeil", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "directorkrennic", 
+                  "systemsofficer"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "puresabacc", 
+              "ship": "tiestriker", 
+              "upgrades": {
+                "ept": [
+                  "crackshot"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "adaptiveailerons"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 417, 
+        "name": "Gregg Barlow", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 2, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 407, 
+        "name": "Adam Smith", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 2, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 399, 
+        "name": "Greg Walker", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 2, 
+        "sos": "0.75"
+      }, 
+      {
+        "mov": 368, 
+        "name": "Dylan Kruger", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 350, 
+        "name": "Jurgen Graupe", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 328, 
+        "name": "Alastair Fenner", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 2, 
+        "sos": "0.31"
+      }, 
+      {
+        "mov": 289, 
+        "name": "Reuben Cronje", 
+        "rank": {
+          "swiss": 14
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 323, 
+        "name": "Sarah McGibbon", 
+        "rank": {
+          "swiss": 15
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 292, 
+        "name": "Jan Gutter", 
+        "rank": {
+          "swiss": 16
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 244, 
+        "name": "Neville van Deventer", 
+        "rank": {
+          "swiss": 17
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 223, 
+        "name": "Rory MacRobert", 
+        "rank": {
+          "swiss": 18
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 178, 
+        "name": "Shaun Mason", 
+        "rank": {
+          "swiss": 19
+        }, 
+        "score": 0, 
+        "sos": "0.31"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Shaun Rushmer", 
+            "player1points": 100, 
+            "player2": "Neville van Deventer", 
+            "player2points": 52, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Shaun Mason", 
+            "player1points": 41, 
+            "player2": "Jan Gutter", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Charlie Cloete", 
+            "player1points": 100, 
+            "player2": "Shannon Perumall", 
+            "player2points": 31, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Quintin Ludick", 
+            "player1points": 100, 
+            "player2": "Alastair Fenner", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Eras Gouws", 
+            "player1points": 87, 
+            "player2": "Sarah McGibbon", 
+            "player2points": 41, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Frank Malan", 
+            "player1points": 100, 
+            "player2": "Rory MacRobert", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Greg Walker", 
+            "player1points": 100, 
+            "player2": "Reuben Cronje", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jurgen Graupe", 
+            "player1points": 0, 
+            "player2": "Gregg Barlow", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Adam Smith", 
+            "player1points": 48, 
+            "player2": "Kevin Brown", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Dylan Kruger", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Gregg Barlow", 
+            "player1points": 0, 
+            "player2": "Eras Gouws", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Charlie Cloete", 
+            "player1points": 73, 
+            "player2": "Greg Walker", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Quintin Ludick", 
+            "player1points": 100, 
+            "player2": "Dylan Kruger", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Kevin Brown", 
+            "player1points": 80, 
+            "player2": "Jan Gutter", 
+            "player2points": 60, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Shaun Rushmer", 
+            "player1points": 0, 
+            "player2": "Frank Malan", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Reuben Cronje", 
+            "player1points": 100, 
+            "player2": "Alastair Fenner", 
+            "player2points": 28, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Rory MacRobert", 
+            "player1points": 14, 
+            "player2": "Sarah McGibbon", 
+            "player2points": 69, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Shaun Mason", 
+            "player1points": 0, 
+            "player2": "Adam Smith", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Shannon Perumall", 
+            "player1points": 100, 
+            "player2": "Neville van Deventer", 
+            "player2points": 29, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jurgen Graupe", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Charlie Cloete", 
+            "player1points": 0, 
+            "player2": "Quintin Ludick", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "elimination"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Quintin Ludick", 
+            "player1points": 0, 
+            "player2": "Frank Malan", 
+            "player2points": 25, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Eras Gouws", 
+            "player1points": 100, 
+            "player2": "Greg Walker", 
+            "player2points": 43, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Kevin Brown", 
+            "player1points": 100, 
+            "player2": "Dylan Kruger", 
+            "player2points": 42, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jan Gutter", 
+            "player1points": 29, 
+            "player2": "Shannon Perumall", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Reuben Cronje", 
+            "player1points": 87, 
+            "player2": "Sarah McGibbon", 
+            "player2points": 70, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jurgen Graupe", 
+            "player1points": 100, 
+            "player2": "Adam Smith", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Gregg Barlow", 
+            "player1points": 48, 
+            "player2": "Shaun Rushmer", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Charlie Cloete", 
+            "player1points": 100, 
+            "player2": "Neville van Deventer", 
+            "player2points": 37, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Shaun Mason", 
+            "player1points": 63, 
+            "player2": "Rory MacRobert", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alastair Fenner", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Kevin Brown", 
+            "player1points": 24, 
+            "player2": "Eras Gouws", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Frank Malan", 
+            "player1points": 100, 
+            "player2": "Shannon Perumall", 
+            "player2points": 48, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jurgen Graupe", 
+            "player1points": 0, 
+            "player2": "Quintin Ludick", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Reuben Cronje", 
+            "player1points": 0, 
+            "player2": "Charlie Cloete", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Greg Walker", 
+            "player1points": 29, 
+            "player2": "Shaun Rushmer", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Gregg Barlow", 
+            "player1points": 100, 
+            "player2": "Sarah McGibbon", 
+            "player2points": 31, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Adam Smith", 
+            "player1points": 100, 
+            "player2": "Rory MacRobert", 
+            "player2points": 41, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jan Gutter", 
+            "player1points": 24, 
+            "player2": "Dylan Kruger", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Shaun Mason", 
+            "player1points": 74, 
+            "player2": "Neville van Deventer", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alastair Fenner", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Eras Gouws", 
+            "player1points": 31, 
+            "player2": "Charlie Cloete", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Frank Malan", 
+            "player1points": 39, 
+            "player2": "Quintin Ludick", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "elimination"
+      }
+    ], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "Johannesburg", 
+      "country": "South Africa", 
+      "lat": "-26.205000000000", 
+      "lon": "28.049722000000", 
+      "name": "The Nexus", 
+      "state": "Gauteng"
+    }, 
+    "video_url": "http://"
+  }
+}

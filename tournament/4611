@@ -1,0 +1,615 @@
+{
+  "tournament": {
+    "date": "2018-08-11", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4611, 
+    "name": "2018 Store Championship", 
+    "players": [
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "rearadmiralchiraneau", 
+              "ship": "vt49decimator", 
+              "upgrades": {
+                "crew": [
+                  "gunner", 
+                  "hotshotcopilot", 
+                  "darthvader"
+                ], 
+                "ept": [
+                  "adaptability"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ]
+              }
+            }, 
+            {
+              "name": "maarekstele", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "lonewolf"
+                ], 
+                "mod": [
+                  "stealthdevice"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 0, 
+        "name": "Alan Sawatzky", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 4, 
+        "sos": "0.00"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "whisper", 
+              "ship": "tiephantom", 
+              "upgrades": {
+                "crew": [
+                  "directorkrennic"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "advancedcloakingdevice"
+                ], 
+                "system": [
+                  "sensorjammer"
+                ]
+              }
+            }, 
+            {
+              "name": "majorvermeil", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "isbslicer"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "countdown", 
+              "ship": "tiestriker", 
+              "upgrades": {
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "adaptiveailerons"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 0, 
+        "name": "Steve Hunnie", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.00"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "crew": [
+                  "bobafett"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "autoblasterturret"
+                ]
+              }
+            }, 
+            {
+              "name": "ndrusuhlak", 
+              "ship": "z95headhunter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "illicit": [
+                  "glitterstim"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ]
+              }
+            }, 
+            {
+              "name": "toranikulda", 
+              "ship": "m12lkimogilafighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "illicit": [
+                  "glitterstim"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "unhingedastromech"
+                ], 
+                "title": [
+                  "enforcer"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 0, 
+        "name": "Ezra", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.00"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "majorvermeil", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "directorkrennic", 
+                  "isbslicer"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "rexlerbrath", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "twinionenginemkii"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }, 
+            {
+              "name": "countdown", 
+              "ship": "tiestriker", 
+              "upgrades": {
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "adaptiveailerons"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 0, 
+        "name": "Drew Murray", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "hansolo", 
+              "ship": "yt1300", 
+              "upgrades": {
+                "crew": [
+                  "c3po", 
+                  "kananjarrus"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "title": [
+                  "millenniumfalcon"
+                ]
+              }
+            }, 
+            {
+              "name": "wedgeantilles", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "r2astromech"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "banditsquadronpilot", 
+              "ship": "z95headhunter"
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 0, 
+        "name": "Evan Mensforth", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "soontirfel", 
+              "ship": "tieinterceptor", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters", 
+                  "stealthdevice"
+                ], 
+                "title": [
+                  "royalguardtie"
+                ]
+              }
+            }, 
+            {
+              "name": "theinquisitor", 
+              "ship": "tieadvprototype", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "tiev1"
+                ]
+              }
+            }, 
+            {
+              "name": "majorvermeil", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "isbslicer", 
+                  "directorkrennic"
+                ], 
+                "ept": [
+                  "ascoretosettle"
+                ], 
+                "mod": [
+                  "multispectralcamouflage"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 0, 
+        "name": "Ken Oberlin", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "kyloren", 
+              "ship": "tiesilencer", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "advancedsensors"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "firstordervanguard"
+                ]
+              }
+            }, 
+            {
+              "name": "countdown", 
+              "ship": "tiestriker", 
+              "upgrades": {
+                "mod": [
+                  "hullupgrade"
+                ], 
+                "title": [
+                  "adaptiveailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "rhosquadronveteran", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "cannon": [
+                  "linkedbattery", 
+                  "manglercannon"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "title": [
+                  "xg1assaultconfiguration"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 0, 
+        "name": "Kyle Gagnon", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 1, 
+        "sos": "0.00"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "countessryad", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "cannon": [
+                  "tractorbeam"
+                ], 
+                "ept": [
+                  "adaptability"
+                ], 
+                "title": [
+                  "tied"
+                ]
+              }
+            }, 
+            {
+              "name": "backdraft", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "collisiondetector"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "omegasquadronpilot", 
+              "ship": "tiefofighter", 
+              "upgrades": {
+                "ept": [
+                  "ascoretosettle"
+                ]
+              }
+            }, 
+            {
+              "name": "omegasquadronpilot", 
+              "ship": "tiefofighter", 
+              "upgrades": {
+                "ept": [
+                  "adaptability"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 0, 
+        "name": "Alex Hackbart", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 1, 
+        "sos": "0.00"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "talonbanecobra", 
+              "ship": "kihraxzfighter", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "illicit": [
+                  "iondischargers"
+                ], 
+                "mod": [
+                  "pulsedrayshield", 
+                  "multispectralcamouflage", 
+                  "vectoredthrusters"
+                ], 
+                "title": [
+                  "vaksai"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "protectoratestarfighter", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "concorddawnprotector"
+                ]
+              }
+            }, 
+            {
+              "name": "oldteroch", 
+              "ship": "protectoratestarfighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "concorddawnprotector"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 0, 
+        "name": "Merv", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "Winnipeg", 
+      "country": "Canada", 
+      "lat": "49.884017000000", 
+      "lon": "-97.168579000000", 
+      "name": "Game Knight Games", 
+      "state": "Manitoba"
+    }, 
+    "video_url": "http://"
+  }
+}
