@@ -1,0 +1,346 @@
+{
+  "tournament": {
+    "date": "2018-07-21", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4617, 
+    "name": "The Toy Trove - Store Championship", 
+    "players": [
+      {
+        "mov": 632, 
+        "name": "James Carman", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 3, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 611, 
+        "name": "Tom Hayes", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 517, 
+        "name": "TRISTAN SINGLETON", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 501, 
+        "name": "Brendon Osmann-Deyman", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 3, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 472, 
+        "name": "Kyle Pinkerton", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 514, 
+        "name": "Ryan Ferguson", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 370, 
+        "name": "Cam Murray", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 339, 
+        "name": "Adam broere", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 2, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 261, 
+        "name": "John Singleton", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 248, 
+        "name": "Joe Silva", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 189, 
+        "name": "Scott V", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 146, 
+        "name": "Jim Harnock", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 0, 
+        "sos": "0.44"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "James Carman", 
+            "player1points": 53, 
+            "player2": "Adam broere", 
+            "player2points": 69, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "John Singleton", 
+            "player1points": 54, 
+            "player2": "Tom Hayes", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Joe Silva", 
+            "player1points": 66, 
+            "player2": "Cam Murray", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Brendon Osmann-Deyman", 
+            "player1points": 100, 
+            "player2": "Scott V", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "TRISTAN SINGLETON", 
+            "player1points": 100, 
+            "player2": "Jim Harnock", 
+            "player2points": 25, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Kyle Pinkerton", 
+            "player1points": 62, 
+            "player2": "Ryan Ferguson", 
+            "player2points": 35, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "Cam Murray", 
+            "player1points": 100, 
+            "player2": "Kyle Pinkerton", 
+            "player2points": 33, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Brendon Osmann-Deyman", 
+            "player1points": 100, 
+            "player2": "TRISTAN SINGLETON", 
+            "player2points": 67, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Adam broere", 
+            "player1points": 0, 
+            "player2": "Tom Hayes", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Scott V", 
+            "player1points": 100, 
+            "player2": "John Singleton", 
+            "player2points": 36, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Ryan Ferguson", 
+            "player1points": 100, 
+            "player2": "Jim Harnock", 
+            "player2points": 21, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "James Carman", 
+            "player1points": 79, 
+            "player2": "Joe Silva", 
+            "player2points": 0, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "Brendon Osmann-Deyman", 
+            "player1points": 0, 
+            "player2": "Tom Hayes", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Cam Murray", 
+            "player1points": 38, 
+            "player2": "Ryan Ferguson", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "TRISTAN SINGLETON", 
+            "player1points": 100, 
+            "player2": "Scott V", 
+            "player2points": 25, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Adam broere", 
+            "player1points": 0, 
+            "player2": "Kyle Pinkerton", 
+            "player2points": 77, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "James Carman", 
+            "player1points": 100, 
+            "player2": "John Singleton", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Joe Silva", 
+            "player1points": 50, 
+            "player2": "Jim Harnock", 
+            "player2points": 21, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "Tom Hayes", 
+            "player1points": 65, 
+            "player2": "Kyle Pinkerton", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": true, 
+            "player1": "Ryan Ferguson", 
+            "player1points": 100, 
+            "player2": "TRISTAN SINGLETON", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Cam Murray", 
+            "player1points": 31, 
+            "player2": "James Carman", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Brendon Osmann-Deyman", 
+            "player1points": 100, 
+            "player2": "Joe Silva", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Scott V", 
+            "player1points": 0, 
+            "player2": "Adam broere", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "John Singleton", 
+            "player1points": 100, 
+            "player2": "Jim Harnock", 
+            "player2points": 29, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Store Championship", 
+    "venue": {
+      "city": "St. Catharines", 
+      "country": "Canada", 
+      "lat": "43.167376000000", 
+      "lon": "-79.241638000000", 
+      "name": "", 
+      "state": "Ontario"
+    }
+  }
+}

@@ -1,0 +1,804 @@
+{
+  "tournament": {
+    "date": "2018-08-11", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4619, 
+    "name": "Dark Tower store championship 2018", 
+    "players": [
+      {
+        "mov": 94, 
+        "name": "Brandon Rapphun", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 0, 
+        "sos": "0.67"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "scarifbasepilot", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "directorkrennic"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "soontirfel", 
+              "ship": "tieinterceptor", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters", 
+                  "stealthdevice"
+                ], 
+                "title": [
+                  "royalguardtie"
+                ]
+              }
+            }, 
+            {
+              "name": "theinquisitor", 
+              "ship": "tieadvprototype", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "missile": [
+                  "protonrockets"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "tiev1"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 174, 
+        "name": "Phil Sanborn", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 0, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 154, 
+        "name": "Evan Paul", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.75"
+      }, 
+      {
+        "mov": 221, 
+        "name": "Kevin Sekac", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.58"
+      }, 
+      {
+        "mov": 654, 
+        "name": "Blair Bunke", 
+        "rank": {
+          "elimination": 2, 
+          "swiss": 1
+        }, 
+        "score": 4, 
+        "sos": "0.38"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "norrawexley", 
+              "ship": "arc170", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "kylekatarn"
+                ], 
+                "ept": [
+                  "expose"
+                ], 
+                "mod": [
+                  "experimentalinterface"
+                ], 
+                "title": [
+                  "allianceoverhaul"
+                ]
+              }
+            }, 
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "rey", 
+                  "c3po"
+                ], 
+                "ept": [
+                  "selflessness"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "m9g8"
+                ], 
+                "crew": [
+                  "inspiringrecruit"
+                ], 
+                "ept": [
+                  "drawtheirfire"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 653, 
+        "name": "Jim Kling", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 2
+        }, 
+        "score": 4, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 580, 
+        "name": "Ian Becker", 
+        "rank": {
+          "elimination": 1, 
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 568, 
+        "name": "Joey Konopka", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 4
+        }, 
+        "score": 3, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 488, 
+        "name": "Jack Eiford", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 3, 
+        "sos": "0.65"
+      }, 
+      {
+        "mov": 460, 
+        "name": "Dakota Cochran", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 2, 
+        "sos": "0.31"
+      }, 
+      {
+        "mov": 419, 
+        "name": "Jared Schwarze", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 2, 
+        "sos": "0.31"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "sawgerrera", 
+              "ship": "uwing", 
+              "upgrades": {
+                "crew": [
+                  "maul", 
+                  "ezrabridger"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "system": [
+                  "collisiondetector"
+                ], 
+                "title": [
+                  "pivotwing"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "cavernangelszealot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "cavernangelszealot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "mod": [
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "wesjanson", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 408, 
+        "name": "Jake Mailhot", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "wedgeantilles", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "predator"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "lukeskywalker", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ], 
+                "ept": [
+                  "lonewolf"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "magvayarro", 
+                  "rey"
+                ], 
+                "ept": [
+                  "outmaneuver"
+                ], 
+                "mod": [
+                  "shieldupgrade"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 397, 
+        "name": "Darin Schwarze", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "darkcurse", 
+              "ship": "tiefighter", 
+              "upgrades": {
+                "mod": [
+                  "stealthdevice"
+                ]
+              }
+            }, 
+            {
+              "name": "countessryad", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "cannon": [
+                  "flechettecannon"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "multispectralcamouflage"
+                ], 
+                "title": [
+                  "tied"
+                ]
+              }
+            }, 
+            {
+              "name": "whisper", 
+              "ship": "tiephantom", 
+              "upgrades": {
+                "crew": [
+                  "agentkallus"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "advancedcloakingdevice"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 384, 
+        "name": "Nels Postma", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 334, 
+        "name": "Austin Johnson", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 2, 
+        "sos": "0.75"
+      }, 
+      {
+        "mov": 299, 
+        "name": "Liam Oscarson", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 264, 
+        "name": "Scott St. Clair", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 1, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 199, 
+        "name": "Danny Dalton", 
+        "rank": {
+          "swiss": 14
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Scott St. Clair", 
+            "player1points": 20, 
+            "player2": "Blair Bunke", 
+            "player2points": 66, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ian Becker", 
+            "player1points": 100, 
+            "player2": "Nels Postma", 
+            "player2points": 21, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jake Mailhot", 
+            "player1points": 31, 
+            "player2": "Evan Paul", 
+            "player2points": 85, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Dakota Cochran", 
+            "player1points": 33, 
+            "player2": "Jack Eiford", 
+            "player2points": 74, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Austin Johnson", 
+            "player1points": 76, 
+            "player2": "Jared Schwarze", 
+            "player2points": 65, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Danny Dalton", 
+            "player1points": 58, 
+            "player2": "Liam Oscarson", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Phil Sanborn", 
+            "player1points": 0, 
+            "player2": "Kevin Sekac", 
+            "player2points": 65, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jim Kling", 
+            "player1points": 100, 
+            "player2": "Darin Schwarze", 
+            "player2points": 66, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Joey Konopka", 
+            "player1points": 100, 
+            "player2": "Brandon Rapphun", 
+            "player2points": 49, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Evan Paul", 
+            "player1points": 0, 
+            "player2": "Jim Kling", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Austin Johnson", 
+            "player1points": 100, 
+            "player2": "Joey Konopka", 
+            "player2points": 66, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Kevin Sekac", 
+            "player1points": 31, 
+            "player2": "Jack Eiford", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Liam Oscarson", 
+            "player1points": 46, 
+            "player2": "Blair Bunke", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ian Becker", 
+            "player1points": 100, 
+            "player2": "Brandon Rapphun", 
+            "player2points": 21, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nels Postma", 
+            "player1points": 78, 
+            "player2": "Jared Schwarze", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Danny Dalton", 
+            "player1points": 74, 
+            "player2": "Dakota Cochran", 
+            "player2points": 74, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Phil Sanborn", 
+            "player1points": 61, 
+            "player2": "Darin Schwarze", 
+            "player2points": 69, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jake Mailhot", 
+            "player1points": 100, 
+            "player2": "Scott St. Clair", 
+            "player2points": 15, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Blair Bunke", 
+            "player1points": 0, 
+            "player2": "Ian Becker", 
+            "player2points": 0, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "elimination"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Austin Johnson", 
+            "player1points": 33, 
+            "player2": "Blair Bunke", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jack Eiford", 
+            "player1points": 58, 
+            "player2": "Ian Becker", 
+            "player2points": 36, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jim Kling", 
+            "player1points": 100, 
+            "player2": "Kevin Sekac", 
+            "player2points": 25, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Joey Konopka", 
+            "player1points": 100, 
+            "player2": "Nels Postma", 
+            "player2points": 26, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Danny Dalton", 
+            "player1points": 0, 
+            "player2": "Darin Schwarze", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Liam Oscarson", 
+            "player1points": 36, 
+            "player2": "Jake Mailhot", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Dakota Cochran", 
+            "player1points": 100, 
+            "player2": "Brandon Rapphun", 
+            "player2points": 24, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jared Schwarze", 
+            "player1points": 100, 
+            "player2": "Phil Sanborn", 
+            "player2points": 47, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Scott St. Clair", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Jim Kling", 
+            "player1points": 69, 
+            "player2": "Jack Eiford", 
+            "player2points": 25, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Blair Bunke", 
+            "player1points": 100, 
+            "player2": "Jake Mailhot", 
+            "player2points": 13, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Austin Johnson", 
+            "player1points": 21, 
+            "player2": "Ian Becker", 
+            "player2points": 65, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Joey Konopka", 
+            "player1points": 100, 
+            "player2": "Darin Schwarze", 
+            "player2points": 23, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Liam Oscarson", 
+            "player1points": 75, 
+            "player2": "Dakota Cochran", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Scott St. Clair", 
+            "player1points": 45, 
+            "player2": "Jared Schwarze", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Danny Dalton", 
+            "player1points": 41, 
+            "player2": "Nels Postma", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Blair Bunke", 
+            "player1points": 100, 
+            "player2": "Joey Konopka", 
+            "player2points": 33, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jim Kling", 
+            "player1points": 63, 
+            "player2": "Ian Becker", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "elimination"
+      }
+    ], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "Bellingham", 
+      "country": "United States of America", 
+      "lat": "48.754402000000", 
+      "lon": "-122.478860100000", 
+      "name": "Dark Tower Games", 
+      "state": "Washington"
+    }, 
+    "video_url": "http://"
+  }
+}

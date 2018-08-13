@@ -6,6 +6,63 @@
     "name": "Jersey's Store Championship", 
     "players": [
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "whisper", 
+              "ship": "tiephantom", 
+              "upgrades": {
+                "crew": [
+                  "directorkrennic"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "advancedcloakingdevice"
+                ], 
+                "system": [
+                  "advancedsensors"
+                ]
+              }
+            }, 
+            {
+              "name": "scimitarsquadronpilot", 
+              "ship": "tiebomber", 
+              "upgrades": {
+                "crew": [
+                  "kyloren"
+                ], 
+                "title": [
+                  "tieshuttle"
+                ]
+              }
+            }, 
+            {
+              "name": "majorvermeil", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "emperorpalpatine"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "multispectralcamouflage"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 688, 
         "name": "Lee Holland", 
         "rank": {

@@ -1,0 +1,346 @@
+{
+  "tournament": {
+    "date": "2018-08-11", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4616, 
+    "name": "Phoenix Rising St. Catharines - Store Championship", 
+    "players": [
+      {
+        "mov": 604, 
+        "name": "Kyle Thompson", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 4, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 558, 
+        "name": "Cameron Murray", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 549, 
+        "name": "TRISTAN SINGLETON", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 507, 
+        "name": "Piero Manchego-Badiola", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 3, 
+        "sos": "0.69"
+      }, 
+      {
+        "mov": 526, 
+        "name": "Rhys James", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 411, 
+        "name": "John Singleton", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 2, 
+        "sos": "0.31"
+      }, 
+      {
+        "mov": 399, 
+        "name": "TIMBOSLICE", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 364, 
+        "name": "Gregory Chandler Burns", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 2, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 339, 
+        "name": "Scott V", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 257, 
+        "name": "Micheal V", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 1, 
+        "sos": "0.69"
+      }, 
+      {
+        "mov": 255, 
+        "name": "Victoria MacDonald", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 31, 
+        "name": "David Noyes", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 0, 
+        "sos": "0.38"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "John Singleton", 
+            "player1points": 0, 
+            "player2": "Micheal V", 
+            "player2points": 60, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Rhys James", 
+            "player1points": 100, 
+            "player2": "Scott V", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Victoria MacDonald", 
+            "player1points": 31, 
+            "player2": "Kyle Thompson", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "David Noyes", 
+            "player1points": 0, 
+            "player2": "TIMBOSLICE", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Piero Manchego-Badiola", 
+            "player1points": 100, 
+            "player2": "Cameron Murray", 
+            "player2points": 62, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Gregory Chandler Burns", 
+            "player1points": 100, 
+            "player2": "TRISTAN SINGLETON", 
+            "player2points": 27, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "Piero Manchego-Badiola", 
+            "player1points": 100, 
+            "player2": "Gregory Chandler Burns", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Kyle Thompson", 
+            "player1points": 60, 
+            "player2": "Micheal V", 
+            "player2points": 31, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Rhys James", 
+            "player1points": 0, 
+            "player2": "TIMBOSLICE", 
+            "player2points": 67, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Victoria MacDonald", 
+            "player1points": 26, 
+            "player2": "Cameron Murray", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Scott V", 
+            "player1points": 50, 
+            "player2": "TRISTAN SINGLETON", 
+            "player2points": 72, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "David Noyes", 
+            "player1points": 0, 
+            "player2": "John Singleton", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "Kyle Thompson", 
+            "player1points": 68, 
+            "player2": "TIMBOSLICE", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Piero Manchego-Badiola", 
+            "player1points": 67, 
+            "player2": "Rhys James", 
+            "player2points": 60, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "TRISTAN SINGLETON", 
+            "player1points": 100, 
+            "player2": "John Singleton", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Micheal V", 
+            "player1points": 26, 
+            "player2": "Cameron Murray", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Gregory Chandler Burns", 
+            "player1points": 100, 
+            "player2": "Scott V", 
+            "player2points": 61, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "David Noyes", 
+            "player1points": 31, 
+            "player2": "Victoria MacDonald", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "Kyle Thompson", 
+            "player1points": 38, 
+            "player2": "Piero Manchego-Badiola", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Gregory Chandler Burns", 
+            "player1points": 52, 
+            "player2": "Cameron Murray", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "TRISTAN SINGLETON", 
+            "player1points": 100, 
+            "player2": "TIMBOSLICE", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "John Singleton", 
+            "player1points": 100, 
+            "player2": "Victoria MacDonald", 
+            "player2points": 29, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Micheal V", 
+            "player1points": 0, 
+            "player2": "Rhys James", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "David Noyes", 
+            "player1points": 0, 
+            "player2": "Scott V", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Store Championship", 
+    "venue": {
+      "city": "St. Catharines", 
+      "country": "Canada", 
+      "lat": "43.167376000000", 
+      "lon": "-79.241638000000", 
+      "name": "", 
+      "state": "Ontario"
+    }
+  }
+}
