@@ -1,0 +1,748 @@
+{
+  "tournament": {
+    "date": "2018-08-11", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4621, 
+    "name": "Compleat Strategist Store Championship", 
+    "players": [
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "rexlerbrath", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "cannon": [
+                  "tractorbeam"
+                ], 
+                "ept": [
+                  "predator"
+                ], 
+                "mod": [
+                  "hullupgrade"
+                ], 
+                "title": [
+                  "tied"
+                ]
+              }
+            }, 
+            {
+              "name": "maarekstele", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "cannon": [
+                  "ioncannon"
+                ], 
+                "ept": [
+                  "predator"
+                ], 
+                "mod": [
+                  "hullupgrade"
+                ], 
+                "title": [
+                  "tied"
+                ]
+              }
+            }, 
+            {
+              "name": "academypilot", 
+              "ship": "tiefighter"
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 580, 
+        "name": "Marek Marcinkiewicz", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 4, 
+        "sos": "0.63"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "wullffwarro", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "ezrabridger", 
+                  "maul"
+                ], 
+                "ept": [
+                  "wired"
+                ]
+              }
+            }, 
+            {
+              "name": "wookieeliberator", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "sawgerrera", 
+                  "bistan"
+                ], 
+                "ept": [
+                  "drawtheirfire"
+                ]
+              }
+            }, 
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "magvayarro", 
+                  "c3po"
+                ], 
+                "ept": [
+                  "ascoretosettle"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 567, 
+        "name": "Matthew Kreiner", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.50"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "asajjventress", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "lattsrazzi"
+                ], 
+                "ept": [
+                  "lonewolf"
+                ], 
+                "illicit": [
+                  "glitterstim", 
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "countermeasures"
+                ], 
+                "title": [
+                  "shadowcaster"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 545, 
+        "name": "Jamal Ahmad", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 538, 
+        "name": "Chris Perez", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 3, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 514, 
+        "name": "John DiMaggio", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 3, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 480, 
+        "name": "Andrei Klepatch", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "asajjventress", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "tactician"
+                ], 
+                "ept": [
+                  "predator"
+                ], 
+                "title": [
+                  "shadowcaster"
+                ]
+              }
+            }, 
+            {
+              "name": "syndicatethug", 
+              "ship": "ywing", 
+              "upgrades": {
+                "samd": [
+                  "unhingedastromech"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "torkilmux", 
+              "ship": "hwk290", 
+              "upgrades": {
+                "crew": [
+                  "lattsrazzi"
+                ], 
+                "title": [
+                  "moldycrow"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 443, 
+        "name": "Sam Page", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 2, 
+        "sos": "0.38"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "nusquadronpilot", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "cannon": [
+                  "heavylasercannon", 
+                  "linkedbattery"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "title": [
+                  "xg1assaultconfiguration"
+                ]
+              }
+            }, 
+            {
+              "name": "majorvermeil", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "isbslicer"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 413, 
+        "name": "Rolando Garcia", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 389, 
+        "name": "Joaquin Quintana", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 362, 
+        "name": "Cal Neuvost", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 348, 
+        "name": "Mike d'Amboise", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 330, 
+        "name": "Sol Gerrera", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 1, 
+        "sos": "0.63"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "deathrain", 
+              "ship": "tiepunisher", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "missile": [
+                  "unguidedrockets"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "doubleedge", 
+              "ship": "tieaggressor", 
+              "upgrades": {
+                "ept": [
+                  "trickshot"
+                ], 
+                "missile": [
+                  "unguidedrockets"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 315, 
+        "name": "Mark Bernhardt", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 226, 
+        "name": "James Weber", 
+        "rank": {
+          "swiss": 14
+        }, 
+        "score": 1, 
+        "sos": "0.31"
+      }, 
+      {
+        "mov": 150, 
+        "name": "Brando Medina", 
+        "rank": {
+          "swiss": 15
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Andrei Klepatch", 
+            "player1points": 100, 
+            "player2": "Rolando Garcia", 
+            "player2points": 43, 
+            "result": "win"
+          }, 
+          {
+            "player1": "James Weber", 
+            "player1points": 76, 
+            "player2": "Cal Neuvost", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jamal Ahmad", 
+            "player1points": 100, 
+            "player2": "Brando Medina", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Joaquin Quintana", 
+            "player1points": 100, 
+            "player2": "Sam Page", 
+            "player2points": 42, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Matthew Kreiner", 
+            "player1points": 100, 
+            "player2": "Mike d'Amboise", 
+            "player2points": 30, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marek Marcinkiewicz", 
+            "player1points": 100, 
+            "player2": "Sol Gerrera", 
+            "player2points": 56, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mark Bernhardt", 
+            "player1points": 59, 
+            "player2": "Chris Perez", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "John DiMaggio", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Matthew Kreiner", 
+            "player1points": 27, 
+            "player2": "Chris Perez", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marek Marcinkiewicz", 
+            "player1points": 80, 
+            "player2": "John DiMaggio", 
+            "player2points": 44, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Andrei Klepatch", 
+            "player1points": 24, 
+            "player2": "Cal Neuvost", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Joaquin Quintana", 
+            "player1points": 0, 
+            "player2": "Jamal Ahmad", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "James Weber", 
+            "player1points": 0, 
+            "player2": "Sol Gerrera", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Rolando Garcia", 
+            "player1points": 100, 
+            "player2": "Mark Bernhardt", 
+            "player2points": 59, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mike d'Amboise", 
+            "player1points": 100, 
+            "player2": "Sam Page", 
+            "player2points": 48, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Brando Medina", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Cal Neuvost", 
+            "player1points": 32, 
+            "player2": "Chris Perez", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jamal Ahmad", 
+            "player1points": 44, 
+            "player2": "Marek Marcinkiewicz", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sol Gerrera", 
+            "player1points": 0, 
+            "player2": "Matthew Kreiner", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "John DiMaggio", 
+            "player1points": 100, 
+            "player2": "Mike d'Amboise", 
+            "player2points": 40, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Andrei Klepatch", 
+            "player1points": 100, 
+            "player2": "Brando Medina", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Joaquin Quintana", 
+            "player1points": 31, 
+            "player2": "Rolando Garcia", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mark Bernhardt", 
+            "player1points": 47, 
+            "player2": "Sam Page", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "James Weber", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Marek Marcinkiewicz", 
+            "player1points": 100, 
+            "player2": "Chris Perez", 
+            "player2points": 56, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Cal Neuvost", 
+            "player1points": 30, 
+            "player2": "Matthew Kreiner", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Andrei Klepatch", 
+            "player1points": 25, 
+            "player2": "Jamal Ahmad", 
+            "player2points": 26, 
+            "result": "win"
+          }, 
+          {
+            "player1": "John DiMaggio", 
+            "player1points": 100, 
+            "player2": "Rolando Garcia", 
+            "player2points": 60, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mike d'Amboise", 
+            "player1points": 100, 
+            "player2": "Sol Gerrera", 
+            "player2points": 74, 
+            "result": "win"
+          }, 
+          {
+            "player1": "James Weber", 
+            "player1points": 0, 
+            "player2": "Sam Page", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Joaquin Quintana", 
+            "player1points": 100, 
+            "player2": "Brando Medina", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mark Bernhardt", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "New York", 
+      "country": "United States of America", 
+      "lat": "27.960398900000", 
+      "lon": "-82.442503300000", 
+      "name": "The Compleat Strategist", 
+      "state": "New York"
+    }, 
+    "video_url": "http://"
+  }
+}
