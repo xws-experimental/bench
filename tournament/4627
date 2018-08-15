@@ -1,0 +1,337 @@
+{
+  "tournament": {
+    "date": "2018-08-14", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4627, 
+    "name": "NYAR Asza V", 
+    "players": [
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "benthictwotubes", 
+              "ship": "uwing", 
+              "upgrades": {
+                "crew": [
+                  "rey", 
+                  "reconspecialist"
+                ], 
+                "mod": [
+                  "countermeasures", 
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "advancedsensors"
+                ], 
+                "title": [
+                  "pivotwing"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "edriotwotubes", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ], 
+                "ept": [
+                  "intensity"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "wedgeantilles", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "bb8"
+                ], 
+                "ept": [
+                  "predator"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "engineupgrade"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 0, 
+        "name": "Raffi", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 367, 
+        "name": "Zsofi", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 472, 
+        "name": "Istvan", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 2, 
+        "sos": "0.67"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "benthictwotubes", 
+              "ship": "uwing", 
+              "upgrades": {
+                "crew": [
+                  "rey", 
+                  "reconspecialist"
+                ], 
+                "mod": [
+                  "countermeasures", 
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "advancedsensors"
+                ], 
+                "title": [
+                  "pivotwing"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "edriotwotubes", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ], 
+                "ept": [
+                  "intensity"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "wedgeantilles", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "bb8"
+                ], 
+                "ept": [
+                  "predator"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "engineupgrade"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 446, 
+        "name": "Raffi", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 2, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 328, 
+        "name": "Kristof", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 287, 
+        "name": "Gergo", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 1, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 179, 
+        "name": "Budhhaa", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 171, 
+        "name": "Cseszt8426", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 1, 
+        "sos": "0.33"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Cseszt8426", 
+            "player1points": 21, 
+            "player2": "Budhhaa", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Kristof", 
+            "player1points": 27, 
+            "player2": "Istvan", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Gergo", 
+            "player1points": 0, 
+            "player2": "Zsofi", 
+            "player2points": 62, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Raffi", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Budhhaa", 
+            "player1points": 0, 
+            "player2": "Raffi", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Istvan", 
+            "player1points": 26, 
+            "player2": "Zsofi", 
+            "player2points": 27, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Gergo", 
+            "player1points": 49, 
+            "player2": "Kristof", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Raffi", 
+            "player1points": 0, 
+            "player2": "Cseszt8426", 
+            "player2points": 50, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Zsofi", 
+            "player1points": 72, 
+            "player2": "Raffi", 
+            "player2points": 68, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Budhhaa", 
+            "player1points": 0, 
+            "player2": "Gergo", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Istvan", 
+            "player1points": 100, 
+            "player2": "Cseszt8426", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Kristof", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Other", 
+    "venue": {
+      "city": "Budapest", 
+      "country": "Hungary", 
+      "lat": "47.498381500000", 
+      "lon": "19.040470700000", 
+      "name": "Vault51", 
+      "state": "Budapest"
+    }, 
+    "video_url": "http://"
+  }
+}
