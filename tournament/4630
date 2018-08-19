@@ -1,0 +1,71 @@
+{
+  "tournament": {
+    "date": "2018-08-18", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4630, 
+    "name": "Go 4 Games Store Championship 2018", 
+    "players": [
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "janors", 
+              "ship": "hwk290"
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 0, 
+        "name": "Welee Wright", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Garrett Planter", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Calvin Bryson", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Robert Coleman", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "Metairie", 
+      "country": "United States of America", 
+      "lat": null, 
+      "lon": null, 
+      "name": "", 
+      "state": "Louisiana"
+    }, 
+    "video_url": "http://"
+  }
+}

@@ -1,0 +1,453 @@
+{
+  "tournament": {
+    "date": "2018-08-18", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4632, 
+    "name": "Liga CWB 2018-2 Torneio 1 (Bans)", 
+    "players": [
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "omegaleader", 
+              "ship": "tiefofighter", 
+              "upgrades": {
+                "ept": [
+                  "swarmleader"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ]
+              }
+            }, 
+            {
+              "name": "academypilot", 
+              "ship": "tiefighter"
+            }, 
+            {
+              "name": "academypilot", 
+              "ship": "tiefighter"
+            }, 
+            {
+              "name": "academypilot", 
+              "ship": "tiefighter"
+            }, 
+            {
+              "name": "academypilot", 
+              "ship": "tiefighter"
+            }, 
+            {
+              "name": "academypilot", 
+              "ship": "tiefighter"
+            }, 
+            {
+              "name": "academypilot", 
+              "ship": "tiefighter"
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 565, 
+        "name": "Isaque Sartori", 
+        "rank": {
+          "elimination": 1, 
+          "swiss": 1
+        }, 
+        "score": 4, 
+        "sos": "0.67"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "captainjostero", 
+              "ship": "kihraxzfighter", 
+              "upgrades": {
+                "ept": [
+                  "deadeye"
+                ], 
+                "mod": [
+                  "guidancechips", 
+                  "munitionsfailsafe", 
+                  "stealthdevice"
+                ], 
+                "title": [
+                  "vaksai"
+                ], 
+                "torpedo": [
+                  "protontorpedoes"
+                ]
+              }
+            }, 
+            {
+              "name": "viktorhel", 
+              "ship": "kihraxzfighter", 
+              "upgrades": {
+                "ept": [
+                  "adaptability"
+                ], 
+                "illicit": [
+                  "glitterstim"
+                ], 
+                "missile": [
+                  "assaultmissiles"
+                ], 
+                "mod": [
+                  "guidancechips", 
+                  "munitionsfailsafe", 
+                  "stealthdevice"
+                ], 
+                "title": [
+                  "vaksai"
+                ]
+              }
+            }, 
+            {
+              "name": "toranikulda", 
+              "ship": "m12lkimogilafighter", 
+              "upgrades": {
+                "ept": [
+                  "adaptability"
+                ], 
+                "illicit": [
+                  "contrabandcybernetics"
+                ], 
+                "missile": [
+                  "assaultmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "r5p8"
+                ], 
+                "title": [
+                  "enforcer"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 640, 
+        "name": "Ricardo Hess", 
+        "rank": {
+          "elimination": 2, 
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.50"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "dutchvander", 
+              "ship": "ywing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "title": [
+                  "btla4ywing"
+                ], 
+                "torpedo": [
+                  "plasmatorpedoes"
+                ], 
+                "turret": [
+                  "syncedturret"
+                ]
+              }
+            }, 
+            {
+              "name": "keyanfarlander", 
+              "ship": "bwing", 
+              "upgrades": {
+                "crew": [
+                  "finn"
+                ], 
+                "ept": [
+                  "predator"
+                ], 
+                "mod": [
+                  "bwinge2"
+                ], 
+                "system": [
+                  "thrustcorrector"
+                ]
+              }
+            }, 
+            {
+              "name": "wedgeantilles", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "bb8"
+                ], 
+                "ept": [
+                  "snapshot"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 619, 
+        "name": "Raphael Pecanha", 
+        "rank": {
+          "elimination": 3, 
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 440, 
+        "name": "Dionatan Prestes", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 4
+        }, 
+        "score": 3, 
+        "sos": "0.69"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "banditsquadronpilot", 
+              "ship": "z95headhunter", 
+              "upgrades": {
+                "missile": [
+                  "concussionmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ]
+              }
+            }, 
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "m9g8"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 386, 
+        "name": "Maikon Delgado", 
+        "rank": {
+          "elimination": 5, 
+          "swiss": 5
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 386, 
+        "name": "Vivian Borgert", 
+        "rank": {
+          "elimination": 6, 
+          "swiss": 6
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 385, 
+        "name": "Bernardo Souza", 
+        "rank": {
+          "elimination": 7, 
+          "swiss": 7
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 362, 
+        "name": "Roberto Kazuo", 
+        "rank": {
+          "elimination": 8, 
+          "swiss": 8
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 272, 
+        "name": "Gabriel Brenner", 
+        "rank": {
+          "elimination": 9, 
+          "swiss": 9
+        }, 
+        "score": 1, 
+        "sos": "0.58"
+      }, 
+      {
+        "mov": 181, 
+        "name": "Renan Simoes", 
+        "rank": {
+          "elimination": 10, 
+          "swiss": 10
+        }, 
+        "score": 1, 
+        "sos": "0.67"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "palobgodalhi", 
+              "ship": "hwk290", 
+              "upgrades": {
+                "crew": [
+                  "k4securitydroid"
+                ], 
+                "turret": [
+                  "blasterturret"
+                ]
+              }
+            }, 
+            {
+              "name": "ndrusuhlak", 
+              "ship": "z95headhunter", 
+              "upgrades": {
+                "ept": [
+                  "marksmanship"
+                ], 
+                "missile": [
+                  "clustermissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ]
+              }
+            }, 
+            {
+              "name": "bobafett", 
+              "ship": "firespray31", 
+              "upgrades": {
+                "cannon": [
+                  "ioncannon"
+                ], 
+                "crew": [
+                  "gunner"
+                ], 
+                "ept": [
+                  "swarmtactics"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 176, 
+        "name": "Douglas Barbosa", 
+        "rank": {
+          "elimination": 11, 
+          "swiss": 11
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [], 
+    "type": "Other", 
+    "venue": {
+      "city": "Curitiba", 
+      "country": "Brazil", 
+      "lat": "-25.429569600000", 
+      "lon": "-49.271236100000", 
+      "name": "Nerdz", 
+      "state": "Parana"
+    }, 
+    "video_url": "http://"
+  }
+}

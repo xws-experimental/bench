@@ -1,0 +1,185 @@
+{
+  "tournament": {
+    "date": "2018-08-18", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4633, 
+    "name": "Gauntlet Games store championship ", 
+    "players": [
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "shadowporthunter", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "dengar"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "protectoratestarfighter", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "concorddawnprotector"
+                ]
+              }
+            }, 
+            {
+              "name": "thweek", 
+              "ship": "starviper", 
+              "upgrades": {
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "virago", 
+                  "starvipermkii"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 372, 
+        "name": "Elliot Campbell ", 
+        "rank": {
+          "elimination": 1, 
+          "swiss": 1
+        }, 
+        "score": 13, 
+        "sos": "0.00"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "thweek", 
+              "ship": "starviper", 
+              "upgrades": {
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "starvipermkii", 
+                  "virago"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "protectoratestarfighter", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "concorddawnprotector"
+                ]
+              }
+            }, 
+            {
+              "name": "dalanoberos", 
+              "ship": "m12lkimogilafighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "r4b11"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 516, 
+        "name": "Alex Martin", 
+        "rank": {
+          "elimination": 2, 
+          "swiss": 2
+        }, 
+        "score": 2, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Player 3", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Player 4", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Player 5", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Player 6", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "Lincoln", 
+      "country": "United States of America", 
+      "lat": "40.800055400000", 
+      "lon": "-96.667400400000", 
+      "name": "Gauntlet Games", 
+      "state": "Nebraska"
+    }, 
+    "video_url": "http://"
+  }
+}
