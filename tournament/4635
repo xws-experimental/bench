@@ -1,0 +1,3351 @@
+{
+  "tournament": {
+    "date": "2018-08-18", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4635, 
+    "name": "Polish Nationals 2018", 
+    "players": [
+      {
+        "mov": 50, 
+        "name": "Borys Marczewski", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 0, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 365, 
+        "name": "XVC", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.48"
+      }, 
+      {
+        "mov": 371, 
+        "name": "Edgar Rynkowski", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.53"
+      }, 
+      {
+        "mov": 515, 
+        "name": "Piotr wietlicki", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 3, 
+        "sos": "0.60"
+      }, 
+      {
+        "mov": 476, 
+        "name": "Marcin Kazaa", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.43"
+      }, 
+      {
+        "mov": 478, 
+        "name": "Wojciech Szafalowicz", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.53"
+      }, 
+      {
+        "mov": 507, 
+        "name": "Krzysztof Matejko", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.47"
+      }, 
+      {
+        "mov": 514, 
+        "name": "Pawe Rojewski", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.27"
+      }, 
+      {
+        "mov": 348, 
+        "name": "Artur Toczyski", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.53"
+      }, 
+      {
+        "mov": 272, 
+        "name": "Micha Krawczak", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.53"
+      }, 
+      {
+        "mov": 297, 
+        "name": "Grzegorz Kapaka", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.42"
+      }, 
+      {
+        "mov": 295, 
+        "name": "Dariusz Januszkiewicz", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.53"
+      }, 
+      {
+        "mov": 263, 
+        "name": "Wojciech Szerlag", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.72"
+      }, 
+      {
+        "mov": 233, 
+        "name": "Wojtek Kinasz", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 134, 
+        "name": "Piotr Gruszecki", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 0, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 89, 
+        "name": "Micha Winiowski", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 0, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 361, 
+        "name": "Wojciech Ziba", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.57"
+      }, 
+      {
+        "mov": 1029, 
+        "name": "Lukasz Golonka", 
+        "rank": {
+          "elimination": 8, 
+          "swiss": 1
+        }, 
+        "score": 6, 
+        "sos": "0.71"
+      }, 
+      {
+        "mov": 910, 
+        "name": "Andreas Osterroth", 
+        "rank": {
+          "elimination": 8, 
+          "swiss": 2
+        }, 
+        "score": 6, 
+        "sos": "0.59"
+      }, 
+      {
+        "mov": 982, 
+        "name": "Jacek Kaczmarski", 
+        "rank": {
+          "elimination": 16, 
+          "swiss": 3
+        }, 
+        "score": 5, 
+        "sos": "0.58"
+      }, 
+      {
+        "mov": 974, 
+        "name": "Off Jenkins", 
+        "rank": {
+          "elimination": 8, 
+          "swiss": 4
+        }, 
+        "score": 5, 
+        "sos": "0.53"
+      }, 
+      {
+        "mov": 918, 
+        "name": "Krzysztof Trojanowski", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 5
+        }, 
+        "score": 5, 
+        "sos": "0.57"
+      }, 
+      {
+        "mov": 887, 
+        "name": "Andrzej Rodziewicz", 
+        "rank": {
+          "elimination": 8, 
+          "swiss": 6
+        }, 
+        "score": 5, 
+        "sos": "0.70"
+      }, 
+      {
+        "mov": 872, 
+        "name": "Filip Vuk Vuki", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 7
+        }, 
+        "score": 5, 
+        "sos": "0.61"
+      }, 
+      {
+        "mov": 868, 
+        "name": "Jan Swirski", 
+        "rank": {
+          "elimination": 2, 
+          "swiss": 8
+        }, 
+        "score": 5, 
+        "sos": "0.64"
+      }, 
+      {
+        "mov": 853, 
+        "name": "Pawe Morawski", 
+        "rank": {
+          "elimination": 16, 
+          "swiss": 9
+        }, 
+        "score": 5, 
+        "sos": "0.47"
+      }, 
+      {
+        "mov": 799, 
+        "name": "Krzysztof Piszcz", 
+        "rank": {
+          "elimination": 16, 
+          "swiss": 10
+        }, 
+        "score": 5, 
+        "sos": "0.61"
+      }, 
+      {
+        "mov": 798, 
+        "name": "Gerwaz", 
+        "rank": {
+          "elimination": 16, 
+          "swiss": 11
+        }, 
+        "score": 5, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 693, 
+        "name": "Lukasz Krysiak", 
+        "rank": {
+          "elimination": 16, 
+          "swiss": 12
+        }, 
+        "score": 5, 
+        "sos": "0.70"
+      }, 
+      {
+        "mov": 854, 
+        "name": "Pawe Gsiewski", 
+        "rank": {
+          "elimination": 16, 
+          "swiss": 13
+        }, 
+        "score": 4, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 850, 
+        "name": "Ken", 
+        "rank": {
+          "elimination": 1, 
+          "swiss": 14
+        }, 
+        "score": 4, 
+        "sos": "0.64"
+      }, 
+      {
+        "mov": 843, 
+        "name": "Maciej Baliski", 
+        "rank": {
+          "elimination": 16, 
+          "swiss": 15
+        }, 
+        "score": 4, 
+        "sos": "0.47"
+      }, 
+      {
+        "mov": 838, 
+        "name": "James Finlayson", 
+        "rank": {
+          "elimination": 16, 
+          "swiss": 16
+        }, 
+        "score": 4, 
+        "sos": "0.46"
+      }, 
+      {
+        "mov": 815, 
+        "name": "Oliwier Mroczkowski", 
+        "rank": {
+          "swiss": 17
+        }, 
+        "score": 4, 
+        "sos": "0.54"
+      }, 
+      {
+        "mov": 807, 
+        "name": "Tomasz Pawlak", 
+        "rank": {
+          "swiss": 18
+        }, 
+        "score": 4, 
+        "sos": "0.47"
+      }, 
+      {
+        "mov": 803, 
+        "name": "Pafawag", 
+        "rank": {
+          "swiss": 19
+        }, 
+        "score": 4, 
+        "sos": "0.57"
+      }, 
+      {
+        "mov": 796, 
+        "name": "Micha Enzeru Nowak", 
+        "rank": {
+          "swiss": 20
+        }, 
+        "score": 4, 
+        "sos": "0.57"
+      }, 
+      {
+        "mov": 795, 
+        "name": "Micha Gsiorowski", 
+        "rank": {
+          "swiss": 21
+        }, 
+        "score": 4, 
+        "sos": "0.58"
+      }, 
+      {
+        "mov": 792, 
+        "name": "Karol Pietrowicz", 
+        "rank": {
+          "swiss": 22
+        }, 
+        "score": 4, 
+        "sos": "0.53"
+      }, 
+      {
+        "mov": 785, 
+        "name": "Regrof", 
+        "rank": {
+          "swiss": 23
+        }, 
+        "score": 4, 
+        "sos": "0.48"
+      }, 
+      {
+        "mov": 783, 
+        "name": "Bartosz Burchardt", 
+        "rank": {
+          "swiss": 24
+        }, 
+        "score": 4, 
+        "sos": "0.48"
+      }, 
+      {
+        "mov": 767, 
+        "name": "Mikoaj Szenk", 
+        "rank": {
+          "swiss": 25
+        }, 
+        "score": 4, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 761, 
+        "name": "Przemysaw Alakhaj Talach", 
+        "rank": {
+          "swiss": 26
+        }, 
+        "score": 4, 
+        "sos": "0.65"
+      }, 
+      {
+        "mov": 758, 
+        "name": "Sascha Wagner", 
+        "rank": {
+          "swiss": 27
+        }, 
+        "score": 4, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 755, 
+        "name": "Radosaw Godzimirski", 
+        "rank": {
+          "swiss": 28
+        }, 
+        "score": 4, 
+        "sos": "0.41"
+      }, 
+      {
+        "mov": 731, 
+        "name": "SlaaN", 
+        "rank": {
+          "swiss": 29
+        }, 
+        "score": 4, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 720, 
+        "name": "Zdenek Rajtr", 
+        "rank": {
+          "swiss": 30
+        }, 
+        "score": 4, 
+        "sos": "0.60"
+      }, 
+      {
+        "mov": 717, 
+        "name": "Micha Bobrowski", 
+        "rank": {
+          "swiss": 31
+        }, 
+        "score": 4, 
+        "sos": "0.57"
+      }, 
+      {
+        "mov": 714, 
+        "name": "Piotr Chudobiski", 
+        "rank": {
+          "swiss": 32
+        }, 
+        "score": 4, 
+        "sos": "0.40"
+      }, 
+      {
+        "mov": 688, 
+        "name": "Benjamin Toth", 
+        "rank": {
+          "swiss": 33
+        }, 
+        "score": 4, 
+        "sos": "0.64"
+      }, 
+      {
+        "mov": 667, 
+        "name": "Micha Kolasiski", 
+        "rank": {
+          "swiss": 34
+        }, 
+        "score": 4, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 614, 
+        "name": "Bartomiej Stroiski", 
+        "rank": {
+          "swiss": 35
+        }, 
+        "score": 4, 
+        "sos": "0.61"
+      }, 
+      {
+        "mov": 608, 
+        "name": "Fabian Wandas", 
+        "rank": {
+          "swiss": 36
+        }, 
+        "score": 4, 
+        "sos": "0.61"
+      }, 
+      {
+        "mov": 560, 
+        "name": "Niewiem", 
+        "rank": {
+          "swiss": 37
+        }, 
+        "score": 4, 
+        "sos": "0.58"
+      }, 
+      {
+        "mov": 736, 
+        "name": "Marek Mirek Domaski", 
+        "rank": {
+          "swiss": 38
+        }, 
+        "score": 3, 
+        "sos": "0.58"
+      }, 
+      {
+        "mov": 734, 
+        "name": "Marek Kovac", 
+        "rank": {
+          "swiss": 39
+        }, 
+        "score": 3, 
+        "sos": "0.39"
+      }, 
+      {
+        "mov": 676, 
+        "name": "Angus", 
+        "rank": {
+          "swiss": 40
+        }, 
+        "score": 3, 
+        "sos": "0.34"
+      }, 
+      {
+        "mov": 671, 
+        "name": "Micha Drozd", 
+        "rank": {
+          "swiss": 41
+        }, 
+        "score": 3, 
+        "sos": "0.58"
+      }, 
+      {
+        "mov": 669, 
+        "name": "Tomasz Dusza", 
+        "rank": {
+          "swiss": 42
+        }, 
+        "score": 3, 
+        "sos": "0.41"
+      }, 
+      {
+        "mov": 662, 
+        "name": "Arkadiusz Kuna", 
+        "rank": {
+          "swiss": 43
+        }, 
+        "score": 3, 
+        "sos": "0.69"
+      }, 
+      {
+        "mov": 637, 
+        "name": "Mateusz Szymkowiak", 
+        "rank": {
+          "swiss": 44
+        }, 
+        "score": 3, 
+        "sos": "0.62"
+      }, 
+      {
+        "mov": 626, 
+        "name": "Neo", 
+        "rank": {
+          "swiss": 45
+        }, 
+        "score": 3, 
+        "sos": "0.42"
+      }, 
+      {
+        "mov": 625, 
+        "name": "Piotr Krzempek", 
+        "rank": {
+          "swiss": 46
+        }, 
+        "score": 3, 
+        "sos": "0.72"
+      }, 
+      {
+        "mov": 618, 
+        "name": "Andrzej Zajc", 
+        "rank": {
+          "swiss": 47
+        }, 
+        "score": 3, 
+        "sos": "0.53"
+      }, 
+      {
+        "mov": 616, 
+        "name": "Mateusz Kaposki", 
+        "rank": {
+          "swiss": 48
+        }, 
+        "score": 3, 
+        "sos": "0.51"
+      }, 
+      {
+        "mov": 613, 
+        "name": "Chris Haenze", 
+        "rank": {
+          "swiss": 49
+        }, 
+        "score": 3, 
+        "sos": "0.53"
+      }, 
+      {
+        "mov": 608, 
+        "name": "Agata Pikulska", 
+        "rank": {
+          "swiss": 50
+        }, 
+        "score": 3, 
+        "sos": "0.48"
+      }, 
+      {
+        "mov": 591, 
+        "name": "Jdrek Wicha", 
+        "rank": {
+          "swiss": 51
+        }, 
+        "score": 3, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 577, 
+        "name": "Morlokus", 
+        "rank": {
+          "swiss": 52
+        }, 
+        "score": 3, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 572, 
+        "name": "Micha Keller", 
+        "rank": {
+          "swiss": 53
+        }, 
+        "score": 3, 
+        "sos": "0.42"
+      }, 
+      {
+        "mov": 566, 
+        "name": "Marcin Rczka", 
+        "rank": {
+          "swiss": 54
+        }, 
+        "score": 3, 
+        "sos": "0.36"
+      }, 
+      {
+        "mov": 560, 
+        "name": "Pawe Kapaka", 
+        "rank": {
+          "swiss": 55
+        }, 
+        "score": 3, 
+        "sos": "0.47"
+      }, 
+      {
+        "mov": 558, 
+        "name": "Rafa Kurowiak", 
+        "rank": {
+          "swiss": 56
+        }, 
+        "score": 3, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 542, 
+        "name": "Maciej Rzepiski", 
+        "rank": {
+          "swiss": 57
+        }, 
+        "score": 3, 
+        "sos": "0.62"
+      }, 
+      {
+        "mov": 542, 
+        "name": "Remigiusz Denda", 
+        "rank": {
+          "swiss": 58
+        }, 
+        "score": 3, 
+        "sos": "0.51"
+      }, 
+      {
+        "mov": 528, 
+        "name": "Karol Drynda", 
+        "rank": {
+          "swiss": 59
+        }, 
+        "score": 3, 
+        "sos": "0.53"
+      }, 
+      {
+        "mov": 523, 
+        "name": "Czarny Kowboj", 
+        "rank": {
+          "swiss": 60
+        }, 
+        "score": 3, 
+        "sos": "0.53"
+      }, 
+      {
+        "mov": 512, 
+        "name": "Lukasz Noga", 
+        "rank": {
+          "swiss": 61
+        }, 
+        "score": 3, 
+        "sos": "0.57"
+      }, 
+      {
+        "mov": 506, 
+        "name": "Micha Lewandowski", 
+        "rank": {
+          "swiss": 62
+        }, 
+        "score": 3, 
+        "sos": "0.60"
+      }, 
+      {
+        "mov": 480, 
+        "name": "ukasz Kokos Kukla", 
+        "rank": {
+          "swiss": 63
+        }, 
+        "score": 3, 
+        "sos": "0.46"
+      }, 
+      {
+        "mov": 425, 
+        "name": "Tomasz Folta", 
+        "rank": {
+          "swiss": 64
+        }, 
+        "score": 3, 
+        "sos": "0.58"
+      }, 
+      {
+        "mov": 637, 
+        "name": "Adam Nowakowski", 
+        "rank": {
+          "swiss": 65
+        }, 
+        "score": 2, 
+        "sos": "0.48"
+      }, 
+      {
+        "mov": 610, 
+        "name": "Jarota", 
+        "rank": {
+          "swiss": 66
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 557, 
+        "name": "Artur Makowski", 
+        "rank": {
+          "swiss": 67
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 525, 
+        "name": "Baej Misztal", 
+        "rank": {
+          "swiss": 68
+        }, 
+        "score": 2, 
+        "sos": "0.40"
+      }, 
+      {
+        "mov": 523, 
+        "name": "Rafa Mika", 
+        "rank": {
+          "swiss": 69
+        }, 
+        "score": 2, 
+        "sos": "0.42"
+      }, 
+      {
+        "mov": 482, 
+        "name": "Mateusz Mikrut", 
+        "rank": {
+          "swiss": 70
+        }, 
+        "score": 2, 
+        "sos": "0.43"
+      }, 
+      {
+        "mov": 482, 
+        "name": "Micha Lasecki", 
+        "rank": {
+          "swiss": 71
+        }, 
+        "score": 2, 
+        "sos": "0.40"
+      }, 
+      {
+        "mov": 474, 
+        "name": "Marcin Puzon", 
+        "rank": {
+          "swiss": 72
+        }, 
+        "score": 2, 
+        "sos": "0.43"
+      }, 
+      {
+        "mov": 459, 
+        "name": "Tomasz Drozdowski", 
+        "rank": {
+          "swiss": 73
+        }, 
+        "score": 2, 
+        "sos": "0.39"
+      }, 
+      {
+        "mov": 425, 
+        "name": "Filip Kraso", 
+        "rank": {
+          "swiss": 74
+        }, 
+        "score": 2, 
+        "sos": "0.35"
+      }, 
+      {
+        "mov": 423, 
+        "name": "Janusz Franas", 
+        "rank": {
+          "swiss": 75
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 422, 
+        "name": "ukasz Czosnowski", 
+        "rank": {
+          "swiss": 76
+        }, 
+        "score": 2, 
+        "sos": "0.47"
+      }, 
+      {
+        "mov": 404, 
+        "name": "ukasz Leszkiewicz", 
+        "rank": {
+          "swiss": 77
+        }, 
+        "score": 2, 
+        "sos": "0.42"
+      }, 
+      {
+        "mov": 395, 
+        "name": "Marek Czosnowski", 
+        "rank": {
+          "swiss": 78
+        }, 
+        "score": 2, 
+        "sos": "0.61"
+      }, 
+      {
+        "mov": 393, 
+        "name": "Alku Nosibal Garblu", 
+        "rank": {
+          "swiss": 79
+        }, 
+        "score": 2, 
+        "sos": "0.31"
+      }, 
+      {
+        "mov": 370, 
+        "name": "Patryk Bodga", 
+        "rank": {
+          "swiss": 80
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 338, 
+        "name": "Martin \"Lonestar\" Kdoul", 
+        "rank": {
+          "swiss": 81
+        }, 
+        "score": 2, 
+        "sos": "0.46"
+      }, 
+      {
+        "mov": 267, 
+        "name": "Sawomir Lech", 
+        "rank": {
+          "swiss": 82
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 529, 
+        "name": "Pawe Kruk", 
+        "rank": {
+          "swiss": 83
+        }, 
+        "score": 1, 
+        "sos": "0.34"
+      }, 
+      {
+        "mov": 468, 
+        "name": "Karol Pruszkowski", 
+        "rank": {
+          "swiss": 84
+        }, 
+        "score": 1, 
+        "sos": "0.39"
+      }, 
+      {
+        "mov": 391, 
+        "name": "Szymon Hataa", 
+        "rank": {
+          "swiss": 85
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 351, 
+        "name": "Piotr Bausiak", 
+        "rank": {
+          "swiss": 86
+        }, 
+        "score": 1, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 286, 
+        "name": "Kacper Ml", 
+        "rank": {
+          "swiss": 87
+        }, 
+        "score": 1, 
+        "sos": "0.40"
+      }, 
+      {
+        "mov": 281, 
+        "name": "Bartomiej Bojarski", 
+        "rank": {
+          "swiss": 88
+        }, 
+        "score": 1, 
+        "sos": "0.34"
+      }, 
+      {
+        "mov": 260, 
+        "name": "Jarek Bbenek", 
+        "rank": {
+          "swiss": 89
+        }, 
+        "score": 1, 
+        "sos": "0.48"
+      }, 
+      {
+        "mov": 253, 
+        "name": "Gnom", 
+        "rank": {
+          "swiss": 90
+        }, 
+        "score": 1, 
+        "sos": "0.42"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Borys Marczewski", 
+            "player1points": 50, 
+            "player2": "Mikoaj Szenk", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Piotr Chudobiski", 
+            "player1points": 100, 
+            "player2": "ukasz Leszkiewicz", 
+            "player2points": 31, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tomasz Dusza", 
+            "player1points": 50, 
+            "player2": "Benjamin Toth", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Czarny Kowboj", 
+            "player1points": 100, 
+            "player2": "Tomasz Drozdowski", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pawe Morawski", 
+            "player1points": 0, 
+            "player2": "Arkadiusz Kuna", 
+            "player2points": 68, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bartosz Burchardt", 
+            "player1points": 100, 
+            "player2": "Wojciech Ziba", 
+            "player2points": 28, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Artur Toczyski", 
+            "player1points": 100, 
+            "player2": "Pawe Kruk", 
+            "player2points": 56, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Micha Enzeru Nowak", 
+            "player1points": 100, 
+            "player2": "Mateusz Mikrut", 
+            "player2points": 57, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Micha Keller", 
+            "player1points": 100, 
+            "player2": "Kacper Ml", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jacek Kaczmarski", 
+            "player1points": 57, 
+            "player2": "Jan Swirski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Gnom", 
+            "player1points": 87, 
+            "player2": "Chris Haenze", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Fabian Wandas", 
+            "player1points": 0, 
+            "player2": "Krzysztof Trojanowski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tomasz Folta", 
+            "player1points": 31, 
+            "player2": "Marcin Puzon", 
+            "player2points": 29, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Remigiusz Denda", 
+            "player1points": 64, 
+            "player2": "Filip Vuk Vuki", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "ukasz Czosnowski", 
+            "player1points": 100, 
+            "player2": "Marcin Rczka", 
+            "player2points": 66, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Regrof", 
+            "player1points": 24, 
+            "player2": "Andrzej Zajc", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Piotr wietlicki", 
+            "player1points": 32, 
+            "player2": "Lukasz Golonka", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sascha Wagner", 
+            "player1points": 40, 
+            "player2": "Przemysaw Alakhaj Talach", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marek Mirek Domaski", 
+            "player1points": 25, 
+            "player2": "Agata Pikulska", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Krzysztof Matejko", 
+            "player1points": 100, 
+            "player2": "Radosaw Godzimirski", 
+            "player2points": 57, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Baej Misztal", 
+            "player1points": 22, 
+            "player2": "Lukasz Noga", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ken", 
+            "player1points": 100, 
+            "player2": "Janusz Franas", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Karol Pruszkowski", 
+            "player1points": 0, 
+            "player2": "Karol Pietrowicz", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "James Finlayson", 
+            "player1points": 0, 
+            "player2": "Maciej Baliski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mateusz Szymkowiak", 
+            "player1points": 100, 
+            "player2": "Sawomir Lech", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Micha Gsiorowski", 
+            "player1points": 100, 
+            "player2": "Szymon Hataa", 
+            "player2points": 23, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pafawag", 
+            "player1points": 100, 
+            "player2": "Rafa Kurowiak", 
+            "player2points": 53, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tomasz Pawlak", 
+            "player1points": 100, 
+            "player2": "Pawe Kapaka", 
+            "player2points": 29, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Wojciech Szafalowicz", 
+            "player1points": 100, 
+            "player2": "Piotr Bausiak", 
+            "player2points": 30, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Wojtek Kinasz", 
+            "player1points": 100, 
+            "player2": "Patryk Bodga", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Krzysztof Piszcz", 
+            "player1points": 31, 
+            "player2": "Micha Drozd", 
+            "player2points": 27, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mateusz Kaposki", 
+            "player1points": 100, 
+            "player2": "Filip Kraso", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Micha Lasecki", 
+            "player1points": 31, 
+            "player2": "Marcin Kazaa", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Oliwier Mroczkowski", 
+            "player1points": 32, 
+            "player2": "Micha Bobrowski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Angus", 
+            "player1points": 100, 
+            "player2": "XVC", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Grzegorz Kapaka", 
+            "player1points": 100, 
+            "player2": "Piotr Gruszecki", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Morlokus", 
+            "player1points": 59, 
+            "player2": "Jdrek Wicha", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Adam Nowakowski", 
+            "player1points": 100, 
+            "player2": "Neo", 
+            "player2points": 41, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bartomiej Bojarski", 
+            "player1points": 17, 
+            "player2": "Artur Makowski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jarek Bbenek", 
+            "player1points": 100, 
+            "player2": "Micha Krawczak", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pawe Gsiewski", 
+            "player1points": 47, 
+            "player2": "Piotr Krzempek", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jarota", 
+            "player1points": 100, 
+            "player2": "Martin \"Lonestar\" Kdoul", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Micha Winiowski", 
+            "player1points": 55, 
+            "player2": "Micha Kolasiski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alku Nosibal Garblu", 
+            "player1points": 58, 
+            "player2": "Marek Czosnowski", 
+            "player2points": 71, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Wojciech Szerlag", 
+            "player1points": 26, 
+            "player2": "Andreas Osterroth", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "ukasz Kokos Kukla", 
+            "player1points": 100, 
+            "player2": "Edgar Rynkowski", 
+            "player2points": 48, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marek Kovac", 
+            "player1points": 32, 
+            "player2": "Niewiem", 
+            "player2points": 33, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Rafa Mika", 
+            "player1points": 0, 
+            "player2": "Gerwaz", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Dariusz Januszkiewicz", 
+            "player1points": 100, 
+            "player2": "Pawe Rojewski", 
+            "player2points": 62, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Karol Drynda", 
+            "player1points": 14, 
+            "player2": "Off Jenkins", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "SlaaN", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }, 
+          {
+            "player1": "Micha Lewandowski", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }, 
+          {
+            "player1": "Andrzej Rodziewicz", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }, 
+          {
+            "player1": "Lukasz Krysiak", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }, 
+          {
+            "player1": "Bartomiej Stroiski", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }, 
+          {
+            "player1": "Zdenek Rajtr", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }, 
+          {
+            "player1": "Maciej Rzepiski", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Jan Swirski", 
+            "player1points": 23, 
+            "player2": "Ken", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "elimination"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Tomasz Folta", 
+            "player1points": 27, 
+            "player2": "Jan Swirski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marcin Kazaa", 
+            "player1points": 100, 
+            "player2": "XVC", 
+            "player2points": 39, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bartosz Burchardt", 
+            "player1points": 25, 
+            "player2": "Mikoaj Szenk", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Krzysztof Trojanowski", 
+            "player1points": 100, 
+            "player2": "Jarota", 
+            "player2points": 82, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jdrek Wicha", 
+            "player1points": 31, 
+            "player2": "Karol Pietrowicz", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "ukasz Czosnowski", 
+            "player1points": 70, 
+            "player2": "Chris Haenze", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Artur Makowski", 
+            "player1points": 49, 
+            "player2": "Andrzej Rodziewicz", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Wojtek Kinasz", 
+            "player1points": 0, 
+            "player2": "Krzysztof Piszcz", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jarek Bbenek", 
+            "player1points": 60, 
+            "player2": "Micha Kolasiski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Maciej Baliski", 
+            "player1points": 53, 
+            "player2": "Piotr Krzempek", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lukasz Noga", 
+            "player1points": 100, 
+            "player2": "ukasz Kokos Kukla", 
+            "player2points": 22, 
+            "result": "win"
+          }, 
+          {
+            "player1": "SlaaN", 
+            "player1points": 100, 
+            "player2": "Micha Keller", 
+            "player2points": 36, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mateusz Kaposki", 
+            "player1points": 29, 
+            "player2": "Zdenek Rajtr", 
+            "player2points": 69, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Maciej Rzepiski", 
+            "player1points": 0, 
+            "player2": "Lukasz Golonka", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mateusz Szymkowiak", 
+            "player1points": 100, 
+            "player2": "Arkadiusz Kuna", 
+            "player2points": 68, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Grzegorz Kapaka", 
+            "player1points": 32, 
+            "player2": "Micha Bobrowski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marek Czosnowski", 
+            "player1points": 100, 
+            "player2": "Piotr Chudobiski", 
+            "player2points": 14, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Artur Toczyski", 
+            "player1points": 28, 
+            "player2": "Micha Enzeru Nowak", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lukasz Krysiak", 
+            "player1points": 73, 
+            "player2": "Pafawag", 
+            "player2points": 55, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Dariusz Januszkiewicz", 
+            "player1points": 54, 
+            "player2": "Gerwaz", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Niewiem", 
+            "player1points": 25, 
+            "player2": "Benjamin Toth", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Micha Gsiorowski", 
+            "player1points": 100, 
+            "player2": "Andrzej Zajc", 
+            "player2points": 23, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Off Jenkins", 
+            "player1points": 100, 
+            "player2": "Adam Nowakowski", 
+            "player2points": 33, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tomasz Pawlak", 
+            "player1points": 0, 
+            "player2": "Marek Mirek Domaski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bartomiej Stroiski", 
+            "player1points": 0, 
+            "player2": "Filip Vuk Vuki", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Przemysaw Alakhaj Talach", 
+            "player1points": 100, 
+            "player2": "Krzysztof Matejko", 
+            "player2points": 20, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Wojciech Szafalowicz", 
+            "player1points": 53, 
+            "player2": "Andreas Osterroth", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ken", 
+            "player1points": 100, 
+            "player2": "Micha Lewandowski", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Czarny Kowboj", 
+            "player1points": 100, 
+            "player2": "Rafa Mika", 
+            "player2points": 24, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Kacper Ml", 
+            "player1points": 0, 
+            "player2": "Patryk Bodga", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Neo", 
+            "player1points": 100, 
+            "player2": "Piotr Bausiak", 
+            "player2points": 47, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Micha Drozd", 
+            "player1points": 40, 
+            "player2": "Fabian Wandas", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Filip Kraso", 
+            "player1points": 0, 
+            "player2": "Marcin Rczka", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Radosaw Godzimirski", 
+            "player1points": 100, 
+            "player2": "Piotr Gruszecki", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Agata Pikulska", 
+            "player1points": 0, 
+            "player2": "Pawe Morawski", 
+            "player2points": 70, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jacek Kaczmarski", 
+            "player1points": 100, 
+            "player2": "Micha Krawczak", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Morlokus", 
+            "player1points": 68, 
+            "player2": "Wojciech Ziba", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Karol Drynda", 
+            "player1points": 100, 
+            "player2": "Alku Nosibal Garblu", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mateusz Mikrut", 
+            "player1points": 61, 
+            "player2": "Martin \"Lonestar\" Kdoul", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tomasz Dusza", 
+            "player1points": 100, 
+            "player2": "Janusz Franas", 
+            "player2points": 50, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pawe Gsiewski", 
+            "player1points": 38, 
+            "player2": "Edgar Rynkowski", 
+            "player2points": 46, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Piotr wietlicki", 
+            "player1points": 100, 
+            "player2": "Gnom", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Micha Winiowski", 
+            "player1points": 0, 
+            "player2": "Pawe Kruk", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Angus", 
+            "player1points": 100, 
+            "player2": "Pawe Rojewski", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marcin Puzon", 
+            "player1points": 51, 
+            "player2": "Karol Pruszkowski", 
+            "player2points": 31, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Micha Lasecki", 
+            "player1points": 100, 
+            "player2": "Baej Misztal", 
+            "player2points": 68, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Rafa Kurowiak", 
+            "player1points": 32, 
+            "player2": "Wojciech Szerlag", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sascha Wagner", 
+            "player1points": 100, 
+            "player2": "Pawe Kapaka", 
+            "player2points": 27, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Szymon Hataa", 
+            "player1points": 100, 
+            "player2": "Remigiusz Denda", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "ukasz Leszkiewicz", 
+            "player1points": 0, 
+            "player2": "Oliwier Mroczkowski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sawomir Lech", 
+            "player1points": 0, 
+            "player2": "Marek Kovac", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Regrof", 
+            "player1points": 100, 
+            "player2": "James Finlayson", 
+            "player2points": 66, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bartomiej Bojarski", 
+            "player1points": 0, 
+            "player2": "Tomasz Drozdowski", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Karol Pietrowicz", 
+            "player1points": 100, 
+            "player2": "Benjamin Toth", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Piotr Krzempek", 
+            "player1points": 100, 
+            "player2": "Krzysztof Trojanowski", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Andreas Osterroth", 
+            "player1points": 100, 
+            "player2": "Mikoaj Szenk", 
+            "player2points": 53, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Micha Kolasiski", 
+            "player1points": 100, 
+            "player2": "Zdenek Rajtr", 
+            "player2points": 24, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Micha Enzeru Nowak", 
+            "player1points": 49, 
+            "player2": "Andrzej Rodziewicz", 
+            "player2points": 57, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mateusz Szymkowiak", 
+            "player1points": 100, 
+            "player2": "Marcin Kazaa", 
+            "player2points": 24, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lukasz Golonka", 
+            "player1points": 100, 
+            "player2": "Przemysaw Alakhaj Talach", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Gerwaz", 
+            "player1points": 68, 
+            "player2": "SlaaN", 
+            "player2points": 54, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lukasz Krysiak", 
+            "player1points": 63, 
+            "player2": "Marek Mirek Domaski", 
+            "player2points": 55, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Off Jenkins", 
+            "player1points": 100, 
+            "player2": "Czarny Kowboj", 
+            "player2points": 14, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Krzysztof Piszcz", 
+            "player1points": 100, 
+            "player2": "Micha Bobrowski", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chris Haenze", 
+            "player1points": 57, 
+            "player2": "Jan Swirski", 
+            "player2points": 64, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ken", 
+            "player1points": 100, 
+            "player2": "Lukasz Noga", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marek Czosnowski", 
+            "player1points": 0, 
+            "player2": "Filip Vuk Vuki", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Micha Gsiorowski", 
+            "player1points": 100, 
+            "player2": "Remigiusz Denda", 
+            "player2points": 21, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Grzegorz Kapaka", 
+            "player1points": 31, 
+            "player2": "Marcin Puzon", 
+            "player2points": 66, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Arkadiusz Kuna", 
+            "player1points": 100, 
+            "player2": "Maciej Baliski", 
+            "player2points": 27, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Niewiem", 
+            "player1points": 35, 
+            "player2": "Jarota", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tomasz Folta", 
+            "player1points": 65, 
+            "player2": "Tomasz Pawlak", 
+            "player2points": 59, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Radosaw Godzimirski", 
+            "player1points": 100, 
+            "player2": "Mateusz Kaposki", 
+            "player2points": 52, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Krzysztof Matejko", 
+            "player1points": 32, 
+            "player2": "Martin \"Lonestar\" Kdoul", 
+            "player2points": 67, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pafawag", 
+            "player1points": 100, 
+            "player2": "Artur Toczyski", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marcin Rczka", 
+            "player1points": 31, 
+            "player2": "Patryk Bodga", 
+            "player2points": 68, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jacek Kaczmarski", 
+            "player1points": 100, 
+            "player2": "Wojciech Ziba", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Wojciech Szerlag", 
+            "player1points": 69, 
+            "player2": "Piotr Chudobiski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bartomiej Stroiski", 
+            "player1points": 64, 
+            "player2": "Wojciech Szafalowicz", 
+            "player2points": 40, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Neo", 
+            "player1points": 32, 
+            "player2": "Maciej Rzepiski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Oliwier Mroczkowski", 
+            "player1points": 100, 
+            "player2": "ukasz Kokos Kukla", 
+            "player2points": 22, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Edgar Rynkowski", 
+            "player1points": 100, 
+            "player2": "Tomasz Dusza", 
+            "player2points": 69, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Artur Makowski", 
+            "player1points": 33, 
+            "player2": "Pawe Morawski", 
+            "player2points": 83, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Adam Nowakowski", 
+            "player1points": 37, 
+            "player2": "Micha Lewandowski", 
+            "player2points": 59, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tomasz Drozdowski", 
+            "player1points": 100, 
+            "player2": "Micha Lasecki", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "ukasz Czosnowski", 
+            "player1points": 43, 
+            "player2": "Bartosz Burchardt", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Piotr wietlicki", 
+            "player1points": 41, 
+            "player2": "Jdrek Wicha", 
+            "player2points": 21, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sawomir Lech", 
+            "player1points": 67, 
+            "player2": "Wojtek Kinasz", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sascha Wagner", 
+            "player1points": 100, 
+            "player2": "Angus", 
+            "player2points": 53, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Micha Keller", 
+            "player1points": 100, 
+            "player2": "Dariusz Januszkiewicz", 
+            "player2points": 67, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Fabian Wandas", 
+            "player1points": 100, 
+            "player2": "Karol Drynda", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pawe Kruk", 
+            "player1points": 74, 
+            "player2": "XVC", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jarek Bbenek", 
+            "player1points": 0, 
+            "player2": "Andrzej Zajc", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Regrof", 
+            "player1points": 60, 
+            "player2": "Micha Krawczak", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alku Nosibal Garblu", 
+            "player1points": 0, 
+            "player2": "Baej Misztal", 
+            "player2points": 57, 
+            "result": "win"
+          }, 
+          {
+            "player1": "ukasz Leszkiewicz", 
+            "player1points": 100, 
+            "player2": "Piotr Gruszecki", 
+            "player2points": 68, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Micha Winiowski", 
+            "player1points": 34, 
+            "player2": "Rafa Kurowiak", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Micha Drozd", 
+            "player1points": 100, 
+            "player2": "Marek Kovac", 
+            "player2points": 31, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Kacper Ml", 
+            "player1points": 47, 
+            "player2": "Morlokus", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Agata Pikulska", 
+            "player1points": 100, 
+            "player2": "Karol Pruszkowski", 
+            "player2points": 55, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Gnom", 
+            "player1points": 0, 
+            "player2": "Pawe Gsiewski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pawe Rojewski", 
+            "player1points": 70, 
+            "player2": "Mateusz Mikrut", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Piotr Bausiak", 
+            "player1points": 28, 
+            "player2": "James Finlayson", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pawe Kapaka", 
+            "player1points": 100, 
+            "player2": "Janusz Franas", 
+            "player2points": 31, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bartomiej Bojarski", 
+            "player1points": 100, 
+            "player2": "Filip Kraso", 
+            "player2points": 44, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Rafa Mika", 
+            "player1points": 50, 
+            "player2": "Szymon Hataa", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Micha Gsiorowski", 
+            "player1points": 100, 
+            "player2": "Karol Pietrowicz", 
+            "player2points": 23, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Piotr Krzempek", 
+            "player1points": 32, 
+            "player2": "Filip Vuk Vuki", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lukasz Golonka", 
+            "player1points": 100, 
+            "player2": "Gerwaz", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ken", 
+            "player1points": 100, 
+            "player2": "Off Jenkins", 
+            "player2points": 49, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Krzysztof Piszcz", 
+            "player1points": 0, 
+            "player2": "Andrzej Rodziewicz", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lukasz Krysiak", 
+            "player1points": 100, 
+            "player2": "Micha Kolasiski", 
+            "player2points": 55, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mateusz Szymkowiak", 
+            "player1points": 53, 
+            "player2": "Andreas Osterroth", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jan Swirski", 
+            "player1points": 100, 
+            "player2": "Sawomir Lech", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lukasz Noga", 
+            "player1points": 100, 
+            "player2": "Marcin Kazaa", 
+            "player2points": 44, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Fabian Wandas", 
+            "player1points": 59, 
+            "player2": "Tomasz Folta", 
+            "player2points": 48, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Przemysaw Alakhaj Talach", 
+            "player1points": 69, 
+            "player2": "SlaaN", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Patryk Bodga", 
+            "player1points": 0, 
+            "player2": "Bartomiej Stroiski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marcin Puzon", 
+            "player1points": 58, 
+            "player2": "Czarny Kowboj", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Piotr Chudobiski", 
+            "player1points": 0, 
+            "player2": "Arkadiusz Kuna", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Martin \"Lonestar\" Kdoul", 
+            "player1points": 0, 
+            "player2": "Mikoaj Szenk", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Andrzej Zajc", 
+            "player1points": 100, 
+            "player2": "Tomasz Drozdowski", 
+            "player2points": 57, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Micha Keller", 
+            "player1points": 37, 
+            "player2": "Chris Haenze", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jacek Kaczmarski", 
+            "player1points": 39, 
+            "player2": "Micha Lewandowski", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bartosz Burchardt", 
+            "player1points": 29, 
+            "player2": "Zdenek Rajtr", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Micha Bobrowski", 
+            "player1points": 100, 
+            "player2": "Marek Czosnowski", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Edgar Rynkowski", 
+            "player1points": 55, 
+            "player2": "Oliwier Mroczkowski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Radosaw Godzimirski", 
+            "player1points": 28, 
+            "player2": "Micha Enzeru Nowak", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Piotr wietlicki", 
+            "player1points": 63, 
+            "player2": "Maciej Rzepiski", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Niewiem", 
+            "player1points": 36, 
+            "player2": "Marek Mirek Domaski", 
+            "player2points": 35, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pafawag", 
+            "player1points": 0, 
+            "player2": "Krzysztof Trojanowski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "XVC", 
+            "player1points": 33, 
+            "player2": "Pawe Morawski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Benjamin Toth", 
+            "player1points": 100, 
+            "player2": "Sascha Wagner", 
+            "player2points": 50, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pawe Kapaka", 
+            "player1points": 100, 
+            "player2": "Pawe Kruk", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Neo", 
+            "player1points": 100, 
+            "player2": "Rafa Kurowiak", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pawe Gsiewski", 
+            "player1points": 100, 
+            "player2": "Micha Lasecki", 
+            "player2points": 37, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Remigiusz Denda", 
+            "player1points": 100, 
+            "player2": "Mateusz Mikrut", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tomasz Dusza", 
+            "player1points": 0, 
+            "player2": "Artur Toczyski", 
+            "player2points": 50, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Micha Krawczak", 
+            "player1points": 59, 
+            "player2": "Adam Nowakowski", 
+            "player2points": 27, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Karol Drynda", 
+            "player1points": 100, 
+            "player2": "ukasz Czosnowski", 
+            "player2points": 16, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Micha Drozd", 
+            "player1points": 100, 
+            "player2": "ukasz Kokos Kukla", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "player1": "James Finlayson", 
+            "player1points": 100, 
+            "player2": "Grzegorz Kapaka", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Artur Makowski", 
+            "player1points": 100, 
+            "player2": "Angus", 
+            "player2points": 51, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Dariusz Januszkiewicz", 
+            "player1points": 36, 
+            "player2": "Morlokus", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Baej Misztal", 
+            "player1points": 33, 
+            "player2": "Jarota", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jarek Bbenek", 
+            "player1points": 0, 
+            "player2": "Maciej Baliski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tomasz Pawlak", 
+            "player1points": 100, 
+            "player2": "Jdrek Wicha", 
+            "player2points": 29, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bartomiej Bojarski", 
+            "player1points": 34, 
+            "player2": "Wojciech Szafalowicz", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Regrof", 
+            "player1points": 100, 
+            "player2": "Marcin Rczka", 
+            "player2points": 33, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Wojciech Ziba", 
+            "player1points": 32, 
+            "player2": "Mateusz Kaposki", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "ukasz Leszkiewicz", 
+            "player1points": 71, 
+            "player2": "Szymon Hataa", 
+            "player2points": 30, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Krzysztof Matejko", 
+            "player1points": 79, 
+            "player2": "Agata Pikulska", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Rafa Mika", 
+            "player1points": 100, 
+            "player2": "Alku Nosibal Garblu", 
+            "player2points": 27, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Piotr Bausiak", 
+            "player1points": 50, 
+            "player2": "Pawe Rojewski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Gnom", 
+            "player1points": 100, 
+            "player2": "Piotr Gruszecki", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Kacper Ml", 
+            "player1points": 0, 
+            "player2": "Marek Kovac", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Janusz Franas", 
+            "player1points": 75, 
+            "player2": "Karol Pruszkowski", 
+            "player2points": 62, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Filip Kraso", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Jan Swirski", 
+            "player1points": 100, 
+            "player2": "Krzysztof Trojanowski", 
+            "player2points": 57, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ken", 
+            "player1points": 100, 
+            "player2": "Filip Vuk Vuki", 
+            "player2points": 0, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "elimination"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Micha Gsiorowski", 
+            "player1points": 55, 
+            "player2": "Lukasz Krysiak", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lukasz Golonka", 
+            "player1points": 57, 
+            "player2": "Jan Swirski", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Andrzej Rodziewicz", 
+            "player1points": 26, 
+            "player2": "Andreas Osterroth", 
+            "player2points": 48, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Filip Vuk Vuki", 
+            "player1points": 100, 
+            "player2": "Ken", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Chris Haenze", 
+            "player1points": 49, 
+            "player2": "Micha Kolasiski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Piotr wietlicki", 
+            "player1points": 0, 
+            "player2": "Krzysztof Trojanowski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "SlaaN", 
+            "player1points": 0, 
+            "player2": "Jacek Kaczmarski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Krzysztof Piszcz", 
+            "player1points": 100, 
+            "player2": "Fabian Wandas", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Benjamin Toth", 
+            "player1points": 100, 
+            "player2": "Andrzej Zajc", 
+            "player2points": 24, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pawe Morawski", 
+            "player1points": 100, 
+            "player2": "Mateusz Szymkowiak", 
+            "player2points": 33, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Karol Pietrowicz", 
+            "player1points": 0, 
+            "player2": "Oliwier Mroczkowski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lukasz Noga", 
+            "player1points": 0, 
+            "player2": "Off Jenkins", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Micha Bobrowski", 
+            "player1points": 100, 
+            "player2": "Piotr Krzempek", 
+            "player2points": 67, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Niewiem", 
+            "player1points": 100, 
+            "player2": "Zdenek Rajtr", 
+            "player2points": 35, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bartomiej Stroiski", 
+            "player1points": 100, 
+            "player2": "Micha Enzeru Nowak", 
+            "player2points": 60, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mikoaj Szenk", 
+            "player1points": 100, 
+            "player2": "Czarny Kowboj", 
+            "player2points": 25, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Arkadiusz Kuna", 
+            "player1points": 27, 
+            "player2": "Gerwaz", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Remigiusz Denda", 
+            "player1points": 100, 
+            "player2": "Marcin Kazaa", 
+            "player2points": 78, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marek Mirek Domaski", 
+            "player1points": 24, 
+            "player2": "Micha Lewandowski", 
+            "player2points": 68, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sawomir Lech", 
+            "player1points": 0, 
+            "player2": "Bartosz Burchardt", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "James Finlayson", 
+            "player1points": 100, 
+            "player2": "Tomasz Folta", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Karol Drynda", 
+            "player1points": 26, 
+            "player2": "Sascha Wagner", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marcin Puzon", 
+            "player1points": 0, 
+            "player2": "Tomasz Pawlak", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mateusz Kaposki", 
+            "player1points": 68, 
+            "player2": "ukasz Leszkiewicz", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jarota", 
+            "player1points": 0, 
+            "player2": "Regrof", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Artur Makowski", 
+            "player1points": 31, 
+            "player2": "Pawe Kapaka", 
+            "player2points": 66, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Maciej Rzepiski", 
+            "player1points": 20, 
+            "player2": "Przemysaw Alakhaj Talach", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Morlokus", 
+            "player1points": 100, 
+            "player2": "XVC", 
+            "player2points": 67, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Micha Keller", 
+            "player1points": 100, 
+            "player2": "Tomasz Drozdowski", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marek Czosnowski", 
+            "player1points": 0, 
+            "player2": "Pafawag", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Artur Toczyski", 
+            "player1points": 26, 
+            "player2": "Radosaw Godzimirski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Neo", 
+            "player1points": 100, 
+            "player2": "Patryk Bodga", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Micha Drozd", 
+            "player1points": 100, 
+            "player2": "Martin \"Lonestar\" Kdoul", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Maciej Baliski", 
+            "player1points": 100, 
+            "player2": "Agata Pikulska", 
+            "player2points": 37, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Piotr Chudobiski", 
+            "player1points": 100, 
+            "player2": "Micha Krawczak", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pawe Gsiewski", 
+            "player1points": 100, 
+            "player2": "Wojciech Szafalowicz", 
+            "player2points": 13, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Edgar Rynkowski", 
+            "player1points": 29, 
+            "player2": "Baej Misztal", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Micha Lasecki", 
+            "player1points": 50, 
+            "player2": "Tomasz Dusza", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bartomiej Bojarski", 
+            "player1points": 0, 
+            "player2": "Adam Nowakowski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jdrek Wicha", 
+            "player1points": 100, 
+            "player2": "Janusz Franas", 
+            "player2points": 29, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jarek Bbenek", 
+            "player1points": 0, 
+            "player2": "Mateusz Mikrut", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Rafa Kurowiak", 
+            "player1points": 71, 
+            "player2": "Szymon Hataa", 
+            "player2points": 30, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marcin Rczka", 
+            "player1points": 100, 
+            "player2": "Pawe Kruk", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Wojciech Ziba", 
+            "player1points": 100, 
+            "player2": "Filip Kraso", 
+            "player2points": 31, 
+            "result": "win"
+          }, 
+          {
+            "player1": "ukasz Czosnowski", 
+            "player1points": 0, 
+            "player2": "Marek Kovac", 
+            "player2points": 67, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Gnom", 
+            "player1points": 0, 
+            "player2": "Pawe Rojewski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Krzysztof Matejko", 
+            "player1points": 100, 
+            "player2": "Dariusz Januszkiewicz", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "ukasz Kokos Kukla", 
+            "player1points": 100, 
+            "player2": "Rafa Mika", 
+            "player2points": 76, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Angus", 
+            "player1points": 100, 
+            "player2": "Piotr Gruszecki", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alku Nosibal Garblu", 
+            "player1points": 75, 
+            "player2": "Karol Pruszkowski", 
+            "player2points": 72, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Kacper Ml", 
+            "player1points": 55, 
+            "player2": "Piotr Bausiak", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 5, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Lukasz Krysiak", 
+            "player1points": 27, 
+            "player2": "Andreas Osterroth", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lukasz Golonka", 
+            "player1points": 100, 
+            "player2": "Filip Vuk Vuki", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bartomiej Stroiski", 
+            "player1points": 0, 
+            "player2": "Andrzej Rodziewicz", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Krzysztof Piszcz", 
+            "player1points": 100, 
+            "player2": "Benjamin Toth", 
+            "player2points": 37, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mikoaj Szenk", 
+            "player1points": 14, 
+            "player2": "Off Jenkins", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Micha Gsiorowski", 
+            "player1points": 30, 
+            "player2": "Jan Swirski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Micha Bobrowski", 
+            "player1points": 14, 
+            "player2": "Jacek Kaczmarski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Gerwaz", 
+            "player1points": 100, 
+            "player2": "Ken", 
+            "player2points": 67, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Krzysztof Trojanowski", 
+            "player1points": 100, 
+            "player2": "Micha Kolasiski", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Niewiem", 
+            "player1points": 33, 
+            "player2": "Pawe Morawski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Oliwier Mroczkowski", 
+            "player1points": 60, 
+            "player2": "Przemysaw Alakhaj Talach", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Fabian Wandas", 
+            "player1points": 100, 
+            "player2": "Chris Haenze", 
+            "player2points": 65, 
+            "result": "win"
+          }, 
+          {
+            "player1": "James Finlayson", 
+            "player1points": 100, 
+            "player2": "Neo", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mateusz Kaposki", 
+            "player1points": 0, 
+            "player2": "SlaaN", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Zdenek Rajtr", 
+            "player1points": 100, 
+            "player2": "Micha Keller", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Micha Lewandowski", 
+            "player1points": 29, 
+            "player2": "Tomasz Pawlak", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Piotr Krzempek", 
+            "player1points": 26, 
+            "player2": "Sascha Wagner", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Regrof", 
+            "player1points": 100, 
+            "player2": "Lukasz Noga", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Karol Pietrowicz", 
+            "player1points": 100, 
+            "player2": "Pawe Kapaka", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Czarny Kowboj", 
+            "player1points": 0, 
+            "player2": "Piotr Chudobiski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Radosaw Godzimirski", 
+            "player1points": 100, 
+            "player2": "Andrzej Zajc", 
+            "player2points": 52, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Micha Enzeru Nowak", 
+            "player1points": 100, 
+            "player2": "Mateusz Szymkowiak", 
+            "player2points": 43, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Remigiusz Denda", 
+            "player1points": 35, 
+            "player2": "Pawe Gsiewski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bartosz Burchardt", 
+            "player1points": 100, 
+            "player2": "Morlokus", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Micha Drozd", 
+            "player1points": 0, 
+            "player2": "Maciej Baliski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pafawag", 
+            "player1points": 100, 
+            "player2": "Arkadiusz Kuna", 
+            "player2points": 26, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marek Czosnowski", 
+            "player1points": 69, 
+            "player2": "Karol Drynda", 
+            "player2points": 73, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jdrek Wicha", 
+            "player1points": 68, 
+            "player2": "Artur Makowski", 
+            "player2points": 29, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marek Kovac", 
+            "player1points": 37, 
+            "player2": "Marcin Puzon", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marek Mirek Domaski", 
+            "player1points": 100, 
+            "player2": "ukasz Leszkiewicz", 
+            "player2points": 36, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marcin Rczka", 
+            "player1points": 68, 
+            "player2": "Jarota", 
+            "player2points": 64, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Angus", 
+            "player1points": 100, 
+            "player2": "Martin \"Lonestar\" Kdoul", 
+            "player2points": 64, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Baej Misztal", 
+            "player1points": 74, 
+            "player2": "ukasz Kokos Kukla", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tomasz Folta", 
+            "player1points": 101, 
+            "player2": "Adam Nowakowski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mateusz Mikrut", 
+            "player1points": 34, 
+            "player2": "Rafa Kurowiak", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Patryk Bodga", 
+            "player1points": 33, 
+            "player2": "Maciej Rzepiski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tomasz Dusza", 
+            "player1points": 100, 
+            "player2": "Sawomir Lech", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "XVC", 
+            "player1points": 0, 
+            "player2": "Agata Pikulska", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Tomasz Drozdowski", 
+            "player1points": 0, 
+            "player2": "Janusz Franas", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Micha Lasecki", 
+            "player1points": 100, 
+            "player2": "Szymon Hataa", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Rafa Mika", 
+            "player1points": 100, 
+            "player2": "Gnom", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pawe Kruk", 
+            "player1points": 0, 
+            "player2": "Alku Nosibal Garblu", 
+            "player2points": 1, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jarek Bbenek", 
+            "player1points": 0, 
+            "player2": "Filip Kraso", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "ukasz Czosnowski", 
+            "player1points": 59, 
+            "player2": "Bartomiej Bojarski", 
+            "player2points": 33, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Piotr Bausiak", 
+            "player1points": 51, 
+            "player2": "Karol Pruszkowski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Kacper Ml", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 6, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Lukasz Golonka", 
+            "player1points": 30, 
+            "player2": "Jan Swirski", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Krzysztof Trojanowski", 
+            "player1points": 100, 
+            "player2": "Off Jenkins", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ken", 
+            "player1points": 100, 
+            "player2": "Andrzej Rodziewicz", 
+            "player2points": 21, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Filip Vuk Vuki", 
+            "player1points": 100, 
+            "player2": "Andreas Osterroth", 
+            "player2points": 68, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 8, 
+        "round-type": "elimination"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Lukasz Golonka", 
+            "player1points": 100, 
+            "player2": "James Finlayson", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jan Swirski", 
+            "player1points": 64, 
+            "player2": "Pawe Morawski", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Krzysztof Trojanowski", 
+            "player1points": 100, 
+            "player2": "Lukasz Krysiak", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Off Jenkins", 
+            "player1points": 100, 
+            "player2": "Pawe Gsiewski", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jacek Kaczmarski", 
+            "player1points": 23, 
+            "player2": "Ken", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Andrzej Rodziewicz", 
+            "player1points": 100, 
+            "player2": "Gerwaz", 
+            "player2points": 51, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Filip Vuk Vuki", 
+            "player1points": 100, 
+            "player2": "Krzysztof Piszcz", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Andreas Osterroth", 
+            "player1points": 100, 
+            "player2": "Maciej Baliski", 
+            "player2points": 0, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 16, 
+        "round-type": "elimination"
+      }
+    ], 
+    "type": "Nationals", 
+    "venue": {
+      "city": "Krakow", 
+      "country": "Poland", 
+      "lat": "50.061947400000", 
+      "lon": "19.936856400000", 
+      "name": "Krakowska Meta", 
+      "state": "Malopolskie"
+    }, 
+    "video_url": "https://www.youtube.com/watch?v=fohR7phCEkI"
+  }
+}
