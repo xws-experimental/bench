@@ -1,0 +1,1322 @@
+{
+  "tournament": {
+    "date": "2018-08-18", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4642, 
+    "name": "X-Wing Store Championship 2018", 
+    "players": [
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "karthakkpirate", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "proximitymines"
+                ], 
+                "crew": [
+                  "bobafett"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ]
+              }
+            }, 
+            {
+              "name": "karthakkpirate", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "crew": [
+                  "cadbane"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "turret": [
+                  "autoblasterturret"
+                ]
+              }
+            }, 
+            {
+              "name": "karthakkpirate", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "turret": [
+                  "autoblasterturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 666, 
+        "name": "Aaron Walkom", 
+        "rank": {
+          "elimination": 2, 
+          "swiss": 1
+        }, 
+        "score": 4, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 614, 
+        "name": "Dylan van de Leur", 
+        "rank": {
+          "elimination": 8, 
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 571, 
+        "name": "Greg McKenzie", 
+        "rank": {
+          "elimination": 8, 
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "majorvermeil", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "directorkrennic", 
+                  "isbslicer"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "puresabacc", 
+              "ship": "tiestriker", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "adaptiveailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "adaptability"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 556, 
+        "name": "Joshua Cheng ", 
+        "rank": {
+          "elimination": 8, 
+          "swiss": 4
+        }, 
+        "score": 3, 
+        "sos": "0.75"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "darthvader", 
+              "ship": "tieadvanced", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "advtargetingcomputer"
+                ], 
+                "title": [
+                  "tiex1"
+                ]
+              }
+            }, 
+            {
+              "name": "captainyorr", 
+              "ship": "lambdaclassshuttle", 
+              "upgrades": {
+                "crew": [
+                  "emperorpalpatine"
+                ], 
+                "system": [
+                  "targetingscrambler"
+                ]
+              }
+            }, 
+            {
+              "name": "scarifbasepilot", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "directorkrennic", 
+                  "isbslicer"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 550, 
+        "name": "Liam Earley", 
+        "rank": {
+          "elimination": 1, 
+          "swiss": 5
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "proximitymines"
+                ], 
+                "crew": [
+                  "sawgerrera"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "experimentalinterface"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "accuracycorrector"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "autoblasterturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 503, 
+        "name": "Barry Earley ", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 6
+        }, 
+        "score": 3, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 490, 
+        "name": "Vincent Di Fabrizio ", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 7
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 464, 
+        "name": "Joshua Sullivan", 
+        "rank": {
+          "elimination": 8, 
+          "swiss": 8
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 496, 
+        "name": "Bob Quinn", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 487, 
+        "name": "Matthew McConnell", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 2, 
+        "sos": "0.38"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "operationsspecialist"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "mod": [
+                  "multispectralcamouflage"
+                ]
+              }
+            }, 
+            {
+              "name": "cavernangelszealot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "mod": [
+                  "integratedastromech", 
+                  "servomotorsfoils"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "cavernangelszealot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "mod": [
+                  "integratedastromech", 
+                  "servomotorsfoils"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "cavernangelszealot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "mod": [
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "banditsquadronpilot", 
+              "ship": "z95headhunter", 
+              "upgrades": {
+                "missile": [
+                  "xx23sthreadtracers"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 440, 
+        "name": "Andrew Symons", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 2, 
+        "sos": "0.69"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "cavernangelszealot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "cavernangelszealot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "selflessness"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "wesjanson", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "integratedastromech", 
+                  "servomotorsfoils"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "sawgerrera", 
+              "ship": "uwing", 
+              "upgrades": {
+                "crew": [
+                  "leebo", 
+                  "rey"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "system": [
+                  "thrustcorrector"
+                ], 
+                "title": [
+                  "pivotwing"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 383, 
+        "name": "Samantha Davies", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 380, 
+        "name": "Nate Sobejko", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 354, 
+        "name": "Alex Sandoval", 
+        "rank": {
+          "swiss": 14
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 337, 
+        "name": "William Woods", 
+        "rank": {
+          "swiss": 15
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 336, 
+        "name": "Cameron Haynes", 
+        "rank": {
+          "swiss": 16
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 321, 
+        "name": "Joshua Corcoran", 
+        "rank": {
+          "swiss": 17
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "chewbacca", 
+              "ship": "yt1300", 
+              "upgrades": {
+                "crew": [
+                  "sawgerrera", 
+                  "r2d2-swx22"
+                ], 
+                "ept": [
+                  "predator"
+                ], 
+                "title": [
+                  "millenniumfalcon"
+                ]
+              }
+            }, 
+            {
+              "name": "goldsquadronpilot", 
+              "ship": "ywing", 
+              "upgrades": {
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "goldsquadronpilot", 
+              "ship": "ywing", 
+              "upgrades": {
+                "amd": [
+                  "chopper-swx72"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "torpedo": [
+                  "bombloadout"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 361, 
+        "name": "isaac walkom", 
+        "rank": {
+          "swiss": 18
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 321, 
+        "name": "Evan Cheng", 
+        "rank": {
+          "swiss": 19
+        }, 
+        "score": 1, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 320, 
+        "name": "Vladimir Piscetek", 
+        "rank": {
+          "swiss": 20
+        }, 
+        "score": 1, 
+        "sos": "0.58"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "ig88c", 
+              "ship": "aggressor", 
+              "upgrades": {
+                "cannon": [
+                  "autoblaster", 
+                  "tractorbeam"
+                ], 
+                "ept": [
+                  "attannimindlink"
+                ], 
+                "illicit": [
+                  "contrabandcybernetics"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "advancedsensors"
+                ], 
+                "title": [
+                  "ig2000"
+                ]
+              }
+            }, 
+            {
+              "name": "ig88d", 
+              "ship": "aggressor", 
+              "upgrades": {
+                "cannon": [
+                  "heavylasercannon", 
+                  "tractorbeam"
+                ], 
+                "ept": [
+                  "attannimindlink"
+                ], 
+                "illicit": [
+                  "inertialdampeners"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "advancedsensors"
+                ], 
+                "title": [
+                  "ig2000"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 257, 
+        "name": "Mark Cheng", 
+        "rank": {
+          "swiss": 21
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 171, 
+        "name": "Darian Sheiles", 
+        "rank": {
+          "swiss": 22
+        }, 
+        "score": 1, 
+        "sos": "0.58"
+      }, 
+      {
+        "mov": 72, 
+        "name": "Greg Farrell", 
+        "rank": {
+          "swiss": 23
+        }, 
+        "score": 0, 
+        "sos": "0.44"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "dashrendar", 
+              "ship": "yt2400", 
+              "upgrades": {
+                "cannon": [
+                  "heavylasercannon"
+                ], 
+                "crew": [
+                  "rey"
+                ], 
+                "ept": [
+                  "trickshot"
+                ], 
+                "title": [
+                  "outrider"
+                ]
+              }
+            }, 
+            {
+              "name": "chewbacca", 
+              "ship": "yt1300", 
+              "upgrades": {
+                "crew": [
+                  "chopper", 
+                  "c3po"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "title": [
+                  "millenniumfalcon"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 0, 
+        "name": "Shawn Rayson", 
+        "rank": {
+          "swiss": 24
+        }, 
+        "score": 0, 
+        "sos": "0.75"
+      }
+    ], 
+    "round_length": 120, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "Cameron Haynes", 
+            "player1points": 0, 
+            "player2": "Greg McKenzie", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Joshua Cheng ", 
+            "player1points": 100, 
+            "player2": "William Woods", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Nate Sobejko", 
+            "player1points": 29, 
+            "player2": "Bob Quinn", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Greg Farrell", 
+            "player1points": 20, 
+            "player2": "Joshua Corcoran", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Darian Sheiles", 
+            "player1points": 0, 
+            "player2": "Aaron Walkom", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Alex Sandoval", 
+            "player1points": 100, 
+            "player2": "Evan Cheng", 
+            "player2points": 28, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Liam Earley", 
+            "player1points": 100, 
+            "player2": "Mark Cheng", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "isaac walkom", 
+            "player1points": 58, 
+            "player2": "Vincent Di Fabrizio ", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Samantha Davies", 
+            "player1points": 55, 
+            "player2": "Joshua Sullivan", 
+            "player2points": 78, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Dylan van de Leur", 
+            "player1points": 100, 
+            "player2": "Shawn Rayson", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Matthew McConnell", 
+            "player1points": 48, 
+            "player2": "Barry Earley ", 
+            "player2points": 63, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Vladimir Piscetek", 
+            "player1points": 55, 
+            "player2": "Andrew Symons", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "Joshua Cheng ", 
+            "player1points": 100, 
+            "player2": "Liam Earley", 
+            "player2points": 39, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Joshua Corcoran", 
+            "player1points": 0, 
+            "player2": "Joshua Sullivan", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Andrew Symons", 
+            "player1points": 100, 
+            "player2": "Greg McKenzie", 
+            "player2points": 37, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Barry Earley ", 
+            "player1points": 100, 
+            "player2": "Vincent Di Fabrizio ", 
+            "player2points": 48, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Bob Quinn", 
+            "player1points": 66, 
+            "player2": "Aaron Walkom", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Alex Sandoval", 
+            "player1points": 23, 
+            "player2": "Dylan van de Leur", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Mark Cheng", 
+            "player1points": 100, 
+            "player2": "Evan Cheng", 
+            "player2points": 51, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Matthew McConnell", 
+            "player1points": 100, 
+            "player2": "Greg Farrell", 
+            "player2points": 27, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "William Woods", 
+            "player1points": 100, 
+            "player2": "Cameron Haynes", 
+            "player2points": 70, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "isaac walkom", 
+            "player1points": 44, 
+            "player2": "Samantha Davies", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Nate Sobejko", 
+            "player1points": 100, 
+            "player2": "Darian Sheiles", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Vladimir Piscetek", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "Aaron Walkom", 
+            "player1points": 16, 
+            "player2": "Liam Earley", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "elimination"
+      }, 
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "Joshua Sullivan", 
+            "player1points": 39, 
+            "player2": "Joshua Cheng ", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Andrew Symons", 
+            "player1points": 34, 
+            "player2": "Aaron Walkom", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Barry Earley ", 
+            "player1points": 36, 
+            "player2": "Dylan van de Leur", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Vladimir Piscetek", 
+            "player1points": 58, 
+            "player2": "Vincent Di Fabrizio ", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "William Woods", 
+            "player1points": 49, 
+            "player2": "Nate Sobejko", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Alex Sandoval", 
+            "player1points": 16, 
+            "player2": "Liam Earley", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Bob Quinn", 
+            "player1points": 59, 
+            "player2": "Joshua Corcoran", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Greg McKenzie", 
+            "player1points": 75, 
+            "player2": "Mark Cheng", 
+            "player2points": 41, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Samantha Davies", 
+            "player1points": 34, 
+            "player2": "Matthew McConnell", 
+            "player2points": 26, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Greg Farrell", 
+            "player1points": 25, 
+            "player2": "isaac walkom", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Evan Cheng", 
+            "player1points": 100, 
+            "player2": "Darian Sheiles", 
+            "player2points": 21, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Cameron Haynes", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "Joshua Cheng ", 
+            "player1points": 34, 
+            "player2": "Aaron Walkom", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Dylan van de Leur", 
+            "player1points": 32, 
+            "player2": "Liam Earley", 
+            "player2points": 59, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Andrew Symons", 
+            "player1points": 53, 
+            "player2": "Joshua Sullivan", 
+            "player2points": 55, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Joshua Corcoran", 
+            "player1points": 0, 
+            "player2": "Greg McKenzie", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Vincent Di Fabrizio ", 
+            "player1points": 100, 
+            "player2": "Samantha Davies", 
+            "player2points": 42, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Barry Earley ", 
+            "player1points": 100, 
+            "player2": "Nate Sobejko", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Matthew McConnell", 
+            "player1points": 100, 
+            "player2": "Evan Cheng", 
+            "player2points": 63, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "William Woods", 
+            "player1points": 100, 
+            "player2": "Mark Cheng", 
+            "player2points": 42, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Alex Sandoval", 
+            "player1points": 100, 
+            "player2": "Vladimir Piscetek", 
+            "player2points": 57, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Cameron Haynes", 
+            "player1points": 100, 
+            "player2": "isaac walkom", 
+            "player2points": 84, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Bob Quinn", 
+            "player1points": 100, 
+            "player2": "Greg Farrell", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Darian Sheiles", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "Aaron Walkom", 
+            "player1points": 100, 
+            "player2": "Vincent Di Fabrizio ", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Barry Earley ", 
+            "player1points": 0, 
+            "player2": "Liam Earley", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "elimination"
+      }, 
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "Aaron Walkom", 
+            "player1points": 100, 
+            "player2": "Joshua Sullivan", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Joshua Cheng ", 
+            "player1points": 16, 
+            "player2": "Liam Earley", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Greg McKenzie", 
+            "player1points": 52, 
+            "player2": "Barry Earley ", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "Dylan van de Leur", 
+            "player1points": 58, 
+            "player2": "Vincent Di Fabrizio ", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 8, 
+        "round-type": "elimination"
+      }
+    ], 
+    "type": "Store Championship", 
+    "venue": {
+      "city": "Warwick", 
+      "country": "Australia", 
+      "lat": "-31.844827000000", 
+      "lon": "115.796395300000", 
+      "name": "Stratagem", 
+      "state": "Western Australia"
+    }
+  }
+}
