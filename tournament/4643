@@ -42,6 +42,91 @@
         "sos": "0.63"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "partisanrenegade", 
+              "ship": "uwing", 
+              "upgrades": {
+                "crew": [
+                  "hansolo", 
+                  "breachspecialist"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "pivotwing"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "partisanrenegade", 
+              "ship": "uwing", 
+              "upgrades": {
+                "crew": [
+                  "jynerso", 
+                  "breachspecialist"
+                ], 
+                "system": [
+                  "advancedsensors"
+                ], 
+                "title": [
+                  "pivotwing"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "partisanrenegade", 
+              "ship": "uwing", 
+              "upgrades": {
+                "crew": [
+                  "reconspecialist", 
+                  "breachspecialist"
+                ], 
+                "system": [
+                  "advancedsensors"
+                ], 
+                "title": [
+                  "pivotwing"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "partisanrenegade", 
+              "ship": "uwing", 
+              "upgrades": {
+                "crew": [
+                  "rey", 
+                  "breachspecialist"
+                ], 
+                "system": [
+                  "advancedsensors"
+                ], 
+                "title": [
+                  "pivotwing"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 502, 
         "name": "Cassio Galotti", 
         "rank": {
@@ -357,11 +442,11 @@
     ], 
     "type": "Other", 
     "venue": {
-      "city": "Vitria", 
+      "city": "Vitoria", 
       "country": "Brazil", 
       "lat": null, 
       "lon": null, 
-      "name": "", 
+      "name": "Nerd's", 
       "state": "Espirito Santo"
     }, 
     "video_url": "http://"
