@@ -1,0 +1,149 @@
+{
+  "tournament": {
+    "date": "2018-08-18", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4649, 
+    "name": "Crystal Dragon Games Store Championship", 
+    "players": [
+      {
+        "mov": 457, 
+        "name": "Lukas McCoy", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 3, 
+        "sos": "0.22"
+      }, 
+      {
+        "mov": 350, 
+        "name": "John Hazen (Evil)", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 2, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 215, 
+        "name": "Jim Athya", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 326, 
+        "name": "Brian Ludwick", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 1, 
+        "sos": "0.78"
+      }, 
+      {
+        "mov": 302, 
+        "name": "Hayden Coxson", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Hayden Coxson", 
+            "player1points": 60, 
+            "player2": "Jim Athya", 
+            "player2points": 69, 
+            "result": "win"
+          }, 
+          {
+            "player1": "John Hazen (Evil)", 
+            "player1points": 0, 
+            "player2": "Brian Ludwick", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lukas McCoy", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Brian Ludwick", 
+            "player1points": 60, 
+            "player2": "Jim Athya", 
+            "player2points": 66, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lukas McCoy", 
+            "player1points": 100, 
+            "player2": "Hayden Coxson", 
+            "player2points": 61, 
+            "result": "win"
+          }, 
+          {
+            "player1": "John Hazen (Evil)", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Jim Athya", 
+            "player1points": 0, 
+            "player2": "John Hazen (Evil)", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lukas McCoy", 
+            "player1points": 100, 
+            "player2": "Brian Ludwick", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Hayden Coxson", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "Niles", 
+      "country": "United States of America", 
+      "lat": "41.182835300000", 
+      "lon": "-80.765358000000", 
+      "name": "Crystal Dragon", 
+      "state": "Ohio"
+    }, 
+    "video_url": "http://"
+  }
+}
