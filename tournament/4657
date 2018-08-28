@@ -1,0 +1,1391 @@
+{
+  "tournament": {
+    "date": "2018-08-25", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4657, 
+    "name": "GD X wing Tournament 5 Agosto", 
+    "players": [
+      {
+        "mov": 66, 
+        "name": "Giancarlo Jeri", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 0, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 91, 
+        "name": "Jean Manuel Quijada", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 0, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 236, 
+        "name": "Patricio Saco", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.40"
+      }, 
+      {
+        "mov": 799, 
+        "name": "Gabriel Derteano", 
+        "rank": {
+          "elimination": 1, 
+          "swiss": 1
+        }, 
+        "score": 5, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 791, 
+        "name": "Angelo Hitotsuishi", 
+        "rank": {
+          "elimination": 2, 
+          "swiss": 2
+        }, 
+        "score": 4, 
+        "sos": "0.40"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "integratedastromech", 
+                  "servomotorsfoils"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "integratedastromech", 
+                  "servomotorsfoils"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "integratedastromech", 
+                  "servomotorsfoils"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "integratedastromech", 
+                  "servomotorsfoils"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "integratedastromech", 
+                  "servomotorsfoils"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 679, 
+        "name": "Arturo Aliaga", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 3
+        }, 
+        "score": 4, 
+        "sos": "0.60"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "wedgeantilles", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "chopper", 
+                  "rey"
+                ], 
+                "ept": [
+                  "drawtheirfire"
+                ]
+              }
+            }, 
+            {
+              "name": "poedameron", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "blackone"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 655, 
+        "name": "Sebastian Nuez", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 4
+        }, 
+        "score": 4, 
+        "sos": "0.68"
+      }, 
+      {
+        "mov": 627, 
+        "name": "Alberto Ego-Aguirre", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 4, 
+        "sos": "0.54"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "countessryad", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "adaptability"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }, 
+            {
+              "name": "glaivesquadronpilot", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "ascoretosettle"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }, 
+            {
+              "name": "colonelvessery", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "swarmleader"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 688, 
+        "name": "Nicols Bazan", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "majorvermeil", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "tactician"
+                ], 
+                "ept": [
+                  "adaptability"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "backdraft", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "adaptability"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "adaptability"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 665, 
+        "name": "Carlos Garcia", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 3, 
+        "sos": "0.36"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "thermaldetonators", 
+                  "protonbombs"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "sabinewren"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 628, 
+        "name": "Jorge Bazan", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 599, 
+        "name": "Pedro Pulgar", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 550, 
+        "name": "Nicolas Bruce", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 3, 
+        "sos": "0.28"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "dashrendar", 
+              "ship": "yt2400", 
+              "upgrades": {
+                "cannon": [
+                  "heavylasercannon"
+                ], 
+                "crew": [
+                  "rey"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "illicit": [
+                  "burnoutslam"
+                ], 
+                "mod": [
+                  "smugglingcompartment", 
+                  "countermeasures"
+                ], 
+                "title": [
+                  "outrider"
+                ]
+              }
+            }, 
+            {
+              "name": "poedameron-swx57", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "bb8"
+                ], 
+                "ept": [
+                  "intensity"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "tech": [
+                  "primedthrusters"
+                ], 
+                "title": [
+                  "blackone"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 486, 
+        "name": "Giancarlo Arbul", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 3, 
+        "sos": "0.64"
+      }, 
+      {
+        "mov": 429, 
+        "name": "Jose Gomez", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 3, 
+        "sos": "0.60"
+      }, 
+      {
+        "mov": 417, 
+        "name": "Jose Fernandez", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 3, 
+        "sos": "0.28"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "kathscarlet", 
+              "ship": "firespray31", 
+              "upgrades": {
+                "bomb": [
+                  "proximitymines"
+                ], 
+                "crew": [
+                  "dengar"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "illicit": [
+                  "glitterstim"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "title": [
+                  "slavei"
+                ]
+              }
+            }, 
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "turret": [
+                  "autoblasterturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 572, 
+        "name": "Hugo Cisneros", 
+        "rank": {
+          "swiss": 14
+        }, 
+        "score": 2, 
+        "sos": "0.48"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "darthvader", 
+              "ship": "tieadvanced", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "advtargetingcomputer"
+                ], 
+                "title": [
+                  "tiex1"
+                ]
+              }
+            }, 
+            {
+              "name": "nusquadronpilot", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 536, 
+        "name": "Guillermo Saona", 
+        "rank": {
+          "swiss": 15
+        }, 
+        "score": 2, 
+        "sos": "0.60"
+      }, 
+      {
+        "mov": 474, 
+        "name": "Jan Bludau", 
+        "rank": {
+          "swiss": 16
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "captainjostero", 
+              "ship": "kihraxzfighter", 
+              "upgrades": {
+                "ept": [
+                  "deadeye"
+                ], 
+                "illicit": [
+                  "contrabandcybernetics"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "multispectralcamouflage", 
+                  "munitionsfailsafe", 
+                  "guidancechips"
+                ], 
+                "title": [
+                  "vaksai"
+                ]
+              }
+            }, 
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "turret": [
+                  "autoblasterturret"
+                ]
+              }
+            }, 
+            {
+              "name": "toranikulda", 
+              "ship": "m12lkimogilafighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "r5tk"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 435, 
+        "name": "Pedro Zegarra", 
+        "rank": {
+          "swiss": 17
+        }, 
+        "score": 2, 
+        "sos": "0.36"
+      }, 
+      {
+        "mov": 379, 
+        "name": "Max Murillo", 
+        "rank": {
+          "swiss": 18
+        }, 
+        "score": 2, 
+        "sos": "0.48"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "testpilotblackout", 
+              "ship": "tiesilencer", 
+              "upgrades": {
+                "ept": [
+                  "trickshot"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "collisiondetector"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "firstordervanguard"
+                ]
+              }
+            }, 
+            {
+              "name": "backdraft", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "system": [
+                  "sensorjammer"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "omegaleader", 
+              "ship": "tiefofighter", 
+              "upgrades": {
+                "ept": [
+                  "juke"
+                ], 
+                "tech": [
+                  "commrelay"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 342, 
+        "name": "Alejandro Villalobos", 
+        "rank": {
+          "swiss": 19
+        }, 
+        "score": 2, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 331, 
+        "name": "Luis Salhuana", 
+        "rank": {
+          "swiss": 20
+        }, 
+        "score": 1, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 173, 
+        "name": "Alonso Montes", 
+        "rank": {
+          "swiss": 21
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 202, 
+        "name": "Vincenzo Darrigo", 
+        "rank": {
+          "swiss": 22
+        }, 
+        "score": 0, 
+        "sos": "0.68"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Jorge Bazan", 
+            "player1points": 100, 
+            "player2": "Angelo Hitotsuishi", 
+            "player2points": 52, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pedro Pulgar", 
+            "player1points": 100, 
+            "player2": "Nicolas Bruce", 
+            "player2points": 38, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Giancarlo Jeri", 
+            "player1points": 23, 
+            "player2": "Patricio Saco", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Max Murillo", 
+            "player1points": 40, 
+            "player2": "Luis Salhuana", 
+            "player2points": 63, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pedro Zegarra", 
+            "player1points": 31, 
+            "player2": "Sebastian Nuez", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Giancarlo Arbul", 
+            "player1points": 68, 
+            "player2": "Nicols Bazan", 
+            "player2points": 28, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jose Gomez", 
+            "player1points": 100, 
+            "player2": "Jan Bludau", 
+            "player2points": 37, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alonso Montes", 
+            "player1points": 0, 
+            "player2": "Alberto Ego-Aguirre", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jose Fernandez", 
+            "player1points": 0, 
+            "player2": "Guillermo Saona", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alejandro Villalobos", 
+            "player1points": 79, 
+            "player2": "Jean Manuel Quijada", 
+            "player2points": 37, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Gabriel Derteano", 
+            "player1points": 39, 
+            "player2": "Vincenzo Darrigo", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Carlos Garcia", 
+            "player1points": 20, 
+            "player2": "Arturo Aliaga", 
+            "player2points": 67, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Hugo Cisneros", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Hugo Cisneros", 
+            "player1points": 20, 
+            "player2": "Arturo Aliaga", 
+            "player2points": 41, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jorge Bazan", 
+            "player1points": 37, 
+            "player2": "Jose Gomez", 
+            "player2points": 46, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Guillermo Saona", 
+            "player1points": 41, 
+            "player2": "Giancarlo Arbul", 
+            "player2points": 60, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Luis Salhuana", 
+            "player1points": 62, 
+            "player2": "Pedro Pulgar", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alberto Ego-Aguirre", 
+            "player1points": 100, 
+            "player2": "Patricio Saco", 
+            "player2points": 59, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alejandro Villalobos", 
+            "player1points": 0, 
+            "player2": "Gabriel Derteano", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sebastian Nuez", 
+            "player1points": 100, 
+            "player2": "Nicols Bazan", 
+            "player2points": 28, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Angelo Hitotsuishi", 
+            "player1points": 61, 
+            "player2": "Vincenzo Darrigo", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Max Murillo", 
+            "player1points": 100, 
+            "player2": "Pedro Zegarra", 
+            "player2points": 31, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Giancarlo Jeri", 
+            "player1points": 43, 
+            "player2": "Nicolas Bruce", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alonso Montes", 
+            "player1points": 23, 
+            "player2": "Jan Bludau", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jean Manuel Quijada", 
+            "player1points": 33, 
+            "player2": "Carlos Garcia", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jose Fernandez", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Gabriel Derteano", 
+            "player1points": 100, 
+            "player2": "Angelo Hitotsuishi", 
+            "player2points": 30, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "elimination"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Giancarlo Arbul", 
+            "player1points": 31, 
+            "player2": "Sebastian Nuez", 
+            "player2points": 55, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Arturo Aliaga", 
+            "player1points": 100, 
+            "player2": "Jose Gomez", 
+            "player2points": 20, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pedro Pulgar", 
+            "player1points": 30, 
+            "player2": "Gabriel Derteano", 
+            "player2points": 31, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alberto Ego-Aguirre", 
+            "player1points": 100, 
+            "player2": "Hugo Cisneros", 
+            "player2points": 73, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Max Murillo", 
+            "player1points": 100, 
+            "player2": "Nicolas Bruce", 
+            "player2points": 67, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jose Fernandez", 
+            "player1points": 0, 
+            "player2": "Jan Bludau", 
+            "player2points": 69, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jorge Bazan", 
+            "player1points": 100, 
+            "player2": "Luis Salhuana", 
+            "player2points": 52, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Angelo Hitotsuishi", 
+            "player1points": 100, 
+            "player2": "Alejandro Villalobos", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Guillermo Saona", 
+            "player1points": 100, 
+            "player2": "Carlos Garcia", 
+            "player2points": 77, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Vincenzo Darrigo", 
+            "player1points": 0, 
+            "player2": "Nicols Bazan", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pedro Zegarra", 
+            "player1points": 100, 
+            "player2": "Giancarlo Jeri", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alonso Montes", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Gabriel Derteano", 
+            "player1points": 100, 
+            "player2": "Alberto Ego-Aguirre", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sebastian Nuez", 
+            "player1points": 80, 
+            "player2": "Arturo Aliaga", 
+            "player2points": 31, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Guillermo Saona", 
+            "player1points": 63, 
+            "player2": "Jose Gomez", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pedro Pulgar", 
+            "player1points": 69, 
+            "player2": "Giancarlo Arbul", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Max Murillo", 
+            "player1points": 0, 
+            "player2": "Jorge Bazan", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jan Bludau", 
+            "player1points": 22, 
+            "player2": "Angelo Hitotsuishi", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nicols Bazan", 
+            "player1points": 100, 
+            "player2": "Alejandro Villalobos", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alonso Montes", 
+            "player1points": 0, 
+            "player2": "Hugo Cisneros", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jose Fernandez", 
+            "player1points": 45, 
+            "player2": "Luis Salhuana", 
+            "player2points": 39, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Carlos Garcia", 
+            "player1points": 100, 
+            "player2": "Pedro Zegarra", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nicolas Bruce", 
+            "player1points": 100, 
+            "player2": "Vincenzo Darrigo", 
+            "player2points": 43, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Gabriel Derteano", 
+            "player1points": 100, 
+            "player2": "Sebastian Nuez", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Angelo Hitotsuishi", 
+            "player1points": 40, 
+            "player2": "Arturo Aliaga", 
+            "player2points": 0, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "elimination"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Gabriel Derteano", 
+            "player1points": 59, 
+            "player2": "Sebastian Nuez", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jose Gomez", 
+            "player1points": 0, 
+            "player2": "Angelo Hitotsuishi", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Arturo Aliaga", 
+            "player1points": 100, 
+            "player2": "Giancarlo Arbul", 
+            "player2points": 20, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alberto Ego-Aguirre", 
+            "player1points": 100, 
+            "player2": "Jorge Bazan", 
+            "player2points": 41, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Max Murillo", 
+            "player1points": 0, 
+            "player2": "Nicols Bazan", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jose Fernandez", 
+            "player1points": 69, 
+            "player2": "Hugo Cisneros", 
+            "player2points": 39, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pedro Pulgar", 
+            "player1points": 100, 
+            "player2": "Jan Bludau", 
+            "player2points": 69, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nicolas Bruce", 
+            "player1points": 100, 
+            "player2": "Guillermo Saona", 
+            "player2points": 69, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Carlos Garcia", 
+            "player1points": 100, 
+            "player2": "Alonso Montes", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alejandro Villalobos", 
+            "player1points": 100, 
+            "player2": "Luis Salhuana", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pedro Zegarra", 
+            "player1points": 100, 
+            "player2": "Vincenzo Darrigo", 
+            "player2points": 59, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 5, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "Lima", 
+      "country": "Peru", 
+      "lat": "-12.062106400000", 
+      "lon": "-77.036525500000", 
+      "name": "GD Games", 
+      "state": "Lima"
+    }, 
+    "video_url": "http://"
+  }
+}

@@ -3,39 +3,26 @@ From github.com:baranidlo/bench
 Already up-to-date.
 Moving old 'tournaments' to 'tournaments.old'...
 Downloading new 'tournaments' file...
---2018-08-27 07:03:32--  http://lists.starwarsclubhouse.com/api/v1/tournaments
+--2018-08-28 07:03:36--  http://lists.starwarsclubhouse.com/api/v1/tournaments
 Resolving lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)... 35.173.69.207
 Connecting to lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)|35.173.69.207|:80... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 44069 (43K) [application/json]
+Length: 44080 (43K) [application/json]
 Saving to: ‘tournaments’
 
-     0K .......... .......... .......... .......... ...       100%  329K=0.1s
+     0K .......... .......... .......... .......... ...       100%  271K=0.2s
 
-2018-08-27 07:03:32 (329 KB/s) - ‘tournaments’ saved [44069/44069]
+2018-08-28 07:03:37 (271 KB/s) - ‘tournaments’ saved [44080/44080]
 
 Downloading new tournament list data...
---2018-08-27 07:03:32--  http://lists.starwarsclubhouse.com/api/v1/tournament/4656
+--2018-08-28 07:03:37--  http://lists.starwarsclubhouse.com/api/v1/tournament/4657
 Resolving lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)... 35.173.69.207
 Connecting to lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)|35.173.69.207|:80... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 11620 (11K) [application/json]
-Saving to: ‘4656’
+Length: 35450 (35K) [application/json]
+Saving to: ‘4657’
 
-     0K .......... .                                          100%  225M=0s
+     0K .......... .......... .......... ....                 100%  407K=0.09s
 
-2018-08-27 07:03:33 (225 MB/s) - ‘4656’ saved [11620/11620]
+2018-08-28 07:03:37 (407 KB/s) - ‘4657’ saved [35450/35450]
 
---2018-08-27 07:03:33--  http://lists.starwarsclubhouse.com/api/v1/tournament/4655
-Resolving lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)... 35.173.69.207
-Connecting to lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)|35.173.69.207|:80... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 21366 (21K) [application/json]
-Saving to: ‘4655’
-
-     0K .......... ..........                                 100%  268K=0.08s
-
-2018-08-27 07:03:33 (268 KB/s) - ‘4655’ saved [21366/21366]
-
-To git@github.com:baranidlo/bench.git
-   791624a..2641c07  gh-pages -> gh-pages
