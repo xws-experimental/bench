@@ -361,7 +361,6 @@
         "mov": 501, 
         "name": "Marc Merino", 
         "rank": {
-          "elimination": 5, 
           "swiss": 5
         }, 
         "score": 3, 
@@ -424,7 +423,6 @@
         "mov": 459, 
         "name": "Angel Figueres", 
         "rank": {
-          "elimination": 6, 
           "swiss": 6
         }, 
         "score": 2, 
@@ -483,7 +481,6 @@
         "mov": 435, 
         "name": "Tomas de Jesus", 
         "rank": {
-          "elimination": 7, 
           "swiss": 7
         }, 
         "score": 2, 
@@ -563,7 +560,6 @@
         "mov": 418, 
         "name": "Miguel Angel Dasi", 
         "rank": {
-          "elimination": 8, 
           "swiss": 8
         }, 
         "score": 2, 
@@ -630,7 +626,6 @@
         "mov": 416, 
         "name": "Angels Cremades", 
         "rank": {
-          "elimination": 9, 
           "swiss": 9
         }, 
         "score": 2, 
@@ -691,7 +686,6 @@
         "mov": 391, 
         "name": "Pau Fernandez", 
         "rank": {
-          "elimination": 10, 
           "swiss": 10
         }, 
         "score": 2, 
@@ -754,7 +748,6 @@
         "mov": 257, 
         "name": "Xavier Vidal", 
         "rank": {
-          "elimination": 11, 
           "swiss": 11
         }, 
         "score": 2, 
@@ -819,7 +812,6 @@
         "mov": 341, 
         "name": "Ivan Gonzalez", 
         "rank": {
-          "elimination": 12, 
           "swiss": 12
         }, 
         "score": 2, 
@@ -872,7 +864,6 @@
         "mov": 325, 
         "name": "Jordi Murria", 
         "rank": {
-          "elimination": 13, 
           "swiss": 13
         }, 
         "score": 2, 
@@ -945,7 +936,6 @@
         "mov": 311, 
         "name": "Adria Zurita", 
         "rank": {
-          "elimination": 14, 
           "swiss": 14
         }, 
         "score": 1, 
@@ -1001,7 +991,6 @@
         "mov": 288, 
         "name": "Josep Grass", 
         "rank": {
-          "elimination": 15, 
           "swiss": 15
         }, 
         "score": 1, 
@@ -1068,7 +1057,6 @@
         "mov": 208, 
         "name": "Alba Vernet", 
         "rank": {
-          "elimination": 16, 
           "swiss": 16
         }, 
         "score": 1, 
@@ -1146,7 +1134,6 @@
         "mov": 147, 
         "name": "Jordi Margalef", 
         "rank": {
-          "elimination": 17, 
           "swiss": 17
         }, 
         "score": 1, 
@@ -1201,7 +1188,6 @@
         "mov": 254, 
         "name": "Issac Rudi", 
         "rank": {
-          "elimination": 18, 
           "swiss": 18
         }, 
         "score": 0, 
@@ -1259,7 +1245,6 @@
         "mov": 0, 
         "name": "Ismael Aixandre", 
         "rank": {
-          "elimination": 19, 
           "swiss": 19
         }, 
         "score": 0, 

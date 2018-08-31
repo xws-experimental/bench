@@ -98,7 +98,6 @@
         "mov": 595, 
         "name": "Brett Freeman", 
         "rank": {
-          "elimination": 1, 
           "swiss": 1
         }, 
         "score": 3, 
@@ -169,7 +168,6 @@
         "mov": 539, 
         "name": "Paul Aglialoro", 
         "rank": {
-          "elimination": 2, 
           "swiss": 2
         }, 
         "score": 3, 

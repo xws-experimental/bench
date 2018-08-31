@@ -62,7 +62,6 @@
         "mov": 690, 
         "name": "Nathanael May", 
         "rank": {
-          "elimination": 1, 
           "swiss": 1
         }, 
         "score": 4, 
@@ -139,7 +138,6 @@
         "mov": 600, 
         "name": "Allyn Mcnaughton", 
         "rank": {
-          "elimination": 2, 
           "swiss": 2
         }, 
         "score": 3, 
@@ -216,11 +214,10 @@
         "mov": 561, 
         "name": "Bobby Dailey", 
         "rank": {
-          "elimination": 3, 
           "swiss": 3
         }, 
         "score": 3, 
-        "sos": "0.62"
+        "sos": "0.63"
       }, 
       {
         "list": {
@@ -290,7 +287,6 @@
         "mov": 492, 
         "name": "Nicolas Turner", 
         "rank": {
-          "elimination": 4, 
           "swiss": 4
         }, 
         "score": 3, 
@@ -367,7 +363,6 @@
         "mov": 476, 
         "name": "Bryan Javorek", 
         "rank": {
-          "elimination": 5, 
           "swiss": 5
         }, 
         "score": 3, 
@@ -471,7 +466,6 @@
         "mov": 482, 
         "name": "Eric Fanello", 
         "rank": {
-          "elimination": 6, 
           "swiss": 6
         }, 
         "score": 2, 
@@ -545,7 +539,6 @@
         "mov": 442, 
         "name": "Chris Molley", 
         "rank": {
-          "elimination": 7, 
           "swiss": 7
         }, 
         "score": 2, 
@@ -613,11 +606,10 @@
         "mov": 397, 
         "name": "Logan Coles", 
         "rank": {
-          "elimination": 8, 
           "swiss": 8
         }, 
         "score": 2, 
-        "sos": "0.62"
+        "sos": "0.63"
       }, 
       {
         "list": {
@@ -680,7 +672,6 @@
         "mov": 384, 
         "name": "Jason Beffel", 
         "rank": {
-          "elimination": 9, 
           "swiss": 9
         }, 
         "score": 2, 
@@ -742,7 +733,6 @@
         "mov": 380, 
         "name": "Mark Pace", 
         "rank": {
-          "elimination": 10, 
           "swiss": 10
         }, 
         "score": 2, 
@@ -803,7 +793,6 @@
         "mov": 364, 
         "name": "Steve Yingling", 
         "rank": {
-          "elimination": 11, 
           "swiss": 11
         }, 
         "score": 2, 
@@ -883,7 +872,6 @@
         "mov": 331, 
         "name": "Steve Martin", 
         "rank": {
-          "elimination": 12, 
           "swiss": 12
         }, 
         "score": 1, 
@@ -960,7 +948,6 @@
         "mov": 278, 
         "name": "Aidan Mann", 
         "rank": {
-          "elimination": 13, 
           "swiss": 13
         }, 
         "score": 1, 
@@ -1018,7 +1005,6 @@
         "mov": 272, 
         "name": "Hunter Keaton", 
         "rank": {
-          "elimination": 14, 
           "swiss": 14
         }, 
         "score": 1, 
@@ -1082,7 +1068,6 @@
         "mov": 141, 
         "name": "Alex Sberan", 
         "rank": {
-          "elimination": 15, 
           "swiss": 15
         }, 
         "score": 1, 
@@ -1149,7 +1134,6 @@
         "mov": 102, 
         "name": "Jon Semenik", 
         "rank": {
-          "elimination": 16, 
           "swiss": 16
         }, 
         "score": 0, 

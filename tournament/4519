@@ -71,7 +71,7 @@
         "mov": 624, 
         "name": "Will Pearce", 
         "rank": {
-          "elimination": 3, 
+          "elimination": 4, 
           "swiss": 1
         }, 
         "score": 4, 
@@ -268,7 +268,6 @@
         "mov": 513, 
         "name": "Nick Gray", 
         "rank": {
-          "elimination": 5, 
           "swiss": 5
         }, 
         "score": 3, 
@@ -278,7 +277,6 @@
         "mov": 503, 
         "name": "Seth Bushore", 
         "rank": {
-          "elimination": 6, 
           "swiss": 6
         }, 
         "score": 3, 
@@ -332,7 +330,6 @@
         "mov": 500, 
         "name": "Cody Zimmerman", 
         "rank": {
-          "elimination": 7, 
           "swiss": 7
         }, 
         "score": 3, 
@@ -342,7 +339,6 @@
         "mov": 466, 
         "name": "Ian Shaw", 
         "rank": {
-          "elimination": 8, 
           "swiss": 8
         }, 
         "score": 2, 

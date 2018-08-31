@@ -64,7 +64,6 @@
         "mov": 567, 
         "name": "Frederic Banville", 
         "rank": {
-          "elimination": 1, 
           "swiss": 1
         }, 
         "score": 3, 
@@ -135,7 +134,6 @@
         "mov": 430, 
         "name": "Francois Lizotte", 
         "rank": {
-          "elimination": 2, 
           "swiss": 2
         }, 
         "score": 3, 
@@ -230,7 +228,6 @@
         "mov": 428, 
         "name": "Francois Beaumont", 
         "rank": {
-          "elimination": 3, 
           "swiss": 3
         }, 
         "score": 3, 
@@ -325,7 +322,6 @@
         "mov": 487, 
         "name": "Steve Mclean", 
         "rank": {
-          "elimination": 4, 
           "swiss": 4
         }, 
         "score": 2, 
@@ -379,7 +375,6 @@
         "mov": 452, 
         "name": "Mathieu Lemire", 
         "rank": {
-          "elimination": 5, 
           "swiss": 5
         }, 
         "score": 2, 
@@ -454,7 +449,6 @@
         "mov": 363, 
         "name": "JF Rene", 
         "rank": {
-          "elimination": 6, 
           "swiss": 6
         }, 
         "score": 2, 
@@ -527,7 +521,6 @@
         "mov": 234, 
         "name": "Marc Drolet", 
         "rank": {
-          "elimination": 7, 
           "swiss": 7
         }, 
         "score": 2, 
@@ -604,7 +597,6 @@
         "mov": 395, 
         "name": "Sebastien Dupuis", 
         "rank": {
-          "elimination": 8, 
           "swiss": 8
         }, 
         "score": 1, 
@@ -683,7 +675,6 @@
         "mov": 344, 
         "name": "Olivier Doucet", 
         "rank": {
-          "elimination": 9, 
           "swiss": 9
         }, 
         "score": 1, 
@@ -778,7 +769,6 @@
         "mov": 300, 
         "name": "Michael Drouin", 
         "rank": {
-          "elimination": 10, 
           "swiss": 10
         }, 
         "score": 1, 

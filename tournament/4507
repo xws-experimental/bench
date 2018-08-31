@@ -66,7 +66,6 @@
         "mov": 569, 
         "name": "Zachery Johnson", 
         "rank": {
-          "elimination": 1, 
           "swiss": 1
         }, 
         "score": 3, 
@@ -136,7 +135,6 @@
         "mov": 526, 
         "name": "Jeff McClain", 
         "rank": {
-          "elimination": 2, 
           "swiss": 2
         }, 
         "score": 3, 
@@ -239,7 +237,6 @@
         "mov": 474, 
         "name": "Thomas Shaw", 
         "rank": {
-          "elimination": 3, 
           "swiss": 3
         }, 
         "score": 3, 
@@ -307,7 +304,6 @@
         "mov": 473, 
         "name": "Matt Morresey", 
         "rank": {
-          "elimination": 4, 
           "swiss": 4
         }, 
         "score": 3, 
@@ -365,7 +361,6 @@
         "mov": 509, 
         "name": "Donny Euker", 
         "rank": {
-          "elimination": 5, 
           "swiss": 5
         }, 
         "score": 2, 
@@ -432,7 +427,6 @@
         "mov": 437, 
         "name": "Milo Beall", 
         "rank": {
-          "elimination": 6, 
           "swiss": 6
         }, 
         "score": 2, 
@@ -442,7 +436,6 @@
         "mov": 365, 
         "name": "John Witherspoon", 
         "rank": {
-          "elimination": 7, 
           "swiss": 7
         }, 
         "score": 1, 
@@ -507,7 +500,6 @@
         "mov": 227, 
         "name": "Ben Oelgart", 
         "rank": {
-          "elimination": 8, 
           "swiss": 8
         }, 
         "score": 1, 
@@ -574,7 +566,6 @@
         "mov": 225, 
         "name": "George Irwin", 
         "rank": {
-          "elimination": 9, 
           "swiss": 9
         }, 
         "score": 1, 
@@ -650,7 +641,6 @@
         "mov": 195, 
         "name": "Kyung Lee", 
         "rank": {
-          "elimination": 10, 
           "swiss": 10
         }, 
         "score": 1, 

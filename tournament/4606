@@ -67,7 +67,6 @@
         "mov": 518, 
         "name": "Tom Wiggin", 
         "rank": {
-          "elimination": 1, 
           "swiss": 1
         }, 
         "score": 3, 
@@ -138,7 +137,6 @@
         "mov": 383, 
         "name": "Joshua Watson", 
         "rank": {
-          "elimination": 2, 
           "swiss": 2
         }, 
         "score": 2, 
@@ -226,7 +224,6 @@
         "mov": 355, 
         "name": "Mitchell Gardner", 
         "rank": {
-          "elimination": 3, 
           "swiss": 3
         }, 
         "score": 2, 
@@ -283,7 +280,6 @@
         "mov": 299, 
         "name": "Chris Graff", 
         "rank": {
-          "elimination": 4, 
           "swiss": 4
         }, 
         "score": 2, 
@@ -344,7 +340,6 @@
         "mov": 351, 
         "name": "Brandon Pasowicz", 
         "rank": {
-          "elimination": 5, 
           "swiss": 5
         }, 
         "score": 1, 
@@ -417,7 +412,6 @@
         "mov": 324, 
         "name": "Mike Steffensen", 
         "rank": {
-          "elimination": 6, 
           "swiss": 6
         }, 
         "score": 1, 
@@ -481,7 +475,6 @@
         "mov": 170, 
         "name": "Evan Paul", 
         "rank": {
-          "elimination": 7, 
           "swiss": 7
         }, 
         "score": 1, 
@@ -528,7 +521,6 @@
         "mov": 0, 
         "name": "Erik Dow", 
         "rank": {
-          "elimination": 8, 
           "swiss": 8
         }, 
         "score": 0, 

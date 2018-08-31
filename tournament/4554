@@ -70,7 +70,6 @@
         "mov": 667, 
         "name": "Kevin \"Attila\" Kotwica", 
         "rank": {
-          "elimination": 1, 
           "swiss": 1
         }, 
         "score": 4, 
@@ -162,7 +161,6 @@
         "mov": 563, 
         "name": "Thibaut TYY ROUX", 
         "rank": {
-          "elimination": 2, 
           "swiss": 2
         }, 
         "score": 3, 
@@ -236,7 +234,6 @@
         "mov": 529, 
         "name": "Jeremie \"ApO\" Belleville", 
         "rank": {
-          "elimination": 3, 
           "swiss": 3
         }, 
         "score": 3, 

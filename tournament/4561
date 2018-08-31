@@ -73,7 +73,6 @@
         "mov": 600, 
         "name": "Ryan Yerka", 
         "rank": {
-          "elimination": 0, 
           "swiss": 1
         }, 
         "score": 3, 
@@ -138,7 +137,6 @@
         "mov": 0, 
         "name": "Aaron", 
         "rank": {
-          "elimination": 0, 
           "swiss": 2
         }, 
         "score": 2, 
@@ -210,7 +208,6 @@
         "mov": 0, 
         "name": "Thomas", 
         "rank": {
-          "elimination": 0, 
           "swiss": 3
         }, 
         "score": 2, 
@@ -237,7 +234,6 @@
         "mov": 0, 
         "name": "EW Riddle", 
         "rank": {
-          "elimination": 0, 
           "swiss": 4
         }, 
         "score": 0, 

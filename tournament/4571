@@ -77,7 +77,6 @@
         "mov": 550, 
         "name": "Duhtch", 
         "rank": {
-          "elimination": 1, 
           "swiss": 1
         }, 
         "score": 3, 
@@ -87,7 +86,6 @@
         "mov": 479, 
         "name": "Daryl", 
         "rank": {
-          "elimination": 2, 
           "swiss": 2
         }, 
         "score": 3, 

@@ -64,7 +64,6 @@
         "mov": 716, 
         "name": "Blair Bunke", 
         "rank": {
-          "elimination": 5, 
           "swiss": 1
         }, 
         "score": 4, 
@@ -399,7 +398,6 @@
         "mov": 496, 
         "name": "Sam Piccioto", 
         "rank": {
-          "elimination": 6, 
           "swiss": 6
         }, 
         "score": 2, 
@@ -454,7 +452,6 @@
         "mov": 459, 
         "name": "Matthew Cunningham", 
         "rank": {
-          "elimination": 7, 
           "swiss": 7
         }, 
         "score": 2, 
@@ -532,7 +529,6 @@
         "mov": 453, 
         "name": "Robert Tengelin", 
         "rank": {
-          "elimination": 8, 
           "swiss": 8
         }, 
         "score": 2, 
