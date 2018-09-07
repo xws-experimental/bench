@@ -1,20 +1,17 @@
-ssh: connect to host github.com port 22: Connection timed out
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-ERROR: git pull failed!  State may be bad!  Check git status!
+From github.com:baranidlo/bench
+ * branch            gh-pages   -> FETCH_HEAD
+Already up-to-date.
 Moving old 'tournaments' to 'tournaments.old'...
 Downloading new 'tournaments' file...
---2018-09-06 07:07:43--  http://lists.starwarsclubhouse.com/api/v1/tournaments
+--2018-09-07 07:03:30--  http://lists.starwarsclubhouse.com/api/v1/tournaments
 Resolving lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)... 35.173.69.207
 Connecting to lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)|35.173.69.207|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 44223 (43K) [application/json]
 Saving to: ‘tournaments’
 
-     0K .......... .......... .......... .......... ...       100%  270K=0.2s
+     0K .......... .......... .......... .......... ...       100%  218K=0.2s
 
-2018-09-06 07:07:43 (270 KB/s) - ‘tournaments’ saved [44223/44223]
+2018-09-07 07:03:31 (218 KB/s) - ‘tournaments’ saved [44223/44223]
 
 Downloading new tournament list data...
