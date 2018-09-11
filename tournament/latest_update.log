@@ -3,39 +3,15 @@ From github.com:baranidlo/bench
 Already up-to-date.
 Moving old 'tournaments' to 'tournaments.old'...
 Downloading new 'tournaments' file...
---2018-09-10 07:03:32--  http://lists.starwarsclubhouse.com/api/v1/tournaments
+--2018-09-11 07:03:33--  http://lists.starwarsclubhouse.com/api/v1/tournaments
 Resolving lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)... 35.173.69.207
 Connecting to lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)|35.173.69.207|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 44245 (43K) [application/json]
 Saving to: ‘tournaments’
 
-     0K .......... .......... .......... .......... ...       100%  267K=0.2s
+     0K .......... .......... .......... .......... ...       100%  263K=0.2s
 
-2018-09-10 07:03:33 (267 KB/s) - ‘tournaments’ saved [44245/44245]
+2018-09-11 07:03:34 (263 KB/s) - ‘tournaments’ saved [44245/44245]
 
 Downloading new tournament list data...
---2018-09-10 07:03:33--  http://lists.starwarsclubhouse.com/api/v1/tournament/4672
-Resolving lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)... 35.173.69.207
-Connecting to lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)|35.173.69.207|:80... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 38715 (38K) [application/json]
-Saving to: ‘4672’
-
-     0K .......... .......... .......... .......              100%  466K=0.08s
-
-2018-09-10 07:03:33 (466 KB/s) - ‘4672’ saved [38715/38715]
-
---2018-09-10 07:03:33--  http://lists.starwarsclubhouse.com/api/v1/tournament/4671
-Resolving lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)... 35.173.69.207
-Connecting to lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)|35.173.69.207|:80... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 2230 (2.2K) [application/json]
-Saving to: ‘4671’
-
-     0K ..                                                    100%  354M=0s
-
-2018-09-10 07:03:34 (354 MB/s) - ‘4671’ saved [2230/2230]
-
-To git@github.com:baranidlo/bench.git
-   a09e065..741be81  gh-pages -> gh-pages
