@@ -1,0 +1,377 @@
+{
+  "tournament": {
+    "date": "2018-09-11", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4673, 
+    "name": "Tuesday 9/11", 
+    "players": [
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "sienarspecialist", 
+              "ship": "tieaggressor", 
+              "upgrades": {
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "sienarspecialist", 
+              "ship": "tieaggressor", 
+              "upgrades": {
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "sienarspecialist", 
+              "ship": "tieaggressor", 
+              "upgrades": {
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "omegaleader", 
+              "ship": "tiefofighter", 
+              "upgrades": {
+                "ept": [
+                  "juke"
+                ], 
+                "mod": [
+                  "stealthdevice"
+                ], 
+                "tech": [
+                  "commrelay"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 28, 
+        "name": "Hunter Lin", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 0, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 468, 
+        "name": "Derek Tokaz", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "poedameron-swx57", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ], 
+                "ept": [
+                  "predator"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "blackone"
+                ]
+              }
+            }, 
+            {
+              "name": "dashrendar", 
+              "ship": "yt2400", 
+              "upgrades": {
+                "cannon": [
+                  "heavylasercannon"
+                ], 
+                "crew": [
+                  "rey"
+                ], 
+                "ept": [
+                  "lonewolf"
+                ], 
+                "mod": [
+                  "countermeasures"
+                ], 
+                "title": [
+                  "outrider"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 422, 
+        "name": "Phil Karash", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 404, 
+        "name": "Alan Scherer", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 2, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 397, 
+        "name": "Johnathan Proctor", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 2, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 350, 
+        "name": "Josh Taylor", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 329, 
+        "name": "Mike Darcy", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 2, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 305, 
+        "name": "Craig Ferguson", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 2, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 237, 
+        "name": "Billy Evans", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 221, 
+        "name": "Mike McAvoy", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 1, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 189, 
+        "name": "Grant Bennett", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 150, 
+        "name": "Clayton Webb", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 0, 
+        "sos": "0.56"
+      }
+    ], 
+    "round_length": 65, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Hunter Lin", 
+            "player1points": 28, 
+            "player2": "Phil Karash", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alan Scherer", 
+            "player1points": 100, 
+            "player2": "Billy Evans", 
+            "player2points": 43, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mike McAvoy", 
+            "player1points": 41, 
+            "player2": "Derek Tokaz", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Johnathan Proctor", 
+            "player1points": 100, 
+            "player2": "Clayton Webb", 
+            "player2points": 62, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Craig Ferguson", 
+            "player1points": 100, 
+            "player2": "Josh Taylor", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Grant Bennett", 
+            "player1points": 19, 
+            "player2": "Mike Darcy", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Mike Darcy", 
+            "player1points": 62, 
+            "player2": "Johnathan Proctor", 
+            "player2points": 55, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Phil Karash", 
+            "player1points": 50, 
+            "player2": "Derek Tokaz", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alan Scherer", 
+            "player1points": 52, 
+            "player2": "Craig Ferguson", 
+            "player2points": 57, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Billy Evans", 
+            "player1points": 100, 
+            "player2": "Clayton Webb", 
+            "player2points": 40, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Grant Bennett", 
+            "player1points": 20, 
+            "player2": "Mike McAvoy", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Josh Taylor", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Mike Darcy", 
+            "player1points": 41, 
+            "player2": "Derek Tokaz", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Craig Ferguson", 
+            "player1points": 0, 
+            "player2": "Phil Karash", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mike McAvoy", 
+            "player1points": 0, 
+            "player2": "Josh Taylor", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Johnathan Proctor", 
+            "player1points": 100, 
+            "player2": "Billy Evans", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alan Scherer", 
+            "player1points": 100, 
+            "player2": "Clayton Webb", 
+            "player2points": 48, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Grant Bennett", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Other", 
+    "venue": {
+      "city": "Springfield", 
+      "country": "United States of America", 
+      "lat": "38.789052200000", 
+      "lon": "-77.187036800000", 
+      "name": "Curio Cavern", 
+      "state": "Virginia"
+    }, 
+    "video_url": "http://"
+  }
+}
