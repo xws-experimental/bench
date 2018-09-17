@@ -1,0 +1,142 @@
+{
+  "tournament": {
+    "date": "2018-09-15", 
+    "format": "2nd Ed Extended", 
+    "id": 4676, 
+    "name": "1st 2E Atlantis Portsmouth", 
+    "players": [
+      {
+        "mov": 861, 
+        "name": "Joel Springle", 
+        "rank": {
+          "elimination": 1, 
+          "swiss": 1
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 770, 
+        "name": "Greg Blair", 
+        "rank": {
+          "elimination": 2, 
+          "swiss": 2
+        }, 
+        "score": 2, 
+        "sos": "0.22"
+      }, 
+      {
+        "mov": 709, 
+        "name": "Garrett Blair", 
+        "rank": {
+          "elimination": 3, 
+          "swiss": 3
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 691, 
+        "name": "Ian Shaw", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 4
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 661, 
+        "name": "Avatar Boardman", 
+        "rank": {
+          "elimination": 5, 
+          "swiss": 5
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 643, 
+        "name": "Will Pearce", 
+        "rank": {
+          "elimination": 6, 
+          "swiss": 6
+        }, 
+        "score": 2, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 636, 
+        "name": "Robert Ebey", 
+        "rank": {
+          "elimination": 7, 
+          "swiss": 7
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 533, 
+        "name": "Seth Bushore", 
+        "rank": {
+          "elimination": 8, 
+          "swiss": 8
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 455, 
+        "name": "Jerrod Ward", 
+        "rank": {
+          "elimination": 9, 
+          "swiss": 9
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 354, 
+        "name": "Kyler", 
+        "rank": {
+          "elimination": 10, 
+          "swiss": 10
+        }, 
+        "score": 0, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 285, 
+        "name": "Nicholas Kyle Gray", 
+        "rank": {
+          "elimination": 11, 
+          "swiss": 11
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 202, 
+        "name": "Joe", 
+        "rank": {
+          "elimination": 12, 
+          "swiss": 12
+        }, 
+        "score": 0, 
+        "sos": "0.67"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [], 
+    "type": "Other", 
+    "venue": {
+      "city": "Portsmouth", 
+      "country": "United States of America", 
+      "lat": "36.835425800000", 
+      "lon": "-76.298274200000", 
+      "name": "Atlantis Games & Comics", 
+      "state": "Virginia"
+    }, 
+    "video_url": "http://"
+  }
+}
