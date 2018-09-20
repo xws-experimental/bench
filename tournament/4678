@@ -158,6 +158,73 @@
         "sos": "0.67"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "soontirfel", 
+              "ship": "tieinterceptor", 
+              "upgrades": {
+                "ept": [
+                  "swarmtactics"
+                ], 
+                "mod": [
+                  "twinionenginemkii"
+                ], 
+                "title": [
+                  "royalguardtie"
+                ]
+              }
+            }, 
+            {
+              "name": "theinquisitor", 
+              "ship": "tieadvprototype", 
+              "upgrades": {
+                "ept": [
+                  "intensity"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "tiev1"
+                ]
+              }
+            }, 
+            {
+              "name": "lieutenantkestal", 
+              "ship": "tieaggressor", 
+              "upgrades": {
+                "ept": [
+                  "calculation"
+                ], 
+                "mod": [
+                  "multispectralcamouflage"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "academypilot", 
+              "ship": "tiefighter"
+            }, 
+            {
+              "name": "patrolleader", 
+              "ship": "vt49decimator", 
+              "upgrades": {
+                "crew": [
+                  "emperorpalpatine"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 311, 
         "name": "Iassa Lima", 
         "rank": {
