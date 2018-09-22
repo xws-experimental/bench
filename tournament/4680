@@ -1,0 +1,819 @@
+{
+  "tournament": {
+    "date": "2018-09-23", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4680, 
+    "name": "DQar V", 
+    "players": [
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "bluesquadronpilot", 
+              "ship": "bwing", 
+              "upgrades": {
+                "system": [
+                  "firecontrolsystem"
+                ]
+              }
+            }, 
+            {
+              "name": "bluesquadronpilot", 
+              "ship": "bwing", 
+              "upgrades": {
+                "system": [
+                  "firecontrolsystem"
+                ]
+              }
+            }, 
+            {
+              "name": "knavesquadronpilot", 
+              "ship": "ewing", 
+              "upgrades": {
+                "amd": [
+                  "bb8"
+                ]
+              }
+            }, 
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ], 
+                "mod": [
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 0, 
+        "name": "Abi", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "bluesquadronpilot", 
+              "ship": "bwing", 
+              "upgrades": {
+                "crew": [
+                  "sawgerrera"
+                ], 
+                "mod": [
+                  "bwinge2"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ]
+              }
+            }, 
+            {
+              "name": "resistancesympathizer", 
+              "ship": "yt1300", 
+              "upgrades": {
+                "crew": [
+                  "rey", 
+                  "kananjarrus"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "title": [
+                  "millenniumfalcon-swx57"
+                ]
+              }
+            }, 
+            {
+              "name": "bluesquadronpilot", 
+              "ship": "bwing", 
+              "upgrades": {
+                "crew": [
+                  "herasyndulla"
+                ], 
+                "mod": [
+                  "bwinge2"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 0, 
+        "name": "Ana Zuasti", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "guardiansquadronpilot", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "clustermines", 
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "sabinewren"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "torpedo": [
+                  "iontorpedoes", 
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "guardiansquadronpilot", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "clustermines", 
+                  "seismiccharges"
+                ], 
+                "crew": [
+                  "c3po"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "torpedo": [
+                  "plasmatorpedoes", 
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 0, 
+        "name": "Biel", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "greensquadronpilot", 
+              "ship": "awing", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts", 
+                  "crackshot"
+                ], 
+                "missile": [
+                  "protonrockets"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "awingtestpilot"
+                ]
+              }
+            }, 
+            {
+              "name": "greensquadronpilot", 
+              "ship": "awing", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts", 
+                  "crackshot"
+                ], 
+                "missile": [
+                  "protonrockets"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "awingtestpilot"
+                ]
+              }
+            }, 
+            {
+              "name": "goldsquadronpilot", 
+              "ship": "ywing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "title": [
+                  "btla4ywing"
+                ], 
+                "turret": [
+                  "ioncannonturret"
+                ]
+              }
+            }, 
+            {
+              "name": "goldsquadronpilot", 
+              "ship": "ywing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "title": [
+                  "btla4ywing"
+                ], 
+                "turret": [
+                  "ioncannonturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 0, 
+        "name": "Guiem", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "prototypepilot", 
+              "ship": "awing", 
+              "upgrades": {
+                "missile": [
+                  "assaultmissiles"
+                ]
+              }
+            }, 
+            {
+              "name": "greensquadronpilot", 
+              "ship": "awing", 
+              "upgrades": {
+                "ept": [
+                  "elusiveness"
+                ], 
+                "missile": [
+                  "cruisemissiles"
+                ]
+              }
+            }, 
+            {
+              "name": "redsquadronveteran", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "bb8"
+                ], 
+                "ept": [
+                  "lonewolf"
+                ]
+              }
+            }, 
+            {
+              "name": "goldsquadronpilot", 
+              "ship": "ywing", 
+              "upgrades": {
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 0, 
+        "name": "Lluis", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "goldsquadronpilot", 
+              "ship": "ywing", 
+              "upgrades": {
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "wildspacefringer", 
+              "ship": "yt2400", 
+              "upgrades": {
+                "cannon": [
+                  "manglercannon"
+                ], 
+                "title": [
+                  "outrider"
+                ]
+              }
+            }, 
+            {
+              "name": "lothalrebel", 
+              "ship": "vcx100", 
+              "upgrades": {
+                "crew": [
+                  "chopper", 
+                  "courierdroid"
+                ], 
+                "system": [
+                  "collisiondetector"
+                ], 
+                "turret": [
+                  "autoblasterturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 0, 
+        "name": "Marc", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "goldsquadronpilot", 
+              "ship": "ywing", 
+              "upgrades": {
+                "bomb": [
+                  "clustermines"
+                ], 
+                "torpedo": [
+                  "bombloadout", 
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "goldsquadronpilot", 
+              "ship": "ywing", 
+              "upgrades": {
+                "bomb": [
+                  "clustermines"
+                ], 
+                "torpedo": [
+                  "bombloadout", 
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 0, 
+        "name": "Miquel", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "scarifbasepilot", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "isbslicer", 
+                  "directorkrennic"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "deltasquadronpilot", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "cannon": [
+                  "ioncannon"
+                ], 
+                "mod": [
+                  "twinionenginemkii"
+                ], 
+                "title": [
+                  "tied"
+                ]
+              }
+            }, 
+            {
+              "name": "deltasquadronpilot", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "cannon": [
+                  "ioncannon"
+                ], 
+                "mod": [
+                  "twinionenginemkii"
+                ], 
+                "title": [
+                  "tied"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 0, 
+        "name": "Alejandro", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "glaivesquadronpilot", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "twinionenginemkii"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }, 
+            {
+              "name": "glaivesquadronpilot", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "twinionenginemkii"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }, 
+            {
+              "name": "omegaspecialist", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "sensorcluster"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 0, 
+        "name": "Jose Miguel", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "glaivesquadronpilot", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "cannon": [
+                  "tractorbeam"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "title": [
+                  "tied"
+                ]
+              }
+            }, 
+            {
+              "name": "glaivesquadronpilot", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "cannon": [
+                  "tractorbeam"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "title": [
+                  "tied"
+                ]
+              }
+            }, 
+            {
+              "name": "omegaspecialist", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "adaptability"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "primedthrusters"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 0, 
+        "name": "Giovanni", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "glaivesquadronpilot", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "trickshot"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }, 
+            {
+              "name": "glaivesquadronpilot", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "crackshot"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }, 
+            {
+              "name": "firstordertestpilot", 
+              "ship": "tiesilencer", 
+              "upgrades": {
+                "ept": [
+                  "adaptability"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "collisiondetector"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "firstordervanguard"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 0, 
+        "name": "Nico", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "shadowporthunter", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "lattsrazzi"
+                ], 
+                "illicit": [
+                  "glitterstim", 
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "gyroscopictargeting"
+                ], 
+                "title": [
+                  "shadowcaster"
+                ]
+              }
+            }, 
+            {
+              "name": "trandoshanslaver", 
+              "ship": "yv666", 
+              "upgrades": {
+                "cannon": [
+                  "heavylasercannon"
+                ], 
+                "crew": [
+                  "jabbathehutt", 
+                  "dengar"
+                ], 
+                "illicit": [
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "title": [
+                  "houndstooth"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 0, 
+        "name": "Jordi", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 0, 
+        "sos": "0.00"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [], 
+    "type": "Other", 
+    "venue": {
+      "city": "Palma de Mallorca", 
+      "country": "Spain", 
+      "lat": "39.569581800000", 
+      "lon": "2.650074500000", 
+      "name": "Katmandu Park", 
+      "state": "Baleares (Balearic Islands)"
+    }, 
+    "video_url": "http://"
+  }
+}
