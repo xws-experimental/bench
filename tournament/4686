@@ -1,0 +1,765 @@
+{
+  "tournament": {
+    "date": "2018-09-23", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4686, 
+    "name": "Quinta Etapa Liga Campinas de X-Wing", 
+    "players": [
+      {
+        "mov": 126, 
+        "name": "Caio", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.38"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "guri", 
+              "ship": "starviper", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "advancedsensors"
+                ], 
+                "title": [
+                  "virago", 
+                  "starvipermkii"
+                ]
+              }
+            }, 
+            {
+              "name": "blacksunassassin", 
+              "ship": "starviper", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "starvipermkii"
+                ]
+              }
+            }, 
+            {
+              "name": "fennrau", 
+              "ship": "protectoratestarfighter", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "title": [
+                  "concorddawnprotector"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 202, 
+        "name": "Denicol", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.38"
+      }, 
+      {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "asajjventress", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "lattsrazzi"
+                ], 
+                "ept": [
+                  "lonewolf"
+                ], 
+                "illicit": [
+                  "glitterstim", 
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "countermeasures"
+                ], 
+                "title": [
+                  "shadowcaster"
+                ]
+              }
+            }, 
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 678, 
+        "name": "Barbs", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 4, 
+        "sos": "0.44"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "captainnym", 
+              "ship": "scurrgh6bomber", 
+              "upgrades": {
+                "bomb": [
+                  "protonbombs", 
+                  "thermaldetonators"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "samd": [
+                  "genius"
+                ], 
+                "system": [
+                  "trajectorysimulator"
+                ], 
+                "title": [
+                  "havoc"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator", 
+                  "seismiccharges"
+                ], 
+                "crew": [
+                  "sabinewren"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "torpedo": [
+                  "extramunitions"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 542, 
+        "name": "Wagner", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "captainrex", 
+              "ship": "tiefighter", 
+              "upgrades": {
+                "crew": [
+                  "rey"
+                ], 
+                "title": [
+                  "sabinesmasterpiece"
+                ]
+              }
+            }, 
+            {
+              "name": "poedameron", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "bb8"
+                ], 
+                "ept": [
+                  "adaptability"
+                ], 
+                "mod": [
+                  "integratedastromech"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "blackone"
+                ]
+              }
+            }, 
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "integratedastromech", 
+                  "servomotorsfoils"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "lukeskywalker", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "crackshot"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 522, 
+        "name": "Elton", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.38"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "bazemalbus"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }, 
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "magvayarro", 
+                  "tactician"
+                ], 
+                "ept": [
+                  "selflessness"
+                ]
+              }
+            }, 
+            {
+              "name": "mirandadoni", 
+              "ship": "kwing", 
+              "upgrades": {
+                "bomb": [
+                  "bombletgenerator"
+                ], 
+                "crew": [
+                  "sawgerrera"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 449, 
+        "name": "Daniel Oigres", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 2, 
+        "sos": "0.75"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "captainferoph", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "directorkrennic"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "nusquadronpilot", 
+              "ship": "alphaclassstarwing", 
+              "upgrades": {
+                "missile": [
+                  "harpoonmissiles"
+                ], 
+                "mod": [
+                  "longrangescanners"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 416, 
+        "name": "Sschuzz", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 407, 
+        "name": "Sabino", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 2, 
+        "sos": "0.69"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "wedgeantilles", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "predator"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "wesjanson", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "poedameron", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "blackone"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 301, 
+        "name": "Rafa (Blade)", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 2, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 342, 
+        "name": "Daniel", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 1, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 242, 
+        "name": "Ederson", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 173, 
+        "name": "Aguinaldo", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 0, 
+        "sos": "0.44"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Caio", 
+            "player1points": 58, 
+            "player2": "Aguinaldo", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Barbs", 
+            "player1points": 100, 
+            "player2": "Ederson", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Denicol", 
+            "player1points": 32, 
+            "player2": "Sabino", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Wagner", 
+            "player1points": 64, 
+            "player2": "Elton", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Rafa (Blade)", 
+            "player1points": 78, 
+            "player2": "Daniel", 
+            "player2points": 28, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Daniel Oigres", 
+            "player1points": 100, 
+            "player2": "Sschuzz", 
+            "player2points": 0, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Daniel Oigres", 
+            "player1points": 25, 
+            "player2": "Barbs", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Caio", 
+            "player1points": 0, 
+            "player2": "Wagner", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sabino", 
+            "player1points": 100, 
+            "player2": "Rafa (Blade)", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Denicol", 
+            "player1points": 100, 
+            "player2": "Ederson", 
+            "player2points": 30, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Elton", 
+            "player1points": 100, 
+            "player2": "Aguinaldo", 
+            "player2points": 17, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Daniel", 
+            "player1points": 56, 
+            "player2": "Sschuzz", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Sabino", 
+            "player1points": 25, 
+            "player2": "Barbs", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Wagner", 
+            "player1points": 26, 
+            "player2": "Daniel Oigres", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sschuzz", 
+            "player1points": 100, 
+            "player2": "Rafa (Blade)", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Elton", 
+            "player1points": 100, 
+            "player2": "Ederson", 
+            "player2points": 47, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Aguinaldo", 
+            "player1points": 47, 
+            "player2": "Daniel", 
+            "player2points": 100, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Barbs", 
+            "player1points": 100, 
+            "player2": "Sschuzz", 
+            "player2points": 72, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Daniel Oigres", 
+            "player1points": 17, 
+            "player2": "Elton", 
+            "player2points": 67, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Wagner", 
+            "player1points": 100, 
+            "player2": "Sabino", 
+            "player2points": 48, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Rafa (Blade)", 
+            "player1points": 75, 
+            "player2": "Daniel", 
+            "player2points": 58, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ederson", 
+            "player1points": 100, 
+            "player2": "Aguinaldo", 
+            "player2points": 35, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Other", 
+    "venue": {
+      "city": "Campinas", 
+      "country": "Brazil", 
+      "lat": "-22.905560000000", 
+      "lon": "-47.060830000000", 
+      "name": "", 
+      "state": "Sao Paulo"
+    }, 
+    "video_url": "http://"
+  }
+}
