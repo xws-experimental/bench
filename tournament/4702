@@ -1,0 +1,352 @@
+{
+  "tournament": {
+    "date": "2018-10-06", 
+    "format": "200 Point 2nd Edition Extended", 
+    "id": 4702, 
+    "name": "A New Hope - X-Wing 2.0 Release-Turnier", 
+    "players": [
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 1463, 
+        "name": "Khar", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 5, 
+        "sos": "0.60"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 1498, 
+        "name": "Laminidas", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 4, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 1475, 
+        "name": "Brutus", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 4, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 1369, 
+        "name": "tharlin", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 4, 
+        "sos": "0.60"
+      }, 
+      {
+        "mov": 1308, 
+        "name": "K.", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 4, 
+        "sos": "0.36"
+      }, 
+      {
+        "mov": 1076, 
+        "name": "funwok", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 4, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 1240, 
+        "name": "Pirat187", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 3, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 1222, 
+        "name": "Muelli8585", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 3, 
+        "sos": "0.36"
+      }, 
+      {
+        "mov": 1175, 
+        "name": "erytaas", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 3, 
+        "sos": "0.68"
+      }, 
+      {
+        "mov": 1111, 
+        "name": "Drachenzorn", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 3, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 1094, 
+        "name": "Rogue66", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 3, 
+        "sos": "0.60"
+      }, 
+      {
+        "mov": 1094, 
+        "name": "Bommy", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 3, 
+        "sos": "0.60"
+      }, 
+      {
+        "mov": 1078, 
+        "name": "Jeldrik", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 3, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 1037, 
+        "name": "DekoRator", 
+        "rank": {
+          "swiss": 14
+        }, 
+        "score": 3, 
+        "sos": "0.40"
+      }, 
+      {
+        "mov": 1021, 
+        "name": "Freed", 
+        "rank": {
+          "swiss": 15
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 1005, 
+        "name": "DamiD", 
+        "rank": {
+          "swiss": 16
+        }, 
+        "score": 3, 
+        "sos": "0.60"
+      }, 
+      {
+        "mov": 985, 
+        "name": "LegionVI", 
+        "rank": {
+          "swiss": 17
+        }, 
+        "score": 3, 
+        "sos": "0.48"
+      }, 
+      {
+        "mov": 1094, 
+        "name": "Tueddelig", 
+        "rank": {
+          "swiss": 18
+        }, 
+        "score": 2, 
+        "sos": "0.68"
+      }, 
+      {
+        "mov": 1030, 
+        "name": "Karghan", 
+        "rank": {
+          "swiss": 19
+        }, 
+        "score": 2, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 997, 
+        "name": "Lattenroester", 
+        "rank": {
+          "swiss": 20
+        }, 
+        "score": 2, 
+        "sos": "0.48"
+      }, 
+      {
+        "mov": 941, 
+        "name": "Loki-Wan", 
+        "rank": {
+          "swiss": 21
+        }, 
+        "score": 2, 
+        "sos": "0.36"
+      }, 
+      {
+        "mov": 892, 
+        "name": "RogueLeader", 
+        "rank": {
+          "swiss": 22
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 849, 
+        "name": "ScumDan", 
+        "rank": {
+          "swiss": 23
+        }, 
+        "score": 2, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 818, 
+        "name": "thanf", 
+        "rank": {
+          "swiss": 24
+        }, 
+        "score": 2, 
+        "sos": "0.48"
+      }, 
+      {
+        "mov": 787, 
+        "name": "Viper3013", 
+        "rank": {
+          "swiss": 25
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 787, 
+        "name": "Dodo", 
+        "rank": {
+          "swiss": 26
+        }, 
+        "score": 2, 
+        "sos": "0.32"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 768, 
+        "name": "Coolumbuz", 
+        "rank": {
+          "swiss": 27
+        }, 
+        "score": 2, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 758, 
+        "name": "rashktah", 
+        "rank": {
+          "swiss": 28
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 896, 
+        "name": "TuRbO", 
+        "rank": {
+          "swiss": 29
+        }, 
+        "score": 1, 
+        "sos": "0.52"
+      }, 
+      {
+        "mov": 791, 
+        "name": "Toto75", 
+        "rank": {
+          "swiss": 30
+        }, 
+        "score": 1, 
+        "sos": "0.40"
+      }, 
+      {
+        "mov": 734, 
+        "name": "Walmar", 
+        "rank": {
+          "swiss": 31
+        }, 
+        "score": 1, 
+        "sos": "0.40"
+      }, 
+      {
+        "mov": 0, 
+        "name": "Player 32", 
+        "rank": {
+          "swiss": 32
+        }, 
+        "score": 1, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 517, 
+        "name": "Torches", 
+        "rank": {
+          "swiss": 33
+        }, 
+        "score": 1, 
+        "sos": "0.60"
+      }, 
+      {
+        "mov": 567, 
+        "name": "Green Viper", 
+        "rank": {
+          "swiss": 34
+        }, 
+        "score": 0, 
+        "sos": "0.52"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [], 
+    "type": "Other", 
+    "venue": {
+      "city": "Salzgitter", 
+      "country": "Germany", 
+      "lat": "52.150372100000", 
+      "lon": "10.359314700000", 
+      "name": "", 
+      "state": "Niedersachsen"
+    }, 
+    "video_url": "http://"
+  }
+}
