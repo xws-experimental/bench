@@ -139,6 +139,14 @@
         "sos": "0.52"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 1037, 
         "name": "DekoRator", 
         "rank": {
