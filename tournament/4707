@@ -1,0 +1,592 @@
+{
+  "tournament": {
+    "date": "2018-10-13", 
+    "format": "200 Point 2.0 Extended", 
+    "id": 4707, 
+    "name": "A New Hope", 
+    "players": [
+      {
+        "mov": 206, 
+        "name": "Ivan Milanovic", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 0, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 321, 
+        "name": "Sebastian Spicher", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 0, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 1313, 
+        "name": "Samuel Mueller", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 4, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 1085, 
+        "name": "Lukas Bollack", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 4, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 1201, 
+        "name": "Cyril Bucher", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 1135, 
+        "name": "Davide Morselli", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 3, 
+        "sos": "0.31"
+      }, 
+      {
+        "mov": 1101, 
+        "name": "Michael Frochaux", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 1060, 
+        "name": "Sascha Konrad", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 3, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 856, 
+        "name": "Simon Bettschen", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 903, 
+        "name": "Daniel Zulliger", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 2, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 824, 
+        "name": "Mirco Genovese", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 813, 
+        "name": "Jonathan Geissbuehler", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 2, 
+        "sos": "0.31"
+      }, 
+      {
+        "mov": 811, 
+        "name": "Timon Knechtenhofer", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 2, 
+        "sos": "0.69"
+      }, 
+      {
+        "mov": 770, 
+        "name": "Oli Haupt", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 716, 
+        "name": "Remo Reber", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 683, 
+        "name": "Fritz Arn", 
+        "rank": {
+          "swiss": 14
+        }, 
+        "score": 2, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 610, 
+        "name": "Stephan Mueller", 
+        "rank": {
+          "swiss": 15
+        }, 
+        "score": 2, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 595, 
+        "name": "Marcos Gamez", 
+        "rank": {
+          "swiss": 16
+        }, 
+        "score": 2, 
+        "sos": "0.75"
+      }, 
+      {
+        "mov": 878, 
+        "name": "Fabian Zaech", 
+        "rank": {
+          "swiss": 17
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 693, 
+        "name": "Loris Arn", 
+        "rank": {
+          "swiss": 18
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 640, 
+        "name": "Yanik Arn", 
+        "rank": {
+          "swiss": 19
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 630, 
+        "name": "Noe Castrovillari", 
+        "rank": {
+          "swiss": 20
+        }, 
+        "score": 1, 
+        "sos": "0.38"
+      }, 
+      {
+        "mov": 554, 
+        "name": "Lionel Mueller", 
+        "rank": {
+          "swiss": 21
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 402, 
+        "name": "Cedric Grisoni", 
+        "rank": {
+          "swiss": 22
+        }, 
+        "score": 1, 
+        "sos": "0.63"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Simon Bettschen", 
+            "player1points": 119, 
+            "player2": "Mirco Genovese", 
+            "player2points": 88, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Michael Frochaux", 
+            "player1points": 100, 
+            "player2": "Marcos Gamez", 
+            "player2points": 130, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lukas Bollack", 
+            "player1points": 92, 
+            "player2": "Remo Reber", 
+            "player2points": 81, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Noe Castrovillari", 
+            "player1points": 131, 
+            "player2": "Lionel Mueller", 
+            "player2points": 177, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Samuel Mueller", 
+            "player1points": 135, 
+            "player2": "Ivan Milanovic", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Cyril Bucher", 
+            "player1points": 142, 
+            "player2": "Loris Arn", 
+            "player2points": 124, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sebastian Spicher", 
+            "player1points": 53, 
+            "player2": "Sascha Konrad", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jonathan Geissbuehler", 
+            "player1points": 99, 
+            "player2": "Stephan Mueller", 
+            "player2points": 156, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Fabian Zaech", 
+            "player1points": 150, 
+            "player2": "Timon Knechtenhofer", 
+            "player2points": 185, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Davide Morselli", 
+            "player1points": 73, 
+            "player2": "Fritz Arn", 
+            "player2points": 85, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Daniel Zulliger", 
+            "player1points": 92, 
+            "player2": "Cedric Grisoni", 
+            "player2points": 135, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Oli Haupt", 
+            "player1points": 107, 
+            "player2": "Yanik Arn", 
+            "player2points": 42, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Lukas Bollack", 
+            "player1points": 174, 
+            "player2": "Stephan Mueller", 
+            "player2points": 49, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Samuel Mueller", 
+            "player1points": 82, 
+            "player2": "Fritz Arn", 
+            "player2points": 66, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Oli Haupt", 
+            "player1points": 31, 
+            "player2": "Marcos Gamez", 
+            "player2points": 99, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Cyril Bucher", 
+            "player1points": 200, 
+            "player2": "Cedric Grisoni", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lionel Mueller", 
+            "player1points": 0, 
+            "player2": "Simon Bettschen", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Timon Knechtenhofer", 
+            "player1points": 200, 
+            "player2": "Sascha Konrad", 
+            "player2points": 67, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Fabian Zaech", 
+            "player1points": 200, 
+            "player2": "Jonathan Geissbuehler", 
+            "player2points": 68, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Yanik Arn", 
+            "player1points": 92, 
+            "player2": "Remo Reber", 
+            "player2points": 107, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Loris Arn", 
+            "player1points": 66, 
+            "player2": "Daniel Zulliger", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Davide Morselli", 
+            "player1points": 133, 
+            "player2": "Ivan Milanovic", 
+            "player2points": 51, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Noe Castrovillari", 
+            "player1points": 64, 
+            "player2": "Michael Frochaux", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mirco Genovese", 
+            "player1points": 156, 
+            "player2": "Sebastian Spicher", 
+            "player2points": 101, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Marcos Gamez", 
+            "player1points": 38, 
+            "player2": "Samuel Mueller", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lukas Bollack", 
+            "player1points": 102, 
+            "player2": "Cyril Bucher", 
+            "player2points": 85, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Timon Knechtenhofer", 
+            "player1points": 0, 
+            "player2": "Simon Bettschen", 
+            "player2points": 25, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Davide Morselli", 
+            "player1points": 200, 
+            "player2": "Cedric Grisoni", 
+            "player2points": 76, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Fabian Zaech", 
+            "player1points": 84, 
+            "player2": "Oli Haupt", 
+            "player2points": 98, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Fritz Arn", 
+            "player1points": 0, 
+            "player2": "Mirco Genovese", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sascha Konrad", 
+            "player1points": 200, 
+            "player2": "Daniel Zulliger", 
+            "player2points": 47, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Stephan Mueller", 
+            "player1points": 46, 
+            "player2": "Michael Frochaux", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lionel Mueller", 
+            "player1points": 149, 
+            "player2": "Remo Reber", 
+            "player2points": 154, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Noe Castrovillari", 
+            "player1points": 200, 
+            "player2": "Ivan Milanovic", 
+            "player2points": 23, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sebastian Spicher", 
+            "player1points": 123, 
+            "player2": "Loris Arn", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jonathan Geissbuehler", 
+            "player1points": 200, 
+            "player2": "Yanik Arn", 
+            "player2points": 115, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Samuel Mueller", 
+            "player1points": 200, 
+            "player2": "Simon Bettschen", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lukas Bollack", 
+            "player1points": 200, 
+            "player2": "Timon Knechtenhofer", 
+            "player2points": 68, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marcos Gamez", 
+            "player1points": 59, 
+            "player2": "Davide Morselli", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Oli Haupt", 
+            "player1points": 115, 
+            "player2": "Michael Frochaux", 
+            "player2points": 156, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sascha Konrad", 
+            "player1points": 200, 
+            "player2": "Remo Reber", 
+            "player2points": 107, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Cyril Bucher", 
+            "player1points": 200, 
+            "player2": "Mirco Genovese", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Loris Arn", 
+            "player1points": 129, 
+            "player2": "Stephan Mueller", 
+            "player2points": 161, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jonathan Geissbuehler", 
+            "player1points": 200, 
+            "player2": "Cedric Grisoni", 
+            "player2points": 83, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Fritz Arn", 
+            "player1points": 200, 
+            "player2": "Lionel Mueller", 
+            "player2points": 113, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Noe Castrovillari", 
+            "player1points": 35, 
+            "player2": "Daniel Zulliger", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Fabian Zaech", 
+            "player1points": 153, 
+            "player2": "Yanik Arn", 
+            "player2points": 158, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Other", 
+    "venue": {
+      "city": "Bern", 
+      "country": "Switzerland", 
+      "lat": "46.948271300000", 
+      "lon": "7.451451200000", 
+      "name": "DracheNaescht", 
+      "state": "Bern"
+    }, 
+    "video_url": "http://"
+  }
+}
