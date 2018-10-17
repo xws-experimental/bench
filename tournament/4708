@@ -1,0 +1,369 @@
+{
+  "tournament": {
+    "date": "2018-10-16", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4708, 
+    "name": "Tuesday 10/16/18", 
+    "players": [
+      {
+        "mov": 189, 
+        "name": "John Morin", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 0, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 205, 
+        "name": "Gordon White", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 0, 
+        "sos": "0.83"
+      }, 
+      {
+        "mov": 321, 
+        "name": "Ned Ash", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 378, 
+        "name": "Johnathan Proctor", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 846, 
+        "name": "Phil Karash", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 3, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 792, 
+        "name": "Derek Tokaz", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 882, 
+        "name": "Clayton Webb", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 792, 
+        "name": "Grant Bennett", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 2, 
+        "sos": "0.17"
+      }, 
+      {
+        "mov": 786, 
+        "name": "Travis Upton", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 782, 
+        "name": "Josh Taylor", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 2, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 754, 
+        "name": "Craig Ferguson", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 2, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 714, 
+        "name": "Alan Scherer", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 496, 
+        "name": "Mike Darcy", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 2, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 514, 
+        "name": "Larry Turnbull", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 504, 
+        "name": "Brett Kitchen", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 1, 
+        "sos": "0.78"
+      }, 
+      {
+        "mov": 504, 
+        "name": "Robert Hoover", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 241, 
+        "name": "Nick Lapietra", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 0, 
+        "sos": "0.50"
+      }
+    ], 
+    "round_length": 65, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Johnathan Proctor", 
+            "player1points": 78, 
+            "player2": "Clayton Webb", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Josh Taylor", 
+            "player1points": 124, 
+            "player2": "Robert Hoover", 
+            "player2points": 103, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Craig Ferguson", 
+            "player1points": 139, 
+            "player2": "Alan Scherer", 
+            "player2points": 152, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nick Lapietra", 
+            "player1points": 107, 
+            "player2": "Ned Ash", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "John Morin", 
+            "player1points": 66, 
+            "player2": "Larry Turnbull", 
+            "player2points": 152, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Brett Kitchen", 
+            "player1points": 200, 
+            "player2": "Grant Bennett", 
+            "player2points": 120, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Travis Upton", 
+            "player1points": 51, 
+            "player2": "Mike Darcy", 
+            "player2points": 135, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Derek Tokaz", 
+            "player1points": 97, 
+            "player2": "Gordon White", 
+            "player2points": 74, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Phil Karash", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Larry Turnbull", 
+            "player1points": 70, 
+            "player2": "Derek Tokaz", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ned Ash", 
+            "player1points": 28, 
+            "player2": "Clayton Webb", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Phil Karash", 
+            "player1points": 200, 
+            "player2": "Brett Kitchen", 
+            "player2points": 94, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mike Darcy", 
+            "player1points": 0, 
+            "player2": "Josh Taylor", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alan Scherer", 
+            "player1points": 200, 
+            "player2": "Nick Lapietra", 
+            "player2points": 59, 
+            "result": "win"
+          }, 
+          {
+            "player1": "John Morin", 
+            "player1points": 75, 
+            "player2": "Craig Ferguson", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Gordon White", 
+            "player1points": 28, 
+            "player2": "Grant Bennett", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Robert Hoover", 
+            "player1points": 0, 
+            "player2": "Travis Upton", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Johnathan Proctor", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Josh Taylor", 
+            "player1points": 121, 
+            "player2": "Derek Tokaz", 
+            "player2points": 160, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Phil Karash", 
+            "player1points": 169, 
+            "player2": "Alan Scherer", 
+            "player2points": 129, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Clayton Webb", 
+            "player1points": 88, 
+            "player2": "Mike Darcy", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Travis Upton", 
+            "player1points": 200, 
+            "player2": "Brett Kitchen", 
+            "player2points": 130, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Larry Turnbull", 
+            "player1points": 158, 
+            "player2": "Craig Ferguson", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Grant Bennett", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }, 
+          {
+            "player1": "Nick Lapietra", 
+            "player1points": 75, 
+            "player2": "Robert Hoover", 
+            "player2points": 200, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Other", 
+    "venue": {
+      "city": "Springfield", 
+      "country": "United States of America", 
+      "lat": "38.789052200000", 
+      "lon": "-77.187036800000", 
+      "name": "Curio Cavern", 
+      "state": "Virginia"
+    }, 
+    "video_url": "http://"
+  }
+}
