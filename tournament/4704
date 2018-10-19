@@ -16,7 +16,7 @@
       }, 
       {
         "mov": 586, 
-        "name": "Mauricio", 
+        "name": "Comini", 
         "rank": {
           "swiss": 2
         }, 
@@ -185,7 +185,7 @@
           {
             "player1": "Bil", 
             "player1points": 64, 
-            "player2": "Mauricio", 
+            "player2": "Comini", 
             "player2points": 50, 
             "result": "win"
           }, 
@@ -226,7 +226,7 @@
           {
             "player1": "Dennis", 
             "player1points": 86, 
-            "player2": "Mauricio", 
+            "player2": "Comini", 
             "player2points": 100, 
             "result": "win"
           }, 
@@ -274,7 +274,7 @@
           {
             "player1": "Rogelio", 
             "player1points": 14, 
-            "player2": "Mauricio", 
+            "player2": "Comini", 
             "player2points": 100, 
             "result": "win"
           }, 
@@ -308,7 +308,7 @@
           {
             "player1": "Roberto SIlva", 
             "player1points": 0, 
-            "player2": "Mauricio", 
+            "player2": "Comini", 
             "player2points": 100, 
             "result": "win"
           }, 
