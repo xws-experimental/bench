@@ -1,0 +1,246 @@
+{
+  "tournament": {
+    "date": "2018-10-20", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4709, 
+    "name": "Liga PE 2018 - Sexta Etapa", 
+    "players": [
+      {
+        "mov": 464, 
+        "name": "Henrique Spencer", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 418, 
+        "name": "Savio Cavalcanti", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 2, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 400, 
+        "name": "Julio Cesar", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 383, 
+        "name": "Leonardo de Assis", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "trickshot"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "countessryad", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "juke"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }, 
+            {
+              "name": "scarifbasepilot", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "directorkrennic", 
+                  "isbslicer"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 330, 
+        "name": "Sandro Bertini", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 150, 
+        "name": "Alison Rodrigues", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 1, 
+        "sos": "0.83"
+      }, 
+      {
+        "mov": 105, 
+        "name": "Danilo Almeida", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Sandro Bertini", 
+            "player1points": 26, 
+            "player2": "Danilo Almeida", 
+            "player2points": 31, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Savio Cavalcanti", 
+            "player1points": 100, 
+            "player2": "Julio Cesar", 
+            "player2points": 50, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Leonardo de Assis", 
+            "player1points": 68, 
+            "player2": "Henrique Spencer", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alison Rodrigues", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Henrique Spencer", 
+            "player1points": 100, 
+            "player2": "Alison Rodrigues", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Savio Cavalcanti", 
+            "player1points": 100, 
+            "player2": "Danilo Almeida", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sandro Bertini", 
+            "player1points": 50, 
+            "player2": "Leonardo de Assis", 
+            "player2points": 65, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Julio Cesar", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Henrique Spencer", 
+            "player1points": 100, 
+            "player2": "Savio Cavalcanti", 
+            "player2points": 68, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Danilo Almeida", 
+            "player1points": 0, 
+            "player2": "Leonardo de Assis", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alison Rodrigues", 
+            "player1points": 0, 
+            "player2": "Julio Cesar", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sandro Bertini", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "Recife", 
+      "country": "Brazil", 
+      "lat": "-8.064193000000", 
+      "lon": "-34.878151600000", 
+      "name": "GeekPit", 
+      "state": "Pernambuco"
+    }, 
+    "video_url": "http://"
+  }
+}
