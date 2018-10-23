@@ -1,0 +1,440 @@
+{
+  "tournament": {
+    "date": "2018-10-21", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4710, 
+    "name": "Sazonal Sorocaras & New Station", 
+    "players": [
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "c3po", 
+                  "rey"
+                ], 
+                "ept": [
+                  "predator"
+                ], 
+                "mod": [
+                  "multispectralcamouflage"
+                ]
+              }
+            }, 
+            {
+              "name": "cavernangelszealot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "poedameron", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "r2d2"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "blackone"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 484, 
+        "name": "Rafa Blade", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "rey", 
+              "ship": "yt1300", 
+              "upgrades": {
+                "crew": [
+                  "finn", 
+                  "c3po"
+                ], 
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "tacticaljammer"
+                ], 
+                "title": [
+                  "millenniumfalcon"
+                ]
+              }
+            }, 
+            {
+              "name": "janors", 
+              "ship": "hwk290", 
+              "upgrades": {
+                "crew": [
+                  "chewbacca"
+                ], 
+                "ept": [
+                  "trickshot"
+                ], 
+                "mod": [
+                  "hullupgrade"
+                ], 
+                "title": [
+                  "moldycrow"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 483, 
+        "name": "simao neto", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 461, 
+        "name": "pedro tortelo", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 446, 
+        "name": "Barbara", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 2, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 207, 
+        "name": "daniel catelan", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 301, 
+        "name": "nicola", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 1, 
+        "sos": "0.67"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "colonelvessery", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }, 
+            {
+              "name": "backdraft", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "crackshot"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 218, 
+        "name": "lg sabino", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 1, 
+        "sos": "0.83"
+      }, 
+      {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "omegaace", 
+              "ship": "tiefofighter", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ]
+              }
+            }, 
+            {
+              "name": "kyloren", 
+              "ship": "tiesilencer", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ]
+              }
+            }, 
+            {
+              "name": "whisper", 
+              "ship": "tiephantom", 
+              "upgrades": {
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "advancedcloakingdevice"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
+        "mov": 150, 
+        "name": "renan", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 1, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 100, 
+        "name": "wagner", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 0, 
+        "sos": "0.67"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "wagner", 
+            "player1points": 100, 
+            "player2": "daniel catelan", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Barbara", 
+            "player1points": 100, 
+            "player2": "lg sabino", 
+            "player2points": 47, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Rafa Blade", 
+            "player1points": 26, 
+            "player2": "pedro tortelo", 
+            "player2points": 21, 
+            "result": "win"
+          }, 
+          {
+            "player1": "renan", 
+            "player1points": 0, 
+            "player2": "nicola", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "simao neto", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "nicola", 
+            "player1points": 67, 
+            "player2": "simao neto", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "daniel catelan", 
+            "player1points": 47, 
+            "player2": "Barbara", 
+            "player2points": 40, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Rafa Blade", 
+            "player1points": 100, 
+            "player2": "lg sabino", 
+            "player2points": 21, 
+            "result": "win"
+          }, 
+          {
+            "player1": "pedro tortelo", 
+            "player1points": 100, 
+            "player2": "wagner", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "renan", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "simao neto", 
+            "player1points": 100, 
+            "player2": "daniel catelan", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Rafa Blade", 
+            "player1points": 100, 
+            "player2": "renan", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "pedro tortelo", 
+            "player1points": 100, 
+            "player2": "nicola", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Barbara", 
+            "player1points": 100, 
+            "player2": "wagner", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "lg sabino", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Other", 
+    "venue": {
+      "city": "sorocaba", 
+      "country": "Brazil", 
+      "lat": "-23.501667000000", 
+      "lon": "-47.458056000000", 
+      "name": "", 
+      "state": "Sao Paulo"
+    }, 
+    "video_url": "https://www.facebook.com/events/1137479319753422/"
+  }
+}
