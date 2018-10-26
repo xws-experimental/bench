@@ -1,0 +1,92 @@
+{
+  "tournament": {
+    "date": "2018-10-14", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4712, 
+    "name": "Torneio X-Wing PG 2018 5/6", 
+    "players": [
+      {
+        "mov": 548, 
+        "name": "Rodrigo Vasconcelos", 
+        "rank": {
+          "elimination": 1, 
+          "swiss": 1
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 396, 
+        "name": "Lucas Kalabrick", 
+        "rank": {
+          "elimination": 2, 
+          "swiss": 2
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 383, 
+        "name": "Pedro Ribeiro", 
+        "rank": {
+          "elimination": 3, 
+          "swiss": 3
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 295, 
+        "name": "Cezar Miranda", 
+        "rank": {
+          "elimination": 4, 
+          "swiss": 4
+        }, 
+        "score": 2, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 230, 
+        "name": "Iaan", 
+        "rank": {
+          "elimination": 5, 
+          "swiss": 5
+        }, 
+        "score": 1, 
+        "sos": "0.83"
+      }, 
+      {
+        "mov": 215, 
+        "name": "Bruno Leal", 
+        "rank": {
+          "elimination": 6, 
+          "swiss": 6
+        }, 
+        "score": 1, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 183, 
+        "name": "Filipe Malaquias", 
+        "rank": {
+          "elimination": 7, 
+          "swiss": 7
+        }, 
+        "score": 1, 
+        "sos": "0.67"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "Salvador", 
+      "country": "Brazil", 
+      "lat": "-12.982249900000", 
+      "lon": "-38.481277200000", 
+      "name": "Playground Game Store", 
+      "state": "Bahia"
+    }, 
+    "video_url": "http://"
+  }
+}
