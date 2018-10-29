@@ -1,0 +1,283 @@
+{
+  "tournament": {
+    "date": "2018-10-28", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4713, 
+    "name": "Liga xwb teste", 
+    "players": [
+      {
+        "mov": 484, 
+        "name": "douglas", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 3, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 434, 
+        "name": "renan", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 416, 
+        "name": "vivian", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 517, 
+        "name": "isaq", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 2, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 493, 
+        "name": "Maikon Delgado", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 2, 
+        "sos": "0.58"
+      }, 
+      {
+        "mov": 427, 
+        "name": "bernardo", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 415, 
+        "name": "caps", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 2, 
+        "sos": "0.58"
+      }, 
+      {
+        "mov": 339, 
+        "name": "adriano", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 425, 
+        "name": "dio", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 1, 
+        "sos": "0.58"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "Maikon Delgado", 
+            "player1points": 50, 
+            "player2": "vivian", 
+            "player2points": 70, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "isaq", 
+            "player1points": 100, 
+            "player2": "adriano", 
+            "player2points": 23, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "douglas", 
+            "player1points": 46, 
+            "player2": "bernardo", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "renan", 
+            "player1points": 100, 
+            "player2": "dio", 
+            "player2points": 37, 
+            "result": "win"
+          }, 
+          {
+            "player1": "caps", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "renan", 
+            "player1points": 70, 
+            "player2": "isaq", 
+            "player2points": 65, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "douglas", 
+            "player1points": 100, 
+            "player2": "vivian", 
+            "player2points": 20, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "caps", 
+            "player1points": 12, 
+            "player2": "Maikon Delgado", 
+            "player2points": 80, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "adriano", 
+            "player1points": 76, 
+            "player2": "dio", 
+            "player2points": 75, 
+            "result": "win"
+          }, 
+          {
+            "player1": "bernardo", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "douglas", 
+            "player1points": 40, 
+            "player2": "renan", 
+            "player2points": 60, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "adriano", 
+            "player1points": 100, 
+            "player2": "bernardo", 
+            "player2points": 80, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "isaq", 
+            "player1points": 100, 
+            "player2": "Maikon Delgado", 
+            "player2points": 45, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "vivian", 
+            "player1points": 56, 
+            "player2": "caps", 
+            "player2points": 34, 
+            "result": "win"
+          }, 
+          {
+            "player1": "dio", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "final_salvo": false, 
+            "player1": "renan", 
+            "player1points": 20, 
+            "player2": "vivian", 
+            "player2points": 74, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "isaq", 
+            "player1points": 29, 
+            "player2": "douglas", 
+            "player2points": 39, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "adriano", 
+            "player1points": 65, 
+            "player2": "caps", 
+            "player2points": 70, 
+            "result": "win"
+          }, 
+          {
+            "final_salvo": false, 
+            "player1": "dio", 
+            "player1points": 89, 
+            "player2": "bernardo", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Maikon Delgado", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Other", 
+    "venue": {
+      "city": "Curitiba", 
+      "country": "Brazil", 
+      "lat": "-25.429569600000", 
+      "lon": "-49.271236100000", 
+      "name": "Nerdz", 
+      "state": "Parana"
+    }
+  }
+}

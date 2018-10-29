@@ -1,0 +1,158 @@
+{
+  "tournament": {
+    "date": "2018-10-28", 
+    "format": "200 points", 
+    "id": 4714, 
+    "name": "2.0 A New Hope", 
+    "players": [
+      {
+        "mov": 812, 
+        "name": "Andi", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 703, 
+        "name": "Yu", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 623, 
+        "name": "Ben", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 633, 
+        "name": "Yannis", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 431, 
+        "name": "Elliot", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 1, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 398, 
+        "name": "James", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 0, 
+        "sos": "0.67"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Elliot", 
+            "player1points": 70, 
+            "player2": "Yu", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ben", 
+            "player1points": 143, 
+            "player2": "Yannis", 
+            "player2points": 133, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Andi", 
+            "player1points": 200, 
+            "player2": "James", 
+            "player2points": 92, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Andi", 
+            "player1points": 200, 
+            "player2": "Yu", 
+            "player2points": 102, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ben", 
+            "player1points": 138, 
+            "player2": "James", 
+            "player2points": 119, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Yannis", 
+            "player1points": 200, 
+            "player2": "Elliot", 
+            "player2points": 86, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Ben", 
+            "player1points": 44, 
+            "player2": "Andi", 
+            "player2points": 50, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Yannis", 
+            "player1points": 129, 
+            "player2": "Yu", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "James", 
+            "player1points": 99, 
+            "player2": "Elliot", 
+            "player2points": 174, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Other", 
+    "venue": {
+      "city": "Tokyo", 
+      "country": "Japan", 
+      "lat": "35.761200000000", 
+      "lon": "139.821500000000", 
+      "name": "JIGG Tokyo", 
+      "state": "Tokyo"
+    }, 
+    "video_url": "http://"
+  }
+}
