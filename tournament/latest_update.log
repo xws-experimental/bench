@@ -3,39 +3,15 @@ From github.com:baranidlo/bench
 Already up-to-date.
 Moving old 'tournaments' to 'tournaments.old'...
 Downloading new 'tournaments' file...
---2018-10-29 07:04:55--  http://lists.starwarsclubhouse.com/api/v1/tournaments
+--2018-10-30 07:03:34--  http://lists.starwarsclubhouse.com/api/v1/tournaments
 Resolving lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)... 35.173.69.207
 Connecting to lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)|35.173.69.207|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 44707 (44K) [application/json]
 Saving to: ‘tournaments’
 
-     0K .......... .......... .......... .......... ...       100%  285K=0.2s
+     0K .......... .......... .......... .......... ...       100%  310K=0.1s
 
-2018-10-29 07:04:56 (285 KB/s) - ‘tournaments’ saved [44707/44707]
+2018-10-30 07:03:35 (310 KB/s) - ‘tournaments’ saved [44707/44707]
 
 Downloading new tournament list data...
---2018-10-29 07:04:56--  http://lists.starwarsclubhouse.com/api/v1/tournament/4713
-Resolving lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)... 35.173.69.207
-Connecting to lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)|35.173.69.207|:80... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 6679 (6.5K) [application/json]
-Saving to: ‘4713’
-
-     0K ......                                                100%  458M=0s
-
-2018-10-29 07:04:56 (458 MB/s) - ‘4713’ saved [6679/6679]
-
---2018-10-29 07:04:56--  http://lists.starwarsclubhouse.com/api/v1/tournament/4714
-Resolving lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)... 35.173.69.207
-Connecting to lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)|35.173.69.207|:80... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 3405 (3.3K) [application/json]
-Saving to: ‘4714’
-
-     0K ...                                                   100%  343M=0s
-
-2018-10-29 07:04:56 (343 MB/s) - ‘4714’ saved [3405/3405]
-
-To git@github.com:baranidlo/bench.git
-   aff6aaa..0df3251  gh-pages -> gh-pages
