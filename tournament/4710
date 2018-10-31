@@ -77,55 +77,6 @@
         "sos": "0.44"
       }, 
       {
-        "list": {
-          "faction": "rebel", 
-          "pilots": [
-            {
-              "name": "rey", 
-              "ship": "yt1300", 
-              "upgrades": {
-                "crew": [
-                  "finn", 
-                  "c3po"
-                ], 
-                "ept": [
-                  "expertise"
-                ], 
-                "mod": [
-                  "tacticaljammer"
-                ], 
-                "title": [
-                  "millenniumfalcon"
-                ]
-              }
-            }, 
-            {
-              "name": "janors", 
-              "ship": "hwk290", 
-              "upgrades": {
-                "crew": [
-                  "chewbacca"
-                ], 
-                "ept": [
-                  "trickshot"
-                ], 
-                "mod": [
-                  "hullupgrade"
-                ], 
-                "title": [
-                  "moldycrow"
-                ], 
-                "turret": [
-                  "twinlaserturret"
-                ]
-              }
-            }
-          ], 
-          "vendor": {
-            "listjuggler": {}
-          }, 
-          "version": "4.2.0"
-        }, 
         "mov": 483, 
         "name": "simao neto", 
         "rank": {
@@ -153,6 +104,77 @@
         "sos": "0.33"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "courierdroid"
+                ], 
+                "ept": [
+                  "trickshot"
+                ]
+              }
+            }, 
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "wookieecommandos"
+                ], 
+                "ept": [
+                  "drawtheirfire"
+                ]
+              }
+            }, 
+            {
+              "name": "cavernangelszealot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "r4d6"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "wedgeantilles", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "chopper-swx72"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 207, 
         "name": "daniel catelan", 
         "rank": {

@@ -1,0 +1,415 @@
+{
+  "tournament": {
+    "date": "2018-10-30", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4715, 
+    "name": "Tuesday 10/30/18", 
+    "players": [
+      {
+        "mov": 149, 
+        "name": "Charles Hutchinson", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 0, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 431, 
+        "name": "Ned Ash", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.83"
+      }, 
+      {
+        "mov": 961, 
+        "name": "Daniel Orkwis", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 716, 
+        "name": "Josh Taylor", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.39"
+      }, 
+      {
+        "mov": 842, 
+        "name": "Mike Darcy", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 2, 
+        "sos": "0.22"
+      }, 
+      {
+        "mov": 732, 
+        "name": "Alex Yen", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 2, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 704, 
+        "name": "Travis Upton", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 662, 
+        "name": "Craig Ferguson", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 657, 
+        "name": "Nick Lapietra", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 608, 
+        "name": "Robert Hoover", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 2, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 570, 
+        "name": "Larry Turnbull", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 526, 
+        "name": "John Shearer", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 597, 
+        "name": "John-Louis Rumingan", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 1, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 595, 
+        "name": "Johnathan Proctor", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 557, 
+        "name": "Derek Tokaz", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 1, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 556, 
+        "name": "Phil Karash", 
+        "rank": {
+          "swiss": 14
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 518, 
+        "name": "Clayton Webb", 
+        "rank": {
+          "swiss": 15
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 471, 
+        "name": "Alan Scherer", 
+        "rank": {
+          "swiss": 16
+        }, 
+        "score": 1, 
+        "sos": "0.83"
+      }, 
+      {
+        "mov": 448, 
+        "name": "Grant Bennett", 
+        "rank": {
+          "swiss": 17
+        }, 
+        "score": 0, 
+        "sos": "0.67"
+      }
+    ], 
+    "round_length": 65, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Mike Darcy", 
+            "player1points": 42, 
+            "player2": "John-Louis Rumingan", 
+            "player2points": 85, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alex Yen", 
+            "player1points": 173, 
+            "player2": "Robert Hoover", 
+            "player2points": 115, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Daniel Orkwis", 
+            "player1points": 200, 
+            "player2": "Alan Scherer", 
+            "player2points": 56, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Grant Bennett", 
+            "player1points": 134, 
+            "player2": "Josh Taylor", 
+            "player2points": 168, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Clayton Webb", 
+            "player1points": 143, 
+            "player2": "Larry Turnbull", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Johnathan Proctor", 
+            "player1points": 178, 
+            "player2": "Derek Tokaz", 
+            "player2points": 116, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Travis Upton", 
+            "player1points": 60, 
+            "player2": "Ned Ash", 
+            "player2points": 131, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Charles Hutchinson", 
+            "player1points": 149, 
+            "player2": "Craig Ferguson", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Phil Karash", 
+            "player1points": 115, 
+            "player2": "John Shearer", 
+            "player2points": 137, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nick Lapietra", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "John-Louis Rumingan", 
+            "player1points": 127, 
+            "player2": "John Shearer", 
+            "player2points": 139, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alex Yen", 
+            "player1points": 83, 
+            "player2": "Daniel Orkwis", 
+            "player2points": 156, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Josh Taylor", 
+            "player1points": 200, 
+            "player2": "Ned Ash", 
+            "player2points": 160, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nick Lapietra", 
+            "player1points": 72, 
+            "player2": "Craig Ferguson", 
+            "player2points": 125, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Larry Turnbull", 
+            "player1points": 200, 
+            "player2": "Johnathan Proctor", 
+            "player2points": 143, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Travis Upton", 
+            "player1points": 148, 
+            "player2": "Derek Tokaz", 
+            "player2points": 81, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Grant Bennett", 
+            "player1points": 99, 
+            "player2": "Robert Hoover", 
+            "player2points": 131, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Phil Karash", 
+            "player1points": 200, 
+            "player2": "Clayton Webb", 
+            "player2points": 75, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Mike Darcy", 
+            "player1points": 200, 
+            "player2": "Charles Hutchinson", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alan Scherer", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Craig Ferguson", 
+            "player1points": 112, 
+            "player2": "Josh Taylor", 
+            "player2points": 154, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Larry Turnbull", 
+            "player1points": 56, 
+            "player2": "Daniel Orkwis", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "John Shearer", 
+            "player1points": 29, 
+            "player2": "Travis Upton", 
+            "player2points": 137, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Nick Lapietra", 
+            "player1points": 175, 
+            "player2": "Johnathan Proctor", 
+            "player2points": 165, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alan Scherer", 
+            "player1points": 115, 
+            "player2": "Mike Darcy", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alex Yen", 
+            "player1points": 200, 
+            "player2": "Phil Karash", 
+            "player2points": 53, 
+            "result": "win"
+          }, 
+          {
+            "player1": "John-Louis Rumingan", 
+            "player1points": 50, 
+            "player2": "Robert Hoover", 
+            "player2points": 84, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Derek Tokaz", 
+            "player1points": 200, 
+            "player2": "Grant Bennett", 
+            "player2points": 114, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Clayton Webb", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Other", 
+    "venue": {
+      "city": "Springfield", 
+      "country": "United States of America", 
+      "lat": "38.789052200000", 
+      "lon": "-77.187036800000", 
+      "name": "Curio Cavern", 
+      "state": "Virginia"
+    }, 
+    "video_url": "http://"
+  }
+}
