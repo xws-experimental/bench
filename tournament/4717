@@ -334,20 +334,17 @@
           "faction": "imperial", 
           "pilots": [
             {
-              "name": "quickdraw", 
-              "ship": "tiesffighter", 
+              "name": "darthvader", 
+              "ship": "tieadvanced", 
               "upgrades": {
                 "ept": [
-                  "expertise"
-                ], 
-                "mod": [
-                  "lightweightframe"
+                  "trickshot"
                 ], 
                 "system": [
-                  "firecontrolsystem"
+                  "advtargetingcomputer"
                 ], 
                 "title": [
-                  "specialopstraining"
+                  "tiex1"
                 ]
               }
             }, 
@@ -367,17 +364,20 @@
               }
             }, 
             {
-              "name": "darthvader", 
-              "ship": "tieadvanced", 
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
               "upgrades": {
                 "ept": [
-                  "trickshot"
+                  "expertise"
+                ], 
+                "mod": [
+                  "lightweightframe"
                 ], 
                 "system": [
-                  "advtargetingcomputer"
+                  "firecontrolsystem"
                 ], 
                 "title": [
-                  "tiex1"
+                  "specialopstraining"
                 ]
               }
             }
