@@ -321,55 +321,6 @@
         "sos": "0.50"
       }, 
       {
-        "list": {
-          "faction": "scum", 
-          "pilots": [
-            {
-              "name": "syndicatethug", 
-              "ship": "ywing", 
-              "upgrades": {
-                "samd": [
-                  "r4agromech"
-                ], 
-                "turret": [
-                  "twinlaserturret"
-                ]
-              }
-            }, 
-            {
-              "name": "syndicatethug", 
-              "ship": "ywing", 
-              "upgrades": {
-                "samd": [
-                  "r4agromech"
-                ], 
-                "turret": [
-                  "twinlaserturret"
-                ]
-              }
-            }, 
-            {
-              "name": "binayrepirate", 
-              "ship": "z95headhunter"
-            }, 
-            {
-              "name": "binayrepirate", 
-              "ship": "z95headhunter"
-            }, 
-            {
-              "name": "binayrepirate", 
-              "ship": "z95headhunter"
-            }, 
-            {
-              "name": "binayrepirate", 
-              "ship": "z95headhunter"
-            }
-          ], 
-          "vendor": {
-            "listjuggler": {}
-          }, 
-          "version": "4.2.0"
-        }, 
         "mov": 544, 
         "name": "Wagner Toyama", 
         "rank": {
@@ -584,55 +535,6 @@
         "sos": "0.50"
       }, 
       {
-        "list": {
-          "faction": "scum", 
-          "pilots": [
-            {
-              "name": "syndicatethug", 
-              "ship": "ywing", 
-              "upgrades": {
-                "samd": [
-                  "r4agromech"
-                ], 
-                "turret": [
-                  "twinlaserturret"
-                ]
-              }
-            }, 
-            {
-              "name": "syndicatethug", 
-              "ship": "ywing", 
-              "upgrades": {
-                "samd": [
-                  "r4agromech"
-                ], 
-                "turret": [
-                  "twinlaserturret"
-                ]
-              }
-            }, 
-            {
-              "name": "binayrepirate", 
-              "ship": "z95headhunter"
-            }, 
-            {
-              "name": "binayrepirate", 
-              "ship": "z95headhunter"
-            }, 
-            {
-              "name": "binayrepirate", 
-              "ship": "z95headhunter"
-            }, 
-            {
-              "name": "binayrepirate", 
-              "ship": "z95headhunter"
-            }
-          ], 
-          "vendor": {
-            "listjuggler": {}
-          }, 
-          "version": "4.2.0"
-        }, 
         "mov": 438, 
         "name": "Ederson de Araujo santos", 
         "rank": {
@@ -725,55 +627,6 @@
         "sos": "0.69"
       }, 
       {
-        "list": {
-          "faction": "scum", 
-          "pilots": [
-            {
-              "name": "syndicatethug", 
-              "ship": "ywing", 
-              "upgrades": {
-                "samd": [
-                  "r4agromech"
-                ], 
-                "turret": [
-                  "twinlaserturret"
-                ]
-              }
-            }, 
-            {
-              "name": "syndicatethug", 
-              "ship": "ywing", 
-              "upgrades": {
-                "samd": [
-                  "r4agromech"
-                ], 
-                "turret": [
-                  "twinlaserturret"
-                ]
-              }
-            }, 
-            {
-              "name": "binayrepirate", 
-              "ship": "z95headhunter"
-            }, 
-            {
-              "name": "binayrepirate", 
-              "ship": "z95headhunter"
-            }, 
-            {
-              "name": "binayrepirate", 
-              "ship": "z95headhunter"
-            }, 
-            {
-              "name": "binayrepirate", 
-              "ship": "z95headhunter"
-            }
-          ], 
-          "vendor": {
-            "listjuggler": {}
-          }, 
-          "version": "4.2.0"
-        }, 
         "mov": 248, 
         "name": "Claudio Oliveira", 
         "rank": {
@@ -907,55 +760,6 @@
         "sos": "0.58"
       }, 
       {
-        "list": {
-          "faction": "scum", 
-          "pilots": [
-            {
-              "name": "syndicatethug", 
-              "ship": "ywing", 
-              "upgrades": {
-                "samd": [
-                  "r4agromech"
-                ], 
-                "turret": [
-                  "twinlaserturret"
-                ]
-              }
-            }, 
-            {
-              "name": "syndicatethug", 
-              "ship": "ywing", 
-              "upgrades": {
-                "samd": [
-                  "r4agromech"
-                ], 
-                "turret": [
-                  "twinlaserturret"
-                ]
-              }
-            }, 
-            {
-              "name": "binayrepirate", 
-              "ship": "z95headhunter"
-            }, 
-            {
-              "name": "binayrepirate", 
-              "ship": "z95headhunter"
-            }, 
-            {
-              "name": "binayrepirate", 
-              "ship": "z95headhunter"
-            }, 
-            {
-              "name": "binayrepirate", 
-              "ship": "z95headhunter"
-            }
-          ], 
-          "vendor": {
-            "listjuggler": {}
-          }, 
-          "version": "4.2.0"
-        }, 
         "mov": 200, 
         "name": "Rafael Yuji Kondo", 
         "rank": {

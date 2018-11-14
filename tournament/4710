@@ -77,55 +77,6 @@
         "sos": "0.44"
       }, 
       {
-        "list": {
-          "faction": "scum", 
-          "pilots": [
-            {
-              "name": "syndicatethug", 
-              "ship": "ywing", 
-              "upgrades": {
-                "samd": [
-                  "r4agromech"
-                ], 
-                "turret": [
-                  "twinlaserturret"
-                ]
-              }
-            }, 
-            {
-              "name": "syndicatethug", 
-              "ship": "ywing", 
-              "upgrades": {
-                "samd": [
-                  "r4agromech"
-                ], 
-                "turret": [
-                  "twinlaserturret"
-                ]
-              }
-            }, 
-            {
-              "name": "binayrepirate", 
-              "ship": "z95headhunter"
-            }, 
-            {
-              "name": "binayrepirate", 
-              "ship": "z95headhunter"
-            }, 
-            {
-              "name": "binayrepirate", 
-              "ship": "z95headhunter"
-            }, 
-            {
-              "name": "binayrepirate", 
-              "ship": "z95headhunter"
-            }
-          ], 
-          "vendor": {
-            "listjuggler": {}
-          }, 
-          "version": "4.2.0"
-        }, 
         "mov": 483, 
         "name": "Gugol", 
         "rank": {
@@ -135,55 +86,6 @@
         "sos": "0.50"
       }, 
       {
-        "list": {
-          "faction": "scum", 
-          "pilots": [
-            {
-              "name": "syndicatethug", 
-              "ship": "ywing", 
-              "upgrades": {
-                "samd": [
-                  "r4agromech"
-                ], 
-                "turret": [
-                  "twinlaserturret"
-                ]
-              }
-            }, 
-            {
-              "name": "syndicatethug", 
-              "ship": "ywing", 
-              "upgrades": {
-                "samd": [
-                  "r4agromech"
-                ], 
-                "turret": [
-                  "twinlaserturret"
-                ]
-              }
-            }, 
-            {
-              "name": "binayrepirate", 
-              "ship": "z95headhunter"
-            }, 
-            {
-              "name": "binayrepirate", 
-              "ship": "z95headhunter"
-            }, 
-            {
-              "name": "binayrepirate", 
-              "ship": "z95headhunter"
-            }, 
-            {
-              "name": "binayrepirate", 
-              "ship": "z95headhunter"
-            }
-          ], 
-          "vendor": {
-            "listjuggler": {}
-          }, 
-          "version": "4.2.0"
-        }, 
         "mov": 461, 
         "name": "pedro tortelo", 
         "rank": {
@@ -193,55 +95,6 @@
         "sos": "0.44"
       }, 
       {
-        "list": {
-          "faction": "scum", 
-          "pilots": [
-            {
-              "name": "syndicatethug", 
-              "ship": "ywing", 
-              "upgrades": {
-                "samd": [
-                  "r4agromech"
-                ], 
-                "turret": [
-                  "twinlaserturret"
-                ]
-              }
-            }, 
-            {
-              "name": "syndicatethug", 
-              "ship": "ywing", 
-              "upgrades": {
-                "samd": [
-                  "r4agromech"
-                ], 
-                "turret": [
-                  "twinlaserturret"
-                ]
-              }
-            }, 
-            {
-              "name": "binayrepirate", 
-              "ship": "z95headhunter"
-            }, 
-            {
-              "name": "binayrepirate", 
-              "ship": "z95headhunter"
-            }, 
-            {
-              "name": "binayrepirate", 
-              "ship": "z95headhunter"
-            }, 
-            {
-              "name": "binayrepirate", 
-              "ship": "z95headhunter"
-            }
-          ], 
-          "vendor": {
-            "listjuggler": {}
-          }, 
-          "version": "4.2.0"
-        }, 
         "mov": 446, 
         "name": "Barbara", 
         "rank": {
@@ -331,55 +184,6 @@
         "sos": "0.56"
       }, 
       {
-        "list": {
-          "faction": "scum", 
-          "pilots": [
-            {
-              "name": "syndicatethug", 
-              "ship": "ywing", 
-              "upgrades": {
-                "samd": [
-                  "r4agromech"
-                ], 
-                "turret": [
-                  "twinlaserturret"
-                ]
-              }
-            }, 
-            {
-              "name": "syndicatethug", 
-              "ship": "ywing", 
-              "upgrades": {
-                "samd": [
-                  "r4agromech"
-                ], 
-                "turret": [
-                  "twinlaserturret"
-                ]
-              }
-            }, 
-            {
-              "name": "binayrepirate", 
-              "ship": "z95headhunter"
-            }, 
-            {
-              "name": "binayrepirate", 
-              "ship": "z95headhunter"
-            }, 
-            {
-              "name": "binayrepirate", 
-              "ship": "z95headhunter"
-            }, 
-            {
-              "name": "binayrepirate", 
-              "ship": "z95headhunter"
-            }
-          ], 
-          "vendor": {
-            "listjuggler": {}
-          }, 
-          "version": "4.2.0"
-        }, 
         "mov": 301, 
         "name": "nicola", 
         "rank": {
@@ -509,55 +313,6 @@
         "sos": "0.67"
       }, 
       {
-        "list": {
-          "faction": "scum", 
-          "pilots": [
-            {
-              "name": "syndicatethug", 
-              "ship": "ywing", 
-              "upgrades": {
-                "samd": [
-                  "r4agromech"
-                ], 
-                "turret": [
-                  "twinlaserturret"
-                ]
-              }
-            }, 
-            {
-              "name": "syndicatethug", 
-              "ship": "ywing", 
-              "upgrades": {
-                "samd": [
-                  "r4agromech"
-                ], 
-                "turret": [
-                  "twinlaserturret"
-                ]
-              }
-            }, 
-            {
-              "name": "binayrepirate", 
-              "ship": "z95headhunter"
-            }, 
-            {
-              "name": "binayrepirate", 
-              "ship": "z95headhunter"
-            }, 
-            {
-              "name": "binayrepirate", 
-              "ship": "z95headhunter"
-            }, 
-            {
-              "name": "binayrepirate", 
-              "ship": "z95headhunter"
-            }
-          ], 
-          "vendor": {
-            "listjuggler": {}
-          }, 
-          "version": "4.2.0"
-        }, 
         "mov": 100, 
         "name": "wagner", 
         "rank": {

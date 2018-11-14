@@ -928,7 +928,7 @@
           "version": "4.2.0"
         }, 
         "mov": 393, 
-        "name": "ikeda", 
+        "name": "Ikeda", 
         "rank": {
           "swiss": 11
         }, 
@@ -1368,7 +1368,7 @@
           {
             "player1": "denicol", 
             "player1points": 100, 
-            "player2": "ikeda", 
+            "player2": "Ikeda", 
             "player2points": 32, 
             "result": "win"
           }, 
@@ -1430,7 +1430,7 @@
           {
             "player1": "sabino", 
             "player1points": 26, 
-            "player2": "ikeda", 
+            "player2": "Ikeda", 
             "player2points": 100, 
             "result": "win"
           }, 
@@ -1476,7 +1476,7 @@
             "result": "win"
           }, 
           {
-            "player1": "ikeda", 
+            "player1": "Ikeda", 
             "player1points": 100, 
             "player2": "oigres", 
             "player2points": 71, 
@@ -1538,7 +1538,7 @@
             "result": "win"
           }, 
           {
-            "player1": "ikeda", 
+            "player1": "Ikeda", 
             "player1points": 58, 
             "player2": "daniel kantor", 
             "player2points": 100, 

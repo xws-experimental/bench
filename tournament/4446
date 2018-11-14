@@ -635,7 +635,7 @@
       }, 
       {
         "mov": 410, 
-        "name": "Neto", 
+        "name": "Gugol", 
         "rank": {
           "swiss": 10
         }, 
@@ -1131,7 +1131,7 @@
             "result": "win"
           }, 
           {
-            "player1": "Neto", 
+            "player1": "Gugol", 
             "player1points": 100, 
             "player2": "Hugo", 
             "player2points": 24, 
@@ -1160,7 +1160,7 @@
           {
             "player1": "Andre", 
             "player1points": 100, 
-            "player2": "Neto", 
+            "player2": "Gugol", 
             "player2points": 0, 
             "result": "win"
           }, 
@@ -1249,7 +1249,7 @@
           {
             "player1": "Radamantes", 
             "player1points": 0, 
-            "player2": "Neto", 
+            "player2": "Gugol", 
             "player2points": 100, 
             "result": "win"
           }, 
@@ -1325,7 +1325,7 @@
           {
             "player1": "Fernando Ribeiro", 
             "player1points": 100, 
-            "player2": "Neto", 
+            "player2": "Gugol", 
             "player2points": 34, 
             "result": "win"
           }, 
