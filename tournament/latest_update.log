@@ -3,17 +3,37 @@ From github.com:baranidlo/bench
 Already up-to-date.
 Moving old 'tournaments' to 'tournaments.old'...
 Downloading new 'tournaments' file...
---2018-11-20 07:03:35--  http://lists.starwarsclubhouse.com/api/v1/tournaments
+--2018-11-21 07:03:37--  http://lists.starwarsclubhouse.com/api/v1/tournaments
 Resolving lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)... 35.173.69.207
 Connecting to lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)|35.173.69.207|:80... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 44817 (44K) [application/json]
+Length: 44839 (44K) [application/json]
 Saving to: ‘tournaments’
 
-     0K .......... .......... .......... .......... ...       100%  282K=0.2s
+     0K .......... .......... .......... .......... ...       100%  271K=0.2s
 
-2018-11-20 07:03:35 (282 KB/s) - ‘tournaments’ saved [44817/44817]
+2018-11-21 07:03:38 (271 KB/s) - ‘tournaments’ saved [44839/44839]
 
 Downloading new tournament list data...
-To git@github.com:baranidlo/bench.git
-   88f8a69..55b7c37  gh-pages -> gh-pages
+--2018-11-21 07:03:38--  http://lists.starwarsclubhouse.com/api/v1/tournament/4725
+Resolving lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)... 35.173.69.207
+Connecting to lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)|35.173.69.207|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 29172 (28K) [application/json]
+Saving to: ‘4725’
+
+     0K .......... .......... ........                        100%  369K=0.08s
+
+2018-11-21 07:03:39 (369 KB/s) - ‘4725’ saved [29172/29172]
+
+--2018-11-21 07:03:39--  http://lists.starwarsclubhouse.com/api/v1/tournament/4726
+Resolving lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)... 35.173.69.207
+Connecting to lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)|35.173.69.207|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6068 (5.9K) [application/json]
+Saving to: ‘4726’
+
+     0K .....                                                 100%  576M=0s
+
+2018-11-21 07:03:39 (576 MB/s) - ‘4726’ saved [6068/6068]
+
