@@ -3,26 +3,37 @@ From github.com:baranidlo/bench
 Already up-to-date.
 Moving old 'tournaments' to 'tournaments.old'...
 Downloading new 'tournaments' file...
---2018-11-25 07:03:39--  http://lists.starwarsclubhouse.com/api/v1/tournaments
+--2018-11-26 07:03:45--  http://lists.starwarsclubhouse.com/api/v1/tournaments
 Resolving lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)... 35.173.69.207
 Connecting to lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)|35.173.69.207|:80... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 44850 (44K) [application/json]
+Length: 44872 (44K) [application/json]
 Saving to: ‘tournaments’
 
-     0K .......... .......... .......... .......... ...       100%  308K=0.1s
+     0K .......... .......... .......... .......... ...       100%  290K=0.2s
 
-2018-11-25 07:07:12 (308 KB/s) - ‘tournaments’ saved [44850/44850]
+2018-11-26 07:03:46 (290 KB/s) - ‘tournaments’ saved [44872/44872]
 
 Downloading new tournament list data...
---2018-11-25 07:07:12--  http://lists.starwarsclubhouse.com/api/v1/tournament/4727
+--2018-11-26 07:03:46--  http://lists.starwarsclubhouse.com/api/v1/tournament/4728
 Resolving lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)... 35.173.69.207
 Connecting to lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)|35.173.69.207|:80... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 6991 (6.8K) [application/json]
-Saving to: ‘4727’
+Length: 13079 (13K) [application/json]
+Saving to: ‘4728’
 
-     0K ......                                                100%  672M=0s
+     0K .......... ..                                         100%  259M=0s
 
-2018-11-25 07:07:43 (672 MB/s) - ‘4727’ saved [6991/6991]
+2018-11-26 07:03:46 (259 MB/s) - ‘4728’ saved [13079/13079]
+
+--2018-11-26 07:03:46--  http://lists.starwarsclubhouse.com/api/v1/tournament/4729
+Resolving lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)... 35.173.69.207
+Connecting to lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)|35.173.69.207|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 30744 (30K) [application/json]
+Saving to: ‘4729’
+
+     0K .......... .......... ..........                      100%  373K=0.08s
+
+2018-11-26 07:03:47 (373 KB/s) - ‘4729’ saved [30744/30744]
 
