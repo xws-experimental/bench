@@ -3,11 +3,79 @@
     "date": "2018-11-24", 
     "format": "Standard - 100 Point Dogfight", 
     "id": 4728, 
-    "name": "Store - Newstation So Paulo", 
+    "name": "Store - Newstation Sao Paulo", 
     "players": [
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "rey", 
+                  "tactician"
+                ], 
+                "ept": [
+                  "drawtheirfire"
+                ]
+              }
+            }, 
+            {
+              "name": "jesspava", 
+              "ship": "t70xwing", 
+              "upgrades": {
+                "amd": [
+                  "r2d6"
+                ], 
+                "ept": [
+                  "selflessness"
+                ], 
+                "mod": [
+                  "integratedastromech"
+                ]
+              }
+            }, 
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 616, 
-        "name": "Leonardo", 
+        "name": "Leo Parra", 
         "rank": {
           "elimination": 1, 
           "swiss": 1
@@ -17,7 +85,7 @@
       }, 
       {
         "mov": 616, 
-        "name": "Diogo Patro", 
+        "name": "Diogo Patrao", 
         "rank": {
           "elimination": 4, 
           "swiss": 2
@@ -27,7 +95,7 @@
       }, 
       {
         "mov": 541, 
-        "name": "Zeca", 
+        "name": "Zeca Baboin", 
         "rank": {
           "elimination": 2, 
           "swiss": 3
@@ -36,6 +104,56 @@
         "sos": "0.44"
       }, 
       {
+        "list": {
+          "faction": "scum", 
+          "pilots": [
+            {
+              "name": "asajjventress", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "lattsrazzi"
+                ], 
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "illicit": [
+                  "glitterstim", 
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "gyroscopictargeting"
+                ]
+              }
+            }, 
+            {
+              "name": "ketsuonyo", 
+              "ship": "lancerclasspursuitcraft", 
+              "upgrades": {
+                "crew": [
+                  "dengar"
+                ], 
+                "ept": [
+                  "fearlessness"
+                ], 
+                "illicit": [
+                  "glitterstim", 
+                  "glitterstim"
+                ], 
+                "mod": [
+                  "gyroscopictargeting"
+                ], 
+                "title": [
+                  "shadowcaster"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 511, 
         "name": "Guilherme Nicola", 
         "rank": {
@@ -73,6 +191,80 @@
         "sos": "0.50"
       }, 
       {
+        "list": {
+          "faction": "rebel", 
+          "pilots": [
+            {
+              "name": "rookiepilot", 
+              "ship": "xwing", 
+              "upgrades": {
+                "amd": [
+                  "flightassistastromech"
+                ], 
+                "mod": [
+                  "servomotorsfoils", 
+                  "integratedastromech"
+                ], 
+                "torpedo": [
+                  "renegaderefit"
+                ]
+              }
+            }, 
+            {
+              "name": "ezrabridger", 
+              "ship": "sheathipedeclassshuttle", 
+              "upgrades": {
+                "amd": [
+                  "r3a2"
+                ], 
+                "crew": [
+                  "herasyndulla"
+                ], 
+                "ept": [
+                  "snapshot"
+                ]
+              }
+            }, 
+            {
+              "name": "goldsquadronpilot", 
+              "ship": "ywing", 
+              "upgrades": {
+                "amd": [
+                  "chopper-swx72"
+                ], 
+                "mod": [
+                  "guidancechips"
+                ], 
+                "title": [
+                  "btla4ywing"
+                ], 
+                "torpedo": [
+                  "bombloadout"
+                ], 
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "lowhhrick", 
+              "ship": "auzituckgunship", 
+              "upgrades": {
+                "crew": [
+                  "magvayarro", 
+                  "rey"
+                ], 
+                "ept": [
+                  "selflessness"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 468, 
         "name": "Pedro Tortello", 
         "rank": {
@@ -109,6 +301,63 @@
         "sos": "0.56"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "darthvader", 
+              "ship": "tieadvanced", 
+              "upgrades": {
+                "ept": [
+                  "intensity"
+                ], 
+                "missile": [
+                  "cruisemissiles"
+                ], 
+                "mod": [
+                  "engineupgrade"
+                ], 
+                "system": [
+                  "advtargetingcomputer"
+                ], 
+                "title": [
+                  "tiex1"
+                ]
+              }
+            }, 
+            {
+              "name": "maarekstele", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "ascoretosettle"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }, 
+            {
+              "name": "majorvermeil", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "ept": [
+                  "trickshot"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 395, 
         "name": "Renato Rodrigues", 
         "rank": {
@@ -127,6 +376,57 @@
         "sos": "0.63"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "sienarspecialist", 
+              "ship": "tieaggressor", 
+              "upgrades": {
+                "turret": [
+                  "twinlaserturret"
+                ]
+              }
+            }, 
+            {
+              "name": "scarifbasepilot", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "emperorpalpatine"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "whisper", 
+              "ship": "tiephantom", 
+              "upgrades": {
+                "crew": [
+                  "directorkrennic"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "advancedcloakingdevice"
+                ], 
+                "system": [
+                  "advancedsensors"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 304, 
         "name": "Luiz Soares", 
         "rank": {
@@ -145,6 +445,64 @@
         "sos": "0.58"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "scarifbasepilot", 
+              "ship": "tiereaper", 
+              "upgrades": {
+                "crew": [
+                  "courierdroid", 
+                  "isbslicer"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "title": [
+                  "advancedailerons"
+                ]
+              }
+            }, 
+            {
+              "name": "quickdraw", 
+              "ship": "tiesffighter", 
+              "upgrades": {
+                "ept": [
+                  "expertise"
+                ], 
+                "mod": [
+                  "lightweightframe"
+                ], 
+                "system": [
+                  "firecontrolsystem"
+                ], 
+                "title": [
+                  "specialopstraining"
+                ]
+              }
+            }, 
+            {
+              "name": "countessryad", 
+              "ship": "tiedefender", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "twinionenginemkii"
+                ], 
+                "title": [
+                  "tiex7"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 294, 
         "name": "Andre Amaral", 
         "rank": {
@@ -195,7 +553,7 @@
           {
             "player1": "Marcelo Lin", 
             "player1points": 33, 
-            "player2": "Leonardo", 
+            "player2": "Leo Parra", 
             "player2points": 62, 
             "result": "win"
           }, 
@@ -242,14 +600,14 @@
             "result": "win"
           }, 
           {
-            "player1": "Zeca", 
+            "player1": "Zeca Baboin", 
             "player1points": 41, 
             "player2": "Eduardo Vasquez", 
             "player2points": 48, 
             "result": "win"
           }, 
           {
-            "player1": "Diogo Patro", 
+            "player1": "Diogo Patrao", 
             "player1points": null, 
             "player2": "", 
             "player2points": null, 
@@ -264,7 +622,7 @@
           {
             "player1": "Marcelo Batista", 
             "player1points": 69, 
-            "player2": "Diogo Patro", 
+            "player2": "Diogo Patrao", 
             "player2points": 35, 
             "result": "win"
           }, 
@@ -276,7 +634,7 @@
             "result": "win"
           }, 
           {
-            "player1": "Leonardo", 
+            "player1": "Leo Parra", 
             "player1points": 100, 
             "player2": "Vinicius Candelaria", 
             "player2points": 0, 
@@ -297,7 +655,7 @@
             "result": "win"
           }, 
           {
-            "player1": "Zeca", 
+            "player1": "Zeca Baboin", 
             "player1points": 38, 
             "player2": "Rafael Gonzales", 
             "player2points": 0, 
@@ -338,9 +696,9 @@
       {
         "matches": [
           {
-            "player1": "Leonardo", 
+            "player1": "Leo Parra", 
             "player1points": 78, 
-            "player2": "Zeca", 
+            "player2": "Zeca Baboin", 
             "player2points": 60, 
             "result": "win"
           }
@@ -358,7 +716,7 @@
             "result": "win"
           }, 
           {
-            "player1": "Leonardo", 
+            "player1": "Leo Parra", 
             "player1points": 100, 
             "player2": "Tadeu Abreu", 
             "player2points": 53, 
@@ -367,7 +725,7 @@
           {
             "player1": "Pedro Tortello", 
             "player1points": 26, 
-            "player2": "Zeca", 
+            "player2": "Zeca Baboin", 
             "player2points": 58, 
             "result": "win"
           }, 
@@ -395,7 +753,7 @@
           {
             "player1": "Luiz Soares", 
             "player1points": 0, 
-            "player2": "Diogo Patro", 
+            "player2": "Diogo Patrao", 
             "player2points": 100, 
             "result": "win"
           }, 
@@ -427,7 +785,7 @@
       {
         "matches": [
           {
-            "player1": "Leonardo", 
+            "player1": "Leo Parra", 
             "player1points": 100, 
             "player2": "Guilherme Nicola", 
             "player2points": 60, 
@@ -436,7 +794,7 @@
           {
             "player1": "Eduardo Vasquez", 
             "player1points": 0, 
-            "player2": "Diogo Patro", 
+            "player2": "Diogo Patrao", 
             "player2points": 100, 
             "result": "win"
           }, 
@@ -448,7 +806,7 @@
             "result": "win"
           }, 
           {
-            "player1": "Zeca", 
+            "player1": "Zeca Baboin", 
             "player1points": 100, 
             "player2": "Gabriel branco", 
             "player2points": 22, 
@@ -503,16 +861,16 @@
       {
         "matches": [
           {
-            "player1": "Leonardo", 
+            "player1": "Leo Parra", 
             "player1points": 100, 
             "player2": "Guilherme Nicola", 
             "player2points": 0, 
             "result": "win"
           }, 
           {
-            "player1": "Diogo Patro", 
+            "player1": "Diogo Patrao", 
             "player1points": 0, 
-            "player2": "Zeca", 
+            "player2": "Zeca Baboin", 
             "player2points": 67, 
             "result": "win"
           }
@@ -523,11 +881,11 @@
     ], 
     "type": "Store championship", 
     "venue": {
-      "city": "So Paulo", 
+      "city": "Sao Paulo", 
       "country": "Brazil", 
       "lat": null, 
       "lon": null, 
-      "name": "", 
+      "name": "Newstation Sao Paulo", 
       "state": "Sao Paulo"
     }, 
     "video_url": "http://"
