@@ -43,7 +43,7 @@
       }, 
       {
         "mov": 168, 
-        "name": "Iassa Carneiro", 
+        "name": "Iacana Carneiro", 
         "rank": {
           "swiss": 5
         }, 
@@ -65,7 +65,7 @@
       {
         "matches": [
           {
-            "player1": "Iassa Carneiro", 
+            "player1": "Iacana Carneiro", 
             "player1points": 0, 
             "player2": "Pedro Thiago", 
             "player2points": 60, 
@@ -101,7 +101,7 @@
           {
             "player1": "Cesar Miranda", 
             "player1points": 90, 
-            "player2": "Iassa Carneiro", 
+            "player2": "Iacana Carneiro", 
             "player2points": 21, 
             "result": "win"
           }, 
@@ -133,7 +133,7 @@
             "result": "win"
           }, 
           {
-            "player1": "Iassa Carneiro", 
+            "player1": "Iacana Carneiro", 
             "player1points": 58, 
             "player2": "Marcelo Camera", 
             "player2points": 31, 
