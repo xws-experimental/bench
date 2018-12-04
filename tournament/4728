@@ -512,6 +512,54 @@
         "sos": "0.44"
       }, 
       {
+        "list": {
+          "faction": "imperial", 
+          "pilots": [
+            {
+              "name": "kyloren", 
+              "ship": "tiesilencer", 
+              "upgrades": {
+                "ept": [
+                  "pushthelimit"
+                ], 
+                "mod": [
+                  "autothrusters"
+                ], 
+                "system": [
+                  "advancedsensors"
+                ], 
+                "tech": [
+                  "advancedoptics"
+                ], 
+                "title": [
+                  "firstordervanguard"
+                ]
+              }
+            }, 
+            {
+              "name": "whisper", 
+              "ship": "tiephantom", 
+              "upgrades": {
+                "crew": [
+                  "directorkrennic"
+                ], 
+                "ept": [
+                  "veteraninstincts"
+                ], 
+                "mod": [
+                  "advancedcloakingdevice"
+                ], 
+                "system": [
+                  "sensorjammer"
+                ]
+              }
+            }
+          ], 
+          "vendor": {
+            "listjuggler": {}
+          }, 
+          "version": "4.2.0"
+        }, 
         "mov": 253, 
         "name": "James Edward", 
         "rank": {
