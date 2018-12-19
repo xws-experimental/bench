@@ -3,28 +3,24 @@ From github.com:baranidlo/bench
 Already up-to-date.
 Moving old 'tournaments' to 'tournaments.old'...
 Downloading new 'tournaments' file...
---2018-12-18 07:03:34--  http://lists.starwarsclubhouse.com/api/v1/tournaments
+--2018-12-19 07:03:36--  http://lists.starwarsclubhouse.com/api/v1/tournaments
 Resolving lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)... 35.173.69.207
 Connecting to lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)|35.173.69.207|:80... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 44938 (44K) [application/json]
-Saving to: ‘tournaments’
-
-     0K .......... .......... .......... .......... ...       100%  274K=0.2s
-
-2018-12-18 07:03:35 (274 KB/s) - ‘tournaments’ saved [44938/44938]
+HTTP request sent, awaiting response... 503 Service Temporarily Unavailable
+2018-12-19 07:03:37 ERROR 503: Service Temporarily Unavailable.
 
 Downloading new tournament list data...
---2018-12-18 07:03:35--  http://lists.starwarsclubhouse.com/api/v1/tournament/4735
-Resolving lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)... 35.173.69.207
-Connecting to lists.starwarsclubhouse.com (lists.starwarsclubhouse.com)|35.173.69.207|:80... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 10917 (11K) [application/json]
-Saving to: ‘4735’
-
-     0K ..........                                            100%  215M=0s
-
-2018-12-18 07:03:36 (215 MB/s) - ‘4735’ saved [10917/10917]
-
-To git@github.com:baranidlo/bench.git
-   8e4c37e..1401e55  gh-pages -> gh-pages
+Traceback (most recent call last):
+  File "./diff_tournaments.py", line 33, in <module>
+    diffFiles(sys.argv[1], sys.argv[2])
+  File "./diff_tournaments.py", line 17, in diffFiles
+    new_tournament_data = json.load(n)
+  File "/usr/lib/python3.5/json/__init__.py", line 268, in load
+    parse_constant=parse_constant, object_pairs_hook=object_pairs_hook, **kw)
+  File "/usr/lib/python3.5/json/__init__.py", line 319, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.5/json/decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.5/json/decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
