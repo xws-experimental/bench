@@ -1,0 +1,472 @@
+{
+  "tournament": {
+    "date": "2018-11-11", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4738, 
+    "name": "Store Championship CHQ 2018", 
+    "players": [
+      {
+        "mov": 667, 
+        "name": "Vinicius Candelaria", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 4, 
+        "sos": "0.69"
+      }, 
+      {
+        "mov": 579, 
+        "name": "Gabriel Quintana", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 543, 
+        "name": "Gabriel Branco", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 521, 
+        "name": "Daniel Jobz", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 483, 
+        "name": "Leandro Vlahos", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 3, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 429, 
+        "name": "Joao Scafuro", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 3, 
+        "sos": "0.75"
+      }, 
+      {
+        "mov": 465, 
+        "name": "Sabino", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 2, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 429, 
+        "name": "Marcelo Marques", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 411, 
+        "name": "Diogo Patrao", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 397, 
+        "name": "Vinicius Serpa", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 336, 
+        "name": "Anderson Goes", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 329, 
+        "name": "Daniel Catelan", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 2, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 358, 
+        "name": "Sassa", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 1, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 343, 
+        "name": "Pulverizador", 
+        "rank": {
+          "swiss": 14
+        }, 
+        "score": 1, 
+        "sos": "0.42"
+      }, 
+      {
+        "mov": 283, 
+        "name": "Ilton Alberto", 
+        "rank": {
+          "swiss": 15
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 223, 
+        "name": "Pedro Tortella", 
+        "rank": {
+          "swiss": 16
+        }, 
+        "score": 1, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 204, 
+        "name": "Leonardo Garcia", 
+        "rank": {
+          "swiss": 17
+        }, 
+        "score": 1, 
+        "sos": "0.58"
+      }
+    ], 
+    "round_length": 75, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Sassa", 
+            "player1points": 100, 
+            "player2": "Daniel Catelan", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Gabriel Quintana", 
+            "player1points": 46, 
+            "player2": "Ilton Alberto", 
+            "player2points": 22, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pulverizador", 
+            "player1points": 36, 
+            "player2": "Diogo Patrao", 
+            "player2points": 51, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pedro Tortella", 
+            "player1points": 0, 
+            "player2": "Gabriel Branco", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Anderson Goes", 
+            "player1points": 0, 
+            "player2": "Sabino", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Joao Scafuro", 
+            "player1points": 100, 
+            "player2": "Vinicius Serpa", 
+            "player2points": 27, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Leonardo Garcia", 
+            "player1points": 27, 
+            "player2": "Marcelo Marques", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Daniel Jobz", 
+            "player1points": 25, 
+            "player2": "Vinicius Candelaria", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Leandro Vlahos", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Leandro Vlahos", 
+            "player1points": 25, 
+            "player2": "Vinicius Candelaria", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Gabriel Quintana", 
+            "player1points": 100, 
+            "player2": "Marcelo Marques", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sassa", 
+            "player1points": 34, 
+            "player2": "Sabino", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Gabriel Branco", 
+            "player1points": 73, 
+            "player2": "Joao Scafuro", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Diogo Patrao", 
+            "player1points": 34, 
+            "player2": "Pedro Tortella", 
+            "player2points": 69, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Anderson Goes", 
+            "player1points": 100, 
+            "player2": "Vinicius Serpa", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Daniel Jobz", 
+            "player1points": 100, 
+            "player2": "Leonardo Garcia", 
+            "player2points": 27, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ilton Alberto", 
+            "player1points": 100, 
+            "player2": "Pulverizador", 
+            "player2points": 46, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Daniel Catelan", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Joao Scafuro", 
+            "player1points": 53, 
+            "player2": "Gabriel Quintana", 
+            "player2points": 53, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sabino", 
+            "player1points": 54, 
+            "player2": "Vinicius Candelaria", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Leandro Vlahos", 
+            "player1points": 71, 
+            "player2": "Marcelo Marques", 
+            "player2points": 63, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sassa", 
+            "player1points": 62, 
+            "player2": "Gabriel Branco", 
+            "player2points": 63, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Anderson Goes", 
+            "player1points": 100, 
+            "player2": "Ilton Alberto", 
+            "player2points": 32, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Daniel Jobz", 
+            "player1points": 100, 
+            "player2": "Pedro Tortella", 
+            "player2points": 52, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Daniel Catelan", 
+            "player1points": 0, 
+            "player2": "Diogo Patrao", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pulverizador", 
+            "player1points": 62, 
+            "player2": "Vinicius Serpa", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Leonardo Garcia", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Joao Scafuro", 
+            "player1points": 29, 
+            "player2": "Vinicius Candelaria", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Diogo Patrao", 
+            "player1points": 31, 
+            "player2": "Gabriel Branco", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Anderson Goes", 
+            "player1points": 0, 
+            "player2": "Leandro Vlahos", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Sabino", 
+            "player1points": 45, 
+            "player2": "Gabriel Quintana", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Daniel Jobz", 
+            "player1points": 100, 
+            "player2": "Sassa", 
+            "player2points": 25, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Marcelo Marques", 
+            "player1points": 100, 
+            "player2": "Pedro Tortella", 
+            "player2points": 36, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Leonardo Garcia", 
+            "player1points": 0, 
+            "player2": "Vinicius Serpa", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Ilton Alberto", 
+            "player1points": 21, 
+            "player2": "Daniel Catelan", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Pulverizador", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Vinicius Candelaria", 
+            "player1points": 0, 
+            "player2": "Daniel Jobz", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Gabriel Quintana", 
+            "player1points": 0, 
+            "player2": "Gabriel Branco", 
+            "player2points": 0, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "elimination"
+      }
+    ], 
+    "type": "Store championship", 
+    "venue": {
+      "city": "Santo Andre", 
+      "country": "Brazil", 
+      "lat": "-20.278877600000", 
+      "lon": "-40.332577700000", 
+      "name": "CHQ Cards", 
+      "state": "Sao Paulo"
+    }, 
+    "video_url": "http://"
+  }
+}
