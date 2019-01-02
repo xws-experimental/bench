@@ -1,0 +1,190 @@
+{
+  "tournament": {
+    "date": "2019-01-01", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4740, 
+    "name": "01/01/19", 
+    "players": [
+      {
+        "mov": 358, 
+        "name": "Grant Bennett", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 177, 
+        "name": "Johnathan Proctor", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 0, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 1108, 
+        "name": "Craig Ferguson", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 3, 
+        "sos": "0.61"
+      }, 
+      {
+        "mov": 809, 
+        "name": "Clayton Webb", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 2, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 763, 
+        "name": "Alan Scherer", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 2, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 629, 
+        "name": "Jesse Van Wick", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 2, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 440, 
+        "name": "Robert Hoover", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 116, 
+        "name": "Nathan Toews", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 0, 
+        "sos": "0.61"
+      }
+    ], 
+    "round_length": 65, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Johnathan Proctor", 
+            "player1points": 52, 
+            "player2": "Alan Scherer", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Grant Bennett", 
+            "player1points": 20, 
+            "player2": "Craig Ferguson", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Robert Hoover", 
+            "player1points": 85, 
+            "player2": "Jesse Van Wick", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Clayton Webb", 
+            "player1points": 200, 
+            "player2": "Nathan Toews", 
+            "player2points": 28, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Clayton Webb", 
+            "player1points": 117, 
+            "player2": "Jesse Van Wick", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alan Scherer", 
+            "player1points": 41, 
+            "player2": "Craig Ferguson", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Grant Bennett", 
+            "player1points": 200, 
+            "player2": "Nathan Toews", 
+            "player2points": 62, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Johnathan Proctor", 
+            "player1points": 125, 
+            "player2": "Robert Hoover", 
+            "player2points": 200, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Jesse Van Wick", 
+            "player1points": 31, 
+            "player2": "Craig Ferguson", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Clayton Webb", 
+            "player1points": 200, 
+            "player2": "Robert Hoover", 
+            "player2points": 80, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alan Scherer", 
+            "player1points": 200, 
+            "player2": "Nathan Toews", 
+            "player2points": 26, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Other", 
+    "venue": {
+      "city": "Springfield", 
+      "country": "United States of America", 
+      "lat": "38.789052200000", 
+      "lon": "-77.187036800000", 
+      "name": "Curio Cavern", 
+      "state": "Virginia"
+    }, 
+    "video_url": "http://"
+  }
+}
