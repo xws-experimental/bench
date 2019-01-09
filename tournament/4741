@@ -1,0 +1,378 @@
+{
+  "tournament": {
+    "date": "2019-01-08", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4741, 
+    "name": "1/8/2019 Weekly Curio Xwing", 
+    "players": [
+      {
+        "mov": 24, 
+        "name": "Travis Upton", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 0, 
+        "sos": "0.83"
+      }, 
+      {
+        "mov": 105, 
+        "name": "Ned Ash", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 0, 
+        "sos": "0.83"
+      }, 
+      {
+        "mov": 342, 
+        "name": "Jesse Florig", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 1, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 553, 
+        "name": "Andrew Curtin", 
+        "rank": {
+          "swiss": 0
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 937, 
+        "name": "Johnathan Proctor", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 3, 
+        "sos": "0.00"
+      }, 
+      {
+        "mov": 850, 
+        "name": "Craig Ferguson", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 811, 
+        "name": "Mike Darcy", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.39"
+      }, 
+      {
+        "mov": 842, 
+        "name": "Miguel Justiniano", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 2, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 824, 
+        "name": "Alan Scherer", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 2, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 715, 
+        "name": "Derek Tokaz", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 2, 
+        "sos": "0.67"
+      }, 
+      {
+        "mov": 712, 
+        "name": "Robert Hoover", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 2, 
+        "sos": "0.33"
+      }, 
+      {
+        "mov": 555, 
+        "name": "Phil Potts", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 685, 
+        "name": "Josh Taylor", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 525, 
+        "name": "Nathan Toews", 
+        "rank": {
+          "swiss": 10
+        }, 
+        "score": 1, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 443, 
+        "name": "Larry Turnbull", 
+        "rank": {
+          "swiss": 11
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 509, 
+        "name": "Aaron Marshall", 
+        "rank": {
+          "swiss": 12
+        }, 
+        "score": 0, 
+        "sos": "0.89"
+      }, 
+      {
+        "mov": 365, 
+        "name": "Clayton Webb", 
+        "rank": {
+          "swiss": 13
+        }, 
+        "score": 0, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 203, 
+        "name": "Grant Bennett", 
+        "rank": {
+          "swiss": 14
+        }, 
+        "score": 0, 
+        "sos": "0.44"
+      }
+    ], 
+    "round_length": 65, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Craig Ferguson", 
+            "player1points": 153, 
+            "player2": "Phil Potts", 
+            "player2points": 39, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Miguel Justiniano", 
+            "player1points": 200, 
+            "player2": "Travis Upton", 
+            "player2points": 24, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jesse Florig", 
+            "player1points": 84, 
+            "player2": "Nathan Toews", 
+            "player2points": 72, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Clayton Webb", 
+            "player1points": 28, 
+            "player2": "Alan Scherer", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Johnathan Proctor", 
+            "player1points": 200, 
+            "player2": "Ned Ash", 
+            "player2points": 105, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Andrew Curtin", 
+            "player1points": 200, 
+            "player2": "Robert Hoover", 
+            "player2points": 115, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Larry Turnbull", 
+            "player1points": 200, 
+            "player2": "Grant Bennett", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Josh Taylor", 
+            "player1points": 154, 
+            "player2": "Derek Tokaz", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Aaron Marshall", 
+            "player1points": 67, 
+            "player2": "Mike Darcy", 
+            "player2points": 74, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Ned Ash", 
+            "player1points": 0, 
+            "player2": "Miguel Justiniano", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Alan Scherer", 
+            "player1points": 100, 
+            "player2": "Derek Tokaz", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jesse Florig", 
+            "player1points": 94, 
+            "player2": "Mike Darcy", 
+            "player2points": 164, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Larry Turnbull", 
+            "player1points": 95, 
+            "player2": "Craig Ferguson", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Andrew Curtin", 
+            "player1points": 140, 
+            "player2": "Nathan Toews", 
+            "player2points": 72, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Robert Hoover", 
+            "player1points": 87, 
+            "player2": "Aaron Marshall", 
+            "player2points": 45, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Phil Potts", 
+            "player1points": 135, 
+            "player2": "Clayton Webb", 
+            "player2points": 77, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Grant Bennett", 
+            "player1points": 58, 
+            "player2": "Josh Taylor", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Johnathan Proctor", 
+            "player1points": 200, 
+            "player2": "Travis Upton", 
+            "player2points": 0, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Mike Darcy", 
+            "player1points": 200, 
+            "player2": "Miguel Justiniano", 
+            "player2points": 66, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Craig Ferguson", 
+            "player1points": 200, 
+            "player2": "Derek Tokaz", 
+            "player2points": 169, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Robert Hoover", 
+            "player1points": 200, 
+            "player2": "Grant Bennett", 
+            "player2points": 45, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Josh Taylor", 
+            "player1points": 73, 
+            "player2": "Phil Potts", 
+            "player2points": 84, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Larry Turnbull", 
+            "player1points": 48, 
+            "player2": "Alan Scherer", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Johnathan Proctor", 
+            "player1points": 122, 
+            "player2": "Aaron Marshall", 
+            "player2points": 80, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Clayton Webb", 
+            "player1points": 111, 
+            "player2": "Nathan Toews", 
+            "player2points": 116, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Other", 
+    "venue": {
+      "city": "Springfield", 
+      "country": "United States of America", 
+      "lat": "38.789052200000", 
+      "lon": "-77.187036800000", 
+      "name": "Curio Cavern", 
+      "state": "Virginia"
+    }, 
+    "video_url": "http://"
+  }
+}
