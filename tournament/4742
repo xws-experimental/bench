@@ -1,0 +1,268 @@
+{
+  "tournament": {
+    "date": "2019-01-22", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4742, 
+    "name": "January Montly Micro", 
+    "players": [
+      {
+        "mov": 1007, 
+        "name": "Frank Palocyi", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 4, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 1231, 
+        "name": "Brian Ludwick", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 3, 
+        "sos": "0.63"
+      }, 
+      {
+        "mov": 931, 
+        "name": "John Hazen", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 3, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 992, 
+        "name": "Scott Crandall", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 790, 
+        "name": "Glen Gearhart", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 714, 
+        "name": "Evan Assid", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 2, 
+        "sos": "0.50"
+      }, 
+      {
+        "mov": 702, 
+        "name": "Lukas McCoy", 
+        "rank": {
+          "swiss": 7
+        }, 
+        "score": 2, 
+        "sos": "0.69"
+      }, 
+      {
+        "mov": 656, 
+        "name": "Haden Coxson", 
+        "rank": {
+          "swiss": 8
+        }, 
+        "score": 1, 
+        "sos": "0.75"
+      }, 
+      {
+        "mov": 577, 
+        "name": "Bill Assid", 
+        "rank": {
+          "swiss": 9
+        }, 
+        "score": 1, 
+        "sos": "0.67"
+      }
+    ], 
+    "round_length": 60, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Brian Ludwick", 
+            "player1points": 200, 
+            "player2": "Bill Assid", 
+            "player2points": 0, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Glen Gearhart", 
+            "player1points": 16, 
+            "player2": "Lukas McCoy", 
+            "player2points": 89, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Scott Crandall", 
+            "player1points": 125, 
+            "player2": "Frank Palocyi", 
+            "player2points": 136, 
+            "result": "win"
+          }, 
+          {
+            "player1": "John Hazen", 
+            "player1points": 200, 
+            "player2": "Haden Coxson", 
+            "player2points": 162, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Evan Assid", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Lukas McCoy", 
+            "player1points": 90, 
+            "player2": "Brian Ludwick", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "John Hazen", 
+            "player1points": 200, 
+            "player2": "Evan Assid", 
+            "player2points": 31, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Frank Palocyi", 
+            "player1points": 166, 
+            "player2": "Haden Coxson", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Glen Gearhart", 
+            "player1points": 65, 
+            "player2": "Scott Crandall", 
+            "player2points": 142, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bill Assid", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "John Hazen", 
+            "player1points": 24, 
+            "player2": "Brian Ludwick", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Bill Assid", 
+            "player1points": 177, 
+            "player2": "Evan Assid", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Frank Palocyi", 
+            "player1points": 200, 
+            "player2": "Lukas McCoy", 
+            "player2points": 125, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Scott Crandall", 
+            "player1points": 200, 
+            "player2": "Haden Coxson", 
+            "player2points": 60, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Glen Gearhart", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Brian Ludwick", 
+            "player1points": 125, 
+            "player2": "Frank Palocyi", 
+            "player2points": 180, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Lukas McCoy", 
+            "player1points": 68, 
+            "player2": "Scott Crandall", 
+            "player2points": 54, 
+            "result": "win"
+          }, 
+          {
+            "player1": "John Hazen", 
+            "player1points": 200, 
+            "player2": "Bill Assid", 
+            "player2points": 100, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Evan Assid", 
+            "player1points": 79, 
+            "player2": "Glen Gearhart", 
+            "player2points": 119, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Haden Coxson", 
+            "player1points": null, 
+            "player2": "", 
+            "player2points": null, 
+            "result": "bye"
+          }
+        ], 
+        "round-number": 4, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Other", 
+    "venue": {
+      "city": "Boardman", 
+      "country": "United States of America", 
+      "lat": "41.025042650000", 
+      "lon": "-80.664962915708", 
+      "name": "ALL AMERICAN CARDS AND COMICS", 
+      "state": "Ohio"
+    }, 
+    "video_url": "http://"
+  }
+}

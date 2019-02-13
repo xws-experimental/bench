@@ -1,0 +1,158 @@
+{
+  "tournament": {
+    "date": "2019-02-12", 
+    "format": "Standard - 100 Point Dogfight", 
+    "id": 4743, 
+    "name": "February Monthly Micro 2k19", 
+    "players": [
+      {
+        "mov": 755, 
+        "name": "Frank Palocyi", 
+        "rank": {
+          "swiss": 1
+        }, 
+        "score": 3, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 715, 
+        "name": "John Hazen", 
+        "rank": {
+          "swiss": 2
+        }, 
+        "score": 2, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 644, 
+        "name": "Scott Crandall", 
+        "rank": {
+          "swiss": 3
+        }, 
+        "score": 2, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 662, 
+        "name": "Brian Ludwick", 
+        "rank": {
+          "swiss": 4
+        }, 
+        "score": 1, 
+        "sos": "0.56"
+      }, 
+      {
+        "mov": 493, 
+        "name": "Jim Seals", 
+        "rank": {
+          "swiss": 5
+        }, 
+        "score": 1, 
+        "sos": "0.44"
+      }, 
+      {
+        "mov": 331, 
+        "name": "Steve Safran", 
+        "rank": {
+          "swiss": 6
+        }, 
+        "score": 0, 
+        "sos": "0.44"
+      }
+    ], 
+    "round_length": 60, 
+    "rounds": [
+      {
+        "matches": [
+          {
+            "player1": "Steve Safran", 
+            "player1points": 70, 
+            "player2": "Brian Ludwick", 
+            "player2points": 200, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Jim Seals", 
+            "player1points": 31, 
+            "player2": "John Hazen", 
+            "player2points": 164, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Scott Crandall", 
+            "player1points": 74, 
+            "player2": "Frank Palocyi", 
+            "player2points": 89, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 1, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Brian Ludwick", 
+            "player1points": 103, 
+            "player2": "Frank Palocyi", 
+            "player2points": 130, 
+            "result": "win"
+          }, 
+          {
+            "player1": "John Hazen", 
+            "player1points": 200, 
+            "player2": "Steve Safran", 
+            "player2points": 105, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Scott Crandall", 
+            "player1points": 133, 
+            "player2": "Jim Seals", 
+            "player2points": 115, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 2, 
+        "round-type": "swiss"
+      }, 
+      {
+        "matches": [
+          {
+            "player1": "Frank Palocyi", 
+            "player1points": 200, 
+            "player2": "John Hazen", 
+            "player2points": 87, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Scott Crandall", 
+            "player1points": 117, 
+            "player2": "Brian Ludwick", 
+            "player2points": 76, 
+            "result": "win"
+          }, 
+          {
+            "player1": "Steve Safran", 
+            "player1points": 50, 
+            "player2": "Jim Seals", 
+            "player2points": 94, 
+            "result": "win"
+          }
+        ], 
+        "round-number": 3, 
+        "round-type": "swiss"
+      }
+    ], 
+    "type": "Other", 
+    "venue": {
+      "city": "Boardman", 
+      "country": "United States of America", 
+      "lat": "41.025042650000", 
+      "lon": "-80.664962915708", 
+      "name": "ALL AMERICAN CARDS AND COMICS", 
+      "state": "Ohio"
+    }, 
+    "video_url": "http://"
+  }
+}
