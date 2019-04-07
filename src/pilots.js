@@ -5621,7 +5621,40 @@ window.PILOTS = [
 		done:true,
 		upgrades:[Unit.SYSTEM,Unit.BOMB,Unit.BOMB,Unit.TECH],
 		points:25
-	}
+	},
+	{ 	
+		name:"Partisan Renegade",
+	      	faction:Unit.REBEL,
+	      	pilotid:284,
+	      	unit:"U-Wing",
+		unique:false,
+	      	done:false,
+	      	skill:1,
+	      	upgrades:[Unit.SYSTEM,Unit.TORPEDO,Unit.CREW,Unit.CREW],
+	     	points:22
+	},
+	{ 	
+		name:"Partisan Renegade",
+	      	faction:Unit.REBEL,
+	      	pilotid:288,
+	      	unit:"X-Wing",
+		unique:false,
+	      	done:false,
+	      	skill:1,
+	      	upgrades:[Unit.SYSTEM,Unit.TORPEDO,Unit.CREW,Unit.CREW],
+	     	points:22
+	},
+	{
+		name: "Cavern Angels Zealot",
+		unique:false,
+		done:false,
+		unit: "X-Wing",
+		faction:Unit.REBEL,
+		skill: 1,
+		points: 20,
+		pilotid:4,
+		upgrades: [Unit.ELITE,Unit.TORPEDO,Unit.ASTROMECH]
+    	},
 ];
 
 })();
