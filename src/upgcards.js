@@ -7138,7 +7138,7 @@ var UPGRADES=window.UPGRADES= [
 	{
 		name: "Os-1 Arsenal Loadout",
 		type:Unit.TITLE,
-		done:false, // TODO: needs to test with Focus-based ordnance (e.g. Proton Rockets)
+		done:true, // TODO: needs to test with Focus-based ordnance (e.g. Proton Rockets)
 		upgrades:[Unit.TORPEDO, Unit.MISSILE],
 		points: 2,
 		ship: "Alpha-class Star Wing",
@@ -7302,7 +7302,7 @@ var UPGRADES=window.UPGRADES= [
 		name: "Ordnance Silos",
 		type:Unit.BOMB,
 		done:true,
-		points:2,
+		points:2,-1
 		ship: "B/SF-17 Bomber",
                 addOrdnance: true,
 		isBomb: function() { return false; },
@@ -7347,7 +7347,7 @@ var UPGRADES=window.UPGRADES= [
 			});
 		}
 	},
-    {
+    	{
 		name: "Unguided Rockets",
 		type:Unit.MISSILE,
 		done:true,
@@ -7373,7 +7373,52 @@ var UPGRADES=window.UPGRADES= [
 		desactivate: function() {
 			return false;
 		}
-	}
+	},
+	(
+	     name:"Servomotor S-Foils",
+	     type:Unit.MOD,
+	     points:0,
+	     ship:"X-Wing",
+	     canbeswitched:false,
+	     done:false,
+	     canswitch: function() {
+		 return this.canbeswitched;
+	     },
+	     switch: function() {
+		 var u=this.unit;
+		 this.canbeswitched=false;
+		 if (this.faceup) {
+		     if (typeof u.getagility.unwrap!="undefined") u.getagility.unwrap(this);
+		     var save=[];
+		     sh.installed=true;
+		     sh.wrap_after("getdial",this,function(gd) {
+		     	if (save.length===0) 
+				for (var i=0; i<gd.length; i++) {
+					var move=gd[i].move;
+					var d=gd[i].difficulty;
+					if (move.match(/BL\d|BR\d/)) d="GREEN";
+					save[i]={move:move,difficulty:d};
+				}
+				return save;
+		     	};
+		     this.variant="Landing";
+		 } else {
+		     if (typeof u.getmaneuverlist.unwrap!="undefined") u.getmaneuverlist.unwrap(this);
+		     u.wrap_after("getattack",this,function(a) {
+			 return a+1;
+		     });
+		     this.variant="Attack";
+		 }
+		 this.faceup=!this.faceup;    
+	     },
+	     init: function(sh) {
+		 var self=this;
+		 this.switch();
+		 this.unit.wrap_before("beginactivationphase",this,function() {
+		     self.canbeswitched=true;
+		 });
+	     }
+    },
 ];
 var UPGRADESNAMEINDEX=window.UPGRADESNAMEINDEX=UPGRADES.map(function(upgcrd){
     if(upgcrd.ambiguous===true&&typeof upgcrd.edition!=="undefined") return upgcrd.name.replace(/\'/g,"")+" ("+upgcrd.edition+")";
