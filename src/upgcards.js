@@ -7375,7 +7375,7 @@ var UPGRADES=window.UPGRADES= [
 		}
 	},
 	{
-	     name:"Servomotor S-Foils",
+	     name: "Servomotor S-Foils",
 	     type:Unit.MOD,
 	     points:0,
 	     ship:"X-Wing",
@@ -7385,13 +7385,13 @@ var UPGRADES=window.UPGRADES= [
 		 return this.canbeswitched;
 	     },
 	     /* TODO: Find way to gain action icon based on card side
-	              Closed similar to Light Scyk Interceptor (M3-A Interceptor)
-		      Open similar to Dalan Oberos (StarViper) 
+	              Closed side similar to Light Scyk Interceptor (M3-A Interceptor)
+		      Open side similar to Dalan Oberos (StarViper) 
 		      Idea of this card is similar to Pivot Wing (U-Wing) */
     	},
 	{
 		name: "Renegade Refit",
-		type:Unit.TITLE,
+		type:Unit.TORPEDO,
 		ship: ["X-Wing", "U-Wing"], //TODO: Make this work
 		done:false,
 		upgrades:[Unit.MOD],
