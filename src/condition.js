@@ -211,5 +211,13 @@ var CONDITIONS=[
 		self.remove();
 		this.unit.endaction(n)
 	}
-  }
+  },
+  {
+	name: "Optimized Prototype",
+	assign: function() {
+		var self = this;
+		this.org.shield++;
+		this.org.show();
+	},
+  },
 ];
