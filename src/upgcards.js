@@ -7384,41 +7384,25 @@ var UPGRADES=window.UPGRADES= [
 	     canswitch: function() {
 		 return this.canbeswitched;
 	     },
-	     switch: function() {
-		 var u=this.unit;
-		 this.canbeswitched=false;
-		 if (this.faceup) {
-		     if (typeof u.getagility.unwrap!="undefined") u.getagility.unwrap(this);
-		     var save=[];
-		     sh.installed=true;
-		     sh.wrap_after("getdial",this,function(gd) {
-		     	if (save.length===0) 
-				for (var i=0; i<gd.length; i++) {
-					var move=gd[i].move;
-					var d=gd[i].difficulty;
-					if (move.match(/BL\d|BR\d/)) d="GREEN";
-					save[i]={move:move,difficulty:d};
-				}
-				return save;
-		     });
-		     this.variant="Landing";
-		 } else {
-		     if (typeof u.getmaneuverlist.unwrap!="undefined") u.getmaneuverlist.unwrap(this);
-		     u.wrap_after("getattack",this,function(a) {
-			 return a+1;
-		     });
-		     this.variant="Attack";
-		 }
-		 this.faceup=!this.faceup;    
-	     },
-	     init: function(sh) {
-		 var self=this;
-		 this.switch();
-		 this.unit.wrap_before("beginactivationphase",this,function() {
-		     self.canbeswitched=true;
-		 });
-	     }
+	     /* TODO: Find way to gain action icon based on card side
+	              Closed similar to Light Scyk Interceptor (M3-A Interceptor)
+		      Open similar to Dalan Oberos (StarViper) 
+		      Idea of this card is similar to Pivot Wing (U-Wing) */
     	},
+	{
+		name: "Renegade Refit",
+		type:Unit.TITLE,
+		ship: ["X-Wing", "U-Wing"], //TODO: Make this work
+		done:false,
+		upgrades:[Unit.MOD],
+		points: -2,
+		init: function(sh) {
+			for (var i=0; i<sh.upgradetype.length; i++) {
+				sh.upgbonus[sh.upgradetype[i]]=this.pointsupg;
+			}
+		} //TODO: Apply above to ELITE only
+		
+	}
 ];
 var UPGRADESNAMEINDEX=window.UPGRADESNAMEINDEX=UPGRADES.map(function(upgcrd){
     if(upgcrd.ambiguous===true&&typeof upgcrd.edition!=="undefined") return upgcrd.name.replace(/\'/g,"")+" ("+upgcrd.edition+")";
